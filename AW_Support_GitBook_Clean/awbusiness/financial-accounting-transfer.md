@@ -1,3 +1,4 @@
+---
 title: "EN_AWBusiness_Sales_4_4-3"
 source: "EN_AWBusiness_Sales_4_4-3.pdf"
 tags: ["A+W Business", "Data Transfer", "Financial Accounting", "FinAcc", "Statistics", "Archiving", "EDI", "Tutorial", "Software Manual", "ERP"]

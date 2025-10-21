@@ -1,3 +1,4 @@
+---
 title: "EN-CONFIG-AW_Production"
 source: "EN-CONFIG-AW_Production.pdf"
 tags: ["A+W Production", "Software Configuration", "Production Terminal", "Database", "Remake Handling", "Scanner Configuration", "ERP", "Manufacturing Software", "Technical Manual"]

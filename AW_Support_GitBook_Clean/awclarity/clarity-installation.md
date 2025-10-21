@@ -1,3 +1,4 @@
+---
 title: "EN-INST-AW_Clarity_Experience"
 source: "EN-INST-AW_Clarity_Experience.pdf"
 tags: ["A+W Clarity Experience", "Installation Instructions", "Software Installation", "Glass and Windows", "A+W Enterprise", "Version 6", "Linux/AIX", "Dependencies", "Setup"]

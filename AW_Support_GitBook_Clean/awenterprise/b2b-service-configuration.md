@@ -1,3 +1,4 @@
+---
 title: "EN-INST-AW_Enterprise_B2B_Service"
 source: "EN-INST-AW_Enterprise_B2B_Service.pdf"
 tags: ["A+W Enterprise", "B2B Service", "Installation Guide", "Configuration", "Software", "Glass and Windows", "EDI", "openTRANS", "Technical Manual"]

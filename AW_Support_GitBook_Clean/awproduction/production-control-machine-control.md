@@ -1,3 +1,4 @@
+---
 title: "EN-CONFIG-AW_Production_MachineControl"
 source: "EN-CONFIG-AW_Production_MachineControl.pdf"
 tags: ["A+W", "Production Control", "Machine Control", "Glass Software", "Cutting Table", "Bender", "Sealer", "Georgian Bars", "Processing Machines", "Configuration", "JobRelease"]

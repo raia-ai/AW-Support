@@ -1,3 +1,4 @@
+---
 title: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes"
 source: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes.pdf"
 tags: ["A+W Enterprise", "EDP Module Codes", "User Rights", "Access Control", "Software Configuration", "Technical Manual", "Glass Software", "Permissions", "Multi-site"]

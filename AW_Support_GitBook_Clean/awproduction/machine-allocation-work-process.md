@@ -1,3 +1,4 @@
+---
 title: "EN_UM_AWProduction_9"
 source: "EN_UM_AWProduction_9.pdf"
 tags: ["Machine Allocation", "Work Process", "A+W Production", "Logical Machines", "Manufacturing Software", "Production Planning", "Formulas", "Conditions", "Restrictions", "Glass Manufacturing"]

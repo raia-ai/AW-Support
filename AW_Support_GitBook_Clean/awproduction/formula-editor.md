@@ -1,3 +1,4 @@
+---
 title: "EN_AWProduction_Formula_Editor_1.02"
 source: "EN_AWProduction_Formula_Editor_1.02.pdf"
 tags: ["A+W Production", "Formula Editor", "Software Manual", "Glass Manufacturing", "Window Production", "Conditions", "Formulas", "Allocation", "Technical Documentation", "ERP"]

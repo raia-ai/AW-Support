@@ -1,3 +1,4 @@
+---
 title: "EN-AWDefect_Optimizer_Short_Description"
 source: "EN-AWDefect_Optimizer_Short_Description.pdf"
 tags: ["A+W", "Defect Optimizer", "Glass Manufacturing", "Software", "Quality Control", "Optimization", "Viprotron", "Hegla", "Realtime Optimizer"]

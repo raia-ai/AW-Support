@@ -1,3 +1,4 @@
+---
 title: "EN_UM_AWProduction_12"
 source: "EN_UM_AWProduction_12.pdf"
 tags: ["A+W Production", "Realtime Optimizer", "Software Reference", "Glass Manufacturing", "Windows and Doors", "Cutting Optimization", "Packing Optimization", "Software Tutorial"]

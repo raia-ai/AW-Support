@@ -1,3 +1,4 @@
+---
 title: "EN_AWProduction_Terminal_1.50"
 source: "EN_AWProduction_Terminal_1.50.pdf"
 tags: ["A+W Production Terminal", "Software Manual", "Glass Manufacturing", "Window Production", "Door Manufacturing", "MES", "Production Control", "Tutorial", "Software Reference"]

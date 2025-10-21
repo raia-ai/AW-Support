@@ -1,3 +1,4 @@
+---
 title: "A+W AWSOA Dependencies"
 source: "EN-INST-AW_SOA_Dependencies.pdf"
 tags: ["A+W", "AWSOA", "Software Dependencies", "SOA", "System Architecture", "Database Schema", "Technical Documentation", "Glass Industry Software"]

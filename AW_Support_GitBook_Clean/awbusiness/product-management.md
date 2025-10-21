@@ -1,3 +1,4 @@
+---
 title: "EN_AWBusiness_Master_Data_9_7-1"
 source: "EN_AWBusiness_Master_Data_9_7-1.pdf"
 tags: ["A+W Business", "Product Management", "Master Data", "ERP", "Software Reference", "Price Surcharge", "Stock Management", "BOM", "Shapes Processing"]

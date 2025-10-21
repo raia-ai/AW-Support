@@ -1,3 +1,4 @@
+---
 title: "EN_AWProduction_Capacity_Planning_4_5"
 source: "EN_AWProduction_Capacity_Planning_4_5.pdf"
 tags: ["capacity planning", "software reference", "A+W Production", "time master data", "shift planning", "formula editor", "machinery costs", "load distribution", "transition times", "technical manual"]

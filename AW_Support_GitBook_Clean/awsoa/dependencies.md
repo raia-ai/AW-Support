@@ -1,3 +1,4 @@
+---
 title: "EN-INST-AW_SOA_Dependencies"
 source: "EN-INST-AW_SOA_Dependencies.pdf"
 tags: ["A+W", "AWSOA", "Software", "Dependencies", "SOA", "Technical Documentation", "Glass Industry", "Module Dependencies", "Database Access"]

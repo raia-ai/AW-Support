@@ -1,3 +1,4 @@
+---
 title: "EN-CONFIG-AW_Analytics"
 source: "EN-CONFIG-AW_Analytics.pdf"
 tags: ["A+W Analytics", "Qlik Sense", "Configuration", "Implementation", "Data Loading", "Software for Glass", "ERP", "PPS", "Data Architecture", "Customizing"]

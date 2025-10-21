@@ -1,3 +1,4 @@
+---
 title: "A+W Business Handbuch"
 source: "D-HB-AWBusiness_1.pdf"
 tags: ["A+W Business", "ERP", "Softwarehandbuch", "Glasindustrie", "Fensterbau", "Stammdaten", "Auftragsverwaltung", "Produktionsplanung"]

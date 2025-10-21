@@ -1,3 +1,4 @@
+---
 title: "EN-CONFIG-AW_Production_4"
 source: "EN-CONFIG-AW_Production_4.pdf"
 tags: ["A+W Production", "Multi-Site Configuration", "Software Manual", "Archiving", "PDC", "Database Configuration", "Technical Documentation", "A+W IoT Smart Trace", "Production Monitor"]

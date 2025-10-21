@@ -1,3 +1,4 @@
+---
 title: "EN_AWProduction_DynOpt"
 source: "EN_AWProduction_DynOpt.pdf"
 tags: ["A+W DynOpt", "Production Optimization", "Glass Manufacturing", "Dynamic Optimization", "Cutting Planning", "Buffer Management", "Software Tutorial", "A+W Software"]

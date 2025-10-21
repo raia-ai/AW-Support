@@ -1,3 +1,4 @@
+---
 title: "EN_AWProduction_PMO_2.00"
 source: "EN_AWProduction_PMO_2.00.pdf"
 tags: ["A+W", "Packing Optimization", "Software Manual", "Glass Manufacturing", "Window Manufacturing", "Logistics", "PMO", "PackView"]

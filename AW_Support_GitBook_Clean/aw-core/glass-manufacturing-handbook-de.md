@@ -1,3 +1,4 @@
+---
 title: "DE-HB-AW_SmartCompanion-AWB"
 source: "DE-HB-AW_SmartCompanion-AWB.pdf"
 tags: ["A+W Smart Companion", "Handbuch", "Software", "Glass Manufacturing", "Window Production", "Door Manufacturing", "Barcode Scanning", "BDE", "Betriebsdatenerfassung", "Lagerverwaltung"]

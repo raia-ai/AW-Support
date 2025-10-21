@@ -1,3 +1,4 @@
+---
 title: "A+W Smart Companion User Manual"
 source: "EN_UM_AW_SmartCompanion_1_1.pdf"
 tags: ["software", "user manual", "A+W Smart Companion", "glass manufacturing", "window production", "door manufacturing", "plant data collection", "inventory management", "production tracking", "mobile application"]

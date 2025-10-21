@@ -1,3 +1,4 @@
+---
 title: "D-AWProduction-HB_15"
 source: "D-AWProduction-HB_15.pdf"
 tags: ["A+W Production Terminal", "Software Manual", "Technical Documentation", "Glass Production", "Window Manufacturing", "Terminal Edit", "Terminal IG", "Softwarereferenz", "Tutorial"]

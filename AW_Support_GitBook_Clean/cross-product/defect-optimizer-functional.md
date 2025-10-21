@@ -1,3 +1,4 @@
+---
 title: "EN-FUNC-AW_Defect_Optimizer"
 source: "EN-FUNC-AW_Defect_Optimizer.pdf"
 tags: ["A+W", "Defect Optimizer", "Software for Glass", "Production Optimization", "Cutting Plan", "Realtime Optimizer", "Viprotron", "Glass Manufacturing"]
