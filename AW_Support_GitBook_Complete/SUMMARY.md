@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [A+W Support Documentation](README.md)
+* [A+W Support Documentation](../)
 
 ## Overview
 
@@ -101,4 +101,3 @@
 ## Cross-Product
 
 * [Defect Optimizer - Functional Documentation](cross-product/defect-optimizer-functional.md)
-
