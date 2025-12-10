@@ -1,29 +1,29 @@
 ---
-description: "EN-INST-AW_Enterprise_Print_Service"
+description: EN-INST-AW_Enterprise_Print_Service
 ---
-
 
 # Installation Instructions: A+W Enterprise 6 Print Service
 
----
+***
+
 ## Change history:
 
-| Date      | Edited by | Remarks                                        | Version |
-| :-------- | :-------- | :--------------------------------------------- | :------ |
-| 16.04.12  | MP        | New creation                                   | 1.0     |
-| 16.08.26  | MP        | Std. report environment                        | 1.1     |
-| 16.12.13  | MP        | AutoUpdate                                     | 1.2     |
-| 17.06.12  | MP        | Mail configuration                             | 1.3     |
-| 17.09.04  | MP        | Default value SNLIVE                           | 1.4     |
-| 18.02.12  | MP        | Switch CR-Runtime                              | 1.5     |
-| 18.11.27  | MP        | Internal working directory + PDF printer         | 1.6     |
-| 24.02.29  | ALW       | Termination of Crystal Report Engine 2008      | 1.7     |
+| Date     | Edited by | Remarks                                   | Version |
+| -------- | --------- | ----------------------------------------- | ------- |
+| 16.04.12 | MP        | New creation                              | 1.0     |
+| 16.08.26 | MP        | Std. report environment                   | 1.1     |
+| 16.12.13 | MP        | AutoUpdate                                | 1.2     |
+| 17.06.12 | MP        | Mail configuration                        | 1.3     |
+| 17.09.04 | MP        | Default value SNLIVE                      | 1.4     |
+| 18.02.12 | MP        | Switch CR-Runtime                         | 1.5     |
+| 18.11.27 | MP        | Internal working directory + PDF printer  | 1.6     |
+| 24.02.29 | ALW       | Termination of Crystal Report Engine 2008 | 1.7     |
 
 The installation instructions will assist the planner with the installation and configuration process for the software named. Please proceed in the following sequence:
 
-1.  Check the installation requirements.
-2.  Compile the required data, additional programs, drivers, etc.
-3.  Note or determine the time required.
+1. Check the installation requirements.
+2. Compile the required data, additional programs, drivers, etc.
+3. Note or determine the time required.
 
 ## 1. Installation of the A+W Enterprise 6 Print Service
 
@@ -39,21 +39,21 @@ This document describes only the installation and configuration of the A+W Enter
 
 The following list provides an overview of the work that must be done during installation:
 
--   Installation and configuration of the Informix driver via setnet32.exe
--   Creation of the necessary set-ups/disk sets
-    -   A+W CAD Designer (Bars)
-    -   A+W CAD Designer (Shapes)
-    -   SAP Crystal Reports runtime engine starting with 13.0.19
-    -   A+W Enterprise 6 Print Service
-    -   A+W Infrastructure 6 Collector Services
-    -   A+W Infrastructure 6 Middleware
-    -   Java 7 Update 51
-    -   A+W Setup Launcher
--   Installation of the Print Service and the dependent disk sets with the Setup Launcher
--   Configuration of the Print Service with the ConfigTool
--   Set-up of the reports
--   Setting of A+W Enterprise environment variables
--   Further set-up of the file system
+* Installation and configuration of the Informix driver via setnet32.exe
+* Creation of the necessary set-ups/disk sets
+  * A+W CAD Designer (Bars)
+  * A+W CAD Designer (Shapes)
+  * SAP Crystal Reports runtime engine starting with 13.0.19
+  * A+W Enterprise 6 Print Service
+  * A+W Infrastructure 6 Collector Services
+  * A+W Infrastructure 6 Middleware
+  * Java 7 Update 51
+  * A+W Setup Launcher
+* Installation of the Print Service and the dependent disk sets with the Setup Launcher
+* Configuration of the Print Service with the ConfigTool
+* Set-up of the reports
+* Setting of A+W Enterprise environment variables
+* Further set-up of the file system
 
 ### 1.2 Time requirement
 
@@ -63,9 +63,9 @@ If all requirements are checked and fulfilled, the following times are required 
 
 Depending on the computer, storage space, and configuration, the installation times will vary for different computers. The installation time specified was determined using a reference device with the following characteristics:
 
--   Processor: 3000 Mhz
--   RAM: 4 GB
--   Other: /
+* Processor: 3000 Mhz
+* RAM: 4 GB
+* Other: /
 
 For an initial or new installation, an installation time of 15 minutes must be anticipated for the reference device. For higher or lower-power hardware, shorter or longer installation times must be anticipated.
 
@@ -75,8 +75,8 @@ For an initial or new installation, an installation time of 15 minutes must be a
 
 Supported operating systems:
 
--   Windows 2008 Server R2 32/64bit.
--   Windows 2012 Server R2 32/64bit.
+* Windows 2008 Server R2 32/64bit.
+* Windows 2012 Server R2 32/64bit.
 
 #### 1.3.2 Network
 
@@ -88,51 +88,50 @@ For the operation of the service, there must be a connection to the A+W Enterpri
 
 It is assumed that the following disk sets were already installed and configured BEFORE the installation of the A+W Enterprise 6 Print Service disk set.
 
--   Informix Client SDK 3.5 TC9 (or newer)
--   Microsoft .NET Framework 4.5.1 SDK
+* Informix Client SDK 3.5 TC9 (or newer)
+* Microsoft .NET Framework 4.5.1 SDK
 
 ### 1.4 Procedure
 
 For the installation, please proceed in the following sequence:
 
-1.  Use setnet32.exe to configure the database server and hosts. This assumes that an IBM Informix Client SDK was installed (see software requirements).
+1. Use setnet32.exe to configure the database server and hosts. This assumes that an IBM Informix Client SDK was installed (see software requirements).
 2.  Installation of the A+W Enterprise 6 Print Service with the Setup Launcher
 
     On the Component Selection dialog on the A+W Enterprise node, select the "A+W Enterprise 6 Print Service" module. This automatically selects all dependent set-ups.
 
-    > **Screenshot: A+W SetupLauncher - Component Selection**
-    > The image shows the A+W SetupLauncher with a tree view of components. The "A+W Enterprise 6 Print Service" is checked under the "A+W Enterprise" node. The right panel displays details for the selected component, including its version (13.0.3335.0) and installation path.
-
+    > **Screenshot: A+W SetupLauncher - Component Selection** The image shows the A+W SetupLauncher with a tree view of components. The "A+W Enterprise 6 Print Service" is checked under the "A+W Enterprise" node. The right panel displays details for the selected component, including its version (13.0.3335.0) and installation path.
 3.  After the successful installation, the Print Service is configured with the Config Tool.
 
-    ### 3.1 Common Settings
+    #### 3.1 Common Settings
 
-    > **Screenshot: A+W Enterprise 6 Print Service Configuration - Common Settings**
-    > The dialog shows fields for "Polling Interval (Seconds)" set to 18, "Working Directory" set to C:\AIPrintService, and "Shared Folder" set to \\AWEAWPVNEXT\AIPrintService.
+    > **Screenshot: A+W Enterprise 6 Print Service Configuration - Common Settings** The dialog shows fields for "Polling Interval (Seconds)" set to 18, "Working Directory" set to C:\AIPrintService, and "Shared Folder" set to \AWEAWPVNEXT\AIPrintService.
 
-    #### 3.1.1. Polling Interval
+    **3.1.1. Polling Interval**
+
     In the Polling Interval (Seconds) field, the number of seconds is set that the service waits until it checks the printtransfer transfer table again for new data records. The default value is 18 seconds.
 
-    #### 3.1.2. Working Directory
-    Here you can specify a local directory in which the subdirectories Archive, Bitmaps, Email, PDF, Reports are created; these can then be used as (intermediate) result storage areas.
-    The latest versions of the A+W standard forms are installed in the Reports directory in case of a new installation or an update.
+    **3.1.2. Working Directory**
 
-    #### 3.1.3. Shared Folder
-    The ConfigTool generates permission for Everyone (that is, for all network users) for the working directory. The permission name is always <Servername>\AIPrintService.
-    Info: the authorizations for the permission can be changed manually. These changes are retained in case of a reconfiguration with the ConfigTool.
+    Here you can specify a local directory in which the subdirectories Archive, Bitmaps, Email, PDF, Reports are created; these can then be used as (intermediate) result storage areas. The latest versions of the A+W standard forms are installed in the Reports directory in case of a new installation or an update.
 
-    #### 3.1.4. Protocol-Button
+    **3.1.3. Shared Folder**
+
+    The ConfigTool generates permission for Everyone (that is, for all network users) for the working directory. The permission name is always \AIPrintService. Info: the authorizations for the permission can be changed manually. These changes are retained in case of a reconfiguration with the ConfigTool.
+
+    **3.1.4. Protocol-Button**
+
     With the Protocol button, you can reach the Protocol Configuration dialog. This automatically selects all dependent set-ups. On the first tab, the trace categories for the frontend are configured; on the following tabs, the tracing of dependent modules and programs can be activated if necessary.
 
-    > **Screenshot: Protocol Configuration**
-    > This dialog allows setting Trace and Log levels for various categories like AWEBasis, AWEModulesAWBOM, etc. The levels can be set to Error, Info, Warning, Debug, etc. A "Retention Days" setting is also available.
+    > **Screenshot: Protocol Configuration** This dialog allows setting Trace and Log levels for various categories like AWEBasis, AWEModulesAWBOM, etc. The levels can be set to Error, Info, Warning, Debug, etc. A "Retention Days" setting is also available.
 
     The following trace levels are distinguished:
-    -   Fatal
-    -   Error
-    -   Warning
-    -   Info
-    -   Debug
+
+    * Fatal
+    * Error
+    * Warning
+    * Info
+    * Debug
 
     With the Protocol button, you can reach the Protocol Configuration dialog. If, for example, the Info level is active, trace messages of the type Error and Warning will also be written into the tracing file.
 
@@ -142,7 +141,7 @@ For the installation, please proceed in the following sequence:
 
 ### 3.2. Crystal Reports Runtime Version
 
-The Crystal Reports Runtime 2008 was terminated with Quality Release [2403].
+The Crystal Reports Runtime 2008 was terminated with Quality Release \[2403].
 
 It is anticipated that a Crystal Report Runtime 2013 starting with Version 13.0.19 is installed on the server. The print service pulls the installed engine automatically. Nothing else needs to be configured.
 
@@ -150,152 +149,158 @@ It is anticipated that a Crystal Report Runtime 2013 starting with Version 13.0.
 
 On this dialog, all database-precise settings are configured, starting with the database itself.
 
-> **Screenshot: A+W Enterprise 6 Print Service Configuration - Database Settings**
-> A table displays database configurations with columns for configno, activeconnection, dbname, siteno, dbserver, and odbcname. Buttons below the table include De-/Activate, New, Edit, Copy, and Delete.
+> **Screenshot: A+W Enterprise 6 Print Service Configuration - Database Settings** A table displays database configurations with columns for configno, activeconnection, dbname, siteno, dbserver, and odbcname. Buttons below the table include De-/Activate, New, Edit, Copy, and Delete.
 
--   With the **New** button, you can edit an existing configuration.
--   With the **Edit** button, you can delete an existing configuration.
--   With the **Delete** button, you can delete an existing configuration.
--   With the **Copy** button, you can copy an existing configuration. So that there are no problems with identical configurations, the configuration created this way is initially deactivated and the value `ENTER_NEW_DATABASE_NAME` is entered in the Database Name field. Otherwise, all settings are taken over 1:1.
--   With the **De/Activate** button, individual database configurations can be deactivated or activated again. Thus, for example, the processing of print jobs on a database server can be interrupted without having to delete the entire configuration.
+* With the **New** button, you can edit an existing configuration.
+* With the **Edit** button, you can delete an existing configuration.
+* With the **Delete** button, you can delete an existing configuration.
+* With the **Copy** button, you can copy an existing configuration. So that there are no problems with identical configurations, the configuration created this way is initially deactivated and the value `ENTER_NEW_DATABASE_NAME` is entered in the Database Name field. Otherwise, all settings are taken over 1:1.
+* With the **De/Activate** button, individual database configurations can be deactivated or activated again. Thus, for example, the processing of print jobs on a database server can be interrupted without having to delete the entire configuration.
 
 #### 3.3.1. Site Properties
 
 With the **New** or **Edit** buttons or with a double-click on a row in the table, you reach the Site Properties dialog. Here, all database-dependent settings can be made.
 
-> **Screenshot: Site Properties Dialog**
-> This dialog has sections for "Site Settings" (Config No, Active Connection, AWE Site), "Database Settings" (Server Name, User Name, Password, Database Name, Locales, Report DSN), "DB Functions" (buttons like Start Setnet32, Test Connection), and "Additional Site Configuration" (buttons for Print Service Settings, etc.).
+> **Screenshot: Site Properties Dialog** This dialog has sections for "Site Settings" (Config No, Active Connection, AWE Site), "Database Settings" (Server Name, User Name, Password, Database Name, Locales, Report DSN), "DB Functions" (buttons like Start Setnet32, Test Connection), and "Additional Site Configuration" (buttons for Print Service Settings, etc.).
 
 #### 3.3.2. Site Settings
 
--   The **Config No** field contains a sequential number. The field is filled automatically.
--   With the **Active Connection** checkbox, the database configuration can be activated or deactivated. Only active configurations are considered by the Print Service for the processing of print jobs.
+* The **Config No** field contains a sequential number. The field is filled automatically.
+* With the **Active Connection** checkbox, the database configuration can be activated or deactivated. Only active configurations are considered by the Print Service for the processing of print jobs.
 
 #### 3.3.3. Database settings
 
--   In the **AWE Site** field, a site number can be entered. If a value not equal to 0 is entered here, for the query to the printtransfer table, the hausnr field is linked to this value. Thus it is possible to store site-specific database configurations.
--   The database server is entered in the **Server Name** field. Via the combo box, all DB servers entered in the setnet32 can be selected.
--   A user name that has access to the database must be entered in **User Name**. This user is also used for the processing of the Crystal Reports.
--   If the fields **Server Name**, **User Name**, and **Password** are filled with valid values, the **Database Name** combo box already contains all available database names of the database server.
--   The appropriate locale settings are entered in the **Client Locale** and **DB Locale** fields. The combo boxes already contain most values used. If it is necessary to enter deviating values, this is also possible manually.
--   In the **Report DSN (ODBC)** field, it is possible to select an existing ODBC configuration via the combo box. This DSN (=Data Source name) is used in Crystal Report to establish the connection to the database. That is, the ODBC connection should fit the configured database. A not-yet-extant ODBC name can also be entered in this field. If when saving the database configuration it is determined that the ODBC name does not exist yet, there is a query as to whether an ODBC connection should be created with the current values of the database configuration. If this is confirmed, precisely this is done.
--   To be noted here is that ODBC connections must always be created in the area **System-DSN**, since only these are available for all Windows users.
--   ODBC connections must always be set up with insulation level **"1 - Read Uncommitted"** so that there cannot be DB blocks during output of Crystal Reports.
+* In the **AWE Site** field, a site number can be entered. If a value not equal to 0 is entered here, for the query to the printtransfer table, the hausnr field is linked to this value. Thus it is possible to store site-specific database configurations.
+* The database server is entered in the **Server Name** field. Via the combo box, all DB servers entered in the setnet32 can be selected.
+* A user name that has access to the database must be entered in **User Name**. This user is also used for the processing of the Crystal Reports.
+* If the fields **Server Name**, **User Name**, and **Password** are filled with valid values, the **Database Name** combo box already contains all available database names of the database server.
+* The appropriate locale settings are entered in the **Client Locale** and **DB Locale** fields. The combo boxes already contain most values used. If it is necessary to enter deviating values, this is also possible manually.
+* In the **Report DSN (ODBC)** field, it is possible to select an existing ODBC configuration via the combo box. This DSN (=Data Source name) is used in Crystal Report to establish the connection to the database. That is, the ODBC connection should fit the configured database. A not-yet-extant ODBC name can also be entered in this field. If when saving the database configuration it is determined that the ODBC name does not exist yet, there is a query as to whether an ODBC connection should be created with the current values of the database configuration. If this is confirmed, precisely this is done.
+* To be noted here is that ODBC connections must always be created in the area **System-DSN**, since only these are available for all Windows users.
+* ODBC connections must always be set up with insulation level **"1 - Read Uncommitted"** so that there cannot be DB blocks during output of Crystal Reports.
 
 #### 3.3.4. DB Functions
 
--   With the **Start Setnet32** button, it is possible to start the setnet32.exe program directly; with it, database server/hosts can be set up.
--   The 32-bit program for creating ODBC configurations is started with the **Start ODBC (32-bit)** button. Since on 64-bit operating systems there are two different versions and this always created problems in the past, here it is ensured that you start the correct program version.
--   With **Check Alenv** you can check the A+W Enterprise environment variables for this service and view the current database configuration. Since this dialog is only for checking purposes, it will not be described in any more detail. The settings of the Alenv variables are made in A+W Enterprise.
--   The **Test Connection** button allows you to check the current values of the database configuration. If a database connection can be established with these values, you will see the following message box; otherwise an error message.
+* With the **Start Setnet32** button, it is possible to start the setnet32.exe program directly; with it, database server/hosts can be set up.
+* The 32-bit program for creating ODBC configurations is started with the **Start ODBC (32-bit)** button. Since on 64-bit operating systems there are two different versions and this always created problems in the past, here it is ensured that you start the correct program version.
+* With **Check Alenv** you can check the A+W Enterprise environment variables for this service and view the current database configuration. Since this dialog is only for checking purposes, it will not be described in any more detail. The settings of the Alenv variables are made in A+W Enterprise.
+*   The **Test Connection** button allows you to check the current values of the database configuration. If a database connection can be established with these values, you will see the following message box; otherwise an error message.
+
     > **Info Box: Database Connection established**
 
 #### 3.3.5. Print Service Settings
 
-> **Screenshot: Print Service Configuration**
-> This dialog includes sections for "Common Settings" (Default Printer, Text Encoding, etc.), "Export Path Settings" (Default Export Path, Archive Path), and "Image Settings" (A+W CAD Designer checkboxes).
+> **Screenshot: Print Service Configuration** This dialog includes sections for "Common Settings" (Default Printer, Text Encoding, etc.), "Export Path Settings" (Default Export Path, Archive Path), and "Image Settings" (A+W CAD Designer checkboxes).
 
-##### 3.3.5.1. Common Settings
--   **Default Printer**: The permitted name of an installed printer that is used if the printer found in printtransfer does not exist. If no value is entered here, the Windows default printer will be used. Default: Empty.
--   **Text Encoding**: Default: Default.
--   **Temp. Status List**: Here stati can be entered, which under some circumstances no longer occur at a later point in time and it is therefore worthwhile for the print job to be processed again. Only the stati are considered that are described in the print service document - Referenzen.docx. Default: Empty. The comma is expected as separator.
--   **Maximum Attempts**: Maximum number of attempts the Print Service will make to process a print job that encounters an error that was specified in the Temp Status list. Default: 1. The value of this field will be compared to printtransfer.attempts.
--   **Wait On Error**: Time in seconds that should be waited after a temporary error.
--   **Max. Attachments**: The maximum number of attachments that may accompany an e-mail. Default: 25.
+**3.3.5.1. Common Settings**
 
-##### 3.3.5.2. Export Path Settings
--   **Default Export Path**: The directory specified here is used if no directory was specified during file export. Default: `<Shared Folder>\PDF`.
--   **Archive Path**: This directory is used for the export of PDF files if ArchiveNSG (outputflag=10) was specified as output type for the print job. Default: `<Shared Folder>\Archive`.
+* **Default Printer**: The permitted name of an installed printer that is used if the printer found in printtransfer does not exist. If no value is entered here, the Windows default printer will be used. Default: Empty.
+* **Text Encoding**: Default: Default.
+* **Temp. Status List**: Here stati can be entered, which under some circumstances no longer occur at a later point in time and it is therefore worthwhile for the print job to be processed again. Only the stati are considered that are described in the print service document - Referenzen.docx. Default: Empty. The comma is expected as separator.
+* **Maximum Attempts**: Maximum number of attempts the Print Service will make to process a print job that encounters an error that was specified in the Temp Status list. Default: 1. The value of this field will be compared to printtransfer.attempts.
+* **Wait On Error**: Time in seconds that should be waited after a temporary error.
+* **Max. Attachments**: The maximum number of attachments that may accompany an e-mail. Default: 25.
 
-##### 3.3.5.3. Image Settings
--   **A+W CAD Designer (Bars)**: De-/activates the generation of bar sketches.
--   **A+W CAD Designer (Shapes)**: De-/activates the generation of shape and processing sketches.
--   **AWBom**: De-/activates the generation of glass structure images.
+**3.3.5.2. Export Path Settings**
 
-##### 3.3.5.4. Additional Data Source
-On this dialog, you can save a second database connection in order to realize a multi-DB report. The settings on this dialog are used if sub-reports begin with the text "AWPSUB."
-The content of the fields depends on the logic described above. The most important element here is the ODBC connection to the A+W Production database.
+* **Default Export Path**: The directory specified here is used if no directory was specified during file export. Default: `<Shared Folder>\PDF`.
+* **Archive Path**: This directory is used for the export of PDF files if ArchiveNSG (outputflag=10) was specified as output type for the print job. Default: `<Shared Folder>\Archive`.
 
-> **Screenshot: Additional Data Source Properties**
-> This dialog has fields for setting a "Report DSN (ODBC)", "Database Name", "User Name", and "Password" for a secondary data source.
+**3.3.5.3. Image Settings**
 
-##### 3.3.5.5. Initialize Report Environment
+* **A+W CAD Designer (Bars)**: De-/activates the generation of bar sketches.
+* **A+W CAD Designer (Shapes)**: De-/activates the generation of shape and processing sketches.
+* **AWBom**: De-/activates the generation of glass structure images.
+
+**3.3.5.4. Additional Data Source**
+
+On this dialog, you can save a second database connection in order to realize a multi-DB report. The settings on this dialog are used if sub-reports begin with the text "AWPSUB." The content of the fields depends on the logic described above. The most important element here is the ODBC connection to the A+W Production database.
+
+> **Screenshot: Additional Data Source Properties** This dialog has fields for setting a "Report DSN (ODBC)", "Database Name", "User Name", and "Password" for a secondary data source.
+
+**3.3.5.5. Initialize Report Environment**
+
 On this dialog, it is possible to initialize all or individual components of the print environment. The functions are attuned to initializing the print environment for the A+W standard reports.
--   **CR PDF Export Printer**: If in the table drucker there is no printer "crpdfexport", an appropriate data record is created in the database. The printer „crmailmitarb“ is also created.
--   **A+W Standard Reports**: Entries in the table rep are generated so that the forms can be selected in A+W Enterprise.
--   **Default Alenv Values**: Default values are set for a series of environment variables.
 
-> **Screenshot: Initialize Report Environment**
-> This dialog shows three sections: CR PDF Export Printer, A+W Standard Reports, and Default Alenv Values. Each section has a status message (e.g., "No PDF Export Printer found") and a "Choose Action" dropdown to initialize the respective component.
+* **CR PDF Export Printer**: If in the table drucker there is no printer "crpdfexport", an appropriate data record is created in the database. The printer „crmailmitarb“ is also created.
+* **A+W Standard Reports**: Entries in the table rep are generated so that the forms can be selected in A+W Enterprise.
+* **Default Alenv Values**: Default values are set for a series of environment variables.
+
+> **Screenshot: Initialize Report Environment** This dialog shows three sections: CR PDF Export Printer, A+W Standard Reports, and Default Alenv Values. Each section has a status message (e.g., "No PDF Export Printer found") and a "Choose Action" dropdown to initialize the respective component.
 
 > **Important:**
-> -   Only one action is triggered when the "Initialize..." action was selected. This option is pre-populated automatically if it was determined in the respective area that an initialization is required.
-> -   For each of the three areas, a module block is requested by the to-server via alprc service. That is, the alrpc service must be available and it must be possible to establish a database connection. Otherwise no initialization is possible and there is an appropriate error message.
-> -   Via the dialog no data is deleted, but under some circumstances, it is overwritten with default values. Missing data records will be inserted into the database.
+>
+> * Only one action is triggered when the "Initialize..." action was selected. This option is pre-populated automatically if it was determined in the respective area that an initialization is required.
+> * For each of the three areas, a module block is requested by the to-server via alprc service. That is, the alrpc service must be available and it must be possible to establish a database connection. Otherwise no initialization is possible and there is an appropriate error message.
+> * Via the dialog no data is deleted, but under some circumstances, it is overwritten with default values. Missing data records will be inserted into the database.
 
 The following ALENV variables are initialized:
 
-| ALENV Name                 | Default value            |
-| :------------------------- | :----------------------- |
-| CR_IMAGE_FORMAT_AWBOM      | BMP                      |
-| CR_IMAGE_FORMAT_AWDESIGN   | EMF                      |
-| CR_IMAGE_FORMAT_SNLIVE     | BMP                      |
-| CR_IMAGE_PATH              | `<SHARED FOLDER>\Bitmaps` |
-| CR_IMAGE_SIZE_AWBOM        | 300,300                  |
-| CR_IMAGE_SIZE_AWDESIGN     | 300,300                  |
-| CR_IMAGE_SIZE_SNLIVE       | 600,600                  |
-| CR_STD_EXPORT_PATH         | `<SHARED FOLDER>\PDF`    |
-| MODUL_PRINTSERVICE         | 2                        |
-| REPCLEAN_TIME              | 30                       |
+| ALENV Name                  | Default value             |
+| --------------------------- | ------------------------- |
+| CR\_IMAGE\_FORMAT\_AWBOM    | BMP                       |
+| CR\_IMAGE\_FORMAT\_AWDESIGN | EMF                       |
+| CR\_IMAGE\_FORMAT\_SNLIVE   | BMP                       |
+| CR\_IMAGE\_PATH             | `<SHARED FOLDER>\Bitmaps` |
+| CR\_IMAGE\_SIZE\_AWBOM      | 300,300                   |
+| CR\_IMAGE\_SIZE\_AWDESIGN   | 300,300                   |
+| CR\_IMAGE\_SIZE\_SNLIVE     | 600,600                   |
+| CR\_STD\_EXPORT\_PATH       | `<SHARED FOLDER>\PDF`     |
+| MODUL\_PRINTSERVICE         | 2                         |
+| REPCLEAN\_TIME              | 30                        |
 
 The following reports are inserted:
 
 | File name      | Meaning            | Form type |
-| :------------- | :----------------- | :-------- |
-| cr_aw_lian     | Inquiry            | 901       |
-| cr_aw_best     | Purchase order     | 902       |
-| cr_aw_angbk    | Quotation          | 904       |
-| cr_aw_ab       | OC                 | 905       |
-| cr_aw_lief     | Delivery note      | 906       |
-| cr_aw_rech     | Invoice            | 907       |
-| cr_aw_gut      | Credit note        | 909       |
-| cr_aw_samr     | Collective invoice | 912       |
-| cr_aw_vls      | VLS sale           | 923       |
-| cr_aw_ba       | Works order        | 927       |
-| cr_aw_vlslap   | VLS dispatch       | 928       |
+| -------------- | ------------------ | --------- |
+| cr\_aw\_lian   | Inquiry            | 901       |
+| cr\_aw\_best   | Purchase order     | 902       |
+| cr\_aw\_angbk  | Quotation          | 904       |
+| cr\_aw\_ab     | OC                 | 905       |
+| cr\_aw\_lief   | Delivery note      | 906       |
+| cr\_aw\_rech   | Invoice            | 907       |
+| cr\_aw\_gut    | Credit note        | 909       |
+| cr\_aw\_samr   | Collective invoice | 912       |
+| cr\_aw\_vls    | VLS sale           | 923       |
+| cr\_aw\_ba     | Works order        | 927       |
+| cr\_aw\_vlslap | VLS dispatch       | 928       |
 
 ### 3.4. Maintenance Settings
 
 The maintenance functions of the Print Service are configured on the Maintenance Settings dialog.
 
-> **Screenshot: A+W Enterprise 6 Print Service Configuration - Maintenance Settings**
-> This dialog shows settings for "Archive Transfer Data", "Delete Image Files", "Delete Internal Working Folder", "Activate Maintenance", and "Maintenance Time (hh:mm)".
+> **Screenshot: A+W Enterprise 6 Print Service Configuration - Maintenance Settings** This dialog shows settings for "Archive Transfer Data", "Delete Image Files", "Delete Internal Working Folder", "Activate Maintenance", and "Maintenance Time (hh:mm)".
 
 #### 3.4.1. Archive Transfer Data
+
 With the **Archive Transfer Data** setting, it is determined how to work with successfully-processed transfer data. There are three options:
--   Do nothing.
--   Delete the transfer data after successful processing.
--   Move the transfer data into the respective *ok tables in order to be able to access it later on.
+
+* Do nothing.
+* Delete the transfer data after successful processing.
+* Move the transfer data into the respective \*ok tables in order to be able to access it later on.
 
 #### 3.4.2. Delete Image Files
+
 With the **Delete Image Files** setting, it is determined how the graphic files should be handled that the Print Service creates temporarily.
--   Yes (Default) – the files are deleted directly after use.
--   No – the files are retained. This can be useful for service purposes.
+
+* Yes (Default) – the files are deleted directly after use.
+* No – the files are retained. This can be useful for service purposes.
 
 #### 3.4.3. Delete Internal Working Folder
+
 With the **Delete Internal Working Folder** setting, it is determined whether or not the temporary working directory should be deleted in case of success.
 
 #### 3.4.4. Activate Maintenance
-With the **Activate Maintenance** switch, you can activate the self-maintenance of the Print Service. This includes all clean-up activities such as the deletion of old files in the *ok tables, the transfer tables, and temporary files. The clean-up function is started once a day; at the earliest at the time configured in the **Maintenance Time** field.
+
+With the **Activate Maintenance** switch, you can activate the self-maintenance of the Print Service. This includes all clean-up activities such as the deletion of old files in the \*ok tables, the transfer tables, and temporary files. The clean-up function is started once a day; at the earliest at the time configured in the **Maintenance Time** field.
 
 ### 3.5. External Tools Settings
 
 An external program must be configured for the output of combined PDF files with a PDF printer.
 
-> **Screenshot: A+W Enterprise 6 Print Service Configuration - External Tools Settings**
-> This dialog provides fields for "PDF Printer Tool" and "Arguments" to configure an external command-line tool for PDF printing. Placeholders %PRINTER% and %PDFFILE% are mentioned.
+> **Screenshot: A+W Enterprise 6 Print Service Configuration - External Tools Settings** This dialog provides fields for "PDF Printer Tool" and "Arguments" to configure an external command-line tool for PDF printing. Placeholders %PRINTER% and %PDFFILE% are mentioned.
 
-In the **PDF Printer Tool** field, a program (*.exe) or a Windows script (*.cmd) can be stored, which is in a position to send a PDF to a printer in the background via the command line.
+In the **PDF Printer Tool** field, a program (_.exe) or a Windows script (_.cmd) can be stored, which is in a position to send a PDF to a printer in the background via the command line.
 
 In the **Arguments** field, the argument list for the program is stored. Here, the parameters `%PRINTER%` and `%PDFFILE%` serve as placeholders for the actual values from the current print job.
 
@@ -303,27 +308,25 @@ In the **Arguments** field, the argument list for the program is stored. Here, t
 
 Use dialog **E-Mail Settings** to configure whether and to which recipients the error messages can be sent via email.
 
-> **Screenshot: A+W Enterprise 6 Print Service Configuration - E-Mail Settings**
-> The dialog contains fields for SMTP Server, Port, From, To, CC, Encoding, and Authentication settings (Account, Password).
+> **Screenshot: A+W Enterprise 6 Print Service Configuration - E-Mail Settings** The dialog contains fields for SMTP Server, Port, From, To, CC, Encoding, and Authentication settings (Account, Password).
 
--   **SMTP Server**: The name of the SMTP server
--   **Port**: (optional) deviating SMTP port
--   **From**: Email address of the sender
--   **To**: Email address of the recipient. Several recipient addresses can be specified separated by semicolons.
--   **CC**: Email address of the CC recipient. Several recipient addresses can be specified separated by semicolons.
--   **Encoding**: Coding of E-mail. Default: utf-8.
--   **Enable SSL**: Activate SSL encryption (Y/N)
--   **Authentication**: Activate authentication (Y/N)
-    -   **Account**: Domain account for the authentication
-    -   **Password**: Password
-    -   **Confirm password**: Confirmation of the password
+* **SMTP Server**: The name of the SMTP server
+* **Port**: (optional) deviating SMTP port
+* **From**: Email address of the sender
+* **To**: Email address of the recipient. Several recipient addresses can be specified separated by semicolons.
+* **CC**: Email address of the CC recipient. Several recipient addresses can be specified separated by semicolons.
+* **Encoding**: Coding of E-mail. Default: utf-8.
+* **Enable SSL**: Activate SSL encryption (Y/N)
+* **Authentication**: Activate authentication (Y/N)
+  * **Account**: Domain account for the authentication
+  * **Password**: Password
+  * **Confirm password**: Confirmation of the password
 
 ### 3.7. Service configuration
 
 The service users are stored on the **Windows Service Configuration** dialog. These are Windows users who are used to access external objects such as network paths, etc. This user must have the appropriate rights.
 
-> **Screenshot: A+W Enterprise 6 Print Service Configuration - Windows Service Configuration**
-> This dialog has fields for Domain, User, and Password to set the service user account. It also has a setting for "No. of Extra Services" to configure parallel services.
+> **Screenshot: A+W Enterprise 6 Print Service Configuration - Windows Service Configuration** This dialog has fields for Domain, User, and Password to set the service user account. It also has a setting for "No. of Extra Services" to configure parallel services.
 
 With the **Pick user...** button it is possible to select a domain user.
 
@@ -335,13 +338,10 @@ Last but not least, you can set up the quantity of additional parallel services 
 
 With a click on **Next**, the component registration for SN is executed. Here the Windows component manager is opened and then closed again. For this reason, it is recommended that you always let the Config Tool run through to the end.
 
-4.  Now the A+W Enterprise 6 Print Service is ready and it writes a log into the directory named above.
-5.  Set-up of the reports.
-    5.1. As described in the Print Service documentation, reports must be set up in A+W Enterprise.
-    5.2. The Crystal Report files will be copied to the directory specified in A+W Enterprise. If a network path was specified, it must be ensured that the services user has appropriate access rights to the directory.
-6.  Setting of A+W Enterprise environment variables.
-7.  Set-up of the file system.
-    7.1. For the sake of simplicity, all required directories are set up on the same computer. Sensibly on the computer on which the Print Service was installed. See details in Chapter 1.6.
+4. Now the A+W Enterprise 6 Print Service is ready and it writes a log into the directory named above.
+5. Set-up of the reports. 5.1. As described in the Print Service documentation, reports must be set up in A+W Enterprise. 5.2. The Crystal Report files will be copied to the directory specified in A+W Enterprise. If a network path was specified, it must be ensured that the services user has appropriate access rights to the directory.
+6. Setting of A+W Enterprise environment variables.
+7. Set-up of the file system. 7.1. For the sake of simplicity, all required directories are set up on the same computer. Sensibly on the computer on which the Print Service was installed. See details in Chapter 1.6.
 
 ## 1.5 Incompatibilities
 
@@ -361,7 +361,7 @@ It is now possible to use the Crystal Report Runtime 13.0.31 for the A+W Enterpr
 
 Development was implemented with DevOps Feature 99812.
 
-The Crystal Report Runtime 2008 was terminated with Quality Release [2403] will no longer be supported. SAP has not supported this runtime for a long time already, and after a company-wide restructuring of the A+W Print Service, the connection to the old runtime was removed.
+The Crystal Report Runtime 2008 was terminated with Quality Release \[2403] will no longer be supported. SAP has not supported this runtime for a long time already, and after a company-wide restructuring of the A+W Print Service, the connection to the old runtime was removed.
 
 ## 1.6 Directory structure
 
@@ -417,7 +417,6 @@ The following errors have already occurred and could be solved as described.
 
 You can uninstall the program as usual via Control Panel -> Programs and Functions.
 
-> **Screenshot: Programme und Features (Programs and Features)**
-> A confirmation dialog in German asks: "Möchten Sie A+W Enterprise 6 Print Service wirklich deinstallieren?" (Do you really want to uninstall A+W Enterprise 6 Print Service?).
+> **Screenshot: Programme und Features (Programs and Features)** A confirmation dialog in German asks: "Möchten Sie A+W Enterprise 6 Print Service wirklich deinstallieren?" (Do you really want to uninstall A+W Enterprise 6 Print Service?).
 
 **Note:** The config file is not deleted automatically. For a final uninstallation, the program directory of the A+W Enterprise 6 Print Service must be deleted manually.
