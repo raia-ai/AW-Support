@@ -281,10 +281,8 @@
 * [En Um A+W Ishape](user-guides/en-um-aw-ishape.md)
 * [En Um A+W Smartcompanion Awb](user-guides/en-um-aw-smartcompanion-awb.md)
 * [En Um A+W Smartcompanion Awe](user-guides/en-um-aw-smartcompanion-awe.md)
-* [En Um Awbusiness](user-guides/en-um-awbusiness.md)
 * [En Um Awcaddesignerbars](user-guides/en-um-awcaddesignerbars.md)
 * [En Um Awcaddesignershapes](user-guides/en-um-awcaddesignershapes.md)
-* [En Um Awenterprise](user-guides/en-um-awenterprise.md)
 * [En Awbusiness Box Management 110](user-guides/en_awbusiness_box_management_110.md)
 * [En Awbusiness Capacity Planning 402](user-guides/en_awbusiness_capacity_planning_402.md)
 * [En Awbusiness Inventory Management 60](user-guides/en_awbusiness_inventory_management_60.md)
@@ -337,7 +335,6 @@
 * [De Hb A+W Smartcompanion Awe](user-guides/de-hb-aw_smartcompanion-awe.md)
 * [De Hb Awcaddesignerbars](user-guides/de-hb-awcaddesignerbars.md)
 * [De Hb Awcaddesignershapes](user-guides/de-hb-awcaddesignershapes.md)
-* [De Hb Awenterprise](user-guides/de-hb-awenterprise.md)
 * [De Awbusines Systemueberblick 521](user-guides/de_awbusines_systemueberblick_521.md)
 * [De Awbusiness Einkauf 32](user-guides/de_awbusiness_einkauf_32.md)
 * [De Awbusiness Fertigung 511](user-guides/de_awbusiness_fertigung_511.md)
@@ -870,9 +867,6 @@
 * [Capaview Productionvisualization Capacityplanning Doc De](user-guides/capaview-productionvisualization-capacityplanning-doc-de.md)
 * [Constellation Financialkpis Csi Doc En](user-guides/constellation-financialkpis-csi-doc-en.md)
 * [Constellation Software Csi Kpis Financial Bootcamp](user-guides/constellation-software-csi-kpis-financial-bootcamp.md)
-* [D Awbusiness Hb](user-guides/d-awbusiness-hb.md)
-* [D Awproduction Hb](user-guides/d-awproduction-hb.md)
-* [D Hb Awbusiness](user-guides/d-hb-awbusiness.md)
 * [D Awdashboard 10](user-guides/d_awdashboard_10.md)
 * [Gryphon Barcodescanner Datalogic Doc En 1](user-guides/gryphon-barcodescanner-datalogic-doc-en-1.md)
 * [Gryphon Barcodescanner Datalogic Doc En](user-guides/gryphon-barcodescanner-datalogic-doc-en.md)
@@ -1118,3 +1112,48 @@
 ### R&D Documentation
 
 * [A+W Sales Tool 2025](reference/rd-docs/aw_sales-tool_2025.md)
+
+---
+
+## Handbook Extracts
+
+### A+W Business
+
+#### German
+* [Business HB - Errors & Solutions](user-guides/handbook-extracts/d-awbusiness-hb-errors-solutions.md)
+* [Business HB - Configuration](user-guides/handbook-extracts/d-awbusiness-hb-configuration.md)
+* [Business HB - Tips & Practices](user-guides/handbook-extracts/d-awbusiness-hb-tips-practices.md)
+* [Business HB - Installation](user-guides/handbook-extracts/d-awbusiness-hb-installation.md)
+* [Business Alt - Errors & Solutions](user-guides/handbook-extracts/d-hb-awbusiness-errors-solutions.md)
+* [Business Alt - Configuration](user-guides/handbook-extracts/d-hb-awbusiness-configuration.md)
+* [Business Alt - Tips & Practices](user-guides/handbook-extracts/d-hb-awbusiness-tips-practices.md)
+* [Business Alt - Installation](user-guides/handbook-extracts/d-hb-awbusiness-installation.md)
+
+#### English
+* [Business - Errors & Solutions](user-guides/handbook-extracts/en-um-awbusiness-errors-solutions.md)
+* [Business - Configuration](user-guides/handbook-extracts/en-um-awbusiness-configuration.md)
+* [Business - Tips & Practices](user-guides/handbook-extracts/en-um-awbusiness-tips-practices.md)
+* [Business - Installation](user-guides/handbook-extracts/en-um-awbusiness-installation.md)
+
+### A+W Enterprise
+
+#### German
+* [Enterprise - Errors & Solutions](user-guides/handbook-extracts/de-hb-awenterprise-errors-solutions.md)
+* [Enterprise - Configuration](user-guides/handbook-extracts/de-hb-awenterprise-configuration.md)
+* [Enterprise - Tips & Practices](user-guides/handbook-extracts/de-hb-awenterprise-tips-practices.md)
+* [Enterprise - Installation](user-guides/handbook-extracts/de-hb-awenterprise-installation.md)
+
+#### English
+* [Enterprise - Errors & Solutions](user-guides/handbook-extracts/en-um-awenterprise-errors-solutions.md)
+* [Enterprise - Configuration](user-guides/handbook-extracts/en-um-awenterprise-configuration.md)
+* [Enterprise - Tips & Practices](user-guides/handbook-extracts/en-um-awenterprise-tips-practices.md)
+* [Enterprise - Installation](user-guides/handbook-extracts/en-um-awenterprise-installation.md)
+
+### A+W Production
+
+#### German
+* [Production - Errors & Solutions](user-guides/handbook-extracts/d-awproduction-hb-errors-solutions.md)
+* [Production - Configuration](user-guides/handbook-extracts/d-awproduction-hb-configuration.md)
+* [Production - Tips & Practices](user-guides/handbook-extracts/d-awproduction-hb-tips-practices.md)
+* [Production - Installation](user-guides/handbook-extracts/d-awproduction-hb-installation.md)
+
