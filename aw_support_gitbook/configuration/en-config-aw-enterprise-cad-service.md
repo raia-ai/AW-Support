@@ -1,0 +1,592 @@
+---
+title: "EN CONFIG A+W Enterprise CAD Service"
+category: "configuration"
+product: "A+W Enterprise CAD Service"
+doc_type: "Configuration"
+language: "EN"
+tags: ["CONFIG", "A+W Enterprise CAD Service"]
+version: "1.0"
+last_updated: "2025-12-10"
+description: "Configuration   A+W Enterprise CAD Service                                     english                             - -INTERNAL- Change history              Date         Author                 Remarks                                  Version            2018-02-20 Anja Grünbacher          Document created in new layout           1.0            2021-07-23 SVH                      Background iTOE            2022-02-24 SVH                      Last update     Content  1.   General Information"
+source_file: "EN-CONFIG-A+W Enterprise CAD Service.pdf"
+---
+
+
+# EN CONFIG A+W Enterprise CAD Service
+
+     Configuration
+
+
+A+W Enterprise CAD Service
+
+
+
+
+                                english
+
+
+
+
+                        - -INTERNAL-
+Change history
+
+
+           Date         Author                 Remarks                                  Version
+           2018-02-20 Anja Grünbacher          Document created in new layout           1.0
+           2021-07-23 SVH                      Background iTOE
+           2022-02-24 SVH                      Last update
+
+
+
+
+Content
+
+1.   General Information                                                                       3
+2.   Installation and configuration                                                            4
+     2.1. Installation Instructions                                                            4
+     2.2. Additional info about general CAD incorporation                                      4
+     2.3. Database updates in ALCIB 2011                                                       4
+     2.4. ENV variables                                                                        4
+     2.5. Error handling                                                                       5
+3.   Description                                                                               7
+     3.1. Functionality (Kermi logic, AWDesk #284739)                                          7
+     3.2. Functionality (Glasprofi logic, AWDesk #283525)                                      9
+     3.3. Functionality: background iTOE ([AW-57149])                                         10
+           3.3.1. Configuration in the Config Tool                                            11
+           3.3.2. Background transfer table snexchange                                        11
+     3.4. Transfer table sntransfer                                                           12
+     3.5. Templates                                                                           14
+     3.6. Generated SN files                                                                  14
+     3.7. Reporting the finished processing to the intauf (#366864)                           15
+     3.8. Sending e-mails                                                                     15
+     3.9. Cleansing the table sntransfer (AWDesk #343919)                                     15
+     3.10. Logging                                                                            15
+     3.11. Error handling                                                                     15
+           3.11.1. Table of possible error codes                                              15
+           3.11.2. Fatal error for product set processing (only Kermi)                        16
+           3.11.3. Error during machine export                                                16
+           3.11.4. Starting the intauf via socket connection is not possible                  16
+           3.11.5. Treatment of database/table access errors ([AW-70733] and [AW-83953])      17
+           3.11.6. code -10000, text <There is no SN instance.>                               17
+           3.11.7. getSNVariablesFromFile() - code -10000, text <There is no SN instance.>    17
+1. General Information
+The CAD service was developed with AWDesk #284739.
+The AWE CAD Service is a Windows service for the automatic generation of SN files and with
+appropriate configuration, also machine drivers.
+In a variant, the CAD Service relies on AWE product set data (essentially the BOM) and on so-
+called template files that include a template with parameter designations and transfers these
+item by item to SN methods that generate an SN file from the information. After successful
+generation of the SN file, the machine export is initiated by the service via SN methods; its result
+are machine driver files.
+A machine export works only in interplay with a customer-specifically configured SN installation
+since here normally the customer's batch scripts are incorporated.
+In a second variant, the CAD Service uses item data of an order to generate an SN file.
+In the third variant, the AWE CAD Service performs a synchronization between AWE BOM and SN
+template file through (background iTOE).
+
+
+
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                                3
+2. Installation and configuration
+2.1. Installation Instructions
+There are installation instructions in the directory
+\\jupiter\SW_Install\<Version>\InstallationDocumentation
+
+
+2.2. Additional info about general CAD incorporation
+The transfer of BOM information from AWE to SN is done in the CAD Service, in the SNLive
+connection, and in the new TOE (iTOE) with the same logic.
+Therefore, additional information about the flow can also be found under:
+\\jupiter\Doku_DocuWare\ALCIB-PMS\SN_ANBINDUNG\ALCIB_SN_Interaktion.docx
+
+
+2.3. Database updates in ALCIB 2011
+The CAD Service was developed with the version A+W Enterprise 5.3. However, it was conceived
+so that it can run with ALCIB 2011. With a connection to ALCIB 2011, however, it must be checked
+whether particular DB tables are in the correct state:
+-       Table kpostemplate:     field tempname must be present
+-       Table sntransfer:                 field serviceid must be present
+Fields not present must be added via update. (see installation instructions).
+
+
+2.4. ENV variables
+The following variables must be active:
+MODUL_SN_TEMPLATE
+Developed with AWDesk #160653: storage of template parameters via the V1 record of the
+standard interface.
+With active variable, the parameter string transferred in the V1 record is interpreted as a
+succession of numeric values of the format 7.1.
+The values read out are saved as parameter 1 to 73 in the table kpostemplate.
+SN_TEMPLATE
+SNFILES_DIR
+The env variable SNFILES_DIR is defined in AWE. The file path stored here (or a superior path)
+must be connected as network drive on the Windows server.
+Both the CAD service as well as the access rights required by SN to the path stored in SNFILES_DIR
+as well as all subdirectories.
+SNFILES_DIR
+
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                          4
+  Path to the SN files.
+  The path specification must end with a backslash.
+  SN accesses this path if an existing SN file should be
+  opened (kposp.brokefile).
+  The CAD service access this path in order to save a SN file.
+
+
+For orderXML transfer to AWP with attached SN files, SNFILES_DIR must match AWP Master Data
+> Configuration > Rough Scheduling > (Shaping & Nesting) Data File Path since only a relative path
+is transferred in the orderXML file. (see also #347756)
+There, however, the registry is usually stored as basic path (SERVERDIR, Server Directory), to be
+found under: HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Albat+Wirsam\Techsoft
+DATEI_REF_PFAD
+In AWE, the env variable DATEI_REF_PFAD must absolutely be configured. In this path, all file
+references are stored, especially also template, macro and motif files in the appropriate
+subfolders.
+Caution: the variable is always evaluated globally (site = 0) - not client-specifically.
+The subfolder for templates is called "template."
+The subfolder for macros is called "macro."
+The subfolder for motifs is called "motif."
+The file path stored here (or a superior path) must be connected as network drive on the
+Windows server.
+Both the CAD service as well as the access rights required by SN to the path stored in
+DATEI_REF_PFAD as well as all subdirectories.
+SN_CADFILES_DIR
+If this variable is active ("ON"), then the *.sn files that are generated by the service in the AWE
+CAD Service connection are broken down into additional subdirectories below SNFILES_DIR
+according to the date: .../YMM/DD/*.sn
+AWC_PORT_RPC_DIENST
+Insert in aufint and start the intauf process (#366864)
+AWC_ALCIB_SERVER_NAME
+Insert in aufint and start the intauf process (#366864)
+AWC_PORT_CONTROL_SERVER
+Insert in aufint and start the intauf process (#366864)
+
+
+
+
+2.5. Error handling
+What does the exception "The entry point IFMX_CleanConnForPooling was not found in the DLL
+iclit09b.dll" mean and how do you resolve it?
+
+
+
+A+W Software GmbH              EN-CONFIG-A+W Enterprise CAD Service.docx                              5
+A runtime entry in the machine.config is missing.
+See document \\hausi\bug\A+W_Allgemein\Entwicklung\ALCIB\Develop\ICLIT09B.docx
+Or see Azure DevOps Wiki.
+
+
+
+
+A+W Software GmbH            EN-CONFIG-A+W Enterprise CAD Service.docx           6
+3. Description
+3.1. Functionality (Kermi logic, AWDesk #284739)
+
+
+
+
+If the technical description of an order in the form of a product set was stored in AWE via an
+external interface, AWE writes a transfer record with the number of the product set to sntransfer.
+The record is identified by the interface type "CADEXP".
+While AWE is waiting for the generation of an SN file by the AWE CAD Service, the corresponding
+order in AWE is locked (kauf record with still=-23).
+The CAD Service checks at regular intervals (see polling interval in the config tool) whether there
+are records in sntransfer for processing. If the service finds a record, it marks it with its identifier
+(see transfer table sntransfer, serviceid) and sets the processing status to 1 (see transfer table
+sntransfer, steuerflag).
+The service then processes all items belonging to the product set one after another. (In the
+Deggendorf logic, at the moment, each product set receives only one item, however.) The BOM
+data from the AWE database is selected for each item. In particular, each item is assigned a
+template that forms the template for creating the SN file. In addition to the BOM data therefore,
+the parameters describing the template are also selected from the table kpostemplate. From all
+this data, the SN file is generated with SN methods.
+If there is an error during generation of the SN file, the product set is reported back to AWE as a
+cancellation (this means that a record with still=-13 is written to aufint.)
+
+
+A+W Software GmbH              EN-CONFIG-A+W Enterprise CAD Service.docx                                   7
+If there is no error during generation of the SN file, the machine export happens next, also with
+SN methods. Here, for the currently used template, configuration settings from the CAD Service
+config tool are transferred to SN:
+-       List of the assigned machines
+-       Info, whether drill holes should be removed in particular views
+The reporting to AWE is done after the machine export. For this, in a transaction:
+-       the dimensions of the surrounding rectangle are written to kmodparam (kmodparam1 –
+width, kmmodparam2 – height)
+-       Starting with Version 6.0: kposp.brokefile is updated:, if the SN file could be created
+successfully. The name then begins with an "X"; the "*" is omitted
+-       The control flag in sntransfer is updated
+-       an insert is made in aufint
+
+
+If there is an error during machine export, the product set is reported back to AWE as "not to be
+released" (this means that a record with still=-123 is written to aufint.)
+If there is no error during machine export, the product set is reported back to AWE as
+"successfully processed" (this means that a record with still=-23 is written to aufint.)
+
+
+After reporting, the corresponding intauf background process is initiated.
+About intauf handling, see #283525
+-       For product sets, for intauf-still=-23 it plays no role whether kposp.brokefile begins with *
+or with X, the product set is treated as "successfully provided with SN file"
+
+
+Messages about errors in the processing of a product set are sent via e-mail to the recipient
+stored in the config tool of the CAD Service.
+
+
+
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                             8
+3.2. Functionality (Glasprofi logic, AWDesk #283525)
+
+
+
+
+After an order with template set (V1) or with shape details about the external interface (i000filter)
+was stored in AWE, AWE writes a transfer record with the number of the order to sntransfer. The
+record is identified by the interface type "TEMPLA".
+While AWE is waiting for the generation of an SN file by the AWE CAD Service, the corresponding
+order in AWE is locked (kauf record with still=-23).
+The CAD Service checks at regular intervals (see polling interval in the config tool) whether there
+are records in sntransfer for processing. If the service finds a record, it marks it with its identifier
+(see transfer table sntransfer, serviceid) and sets the processing status to 1 (see transfer table
+sntransfer, steuerflag).
+The service then processes all items belonging to the order one after another. The BOM data from
+the AWE database is selected for each item. In particular, each item is assigned a template that
+forms the template for creating the SN file. The template to be used (the template name) is either
+stored in artprvfld for an article or it is taken over from kpostemplate.tempname. If a template is
+stored both via the article as well as in kpostemplate, the template of the article (artprvfld) is
+used.
+In addition to the BOM data, the parameters describing the template are selected from the table
+kpostemplate or kmodparam (kmodparam data is used if no kpostemplate data is found). From all
+this data, the SN file is generated with SN methods.
+If there is an error during generation of an SN file, the * is retained in kposp.brokefile, the order is
+in the end nevertheless reported with successful (still=-23) to intauf.
+
+
+A+W Software GmbH              EN-CONFIG-A+W Enterprise CAD Service.docx                                   9
+Reporting to AWE is done in a transaction:
+-       the dimensions of the surrounding rectangle are written to kmodparam (kmodparam1 –
+width, kmmodparam2 – height)
+-       kposp.brokefile is updated if the SN file could be created successfully. The name then
+begins with an "X"; the "*" is omitted
+-       The control flag in sntransfer is updated
+-       an insert is made in aufint
+
+
+After reporting, the corresponding intauf background process is initiated.
+About intauf handling, see #283525
+-       if for intauf-still=-23 in all items kposp.brokefile begins with X, the order is released
+-       if at least for an item kposp.brokefile begins with *, an info mail is written to the author
+(caution: can also be manr=-1, system service!), the order is not released
+-       as long as orders with -23 are locked, in the foreground you will see the message "SN file
+will be written"
+
+
+Cases
+#318779, #283525, #344951
+
+
+
+
+3.3. Functionality: background iTOE ([AW-57149])
+The background iTOE was implemented with ticket [ZW-57149].
+Goal of the development was a synchronization of AWE BOM and SN file in the background.
+In contrast to the iTOE in the foreground, with the background iTOE, the processings of the AWE
+BOM are taken over into the generated SN file. The logic is thus based on the previous
+processing of SN templates in the Glasprofi logic ("CAD Export type B - order processing" in the
+configuration).
+During the import of an EDI order, the synchronization of attached SN file (template) and AWE
+BOM is triggered by the generation of a corresponding order record in the table sntransfer for
+each order item.
+The AWE CAD Service processes the sntransfer record and calls the iTOE in the background for
+each order item.
+The information about the model of the SN file and the processings that exist in the SN file are
+stored by the AWE CAD Service in the table snexchange.
+The AWE back end is informed by an entry in the table aufint (order record with still=-23) that the
+background iTOE for the order is completed. The intauf then starts the processing of the order;
+that is, it updates the AWE BOM.
+During processing by the AWE CAD Service, the order remains locked in AWE with still=-23.
+
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                                10
+Error handling and the update to the order data (kposp, kmodparam) is done just as described in
+the Glasprofi logic.
+
+
+
+           Configuration in the Config Tool
+
+
+
+
+For detailed information, see the installation instructions for the A+W Enterprise CAD Service.
+
+
+
+           Background transfer table snexchange
+In the table snexchange, the results data of the synchronization of AWE BOM and SN file from
+AWE CAD Service are returned to the AWE back end.
+ Field              Data type            Description
+ Aufnr              Int                  Internal order number
+ Posnr              Smallint             Internal item number
+ Poskonr            smallint             Item header number
+ Seqnr              Smallint             Unique sequence number of a snexchange record
+                                         within an order item.
+ satztyp            Smallint             Record type
+
+
+A+W Software GmbH              EN-CONFIG-A+W Enterprise CAD Service.docx                          11
+                                            1 – result (return infos and flags)
+                                            2 – kpos
+                                            3 – kmodparam
+                                            4 – kstufparam
+                                            5 – snlive
+ Data                  Char(255)            Data string analogous to iTOE – Memrel transfer
+ Maxseqnr              smallint             Number of the sequence records or maximum
+                                            sequence number for an order item (for checking
+                                            whether all records are present)
+ izeit                 DATETIME YEAR        Time stamp insert
+                       TO SECOND
+ uzeit                 DATETIME YEAR  Time stamp update
+                       TO
+                       SECONDDATETIME
+                       YEAR TO SECOND
+ status                smallint             0 - default
+                                            1 – waiting for import in the AWE back end
+
+
+
+
+3.4. Transfer table sntransfer
+In the table sntransfer, the records for processing are transferred to the CAD Service. The table is
+structured in the following way:
+ No.      Field              Type            Description
+ 1        auftrnr            integer         Number of order or product set
+ 2        vorgang            smallint        Document type, for product sets: 14
+ 3        schnittstelle      char(6)         Possible values:
+                                             "CADEXP"
+                                             "TEMPLA"
+                                             "INTEXC"
+ 4        steuerflag         smallint        The control flag indicates in which status of
+                                             processing the record currently is.
+                                             0 – wait for processing
+                                             1 – being processed
+                                             98 – document contains several items and at least
+                                             one of these was already successfully processed
+                                             (that is, a SN file for the item was generated)
+                                             99 – successfully processed, record is then deleted
+                                             from sntransfer
+                                             Values > 800 and < 900 - error, product set will not
+                                             be released.
+
+
+
+A+W Software GmbH                 EN-CONFIG-A+W Enterprise CAD Service.docx                         12
+                                 Value > 900 - error, product set is cancelled or
+                                 contain incorrect order items the * in front of the
+                                 SN file name
+
+
+5     serviceid     char(40)     Here the CAD Service that processes the record
+                                 enters its identification. The ID currently consists of
+                                 the IP address of the computer on which the CAD
+                                 Service is running plus a sequential number if the
+                                 service is installed as parallel service. (However,
+                                 parallel services are not yet currently implemented
+                                 in the CAD Service.)
+6     izeit         datetime     Time stamp of the insert (currently filled by intauf)
+                    year to
+                                 (AWDesk #343919)
+                    second
+7     uzeit         datetime     Provided time stamp of the last update
+                    year to
+                    second       CAUTION: currently not yet filled by the program
+                                 logic of the CAD service, that is, currently has the
+                                 same time entry as "izeit"
+                                 (AWDesk #343919)
+
+
+
+
+A+W Software GmbH     EN-CONFIG-A+W Enterprise CAD Service.docx                            13
+3.5. Templates
+The templates described here are SN files with defined dimensioning parameters.
+The template files must be stored as master data in the directory $DATEI_REF_PFAD/template.
+The program AW CAD Designer (Shapes) must have access to the directory. The "template"
+subdirectory is set by the program. It cannot be changed.
+The dimensioning parameters must be created in AWE via the dialog Master Data > Keys >
+Products > Template Parameter for the respective template and provided with a parameter
+number (start value is 1). The saving of the data is done in the table xtempparam.
+The template parameters of an item are transferred via the external scheduling and stored in the
+sequence in which they appear in the interface file in the table kpostemplate (param1, param2, ...
+param73).
+If the CAD service transfers the template parameter to the SN, the parameter name from
+xtempparam is assigned to the corresponding parameter from kpostemplate using the
+numbering.
+Example:
+xtempparam.paramnr 1                     =>      kpostemplate.param1
+xtempparam.paramnr 2                     =>      kpostemplate.param2
+…
+xtempparam.paramnr 73                    =>      kpostemplate.param73
+
+
+A maximum of 73 parameters can be stored in kpostemplate.
+
+
+In xtempparam, kpostemplate and in the Config Tool, the name of the template must be stored
+WITHOUT specification of the subdirectory "template" and without the file extension (.sn).
+
+
+Artprvfld (Glasprofi logic)
+In the Glasprofi logic, the names of the template files are stored item-precisely in artprvfld.
+For this, a configurable field with the field designation "SN template" (alphanumeric) must be
+created (Master Data > Field Configuration > Item Field Configuration).
+In the item, SHIFT+F4 > configured fields can be used to store the appropriate template name.
+
+
+
+
+3.6. Generated SN files
+The generated SN files are stored in a subdirectory of $$SNFILES_DIR if the env variable
+SN_CADFILES_DIR is active ("ON"). (If the variable is not active, the $SNFILES_DIR is used directly.)
+The subdirectory and file name are specified by AWE. The string of subdirectory+filename is in
+kposp.brokefile.
+The subdirectory is composed of date specification ../YMM/DD/..
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                           14
+The file name consists of a number that is requested from a special number range.
+Up to the reporting of a successful processing of an sntransfer record to AWE, each SN file
+belonging to the product set is initially stored as tmp file; that means that the suffix _tmp is added
+to the file name. During the reporting, the suffix is removed.
+
+
+3.7. Reporting the finished processing to the intauf
+   (#366864)
+If the CAD service has processed an order, it must then be reported to intauf. The insert in the
+table aufint and the initiation of the correct intauf process (depending on the number of order
+items) happens via the alrpc service, which is triggered by the CAD Service. For this reason, when
+using the CAD Service, the alrpc service must also always be installed and configured.
+
+
+3.8. Sending e-mails
+The CAD Service sends e-mails in order to inform about errors that have occurred. The sending of
+an e-mail is recorded with a log entry in the CAD Service log (text "Send E-mail...").
+If no e-mail is received by the recipient although the sending is noted in the log and no error has
+occurred, it must be checked whether the firewall or a virus scanner is blocking the sending.
+
+
+3.9. Cleansing the table sntransfer (AWDesk #343919)
+With Version 6, a clean-up time for the sntransfer records can be configured in the CAD Service
+(see the installation instructions).
+The clean-up time can be specified differently for successfully processed records and records with
+error status.
+
+
+3.10.            Logging
+The CAD Service writes a log to C:\%ProgramData\A+W\Log.
+The name of the log file begins with "A+W Enterprise CAD Service"; also included in the file name
+is the date on which the file was created. The file has the extension ".awtrc".
+To set the log levels, see the installation instructions.
+
+
+3.11.            Error handling
+                 Table of possible error codes
+For all error codes, it applies: analyze associated log in order to determine the cause.
+ Error code       Description
+
+
+
+
+A+W Software GmbH               EN-CONFIG-A+W Enterprise CAD Service.docx                          15
+ 101             Error not identified more specifically
+ 102             Error in "Adjust technical views" (only Kermi)
+ 103             Error in "Driver export" (only Kermi)
+ 104             Error in "Machine check" (only Kermi)
+ 105             Error during the BOM transfer to SN
+ 106             Kauf record not found (usually because of still identifier, must be -23)
+ 107             Error when saving the SN file
+ 811             Partially processed with errors correctable after the fact, intermediate status
+                 (only Kermi)
+ 812             Completely processed with errors correctable after the fact, intermediate status
+                 (only Kermi)
+ 911             Partially processed with fatal errors, intermediate status (only Kermi)
+ 912             Fatal error, not identified in more detail
+
+
+
+                Fatal error for product set processing (only Kermi)
+If the CAD Service encounters an error when processing a product set before the SN file could be
+generated completely, it is a fatal error. A cancellation message (still=-13) is then written to
+aufint.
+The record processed remains with an error status > 900 in the transfer table sntransfer.
+
+
+                Error during machine export
+If the CAD Service encounters an error after the SN file was written (e.g. due to an error when
+generating the driver files), the product set is written to aufint with still=-123. The product set is
+then not released.
+The record processed remains with an error status > 800 and < 900 in the transfer table
+sntransfer.
+
+
+
+                Starting the intauf via socket connection is not possible
+The requested name is valid, but no data of the requested type was found
+Name resolution does not work -> customer's IT department must solve the problem
+No connection could be made because the target machine actively refused it
+Is the port used released?
+Is there a firewall that is hindering the connection?
+See also AWDESK 317863 and 324955
+
+
+
+A+W Software GmbH             EN-CONFIG-A+W Enterprise CAD Service.docx                              16
+            Treatment of database/table access errors ([AW-70733]
+      and [AW-83953])
+If there is an exception during establishment of the database connection or during access to a DB
+table, the error handling is done depending on the type of error.
+If the service can access the table sntranfer due to an existing lock in order to check whether
+there are new records for processing, there is an appropriate message in the log. The service then
+waits at least 30 seconds (hard-coded in the source code) or for the time span of the configured
+polling interval and then tries the access again.
+With other database errors, the service ends itself and initiates an automatic restart. The restart
+can also only be done if the "recovery properties" are configured appropriately in the properties
+of the AWE CAD service.
+The "recovery properties" are on the Windows "Services" dialog; if you mark the service, select
+the "Properties" with a right-click, and then change to the "Recovery" tab.
+When installing the service with the A+W SetupLauncher, the "recovery properties" are generally
+set so that a restart can be done.
+
+
+
+                code -10000, text <There is no SN instance.>
+There is a problem with the registration of the SN. SN must be registered again.
+To do this, open a console with Admin rights, change to the path of the SN installation (generally
+C:\Program Files (x86)\A+W\Techsoft\SN) and issue the following command:
+SN -regserver
+
+
+OR:
+An SN has gotten hung up (SN.exe) -> check in the Task Manager.
+See also AWDesk #451384
+
+
+
+             getSNVariablesFromFile() - code -10000, text <There is no
+      SN instance.>
+The path to the template file cannot be found. The openFile() function returns „0“ (=error).
+Obtaining the last error with getLastError() causes the message "code -10000, text <There is no SN
+instance.>". This error is misleading.
+       The template file must be in the subfolder "template" (without "s") specified by the
+program.
+See also [AW-103176], AWDesk #451384
+
+
+
+
+A+W Software GmbH            EN-CONFIG-A+W Enterprise CAD Service.docx                            17
+

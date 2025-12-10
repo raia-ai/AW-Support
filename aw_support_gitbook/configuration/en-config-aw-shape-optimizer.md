@@ -1,0 +1,156 @@
+---
+title: "EN CONFIG A+W Shape Optimizer"
+category: "configuration"
+product: "A+W Shape Optimizer"
+doc_type: "Configuration"
+language: "EN"
+tags: ["CONFIG", "A+W Shape Optimizer"]
+version: "1.0"
+last_updated: "2025-12-10"
+description: "Configuration                      +    A+W Shape Optimizer                                      english                              - INTERNAL - Change history             Date         Author               Remarks            Version           2021-04-07 JNI                    Original version   1.0     Content  1.   General Information                                             3 2.   Configuration via XOPT.CFG                                      4 3.   Adjustment of the behavior"
+source_file: "EN-CONFIG-A+W Shape Optimizer.pdf"
+---
+
+
+# EN CONFIG A+W Shape Optimizer
+
+     Configuration
+                     +
+
+
+
+A+W Shape Optimizer
+
+
+
+
+                                 english
+
+
+
+
+                         - INTERNAL -
+Change history
+
+
+          Date         Author               Remarks            Version
+          2021-04-07 JNI                    Original version   1.0
+
+
+
+
+Content
+
+1.   General Information                                             3
+2.   Configuration via XOPT.CFG                                      4
+3.   Adjustment of the behavior                                      5
+     3.1. Trimmed edges and borders                                  5
+          3.1.1. Size of the trimmed edge                            5
+     3.2. Rotation                                                   5
+     3.3. Turning/mirroring                                          6
+1. General Information
+The shape optimization is delivered as part of the optimization and has to be configured via the
+xopt.cfg. A majority of the behavior is also controlled by the input files (Opt2Dat.dat, Opt2Par.dat
+und Opt2Fa.dat). Here, settings that were previously specified in the xopt.cfg can be overwritten.
+
+
+
+
+A+W Software GmbH                EN-CONFIG-A+W Shape Optimizer.docx                                3
+2. Configuration via XOPT.CFG
+Here, all switches of the XOPT.CFG that influence the behavior of the shape optimization are
+listed and described.
+
+
+ NoShapeOpti=0                             0 = false                 If 1, the shape
+                                                                     optimization is
+                                           1 = true
+                                                                     deactivated.
+ LimitParTolerance=0                       1 bit -> MaxXX            Lifts the limitation with
+                                                                     help of which nested
+                                           2 bit -> MaxYY
+                                                                     results are evaluated as
+                                           3 bit -> MinXX            valid.
+                                           4 bit -> MinYY
+ MinBreakoutDistance=0                     mm                        Sets the size of the
+                                                                     trimmed edge. (does not
+                                                                     guarantee that a trimmed
+                                                                     edge will be created and
+                                                                     can easily be overwritten
+                                                                     via input files)
+ ShapeOptAngleForTrim=45                   °                         Angle with which it is
+                                                                     determined whether a
+                                                                     trimmed edge is required.
+ MaxRectangleWidth=0                       mm                        Catalog shapes with a
+                                                                     greater width than
+                                                                     specified here are not
+                                                                     used for the shape
+                                                                     optimization.
+ MaxRectangleHeights=0                     mm                        Catalog shapes with a
+                                                                     greater height than
+                                                                     specified here are not
+                                                                     used for the shape
+                                                                     optimization.
+ ShapeOptDevFromRectangle=0.1              mm                        OUT OF DATE
+
+
+
+
+A+W Software GmbH               EN-CONFIG-A+W Shape Optimizer.docx                               4
+3. Adjustment of the behavior
+3.1. Trimmed edges and borders
+Trimmed edges of the two original shapes used are removed and if necessary re-generated by the
+shape optimization. This behavior can only be adjusted via the switch ShapeOptAngleForTrim in
+the xopt.cfg. Switching off or forcing trimmed edges is not possible.
+
+
+Important:
+Due to this behavior, it can happen that the lite sizes displayed (in PatternViewer or PlanEdit) no
+longer fit. For display, the original sizes (incl. any trimmed edges removed) are used (entry sizes).
+
+
+3.1.1. Size of the trimmed edge
+The size of the trimmed edge is configured in different places:
+First and foremost, the KVALUE (global trimmed edge) value from the header of the Opt2Fa.dat is
+used.
+If this is 0.0 mm, the value RAND (smallest distance between X and Z cuts) from the Opt2Par.dat is
+used.
+
+
+
+
+3.2. Rotation
+Whether the shape optimization may rotate the glass used depends on the following
+circumstances:
+ Generally, rotation is allowed.           Opt2Par.dat -> ROTATE == 0 (1 means not allowed)
+ The priority of the individual lites is   Opt2Dat.dat -> Record XX -> PRI >= 5
+ 5 or higher.
+
+
+Note:
+If rotation is forbidden, the results of the shape optimization will be much worse.
+
+
+
+
+A+W Software GmbH                  EN-CONFIG-A+W Shape Optimizer.docx                                   5
+3.3. Turning/mirroring
+Whether the shape optimization may turn or mirror the glass used depends on the following
+circumstances:
+
+
+ Turning is generally allowed.           Opt2Par.dat -> sWenden1 == 1 && sWenden2 == 1
+ Both stockplates, have no coating.      Opt2Par.dat -> sBeschich1 == 0 && sBeschich2 == 0
+ Both stockplates are not patterned      Opt2Par.dat -> sGlasA1 == 0 && sGlasA2 == 0
+ glass.
+
+
+
+Note:
+If turning/mirroring is forbidden, the results of the shape optimization will be much worse.
+
+
+
+
+A+W Software GmbH                EN-CONFIG-A+W Shape Optimizer.docx                            6
+

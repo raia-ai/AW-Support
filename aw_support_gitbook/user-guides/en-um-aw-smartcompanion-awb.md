@@ -1,0 +1,3059 @@
+---
+title: "EN UM A+W SmartCompanion AWB"
+category: "user_manuals"
+product: "A+W"
+doc_type: "Unknown"
+language: "EN"
+tags: ["A+W", "SmartCompanion", "AWB"]
+version: "1.0"
+last_updated: "2025-12-10"
+description: "A+W Smart Companion  Manual     English Editorial                 Editorial             Revision overview of the documentation              2024-06      Revision of part Overview              2021-03      Original version               Notes             This document is intended only for end users of A+W Smart Companion.             The documentation and software described are licenses that must be used or             copied only in accordance with the conditions of our license agreement. The"
+source_file: "EN-UM-A+W-SmartCompanion-AWB.pdf"
+---
+
+
+# EN UM A+W SmartCompanion AWB
+
+A+W Smart
+Companion
+
+Manual
+
+
+
+
+English
+Editorial
+
+
+
+
+            Editorial
+            Revision overview of the documentation
+
+            2024-06      Revision of part Overview
+
+            2021-03      Original version
+
+
+            Notes
+            This document is intended only for end users of A+W Smart Companion.
+            The documentation and software described are licenses that must be used or
+            copied only in accordance with the conditions of our license agreement. The
+            content of the documentation serves only as information and can be changed
+            without prior notice at any time. The text and illustrations were compiled with
+            the utmost care. However it is not possible to exclude errors completely. A+W
+            Software GmbH cannot be held liable for errors or inaccuracies, unless they
+            can be attributed to wilful or grossly negligent action.
+            This document describes the full scope of A+W Smart Companion.
+
+            Copyrights
+            © 2024, A+W Software GmbH all rights reserved, also those for reprinting, the
+            making of copies and translation.
+            The documentation may be copied, completely or in part, saved in an archiving
+            system or transferred in any other form only in accordance with our license
+            agreement. Transmission of the documentation is not allowed, neither elec-
+            tronically, nor mechanically, nor by recording or in any other way, without A+W
+            Software GmbH's prior written approval.
+
+            Trademarks
+            All hardware and software designations mentioned in the documentation can
+            also be registered trademarks or other industrial property rights of third parties.
+            The property rights of third parties must be observed.
+
+
+
+
+2                                                                   A+W Smart Companion
+                                                                                                 Editorial
+
+
+
+
+                      Display conventions
+                      Individual elements of the sentences are displayed in a special form. The
+                      meanings are:
+
+                      Italics                  marks character strings describing the software
+                                               elements, e.g. the Buckets dialog.
+
+                      Bold                     marks character strings to be entered via keyboard, e.g.:
+                                               Enter 0.
+
+                      >                        shows the way to open a dialog, e.g. Display > Filler
+                                               orders > Context menu - List > Order overview.
+
+                      []                       square brackets mark the buttons in the dialog, e. g.
+                                               [OK] to save the data.
+
+                      <>                       pointed brackets refer to keys or shortcuts on the
+                                               keyboard, e. g. <F1> is used to open the online help
+
+
+                      Contact
+
+                      A+W Software GmbH
+                      Siemensstr. 3                          Tel.: +49 641 96620 0
+                      D-35463 Fernwald                       E-Mail: info@a-w.com
+                      Germany                                Web: http://www.a-w.com
+
+
+
+
+A+W Smart Companion                                                                                    3
+Editorial
+
+
+
+
+4           A+W Smart Companion
+Content
+Overview                                                                   A        Override stock location ....................................... C-72
+                                                                                     Override box stock ........................................... C-73
+Tutorial .................................................................. A-9      Assign registration point ................................... C-74
+Documentation ...................................................... A-11         Booking stock movements .................................... C-76
+Basics ................................................................... A-12   Booking stock withdrawals ................................... C-79
+ A+W Smart Companion - Basic License ............ A-12                              Stock withdrawal with order ............................... C-79
+ A+W Smart Companion - Production ................. A-12                            Stock withdrawal without order .......................... C-82
+ A+W Smart Companion – Stock ........................ A-12                        Info page ............................................................... C-84
+Operation ............................................................. A-13         Inventory .......................................................... C-84
+ Module selection ................................................ A-13              Checklist .......................................................... C-89
+ Hardware mode ................................................. A-13               Editing a box ...................................................... C-93
+  Smartphone ..................................................... A-14             Settings .............................................................. C-99
+  Zebra scanner ................................................. A-14
+ Messages and notices ....................................... A-15                Index                                                                     D
+  Messages ........................................................ A-16
+     Optical message ............................................ A-16
+     Acoustic message ......................................... A-16
+ Filter functions ................................................... A-17
+
+Production                                                                 B
+
+Tutorial ................................................................ B-21
+Login .................................................................... B-23
+Menu bar .............................................................. B-26
+Main page of the Production module ................... B-28
+Machine status ..................................................... B-34
+Status page .......................................................... B-35
+Breakage page ..................................................... B-38
+Info page .............................................................. B-39
+  Rack information ................................................ B-40
+  Order status ....................................................... B-43
+  Order location .................................................... B-48
+  Registration point status .................................... B-50
+  Rack shifting ...................................................... B-51
+  Actual rack weight .............................................. B-53
+  Rack inventory ................................................... B-54
+Settings ................................................................ B-57
+
+Stock                                                                      C
+
+Tutorial ................................................................ C-63
+Login .................................................................... C-65
+Menu bar .............................................................. C-66
+    Goods receipt ................................................ C-66
+    Stock movement ............................................ C-66
+    Stock withdrawal ........................................... C-66
+    Info page ....................................................... C-66
+    Settings page ................................................ C-67
+Booking goods receipt .......................................... C-68
+
+
+A+W Smart Companion                                                                                                                                         5
+6   A+W Smart Companion
+A   A+W Smart Companion
+    Overview
+      Revision overview of the module
+
+      06-2024      Acoustic notification added
+
+      2021-03      Original version
+
+
+      This module provides information on the following subjects
+       Tutorial
+
+
+
+
+A-8                                              A+W Smart Companion Overview
+A   A+W Smart Companion
+    Overview
+
+
+
+
+                     Tutorial
+                                                                                                                         Tutorial
+
+
+
+
+       This section provides information on the following subjects:
+        Documentation
+        Basics
+        Operation
+
+
+
+
+       Documentation ...................................................................................................... A-11
+       Basics ................................................................................................................... A-12
+        A+W Smart Companion - Basic License ........................................................... A-12
+        A+W Smart Companion - Production ................................................................ A-12
+        A+W Smart Companion – Stock ....................................................................... A-12
+       Operation .............................................................................................................. A-13
+        Module selection ............................................................................................... A-13
+        Hardware mode ................................................................................................. A-13
+           Smartphone ................................................................................................... A-14
+           Zebra scanner ................................................................................................ A-14
+        Messages and notices ....................................................................................... A-15
+           Messages ....................................................................................................... A-16
+             Optical message ......................................................................................... A-16
+             Acoustic message ...................................................................................... A-16
+        Filter functions ................................................................................................... A-17
+
+
+
+
+A-10                                                                         A+W Smart Companion Overview
+Tutorial                                                                            Documentation
+
+
+
+
+                     Documentation
+                     The tutorial for A+W Smart Companion will show you how to make bookings
+                     in the production and stock areas. Starting with goods receipt to production
+                     bookings, on through to inventory.
+
+                     Required knowledge
+                     The tutorial is directed at customers who book lites into stock and production.
+                     Knowledge about how to operate a smartphone is assumed. This specifically
+                     includes the following gestures: clicking, swiping, zooming in and zooming out.
+
+
+
+
+A+W Smart Companion Overview                                                                  A-11
+Basics                                                                           Tutorial
+
+
+
+
+         Basics
+         The A+W Smart CompanionA+W Smart Companion is the smart companion
+         for plant data collection. It can be used on mobile end user devices with the
+         iOS and Android operating systems and therefore replaces the classic bar-
+         code scanner.
+         Depending on the requirements, the A+W Smart Companion can be equipped
+         with various functionalities.
+
+
+         A+W Smart Companion - Basic License
+         The Basic License is the basic module of the A+W Smart Companion. It can
+         be downloaded as an app from the App Store (iOS) or the Play Store (An-
+         droid). Only through a connection with the back end can the following function-
+         alities be enabled.
+
+
+         A+W Smart Companion - Production
+         The Production module provides all booking functionalities that you need in
+         the A+W Produktion main module. Reasons for breakage or status messages
+         for racks and trucks can be selected directly from a menu. Therefore, no addi-
+         tional bar code tables are required. Furthermore, you can display the content
+         of a rack, the production status or the location of individual items of an order
+         in production directly on the mobile end user device.
+
+
+         A+W Smart Companion – Stock
+         The Stock module supports A+W Software stock management in a mobile ap-
+         plication. Simple, completely digital, and paperless delivery of POs (also with
+         direct production parts), stock transactions, and stock removals.
+         It is currently integrated with the A+W Enterprise A+W Business modules Pur-
+         chase Order and Stock.
+         The Inventory module of the A+W Smart Companion is already integrated into
+         the Stock module.
+
+            License
+            As with other scanners (Denso, WinCE, etc.), each device with the A+W
+            Smart Companion requires a database license!
+
+
+
+
+A-12                                                 A+W Smart Companion Overview
+Tutorial                                                                                Operation
+
+
+
+
+                     Operation
+                     In principle, the A+W Smart Companion can be operated very intuitively. Nev-
+                     ertheless, the individual operating and display elements will be explained in
+                     the following sections. A+W Smart Companion can be operated using the
+                     scan function or using manual inputs. The appropriate steps will be explained
+                     below.
+
+
+                     Module selection
+                     After starting and authentication of A+W Smart Companion, select the desired
+                     module.
+
+                     Icon         Module
+
+                                  Production
+
+
+
+                                  Stock
+
+
+
+                     Tab. 1       Selection of the module
+
+                     A+W Smart Companion saves the last selected application and automatically
+                     selects it after a restart.
+                     The module can be changed in App selection at any time.
+                      Production: Tutorial, “App selection” on page B-58
+                     Currently, the Production and Stock modules are supported – additional mod-
+                     ules are still under construction.
+
+
+                     Hardware mode
+                     A+W Smart Companion can be used with the following mobile end user devic-
+                     es:
+                     •   Smartphone
+                     •   Zebra scanner
+                     Depending on the end user device used, the scan area may look as follows:
+
+
+
+
+A+W Smart Companion Overview                                                                A-13
+Operation                                                                             Tutorial
+
+
+
+
+            Smartphone
+
+
+
+
+            Fig. A-1      Smartphone: Scan area
+
+
+            There is a blue line in the middle; use it to scan the appropriate barcodes with
+            the camera. The Flashlight icon is at the top left. In case of weak ambient light-
+            ing, you can switch on the flashlight by touching the icon.
+
+
+            Zebra scanner
+            If you are using a Zebra scanner, the screen will look as follows:
+
+
+
+
+            Fig. A-2      Zebra scanner: Scan area
+
+
+            The barcode that you use to scan the appropriate barcodes is in the middle.
+
+
+
+
+A-14                                                     A+W Smart Companion Overview
+Tutorial                                                                                Operation
+
+
+
+
+                     Messages and notices
+                     The following messages and notices apply for both modules:
+                     Green dot
+
+
+
+
+                     The green dot indicates that the booking was transferred successfully to the
+                     back end.
+                     Yellow dot
+
+
+
+
+                     The yellow dot indicates a booking in offline mode. This booking has not yet
+                     been transferred to the back end.
+                     Red dot
+
+
+
+
+                     The red dot indicates that the booking to the back end failed.
+                     Gray dot
+
+
+
+
+                     The gray dot indicates an outstanding booking for the back end.
+
+
+
+
+A+W Smart Companion Overview                                                                A-15
+Operation                                                                          Tutorial
+
+
+
+
+            Messages
+            In A+W Smart Companion, there are two message types:
+            •   Optical message
+            •   Acoustic message
+
+            Optical message
+            After each booking, A+W Smart Companion displays a corresponding notice
+            at the upper edge of the screen.
+            There are two types of these:
+
+            Green message
+
+
+
+
+            A green message indicates that the booking was made successfully and the
+            data transferred to the back end.
+
+            Red message
+
+
+
+
+            A red message indicates that the booking was not made successfully and the
+            data was not transferred to the back end. In this case, it is advisable for the
+            employee to contact the administration.
+
+            Acoustic message
+            A positive tone sounds if scanning is successful and a negative tone sounds if
+            scanning is unsuccessful.
+
+
+
+
+A-16                                                   A+W Smart Companion Overview
+Tutorial                                                                                         Operation
+
+
+
+
+                     Filter functions
+                     The filter function is always available in A+W Smart Companion. Its purpose
+                     is to limit a results list step by step using various criteria. The filter function can
+                     be used alphabetically or numerically.
+                     Example:
+
+
+
+
+                     Fig. A-3       Total hit quantity
+
+
+
+
+A+W Smart Companion Overview                                                                          A-17
+Operation                                                                  Tutorial
+
+
+
+
+            Alphabetical search:
+
+
+
+
+            Fig. A-4     Alphabetical hit quantity
+
+
+            Numeric search:
+
+
+
+
+            Fig. A-5     Numeric hit quantity
+
+
+
+
+A-18                                                 A+W Smart Companion Overview
+B   A+W Smart Companion
+    Production
+       Revision overview of the module
+
+       2021-03      Original version
+
+
+       This module provides information on the following subjects
+        Tutorial
+
+
+
+
+B-20                                     A+W Smart Companion Production
+B   A+W Smart Companion
+    Production
+
+
+
+
+                     Tutorial
+                                                                                                                          Tutorial
+
+
+
+
+       This section provides information on the following subjects:
+        Login
+        Menu bar
+        Main page of the Production module
+        Machine status
+        Status page
+        Breakage page
+        Info page
+        Settings
+
+
+       Login ..................................................................................................................... B-23
+       Menu bar ............................................................................................................... B-26
+       Main page of the Production module .................................................................... B-28
+       Machine status ...................................................................................................... B-34
+       Status page ........................................................................................................... B-35
+       Breakage page ..................................................................................................... B-38
+       Info page ............................................................................................................... B-39
+         Rack information ............................................................................................... B-40
+         Order status ....................................................................................................... B-43
+         Order location .................................................................................................... B-48
+         Registration point status .................................................................................... B-50
+         Rack shifting ...................................................................................................... B-51
+         Actual rack weight ............................................................................................. B-53
+         Rack inventory ................................................................................................... B-54
+       Settings ................................................................................................................. B-57
+
+
+
+
+B-22                                                                       A+W Smart Companion Production
+Tutorial                                                                                          Login
+
+
+
+
+                     Login
+                     In order to reach the module's main page, an employee barcode has to be
+                     scanned or entered.
+                     This screen appears automatically if you have selected the Production mod-
+                     ule.
+
+
+
+
+                     Fig. B-1      Scan area (smartphone)
+
+
+                     The upper area of the screen is for scanning. There is a blue line in the middle;
+                     use it to scan the appropriate barcodes with the camera. The Flashlight icon
+                     is at the top left. In case of weak ambient lighting, you can switch on the flash-
+                     light by touching the icon. Please don't forget to switch the flashlight off again.
+
+
+
+
+                     Fig. B-2      Button for scanning
+
+
+                     In the middle of the screen, there is a button for scanning the employee bar-
+                     code. When you have placed the blue line on the barcode in question, touch
+                     [Scan]. The barcode is scanned.
+
+
+
+
+                     Fig. B-3      Lower area of the screen
+
+
+
+
+A+W Smart Companion Production                                                                    B-23
+Login                                                                         Tutorial
+
+
+
+
+        The Employee icon and the Back to app selection function are on the lower
+        part of the screen. With the Employee icon, you have the opportunity to enter
+        the employee barcode manually using the keyboard.
+        If you touch the Back to app selection function, you return to the Module se-
+        lection screen.
+
+
+         Here's how to scan the employee barcode
+        1 Hold the smartphone with the blue line on the barcode to be scanned. If you
+          are in a dark place when scanning, you can switch on the flashlight by
+          touching the icon. Please remember to switch the flashlight off again.
+        2 Touch [Scan].
+        3 The barcode is scanned and you will be on the application's main page.
+        4 The employee logged in is indicated at the top right of the display.The em-
+          ployee logged in is indicated at the top right of the display.
+
+
+
+
+         Here's how to enter the employee barcode
+        1 Touch the button.
+
+
+
+
+        2 The following screen opens
+
+
+
+
+        3 Touch the Enter employee ID field. The numeric keypad opens.The numer-
+          ic keypad opens.
+        4 Enter the employee ID.
+        5 Touch [Save].Touch [Save]. The screen closes and you are on the applica-
+          tion's main page.
+
+
+B-24                                             A+W Smart Companion Production
+Tutorial                                                                                      Login
+
+
+
+
+                     6 The employee logged in is indicated at the top right of the display.
+
+
+
+
+A+W Smart Companion Production                                                                B-25
+Menu bar                                                                        Tutorial
+
+
+
+
+           Menu bar
+           The menu bar is at the lower edge of the screen in each module. With it, you
+           can switch between the individual functions of A+W Smart Companion.
+
+           Scan
+
+
+
+
+           Use this function to scan the barcodes in question.
+
+           Status page
+
+
+
+
+           Messages are issued here that report a rack or truck as empty or delivered.
+            Status page
+
+           Breakage page
+
+
+
+
+           The breakage bookings are made here.
+            Breakage page
+
+           Info page
+
+
+
+
+           You can query information about rack assignments and order status here.
+            Info page
+
+
+
+
+B-26                                                A+W Smart Companion Production
+Tutorial                                                                           Menu bar
+
+
+
+
+                     Settings page
+
+
+
+
+                     The most important settings for the A+W Smart Companion are made here.
+                      Settings
+
+
+
+
+A+W Smart Companion Production                                                         B-27
+Main page of the Production module                                                              Tutorial
+
+
+
+
+                        Main page of the Production
+                        module
+                        After you have logged in, you're on the module's main page. At the top of the
+                        screen, you will see the modes for scanning. A+W Smart Companion offers
+                        two modes:
+                        •   Single
+                        •   Continuous
+
+                        Individual
+                        This is the scan mode for individual barcodes. In this mode, each label must
+                        be scanned individually.
+
+                        Continuous
+                        In this mode, several barcodes can be scanned at the same time. This mode
+                        is only allowed for product barcodes. It is activated with the [Scan] button and
+                        ended with the [Stop Scan] button.
+                        Beneath this, there is an area for scanning the barcodes, the flashlight, and
+                        the button for scanning. You should already be familiar with these elements
+                        from the login process.
+                        Then the elements appear that are used to book the normal rack and lite trans-
+                        actions:
+
+                        Registration point
+
+
+
+
+                        Registration point Typical registration points are:
+                        • Trucks
+                        • Storage locations
+                        • Product areas
+                        • Machines or machine parts
+                        The registration of a registration point is mandatory. You can either scan the
+                        registration point or enter the barcode manually.
+
+
+
+
+B-28                                                               A+W Smart Companion Production
+Tutorial                                                       Main page of the Production module
+
+
+
+
+                      How to scan a lite at a registration point
+                        The registration of a registration point is mandatory.
+                     1 Hold the smartphone with the blue line on the lite barcode to be scanned.
+                     2 Touch [Scan].
+                     3 The registration point scanned appears on the display.
+
+
+
+
+                      Here's how to book a lite to a registration point (manually)
+                     1 Touch the [Registration point] element. A page with the same name opens.
+                     2 From the Select registration point combo box, select the appropriate regis-
+                       tration point.
+                     3 From the Status combo box, select the appropriate status. The following
+                       values are possible:
+                        •   Maintenance
+                        •   Set-up
+                        •   Pause
+                        •   Breakage
+                        •   Maintenance
+                         Chapter “Machine status” on page B-34
+                     4 Touch [Save].
+                     5 The registration point entered appears on the display.
+
+
+
+
+                     Racks
+
+
+
+
+                     Rack The registration of a rack is optional! You can either scan the rack or en-
+                     ter the barcode manually.
+
+
+
+
+A+W Smart Companion Production                                                                 B-29
+Main page of the Production module                                                           Tutorial
+
+
+
+
+                         Here's how to scan a rack
+                        1 Hold the smartphone with the blue line on the rack barcode to be scanned.
+                        2 Touch [Scan].
+                        3 The rack scanned appears on the display.
+
+
+
+
+                        The green dot indicates that the booking was transferred successfully to the
+                        back end.
+
+
+                         Here's how to enter the rack barcode
+                        1 Touch the button.
+
+
+
+
+                        2 The following screen opens
+
+
+
+
+B-30                                                             A+W Smart Companion Production
+Tutorial                                                     Main page of the Production module
+
+
+
+
+                     3 Touch the Enter rack barcode field. An alphanumeric keyboard opens.
+                     4 Enter the rack barcode.
+                     5 Touch [Save]. The screen closes and you are on the application's main
+                       page.
+                     6 The scanned rack appears on the display.
+
+
+
+
+                     The green dot indicates that the booking was transferred successfully to the
+                     back end.
+
+                     Product
+
+
+
+
+                     Product Typical products are:
+                     • Single lite
+                     • IG
+                     • Spacer
+                     In continuous scan mode, the number of scanned products and a small list
+                     symbol are displayed next to the product symbol. If you touch this symbol, a
+                     list of the scanned barcodes is displayed.
+
+
+                      Here's how to scan a product
+                     1 Hold the smartphone with the blue line on the product barcode to be
+                       scanned.Hold the smartphone with the blue line on the product barcode to
+                       be scanned.
+                     2 Touch [Scan].
+                     3 The product scanned appears on the display.
+
+
+
+
+                     The green dot indicates that the booking was transferred successfully to the
+                     back end.
+
+
+
+
+A+W Smart Companion Production                                                              B-31
+Main page of the Production module                                                           Tutorial
+
+
+
+
+                         Here's how to enter the product barcode
+                        1 Touch the button.
+
+
+
+
+                        2 The following screen opens
+
+
+
+
+                        3 Touch the Enter product barcode field. The numeric keypad opens.
+                        4 Enter the product barcode.
+                        5 Touch [Save]. The screen closes and you are on the application's main
+                          page.
+                        6 The scanned product appears on the display.
+
+
+
+
+                        The green dot indicates that the booking was transferred successfully to the
+                        back end.
+
+
+                         Here's how to scan a product in continuous scan mode
+                        1 Hold the smartphone with the blue line on the product barcode to be
+                          scanned.
+                        2 Touch [Scan].
+                        3 Move the blue line over all barcodes to be scanned. Each scanned barcode
+                          is signaled by haptic feedback.
+                        4 Touch [End Scan].
+
+
+
+
+B-32                                                             A+W Smart Companion Production
+Tutorial                                                      Main page of the Production module
+
+
+
+
+                     5 The products scanned appear on the display.
+
+
+
+
+                     The green dot indicates that the booking was transferred successfully to the
+                     back end. Next to the number of scanned products, you will see a small list
+                     symbol. If you touch this symbol, a list of the scanned barcodes is displayed.
+
+
+
+
+A+W Smart Companion Production                                                                B-33
+Machine status                                                                        Tutorial
+
+
+
+
+                 Machine status
+                 The machine status can be used to determine the current operating state of a
+                 machine (registration point). Depending on the master data, these can be:
+                 •   Off
+                 •   Maintenance
+                 •   Error
+                 •   Operation, ...
+
+
+
+
+                 You can change the machine status via the main page.
+
+
+                  Here's how to change the machine status
+                 1 Touch the Registration point element on the main page. A page with the
+                   same name opens.
+                 2 Open the Select status combo box and select the desired status.
+                 3 Touch [Save]. The page closes and you are back on the main page.
+
+
+
+
+B-34                                                     A+W Smart Companion Production
+Tutorial                                                                                Status page
+
+
+
+
+                     Status page
+                     This page is used to book a rack or registration points empty or off-site.
+                     For this, you select the appropriate action (the name on the button depends
+                     on the master data stored) and scan the barcode of the registration point, the
+                     rack or the product.
+                     The barcode can also be entered manually by touching the notice text.
+
+
+
+
+                     On this screen, a truck was reported empty (this is clear from the empty cargo
+                     space on the truck icon).
+                     There are two buttons in the Select status area:
+                     •   Start: This button starts an empty report of a registration point or a rack.
+                         The name on the button depends on the master data stored.The name on
+                         the button depends on the master data stored.
+                     •   Delivered: Use this button to book a product, a rack or a registration point
+                         as delivered. The name on the button depends on the master data stored.
+                     This screen may contain the following elements:
+
+                     Empty rack
+
+
+
+
+                     Full, delivered rack
+
+
+
+
+                     Empty truck (registration point)
+
+
+
+
+A+W Smart Companion Production                                                                    B-35
+Status page                                                                        Tutorial
+
+
+
+
+              Full (delivered) truck (registration point)
+
+
+
+
+               Here's how to scan an empty rack
+              1 Touch [Start]. The button turns blue.
+              2 Scan the barcode of the rack in question.
+              3 The scanned rack appears in the area 2 Scan in the form of an empty rack.
+              4 The notice The actual rack weight was reset appears at the top of the
+                screen.
+
+                 The actual rack weight was reset
+                 This notice only appears if a rack weight was present.
+
+
+               Here's how to scan a full (delivered) rack
+              1 Touch [Delivered]. The button turns blue.
+              2 Scan the barcode of the rack in question.
+              3 The scanned rack appears in the area 2 Scan in the form of a full rack.
+
+
+               Here's how to scan a delivered product
+              1 Touch [Delivered]. The button turns blue.
+              2 Scan the barcode of the product in question.
+              3 The scanned product appears in the area 2 Scan with an appropriate icon.
+
+
+               Here's how to book an empty rack (manually)
+              1 Touch [Start]. The button turns blue.
+              2 In the area 2 Scan, touch the notice Or enter the barcode manually.
+              3 The Assign status screen opens.
+              4 In the Enter rack barcode field, enter the appropriate barcode.
+              5 Touch [Save].
+              6 The rack entered appears in the area 2 Scan in the form of a full rack.
+              7 The notice The actual rack weight was reset appears at the top of the
+                screen.
+
+                 The actual rack weight was reset
+                 This notice only appears if a rack weight was present.
+
+
+
+
+B-36                                                    A+W Smart Companion Production
+Tutorial                                                                              Status page
+
+
+
+
+                      Here's how to book a rack in a full (delivered) status (manually)
+                     1 Touch [Start]. The button turns blue.
+                     2 In the area 2 Scan, touch the notice Or enter the barcode manually.
+                     3 The Assign status screen opens. Touch the full rack.
+                     4 In the Enter rack barcode field, enter the appropriate barcode.
+                     5 Touch [Save].
+                     6 The rack entered appears in the area 2 Scan in the form of a full rack.
+
+
+                      Here's how to scan an empty truck
+                     1 Touch [Start]. The button turns blue.
+                     2 Scan the barcode of the truck in question.
+                     3 The scanned truck appears in the area 2 Scan with an empty cargo area.
+
+
+                      Here's how to scan a full (delivered) truck
+                     1 Touch [Delivered]. The button turns blue.
+                     2 Scan the barcode of the truck in question.
+                     3 The scanned truck appears in the area 2 Scan with a full cargo area.
+
+
+                      Here's how to book an empty truck (manually)
+                     1 Touch [Start]. The button turns blue.
+                     2 In the area 2 Scan, touch the notice Or enter the barcode manually.
+                     3 The Assign status screen opens. Touch the truck with the empty cargo ar-
+                       ea.
+                     4 Open the Select truck combo box. The combo box includes all trucks cre-
+                       ated at your company.
+                     5 Select the desired truck.
+                     6 Touch [Save].
+                     7 The selected truck appears in the area 2 Scan with an empty cargo area.
+
+
+                      Here's how to book a rack in a full (delivered) status (manually)
+                     1 Touch [Delivered]. The button turns blue.
+                     2 In the area 2 Scan, touch the notice Or enter the barcode manually.
+                     3 The Assign status screen opens. Touch the truck with the full cargo area.
+                     4 Open the Select truck combo box. The combo box includes all trucks cre-
+                       ated at your company.
+                     5 Select the desired truck.
+                     6 Touch [Save].
+                     7 The selected truck appears in the area 2 Scan with a full cargo area.
+
+
+A+W Smart Companion Production                                                               B-37
+Breakage page                                                                       Tutorial
+
+
+
+
+                Breakage page
+                Products can be reported broken on this page. The breakage reason is select-
+                ed first and then the product is scanned. Possible reasons for breakage can
+                be:
+                •   Scratches
+                •   Breakage
+                •   Bottle glass type
+                •   Defective coating
+                The breakage reasons are defined individually in the database.
+
+
+                 Here's how to scan a break
+                1 Open the Select breakage reason combo box.
+                2 Select the appropriate breakage reason.
+                3 Hold the smartphone with the blue line on the product barcode to be
+                  scanned.
+                4 Touch [Scan].
+                5 The scanned product appears in the area 2 Scan.
+
+
+
+
+                 Here's how to enter a break (manually)
+                1 Open the Select breakage reason combo box.
+                2 Select the appropriate breakage reason.
+                3 Touch the element
+
+
+
+
+                4 In the Enter product barcode field, enter the appropriate product number.
+                5 Touch [Save].
+                6 The scanned product appears in the area 2 Scan.
+
+
+
+
+B-38                                                    A+W Smart Companion Production
+Tutorial                                                                                  Info page
+
+
+
+
+                     Info page
+
+
+
+
+                     Information about racks or orders can be called up with this page.
+                     •   Information
+                     •   Actions
+                     The Information area contains:
+                     •   Rack information
+                     •   Order status
+                     •   Order location
+                     The Actions area contains:
+                     •   Registration point status
+                     •   Rack shifting
+                     •   Actual rack weight
+                     •   Rack inventory
+
+
+
+
+A+W Smart Companion Production                                                               B-39
+Info page                                                                           Tutorial
+
+
+
+
+            Rack information
+            This is where there is information about rack assignment.
+
+
+
+
+            After you have scanned the rack barcode, an appropriate screen appears:
+
+
+
+
+            Fig. B-4     Rack information
+
+
+            Explanation of the elements
+
+
+
+
+            In this area, you can see that rack number 15 is in dispatch. It has been
+            weighed and it weighs 237.06 kg. There are 47 lites on the rack, at least one
+            item is not complete (with respect to the item quantity).
+            If the rack has not been weighed, the rack weight, loading, and total weight are
+            displayed.
+
+
+B-40                                                  A+W Smart Companion Production
+Tutorial                                                                                   Info page
+
+
+
+
+                     In this area, you can see which is the customer in question and the number of
+                     lites ordered per item. In the example above, there are 10 lites ordered for the
+                     customer Glass Constructor Unlimited for item 3 of the order 20672 on this
+                     rack In addition, the dimensions are displayed. The checkmark in the green
+                     dot indicates that the item is complete.
+
+
+
+
+                     In this example, you can see that the customer Johnson & Son has ordered
+                     40 lites; at the moment, however, only 18 of these lites are on the rack. In the
+                     area below, you can see the composition of the 40 lites. Lites are still missing
+                     from the first three items (9, 11 and 17). You can also see from the Xes in the
+                     red dots that the items are not yet complete. Only item 19 is complete.
+
+
+                      Here's how to scan rack information
+                     1 Touch the element. The Rack information page opens.
+                     2 Scan the rack for which the information should be displayed.
+                     3 Touch [Scan].
+                     4 The rack information is displayed.
+
+
+                      Here's how to call up rack information with an entry
+                     1 Touch the element. The Rack information page opens.
+                     2 Touch the element
+
+
+
+
+A+W Smart Companion Production                                                                 B-41
+Info page                                                                        Tutorial
+
+
+
+
+            3 The Rack information page opens. In the Enter rack barcode field, enter the
+              appropriate rack number.
+            4 Touch [Save].
+            5 The rack information is displayed.
+
+
+
+
+B-42                                                 A+W Smart Companion Production
+Tutorial                                                                                  Info page
+
+
+
+
+                     Order status
+                     Here's the information about order status. Here, you can learn everything
+                     about the production progress of an order, its items, and their subparts. Simi-
+                     larly, you can see for which machines on which dates and in which shift the
+                     individual steps are planned.
+
+
+
+
+                     After you have scanned the product barcode, an appropriate screen ap-
+                     pears:After you have scanned the product barcode, an appropriate screen ap-
+                     pears:
+
+
+
+
+                     Fig. B-5     Order status
+
+
+                     Explanation of the elements
+
+                     Cust Next to the element, the customer's name and address are displayed.
+
+
+
+
+A+W Smart Companion Production                                                                B-43
+Info page                                                                            Tutorial
+
+
+
+
+            Delivery date Next to the element, the delivery date is displayed.
+
+
+
+
+            Header parts
+
+
+
+
+            In this area, the header part of item 1 is displayed with its dimensions. As soon
+            as the production item deviates from the commercial item, both values are dis-
+            played. Here, the product item is the value in brackets.
+            Next to it are the product name and customer consignment.
+
+            Processing
+
+
+
+
+            This element displays a processing. Next to the element, there is an indication
+            of which processing is the one in question.Next to the element, there is an in-
+            dication of which processing is the one in question.
+
+            Processing machine
+
+
+
+
+            This element depicts the processing machine. Next to the element, there is an
+            indication of which is the processing machine.
+
+
+
+
+            In the first line, you see the completion of the step. In the example above, this
+            means that 8 of 8 lites are finished. The checkmark in the green dot means
+            that everything in this production step has been done.
+            In the line below that, you can see the planned production date and the
+            planned shift.
+
+
+
+
+B-44                                                   A+W Smart Companion Production
+Tutorial                                                                                    Info page
+
+
+
+
+                     The X in the red dot means that production has not yet been started.
+
+
+
+
+                     The line through the yellow dot means that part of the total quantity has already
+                     been processed or packed. In the example above, 12 of 25 pieces are fin-
+                     ished.
+
+
+
+
+                     If you touch this element, you can display the BOM under the header part.
+
+
+
+
+                     The blue edge on the left side represents the depth of the BOM. The dots at
+                     the end of the line provide information about the production progress of the in-
+                     dividual parts.
+
+
+
+
+A+W Smart Companion Production                                                                  B-45
+Info page                                                                         Tutorial
+
+
+
+
+            Explanation of the elements
+
+            Float This element represents a float. Next to it, the article name and dimen-
+            sions are displayed.
+
+
+
+
+            TG This element represents tempered glass. Next to it, the article name and
+            dimensions are displayed.
+
+
+
+
+            Spacer This element represents a spacer.This element represents a spacer.
+            Next to it, the article name and dimensions are displayed.
+
+
+
+
+            GrillGrill This element represents a muntin. Next to it, the article name and
+            dimensions are displayed.
+
+
+
+
+            IG This element represents an IG with muntins.This element represents an IG
+            with muntins. Next to it, the article name and dimensions are displayed.
+
+
+
+
+            Laminated glass This element represents a LAMI. Next to it, the article name
+            and dimensions are displayed.
+
+
+
+
+            Foil This element represents a foil. Next to it, the article name and dimen-
+            sions are displayed.
+
+
+
+
+B-46                                                 A+W Smart Companion Production
+Tutorial                                                                                  Info page
+
+
+
+
+                     IG with step This element represents an IG with step. Next to it, the article
+                     name and dimensions are displayed.
+
+
+
+
+                     LAMI with step This element represents a LAMI with step. Next to it, the ar-
+                     ticle name and dimensions are displayed.
+
+
+
+
+                     Patterned glass This element represents a patterned glass. Next to it, the ar-
+                     ticle name and dimensions are displayed.
+
+
+
+
+                     Fire protection glass This element represents fire protection glass. Next to
+                     it, the article name and dimensions are displayed.
+
+
+
+
+                     If you touch one of the elements, the associated processing and registration
+                     point are displayed:
+
+
+
+
+                     If you touch this element, the BOM closes again.
+
+
+
+
+A+W Smart Companion Production                                                                B-47
+Info page                                                                         Tutorial
+
+
+
+
+            Order location
+            This screen provides information about where precisely in production the indi-
+            vidual parts of an order are located.
+
+
+
+
+            After you have scanned the product barcode, an appropriate screen appears:
+
+
+
+
+            Fig. B-6     Order location
+
+
+            Explanation of the elements
+            In the top area, you will see the elements for the customer and the delivery
+            date. You should already be familiar with these elements from the Order sta-
+            tus.
+             Order status
+            The number at the end of the area indicates the number of products in this or-
+            der.
+
+
+
+
+B-48                                                 A+W Smart Companion Production
+Tutorial                                                                                 Info page
+
+
+
+
+                     This area shows you the header part of item 1 with its dimensions. As soon as
+                     the production item deviates from the commercial item, both values are dis-
+                     played. Here, the product item is the value in brackets.
+                     In the middle are the product name of the item, and on the right, the order
+                     quantity.
+
+
+
+
+                     You should already be familiar with the element displayed from before. You
+                     see the registration point, the rack number, and the number of parts on the
+                     rack. In this example, there are 10 parts on rack number 4711 at the registra-
+                     tion point Table 1.
+
+
+
+
+A+W Smart Companion Production                                                               B-49
+Info page                                                                                 Tutorial
+
+
+
+
+            Registration point status
+
+
+
+            This element is in the Actions area. Here, you have the opportunity to set a
+            registration point to a desired status. If a registration point is out of service, for
+            example, you can set its status to Off. The various types of status were dis-
+            cussed above.
+             Registration point status
+
+
+             Here's how to set the status for registration points
+            1 Touch the element. The Registration point page opens.
+            2 Open the Select registration point combo box and select the desired regis-
+              tration point.
+            3 Open the Select status combo box and select the desired status.
+            4 Touch [Save].
+            5 At the upper edge of the screen, the message The registration point was
+              saved appears.
+
+
+
+
+B-50                                                      A+W Smart Companion Production
+Tutorial                                                                                     Info page
+
+
+
+
+                     Rack shifting
+
+
+
+                     This element is in the Actions area. Here, you have the opportunity to shift ev-
+                     erything that is on a rack to another rack. In the process, you can always only
+                     shift all products that are on the rack. It is not possible to shift just a partial
+                     quantity.
+
+
+                      Here's how to shift the products by scanning
+                     1 Touch the element. The Rack shift page opens.
+                     2 Scan the barcode of the rack that should be emptied. You will see the rack
+                       number and the corresponding rack name. At the end of the line, you will
+                       see the quantity that is on the rack.
+                     3 Scan the barcode of the rack to which you would like to shift the products.
+                       You will see the rack number and the corresponding rack name. At the end
+                       of the line, you will see the quantity that is on the rack. The checkmark in
+                       the blue dot indicates that the shift was completed successfully.The check-
+                       mark in the blue dot indicates that the shift was completed successfully.
+
+
+
+
+                      Here's how to shift the products by entering them
+                     1 Touch the element. The Rack shift page opens.
+                     2 Touch the element
+
+
+
+
+                        The Rack shift page opens.
+                     3 In the Enter source barcode field, enter the barcode of the rack that should
+                       be emptied.
+
+
+
+
+A+W Smart Companion Production                                                                    B-51
+Info page                                                                           Tutorial
+
+
+
+
+            4 Touch [Save]. You will see the rack number and the corresponding rack
+              name. At the end of the line, you will see the quantity that is on the rack.
+            5 Touch the element
+
+
+
+
+               The Rack shift page opens.
+            6 In the Enter target barcode field, enter the barcode of the rack to which you
+              would like to shift the products. You will see the rack number and the cor-
+              responding rack name. At the end of the line, you will see the quantity that
+              is on the rack. The checkmark in the blue dot indicates that the shift was
+              completed successfully.
+
+
+
+
+B-52                                                  A+W Smart Companion Production
+Tutorial                                                                                  Info page
+
+
+
+
+                     Actual rack weight
+
+
+
+                     This element is in the Actions area. Here you have the opportunity to enter the
+                     current weight of a rack.
+
+
+                      Here's how to scan in the actual rack weight
+                     1 Touch the element. The Actual rack weight page opens.
+                     2 Scan the barcode of the rack in question.
+                     3 Enter the weight in the Enter rack weight (kg) field.
+                     4 Touch [Save].
+                     5 The notice The actual rack weight was booked successfully appears at the
+                       top of the screen.
+
+
+                      Here's how to scan in the actual rack weight (manually)
+                     1 Touch the element. The Actual rack weight page opens.
+                     2 Touch the element.
+                     3 In the Enter rack barcode field, enter the appropriate barcode.
+                     4 Enter the weight in the Enter rack weight (kg) field.
+                     5 Touch [Save].
+                     6 The notice The actual rack weight was booked successfully appears at the
+                       top of the screen.
+
+
+
+
+A+W Smart Companion Production                                                                B-53
+Info page                                                                            Tutorial
+
+
+
+
+            Rack inventory
+
+
+
+            This element is in the Actions area. Here you have the opportunity to conduct
+            an inventory for a corresponding rack.
+            After you have scanned the rack, the following page appears:
+
+
+
+
+            Fig. B-7     Rack inventory
+
+
+            Top section
+
+
+
+
+            In this section, you will see the rack number on the left side and information
+            about the inspection data on the right side. In the first line, you will see when
+            the rack was last inspected and under that, the next due date. The inspection
+
+
+
+B-54                                                   A+W Smart Companion Production
+Tutorial                                                                                       Info page
+
+
+
+
+                     interval can be configured with an appropriate switch. If the time span has
+                     elapsed, a little red triangle with an exclamation point will also be displayed.
+
+
+
+
+                     Then there is information about the rack.Then there is information about the
+                     rack. You can see which is the rack in question according to the master data.
+                     If the entry is not correct, you can select the correct rack type via the combo
+                     box. In the area below, the rack weight, maximum load, and rack size are dis-
+                     played. These values are very important for the rack reports, for example.
+
+
+
+
+                     If you have conducted a visual inspection of the rack (weld seams, etc.) in this
+                     step, you can click the Inspection checkbox to indicate this.
+                     If a barcode is no longer legible because it is dirty or torn off, you can print the
+                     new rack label right here. The labels are output immediately on the defined
+                     printer. This saves time and minimizes errors. You can also specify how many
+                     labels you need for the rack.
+
+
+
+
+                     There is a button at the lower edge. If you do not need to print a new label for
+                     the rack, the button looks like this:
+
+
+
+
+A+W Smart Companion Production                                                                     B-55
+Info page                                                                             Tutorial
+
+
+
+
+            If you must print one or more labels for the rack (the number of labels is set via
+            the Number of labels field), the button looks like this:
+
+
+
+
+             Here's how to conduct a rack inventory
+            1 Touch the element. The Rack inventory view opens.
+            2 Scan the barcode of the rack in question. The data is loaded.
+            3 Check whether the rack type is correct. If this is not the case, open the
+              Rack types combo box and select the correct rack type.
+            4 If you have done a visual inspection of the rack, check the Inspection per-
+              formed checkbox.
+            5 If you need one or several new labels for the rack, set the number of labels
+              to the desired number in the Number field.
+            6 Touch [Save] or [Save and print].
+            7 The notice The actual rack weight was booked successfully appears at the
+              top of the screen.
+
+
+
+
+B-56                                                    A+W Smart Companion Production
+Tutorial                                                                                     Settings
+
+
+
+
+                     Settings
+
+
+                     The essential settings for A+W Smart Companion are made on the this page.
+
+                     Explanation of the elements
+
+                     Log
+
+
+
+
+                     This element is used to call up the online booking log. That is, you can display
+                     the last bookings of the user logged in. Similarly, you can see whether the
+                     bookings were transferred successfully to the back end.
+                      Overview: Tutorial, “Messages and notices” on page A-15
+
+                     Download master data
+
+
+
+
+                     You can use this element to force the downloading of the PDC master data
+                     onto the device. Here, people, registration points, and reasons for breakage
+                     are loaded into the memory.
+                     This function is only available in the Production module.
+
+                     Language
+
+
+
+
+                     With this element, you can select the language in which A+W Smart Compan-
+                     ion should be displayed. The following values are possible:
+                     •   English
+                     •   English
+                     •   French
+                     •   Italian
+                     •   Spanish
+                     •   Romanian
+                     •   Chinese
+
+
+
+A+W Smart Companion Production                                                                 B-57
+Settings                                                                          Tutorial
+
+
+
+
+           The active language is displayed in blue and there is a checkmark at the end
+           of the line:
+
+
+
+
+           The language can be adjusted during operation. Touch the desired language
+           and then touch [Save]. At the upper edge of the screen, the message The lan-
+           guage was saved successfully appears.
+
+           Adjust configuration
+
+
+
+
+           This element serves to set the device name and the connection to the back
+           end (Service Locator).
+
+           App selection
+
+
+
+
+           With this element, you select the desired application. Currently, there are the
+           following modules:
+           •   Production
+           •   Stock (A+W Enterprise)
+           •   Stock (A+W Business)
+
+           Information
+
+
+
+
+           With this element, you get information (e.g., device ID, device name, Service
+           Locator, etc.) about A+W Smart Companion.
+
+           Help
+
+
+
+
+           With this element, you get contact information about A+W Software GmbH.
+
+
+
+
+B-58                                                 A+W Smart Companion Production
+Tutorial                                                                                        Settings
+
+
+
+
+                     Imperial system
+
+
+
+
+                     By default, A+W Smart Companion displays all units in metric units (mm, kg,
+                     etc.). You can use this element to switch A+W Smart Companion to imperial
+                     measurement units (inches, pounds, etc.)
+                     To switch A+W Smart Companion to imperial units, just slide the slider to the
+                     right. The slider turns blue, thus indicating that the imperial system is activat-
+                     ed.
+                     If the imperial system is activated, a further slider appears below. Use the slid-
+                     er to adjust the reject accuracy. The setting options are 1/8, 1/16, 1/32 and 1/
+                     64.
+
+                     Hardware mode
+
+
+
+
+                     You can use this element to set whether the barcodes should be read with the
+                     camera or with the built-in scanner. This switch is only available for the Zebra
+                     TC20 Pro scanner.
+                     To switch to the built-in scanner, just slide the slider to the right. The slider
+                     turns blue, thus indicating that the built-in scanner is activated.
+
+                        The element is not displayed
+                        This element is only displayed if the correct setting is entered in the Infra-
+                        structure.Web ForeignLicense. The device has to be set there to the De-
+                        viceType Mixed or Hardware scanner; otherwise it will not be offered here.
+
+                     Log out
+
+
+
+
+                     With this element, the user logged in can be logged out. After you have
+                     touched the element, you are automatically on the main page.
+
+
+
+
+A+W Smart Companion Production                                                                     B-59
+Settings                           Tutorial
+
+
+
+
+B-60       A+W Smart Companion Production
+C   A+W Smart Companion
+    Stock
+       Revision overview of the module
+
+       2024-03      Original version
+
+
+       This module provides information on the following subjects
+        Tutorial
+
+
+
+
+C-62                                        A+W Smart Companion Stock
+C   A+W Smart Companion
+    Stock
+
+
+
+
+                     Tutorial
+                                                                                                                          Tutorial
+
+
+
+
+       This section provides information on the following subjects:
+        Login
+        Menu bar
+        Booking goods receipt
+        Booking stock movements
+        Booking stock withdrawals
+        Info page
+
+
+       Login ..................................................................................................................... C-65
+       Menu bar ............................................................................................................... C-66
+              Goods receipt ............................................................................................. C-66
+              Stock movement ......................................................................................... C-66
+              Stock withdrawal ......................................................................................... C-66
+              Info page ..................................................................................................... C-66
+              Settings page .............................................................................................. C-67
+       Booking goods receipt .......................................................................................... C-68
+         Override stock location ...................................................................................... C-72
+            Override box stock ......................................................................................... C-73
+            Assign registration point ................................................................................. C-74
+       Booking stock movements .................................................................................... C-76
+       Booking stock withdrawals .................................................................................... C-79
+         Stock withdrawal with order ............................................................................... C-79
+         Stock withdrawal without order .......................................................................... C-82
+       Info page ............................................................................................................... C-84
+            Inventory ........................................................................................................ C-84
+            Checklist ........................................................................................................ C-89
+         Editing a box ...................................................................................................... C-93
+         Settings ............................................................................................................. C-99
+
+
+
+
+C-64                                                                              A+W Smart Companion Stock
+Tutorial                                                                                      Login
+
+
+
+
+                     Login
+                     In order to reach the module's main page, an employee barcode has to be
+                     scanned or entered.
+                     This screen appears automatically if you have selected the Stock module.
+
+
+
+
+                     Fig. C-1     Area for entry of the employee ID
+
+
+                     Entering or scanning the employee ID is identical for the Production and Stock
+                     modules. To avoid redundant explanations, the procedure is described for the
+                     Production module.
+                      Anmeldung
+                     After successful log-in, the employee's name appears at the top right.
+
+
+
+
+A+W Smart Companion Stock                                                                     C-65
+Menu bar                                                                         Tutorial
+
+
+
+
+           Menu bar
+           The menu bar is at the lower edge of the screen. With it, you can switch be-
+           tween the individual functions of A+W Smart Companion.
+
+           Goods receipt
+
+
+
+
+           Use this function to book incoming goods.
+            Booking goods receipt
+
+           Stock movement
+
+
+
+
+           Use this function to book goods from one stock to another.
+            Booking stock movements
+
+           Stock withdrawal
+
+
+
+
+           Use this function to book a stock withdrawal.
+            Booking stock withdrawals
+
+           Info page
+
+
+
+
+           In this area, the missing prices are displayed and you can book the inventory.
+            Info page
+
+
+
+
+C-66                                                       A+W Smart Companion Stock
+Tutorial                                                                           Menu bar
+
+
+
+
+                     Settings page
+
+
+
+
+                     The most important settings for the A+W Smart Companion are made here.
+                      Settings
+
+
+
+
+A+W Smart Companion Stock                                                              C-67
+Booking goods receipt                                                                          Tutorial
+
+
+
+
+                        Booking goods receipt
+
+
+                        After you have logged in, you are on the Goods receipt page. Goods receipt is
+                        completely digitalized, both for A+W Business and for A+W Production. Book
+                        the incoming goods here.
+
+
+
+
+                        Fig. C-2     Goods receipt page
+
+
+                        First select the supplier/PO number.
+
+
+                         Here's how to select the supplier/PO number
+                        1 Touch the Supplier/PO number field. The PO page opens. If you know the
+                          number, you can also enter it using the keyboard symbol.
+                        2 Touch the desired PO. The PO number is loaded. If you have entered the
+                          Supplier/PO Number via the keyboard, this step is omitted.
+                        3 In the External Supplier Number field, you can enter the supplier's number
+                          on the delivery note.
+                        4 Select the appropriate date from the Date Received field.
+                        To display the individual items of the PO, touch the blue Display items bar.
+
+
+
+
+C-68                                                                  A+W Smart Companion Stock
+Tutorial                                                                     Booking goods receipt
+
+
+
+
+                     Fig. C-3     Overview of the items of a PO
+
+
+                     Explanation of the elements
+                     The elements for the supplier are displayed in the top area. You see the PO
+                     number (order - 124124), the name of the supplier (Manufacture
+                     Glass&More), and the consignment (064845/11/10/2020...). Next to the con-
+                     signment is the customer reference number; that is, the number (or name) un-
+                     der which the order is known to the customer. Two dates are displayed on the
+                     right outside. The date next to the calendar symbol displays the announced
+                     delivery date and the date next to the truck symbol displays the actual delivery
+                     date.
+                     Then the individual items of the PO are listed.
+
+
+
+
+A+W Smart Companion Stock                                                                      C-69
+Booking goods receipt                                                                           Tutorial
+
+
+
+
+                        Using the different elements, you can see what kind of PO this is. The following
+                        values are possible:
+
+                        Production order
+
+
+
+
+                        This element represents a PO for a production order. If such goods receipt is
+                        booked, the system knows that these are goods that are intended for produc-
+                        tion. A+W Production and work preparation are informed automatically. You
+                        can initiate label printing (optional) and specify rack (also third-party). This
+                        data is stored in A+W Business and in the A+W Production PDC.
+
+                        Stock order
+
+
+
+
+                        This element represents a PO for a stock order in A+W Business. Stock areas
+                        are, e.g. glass stock, hardware stock, stock for PSA, etc.
+
+                        Box order
+
+
+
+
+                        This element is a PO for a box.
+                        In addition to the element, there is an entry in blue and under it, an entry in
+                        gray. The entry in blue is the article number and the article name from A+W
+                        Business. The entries in gray identify the article number and article name of
+                        the supplier. This way, it can be checked quickly during goods receipt whether
+                        the goods delivered are those ordered.
+
+                           Display supplier data
+                           The supplier's article number and name can only be displayed if they are
+                           maintained appropriately in A+W Business. If no supplier-specific data is
+                           stored in A+W Business, there will be no gray entries in A+W Smart Com-
+                           panion.
+
+                        Data for the item
+
+
+
+
+C-70                                                                   A+W Smart Companion Stock
+Tutorial                                                                       Booking goods receipt
+
+
+
+
+                     In this area, you will find information about the individual items, their dimen-
+                     sions, storage location, and variants. A variant is, for example, a size, a color,
+                     etc.
+
+                     Delivered quantity
+
+
+
+
+                     This element represents the ordered and delivered quantities. A gray number
+                     indicates the expected quantity; that is, the quantity that was ordered.
+                     A blue number indicates that the quantity delivered is identical to the quantity
+                     ordered. A red number indicates an over- or underbooking of the quantity or-
+                     dered. With the red numbers, you can get a quick overview of which quantities
+                     deviate from the quantity ordered.
+
+
+                      Here's how to book a delivered quantity
+                     1 In the appropriate item, touch the oval.
+                     2 An area opens where you can change the quantity. By default, the number
+                       of the quantity ordered is pre-populated. You can make the entry either by
+                       swiping up or down or typing in Manual entry.
+                     3 Enter the desired quantity.
+                     4 Touch Confirm.
+                     5 The area is closed and you are back in the overview.
+
+                     Tag item
+
+
+
+
+                     There is a colored bar at the beginning of the line. The bar can be gray or glue.
+                     By default, the bar is gray. If you swipe on the item from left to right, a little
+                     checkbox appears. If you touch the checkbox, it disappears again and the bar
+                     is blue. This is how you can mark items. If you repeat this process, the bar
+                     turns gray again.
+
+                        Marking by swiping
+                        This item marks itself if you swipe far enough with your finger from left to
+                        right.
+
+
+
+
+A+W Smart Companion Stock                                                                        C-71
+Booking goods receipt                                                                             Tutorial
+
+
+
+
+                        Override stock location
+
+
+
+
+                        If you swipe in this area from right to left, the Storage location page opens.
+
+
+
+
+                        If you touch the combo box, you will see all storage locations created in A+W
+                        Business. If there are a lot of storage locations at your company and the page
+                        with all storage locations is unclear, you can use the search function to restrict
+                        the hit quantity.
+                        If you activate the Apply selection to all storage locations checkbox, all items
+                        are booked to this storage location.
+
+
+
+
+C-72                                                                    A+W Smart Companion Stock
+Tutorial                                                                       Booking goods receipt
+
+
+
+
+                     Override box stock
+                     If you have booked receipt of a box, the box receives a box ID, which is dis-
+                     played as the last line. In the following example, you can see that two boxes
+                     with different IDs were already booked.
+
+
+
+
+                     If you swipe in this area from right to left, the box editor opens.
+
+
+
+
+                     Touch the desired item and the corresponding entry opens.
+
+
+
+
+A+W Smart Companion Stock                                                                     C-73
+Booking goods receipt                                                                           Tutorial
+
+
+
+
+                        In the Supplier Number field, you can specify the supplier's number. You can
+                        select the appropriate goods from the four stock levels on the Stock Locations
+                        combo box. The pre-populated values come from A+W Business. In the Piec-
+                        es in Box field, you specify the appropriate quantity. In the Notes field, you
+                        have the opportunity to leave a note.
+                        Touch the blue dot with the white checkmark to save your input.
+
+
+                        Assign registration point
+                        This function is only active if the goods are for a production order.
+                         Production order
+
+
+
+
+                        If you swipe in this area from right to left, the Storage location page opens.
+
+
+
+
+                        If you touch the combo box, you will see all registration points created in A+W
+                        Production. If there are a lot of registration points at your company and the
+                        page with all registration points is unclear, you can use the search function to
+                        restrict the hit quantity.
+                        In the Enter rack barcode field, you can enter the appropriate barcode. If you
+                        want to scan the barcode, touch the element
+
+
+
+
+C-74                                                                    A+W Smart Companion Stock
+Tutorial                                                                      Booking goods receipt
+
+
+
+
+                     An area for scanning opens.
+                     If you activate the Apply selection to all storage locations checkbox, all items
+                     are booked to this registration point. Finally, touch [Save]. Your selections are
+                     taken over and you are back on the main page.
+                     To save your inputs, click the checkmark at the right bottom edge of the dis-
+                     play:
+
+
+
+
+                     If there are quantity differences, regardless of what type (over or underquanti-
+                     ty), the following notice appears:
+
+
+
+
+                     Here, you have to specify how to proceed with the quantity differences. You
+                     have two possibilities:
+                     •   Missing items are delivered later
+                     •   Missing items are not delivered later
+                     Select the desired option by touching it and then touch [Send] to save.
+                     A successful booking is indicated with the following notice:
+
+
+
+
+A+W Smart Companion Stock                                                                       C-75
+Booking stock movements                                                                    Tutorial
+
+
+
+
+                      Booking stock movements
+
+
+                      With this function, you can book goods from one stock to another one.
+
+
+
+
+                      The Storage location combo box includes all storage locations created in A+W
+                      Business. Alternatively, you can also scan the storage location.
+
+
+
+
+C-76                                                               A+W Smart Companion Stock
+Tutorial                                                                    Booking stock movements
+
+
+
+
+                     In A+W Business, a storage location consists of up to four levels:
+
+
+
+
+                     •   Level 1: e.g., warehouses
+                     •   Level 2: e.g., aisles
+                     •   Level 3: e.g. racks
+                     •   Level 4: e.g., slots
+                     The settings that you make here will be displayed directly below the combo
+                     box. If there should be only one entry for one of the four levels, the field is pre-
+                     populated with the appropriate entry. Example: there are several warehouses
+                     with several aisles at your company. However, there is only one rack with one
+                     slot per aisle. Then you can select the appropriate entries for levels 1 and 2
+                     using the combo boxes. Levels 3 and 4 are filled automatically since there is
+                     only one rack and one slot.
+
+
+
+
+A+W Smart Companion Stock                                                                         C-77
+Booking stock movements                                                                         Tutorial
+
+
+
+
+                      Under that is the Stock article combo box. It includes all articles that are cur-
+                      rently in the selected storage location.
+
+                          Scanning stock articles
+                          If an EAN barcode has been stored in A+W Business for the article, you
+                          can also scan the article in question. To scan, touch the element at the end
+                          of the line. An area for scanning opens.
+
+                      If the stock article comes in different variants, select the appropriate variant
+                      from the Variant combo box.
+                      The Unit field is only visible if you have made a selection in the Variant field.
+                      Here you specify in which unit the variant is available, e.g. pieces for fasten-
+                      ings or lengths for spacers.
+                      Quantity in stock shows you how many of the selected article are currently in
+                      stock. In the Quantity that should be moved field, you specify the quantity that
+                      should be rebooked.
+                      The Target storage location combo box includes all storage locations created
+                      in A+W Business. Select the storage location to which you want to book the
+                      article. Alternatively, you can also scan the storage location.
+
+
+                       Here's how to re-book articles
+                      1 On the first page, touch the Storage location combo box.
+                      2 From the list, select the storage location from which the article should be
+                        removed.
+                      3 From the Stock articles combo box, select the article that you would like to
+                        move.
+                      4 From the Variant combo box, select the appropriate variant.
+                      5 In the Quantity that should be moved field, specify the appropriate quantity.
+                      6 Select the Target storage location to which you want to book the article
+                        from the combo box.
+                      7 Touch the white checkmark in the blue dot to save your inputs.
+                      A successful shift is indicated with the following notice:
+
+
+
+
+C-78                                                                  A+W Smart Companion Stock
+Tutorial                                                                  Booking stock withdrawals
+
+
+
+
+                     Booking stock withdrawals
+
+
+                     With this function, you can book remove goods from a stock. There are two
+                     kinds of stock withdrawals:
+                     •   With order
+                     •   Without order
+
+
+                     Stock withdrawal with order
+                     If the stock withdrawal is done with reference to an order, all information about
+                     this order is available in A+W Smart Companion. This way, you always know
+                     what has to be removed from stock for this order.
+
+
+
+
+                     The Orders combo box includes all orders created in A+W Business.
+                     Select an order from the combo box for which you want to remove goods from
+                     the stock. Alternatively, you can also scan the order number.
+                     Then touch Display items. A detailed overview of the order appears.
+
+
+
+
+A+W Smart Companion Stock                                                                       C-79
+Booking stock withdrawals                                                                        Tutorial
+
+
+
+
+                        In the blue area at the top, you can see the customer including the address,
+                        as well as the delivery date at the outside right.
+
+
+
+
+                        Then the individual items are listed. The item number is on the left outside. To
+                        the right next to it, you will see the following values:
+                        •   Dimensions: dimensions of the item
+                        •   Storage location: storage location in which the article is located
+                        •   Variant: article variant if the article comes in different variants
+                        •   Packaging: if the article is in a box stock, the packaging type is displayed
+                            here, e.g., pallet cage, wooden box, etc.
+                        •   Supplier: if the article is in a box stock, you can see the supplier here.
+                        In the top area, you can also use the swipe function (from left to right) to mark
+                        individual items.
+
+
+
+
+C-80                                                                    A+W Smart Companion Stock
+Tutorial                                                                   Booking stock withdrawals
+
+
+
+
+                     This element represents the ordered quantities and those removed from the
+                     stock. A gray number indicates the quantity ordered by the customer. A blue
+                     number indicates the quantity removed from the stock if this matches the
+                     quantity ordered. A red number indicates an over- or underbooking. Below the
+                     quantity, you see which is the unit in question (e.g., pieces).
+
+                        Removing a box article
+                        For box articles, the content of the boxes is also displayed. In the example
+                        on the right, this means that there are 2 boxes with 20 pieces each.For the
+                        removal of box articles, the quantity is always initially set to 0. If you swipe
+                        to the left or touch the quantity, you reach a new page similar to the box
+                        inventory. Here, you have to scan the boxes according to the item and its
+                        quantity. These are then added to a list as in the box inventory. If appropri-
+                        ate boxes are not scanned for the item, incorrect values appear in red. Box-
+                        es can be removed from the list again by swiping the line in question to the
+                        left. Only after confirmation will the quantity specified by the customer in-
+                        crease.
+
+
+                      Here's how to withdraw goods with reference to an order
+                     1 Select the order from the Orders combo box for which you want to remove
+                       articles. Alternatively, you can also scan the barcode.
+                     2 Touch Display items. The page for the selected order opens.
+                     3 Remove the desired items from the storage location. Correct the quantity if
+                       necessary.
+                     4 Touch the blue dot with the white checkmark to save your inputs.
+                     A successful removal is indicated with the following notice:
+
+
+
+
+A+W Smart Companion Stock                                                                        C-81
+Booking stock withdrawals                                                                         Tutorial
+
+
+
+
+                        Stock withdrawal without order
+                        For a stock withdrawal without reference to an order, you have to specify the
+                        storage location of the articles to be removed, as well as the quantity in ques-
+                        tion. This way, you can make stock corrections, for example.
+
+
+
+
+                        The Storage location combo box includes all storage locations created in A+W
+                        Business.
+                        The Stock articles combo box includes all articles that are currently in the se-
+                        lected storage location. The Variant combo box includes all existing variants
+                        of the selected stock article.
+                        The Quantity in stock area shows you how many of the selected article are in
+                        stock.
+                        In the Quantity that should be removed field, you specify the quantity that you
+                        would like to remove. If you remove a quantity that is larger than the quantity
+                        on hand, the field is outlined in red. In addition, the Save element is deactivat-
+                        ed:
+
+
+
+
+C-82                                                                    A+W Smart Companion Stock
+Tutorial                                                                  Booking stock withdrawals
+
+
+
+
+                      Here's how to withdraw goods without reference to an order
+                     1 Use the Storage location combo box to indicate the storage location from
+                       which you want to take the articles.
+                     2 From the Stock articles combo box, select the article that you would like to
+                       remove. Alternatively, you can also scan the barcode.
+                     3 If the article comes in different variants, select the appropriate variant from
+                       the Variants combo box.
+                     4 In the Quantity that should be removed field, specify the appropriate quan-
+                       tity.
+                     5 Touch the blue dot with the white checkmark to save your inputs.
+                     A successful removal is indicated with the following notice:
+
+
+
+
+A+W Smart Companion Stock                                                                       C-83
+Info page                                                                            Tutorial
+
+
+
+
+            Info page
+
+
+
+
+            With this view, you can conduct inventories or edit the contents of a box.
+
+
+            Inventory
+
+
+
+
+            This is where you take inventory.
+
+               Inventory as independent action
+               The Inventory action is licensed separately. This means that it is not cou-
+               pled to the Stock module and for inventory you do not absolutely have to
+               have the whole Stock module. This way, you can install the action on sev-
+               eral smartphones.
+
+            Inventory is started in A+W Business. Stock is not blocked during inventory.
+            This means that during inventory, you can keep working normally. You can
+            book goods receipts and withdrawals and make rebookings.
+            If the inventory is taken, it is completed in A+W Business. In the next step, the
+            inventory data from A+W Smart Companion is compared to the data in A+W
+            Business.
+            This saves you a lot of time and minimizes errors. There are no more inventory
+            documents and the quantities counted no longer have to be entered manually.
+            Employees never see how many of which article should be in which stock.
+            They have to count the quantities present and enter these. Only once an arti-
+            cle has been counted is the appropriate value visualized and it can be checked
+            by another employee.
+             Add quantity to a quantity already counted
+
+
+
+
+C-84                                                        A+W Smart Companion Stock
+Tutorial                                                                                         Info page
+
+
+
+
+                     The inventory in A+W Business is done based on an inventory list whose arti-
+                     cles can come from various storage locations. First, select the inventory date.
+                     Then select the appropriate article name. If the article comes in several vari-
+                     ants, select the appropriate one in the Variant combo box. In the last step, you
+                     specify the inventory stock. Alternatively, you can also scan the article name
+                     and inventory stock.
+
+                        Adjustments using the selection
+                        If the article is selected first, the inventory stock is adjusted to the article. If
+                        the inventory stock is selected first, the article is adjusted to the stock in
+                        question. Using the X on the top right of the display, empty the input fields.
+
+                     After inventory has been started, the following screen appears:
+
+
+
+
+A+W Smart Companion Stock                                                                             C-85
+Info page                                                                       Tutorial
+
+
+
+
+             Here's how to count inventory
+            1 Open the Inventory stock combo box. You see a list with various inventory
+              data. Select the desired date.
+
+
+
+
+            2 If you have selected a date, the view jumps to the next page.
+
+
+
+
+C-86                                                    A+W Smart Companion Stock
+Tutorial                                                                                        Info page
+
+
+
+
+                     3 Select the article that you would like to count or scan it in the Article number
+                       field. You can also scan a box barcode here.
+                     4 If the article comes in different variants, select the appropriate one from the
+                       Variants field. If you touch the field, the list with all variants appears. Entries
+                       that have a green checkmark have already been counted.
+
+
+
+
+                     5 In the Inventory Stock field, select the stock in question (including any ex-
+                       isting levels). Alternatively, you can also scan the inventory stock.
+                     6 Touch the blue dot with the white checkmark to save your input.
+                     A successful counting is indicated with the following notice:
+
+
+
+
+                     Add quantity to a quantity already counted
+                     You can increase a quantity already counted at any time. This can be neces-
+                     sary, for example if articles in the same variant are distributed across several
+                     warehouses at your company.
+                     If you select such an article, the following area appears in the display:
+
+
+
+
+                     Here you can see which employee counted the article in the appropriate vari-
+                     ant on which day and at which time. In the example above, John Moore count-
+                     ed the article on 12/01/2020 at 2:10 AM.
+                     Touch the Quantity that should be added field. A numeric keypad appears and
+                     you can enter the quantity.
+                     Use the two icons to control what should be done with the quantity entered.
+                     With the + sign, the quantity you have entered is added to the 150 pieces that
+                     John Moore counted. With the arrows, the quantity that John Moore counted
+                     is replaced by the quantity you counted. In the example above, the 56 pieces
+                     you counted are added to the 150 pieces counted by John Moore. The active
+                     icon is always the one with the blue background.
+
+
+
+
+A+W Smart Companion Stock                                                                           C-87
+Info page                                                                     Tutorial
+
+
+
+
+            A successful counting is indicated with the following notice:
+
+
+
+
+C-88                                                       A+W Smart Companion Stock
+Tutorial                                                                                 Info page
+
+
+
+
+                     Checklist
+                     The checklist provides an overview of all articles counted and not counted.
+
+
+
+
+                     At the top, the icons for the view are on the left side.
+
+
+
+
+                     There are two views available:
+                     •   List view
+                     •   Chart view
+                     •   Scanned boxes
+                     The active view is indicated in blue, the inactive one in gray.
+
+
+
+
+A+W Smart Companion Stock                                                                   C-89
+Info page                                                                          Tutorial
+
+
+
+
+            List view
+
+
+
+
+            Chart view
+
+
+
+
+            In the Inventory stock area, the inventory for the selected stock is displayed.
+            The Inventory progress area displays the progress for the selected inventory
+            stock with reference to the variants. The Inventory status area displays the
+            overall status of the inventory. The legend below provides information about
+            the status:
+            •   Finished means that all variants of the article were counted in the respec-
+                tive stock. If you touch the green area, A+W Smart Companion shows you
+                how many variants of the article were already counted.
+
+
+
+
+C-90                                                       A+W Smart Companion Stock
+Tutorial                                                                                        Info page
+
+
+
+
+                     •   Partially means that some variants of the article were already counted, but
+                         not yet all. If you touch the yellow area, A+W Smart Companion shows you
+                         how many variants of the article were already counted.
+                     •   Not yet begun means that no variants of the article were counted. If you
+                         touch the gray area, A+W Smart Companion shows you how many variants
+                         of the article remain to be counted.
+                     On the right side, there is a slider. You can use it to control the content of the
+                     screen. If the slider is on the left (not active), you will see all articles and vari-
+                     ants that were already counted and those that still have to be counted. If the
+                     slider is on the right (active), you will see only the articles and variants for
+                     which no inventory has been taken yet. This means that the inventory is only
+                     finished when this list has been worked through.
+                     The following values are possible:
+
+
+
+
+                     The gray exclamation point in the gray dot means that this article has not yet
+                     been counted. The article number and the appropriate article name are dis-
+                     played next to this. The field on the right outside indicates that this article exists
+                     in three variants (3), but no counting has been done yet (0).
+
+
+
+
+                     The green arrow in the green dot means that this article has already been
+                     counted completely. The field on the right outside indicates that this article ex-
+                     ists in four variants (4) and that all four variants have been counted (4).
+
+
+
+
+                     This symbol indicates that the counting has been started. The article exists in
+                     two variants (2) and one variant has already been counted (1). The size of the
+                     blue section indicates the relationship of counted variants to variants still to be
+                     counted.
+
+                         From the checklist directly into the inventory counting
+                         If you touch an entry in the checklist, you jump directly to the inventory
+                         counting for the article in question.
+
+
+
+
+A+W Smart Companion Stock                                                                            C-91
+Info page                                                                       Tutorial
+
+
+
+
+            Scanned boxes
+
+
+
+
+            In the Scanned Box area, you will see all boxes that have already been
+            scanned.
+
+
+
+
+C-92                                                    A+W Smart Companion Stock
+Tutorial                                                                                 Info page
+
+
+
+
+                     Editing a box
+
+
+
+
+                     Here you have the opportunity to change the contents of a box. You can re-
+                     move selected lites or break up the entire box.
+                     After you have touched the element, the following page appears:
+
+
+
+
+                     Here you can either scan or manually enter the label of the box in question.
+
+
+
+
+A+W Smart Companion Stock                                                                    C-93
+Info page                                                                            Tutorial
+
+
+
+
+            Then the following page appears:
+
+
+
+
+            The upper area provides information about the box and its contents. In our ex-
+            ample, there is a box with the number 300056929. In it are lites with the article
+            number 100104 and the article designation Float 4 mm.
+
+
+
+
+            In the area below this, you can see in the Pieces in box field how many pieces
+            there currently are in the box. In our example, the box contains 6 pieces. In the
+            Pieces to move field, enter how many pieces you would like to remove from
+            the box.
+
+
+
+
+C-94                                                        A+W Smart Companion Stock
+Tutorial                                                                                Info page
+
+
+
+
+                     Then you must specify the reason why you want to change the contents of the
+                     box. There are two different reasons available:
+                     •   Breakage
+                     •   Storage location
+
+
+
+
+                     If you select the Breakage radio button, the Reason combo box appears in the
+                     area below. Here you must enter the appropriate reason (e.g., breakage, in-
+                     correct size, etc.).
+
+
+
+
+                     In the Notes field, you can leave an appropriate comment.
+
+
+
+
+A+W Smart Companion Stock                                                                  C-95
+Info page                                                                           Tutorial
+
+
+
+
+            Touch the blue circle with the white checkmark to confirm the details entered.
+
+
+
+
+            A successful removal is indicated with the following notice:
+
+
+
+
+            Enable the Storage location radio button if you are removing one or several
+            articles from the box in order to store it/them in an appropriate storage loca-
+            tion.
+
+
+
+
+            The combo box includes all levels for the storage locations created at your
+            company.
+
+
+
+
+C-96                                                       A+W Smart Companion Stock
+Tutorial                                                                                 Info page
+
+
+
+
+                     Select the desired storage location
+
+
+
+
+                     Touch the blue circle with the white checkmark to confirm the details entered.
+
+
+
+
+                     A successful rebooking is indicated with the following notice:
+
+
+
+
+                      Here's how to remove an article from the box, e.g. in case it is broken
+                     1 Select the Edit box action.
+                     2 Scan the box barcode or enter it manually.
+                     3 In the Pieces to move field, enter how many pieces you would like to re-
+                       move.
+                     4 Enable the Reason for removal radio button.
+                     5 From the Reason combo box, select the appropriate reason, e.g. broken.
+
+
+A+W Smart Companion Stock                                                                    C-97
+Info page                                                                       Tutorial
+
+
+
+
+            6 In the Notes field, you can leave an appropriate note.
+            7 Touch the blue dot with the white checkmark to save your input.
+            A successful booking is indicated with the following notice:
+
+
+
+
+             Here's how to book an article out of the box to another storage
+              location
+            1 Select the Edit box action.
+            2 Scan the box barcode or enter it manually.
+            3 In the Pieces to move field, enter how many pieces you would like to re-
+              move.
+            4 Enable the Storage location radio button.
+            5 From the Storage location combo box, select the stock and appropriate lev-
+              els to which the lite should be booked.
+            6 Touch the blue dot with the white checkmark to save your input.
+            A successful booking is indicated with the following notice:
+
+
+
+
+C-98                                                       A+W Smart Companion Stock
+Tutorial                                                                                Info page
+
+
+
+
+                     Settings
+
+
+
+                     The Settings are identical for the Production and Stock modules. To avoid re-
+                     dundant explanations, this process will be described in connection with the
+                     Production module.
+                      Produktion: Tutorial, “Einstellungen” on page B-58
+
+
+
+
+A+W Smart Companion Stock                                                                   C-99
+Info page                      Tutorial
+
+
+
+
+C-100       A+W Smart Companion Stock
+D   A+W Smart Companion
+    Index
+A                                        – Info page C-66
+Action in Stock module                   – Settings page C-67
+– Editing a box C-93                     – Stock movement C-66
+– Inventory C-84                         – Stock withdrawal C-66
+Actions in Production module             Message
+– Actual rack weight B-53                – Green A-16
+– Rack inventory B-54                    – Red A-16
+– Registration point status B-50, B-51   Messages and notices A-15
+Assign registration point C-74           Module selection A-13
+
+B                                        N
+Booking goods receipt C-68               Note
+Booking stock movements C-76             – Gray dot A-15
+Booking stock withdrawals C-79           – Green dot A-15
+Box stock                                – Red dot A-15
+– Override C-73                          – Yellow dot A-15
+Breakage page B-38
+                                         O
+F                                        Override stock location   C-72
+Filter
+– Alphabetical search A-18               P
+– Numeric search A-18                    Production module
+Filter function A-17                     – Main Page B-28
+
+H                                        S
+Hardware mode A-13                       Scan mode
+– Smartphone A-14                        – Continuous B-28
+– Zebra scanner A-14                     – Individual B-28
+                                         Settings B-57
+I                                        – Adjust configuration B-58
+Info page in Production module B-39      – App selection B-58
+– Order location B-48                    – Download master data B-57
+– Orders B-43                            – Hardware mode B-59
+– Racks B-40                             – Help B-58
+Info page in Stock module C-84           – Imperial system B-59
+                                         – Information B-58
+                                         – Language B-57
+L
+                                         – Log B-57
+Login
+                                         – Log out B-59
+– Stock module C-65
+                                         Settings in Stock module C-99
+Login on Production module   B-23
+                                         Status page B-35
+                                         Stock module A-12
+M                                        – Login C-65
+Machine status B-34                      Stock withdrawal with order C-79
+Menu bar in Production module B-26       Stock withdrawal without order C-82
+– Breakage page B-26
+– Info page B-26
+– Scan B-26
+– Settings page B-27
+– Status page B-26
+Menu bar in Stock module C-66
+– Goods receipt C-66
+
+
+D-102                                                              A+W Smart Companion
+

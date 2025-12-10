@@ -1,0 +1,606 @@
+---
+title: "D-HB-AWBusiness_36"
+source: "D-HB-AWBusiness_36.pdf"
+tags: ["Index", "Glossary", "A+W Business", "ERP", "Business Management", "Technical Manual", "Reference Guide"]
+version: "1.0"
+last_updated: "2025-10-03"
+short_description: "An alphabetical index (L-Z) for the A+W Business software manual, providing reference codes for various terms, features, and functions."
+long_description: "This document is a comprehensive, multi-page alphabetical index for the A+W Business software system, covering entries from 'L' to 'Z'. It serves as a detailed reference guide, listing key terms, features, and functions alongside unique reference codes (e.g., C-1299, H-3033, B-211) that point to specific sections within the main documentation. The index is structured alphabetically and includes nested sub-entries for more granular topics. It covers a wide range of business processes such as logistics (tours, transport, delivery), sales (quotes, orders), production planning (capacity, workflow), financial management (surcharges, pricing), and master data management. This makes it an essential tool for users looking to quickly locate information within the extensive A+W Business software manual."
+---
+
+# Index (L-Z)
+
+- Lieferdauer: C-1299
+- übernehmen (AE): C-1684
+- Terminübersicht: E-2568, E-2569
+  - Auflösungstiefe: E-2574
+  - Auswertungskriterien für Materialbedarf: E-2413
+  - erstellen: E-2416
+  - Exportieren: E-2576
+  - Kapazitätsübersicht: E-2577
+  - Materialien anzeigen: E-2416
+- Terminüberwachung: D-2135
+- Teuerungszuschlag: B-396
+  - Partnerverwaltung: B-892
+  - Produktverwaltung: B-720
+  - Produktzuordnung: B-1171
+  - verfügbare Zuschläge: B-397
+- Text
+  - als Dateianhang: C-1303
+  - erfassen: C-1308
+  - Schriftgröße: C-1309
+  - zum Auftrag: C-1303
+- Texte: B-535, B-1188
+  - anlegen: B-543
+  - CEKAL: B-536
+  - CEKAL-Standardtext: B-1072
+  - Dialog: B-1189
+  - Formeln: B-540
+  - Formularverwaltung: B-1199
+  - Gütetext: B-536
+  - Kennzeichen: B-1188
+  - Kopf-/Fuß (Formularverwaltung): B-1199
+  - kundenspezifisch anlegen: B-132
+  - nicht zu druckende Texte: B-1200
+  - Standardtext: B-535
+  - Systemtext: B-535, B-1191
+  - Technische Werte: B-1194
+  - Variablen: B-540
+  - verfügbare Systemtexte: B-598
+- Texte (Register in Alternativen): C-1674
+- Texte (Register in Dokumente kopieren): C-1828
+- Texte (Register in Dokumentenverwaltung): C-1704
+- Texte (Register in Positionserfassung): C-1790
+- Texte (Register...)
+  - Kundenverwaltung: B-900
+  - Produktverwaltung: B-734
+- Textkennzeichen: B-129, B-537
+  - Beispiel: B-129, B-537
+  - Dialog: B-1188
+- Textzuordnung
+  - CEKAL: B-1227
+- Titel (Dialog): B-877
+- Tooltipp: C-1316
+
+---
+## T
+
+- TOP10-Statistik: F-2646
+  - Auswertung, Sortierung: F-2648
+- Top-WGR: B-211
+  - Dialog: B-684
+- Tour
+  - ändern: E-2384
+  - anlegen: B-108, E-2379
+  - Beladungsliste drucken: E-2408
+  - Datenaustausch: B-1248
+  - einrichten: B-108, E-2379
+  - Fahrzeugbeladung zusammenstellen: E-2404
+  - Frachtkosten: E-2380
+  - Konzept von Touren: E-2378
+  - Kundenverwaltung: B-888
+  - planen: E-2382
+  - Speditionskosten verteilen: E-2440
+  - sperren: E-2381
+  - Terminsuche: H-3033
+  - Zeiten: B-995
+- Touren/Fahrer Zuordnung: C-1939
+  - Druck: C-1939
+- Tourenliste: E-2503
+  - Auflösungstiefe: E-2507
+  - Auswahl: E-2506
+  - Beispiel: E-2513
+  - drucken: E-2386
+  - Einstellungen KAPS: E-2515
+  - Liefertermin ändern: E-2384
+  - Querformat: E-2505
+  - Selektion: E-2506
+  - Tour ändern: E-2384
+  - Touren/Liefertermin umsetzen: E-2514
+  - Vorschau: E-2510
+  - zusammenstellen: E-2382
+- Tourenrangfolge: B-922
+- Transport
+  - Versandsteuerung: E-2596
+- Transportmittelbeladungsliste: E-2533
+  - Voraussetzung: E-2408
+- Transportversicherung ISO: B-398
+- Travere
+  - Kennzeichen: B-1012
+- Typ
+  - Bleiverglasungstyp: B-602
+  - Sprossenkonstruktion: B-714
+  - Sprossenkonstruktionstyp: B-227, C-1329
+  - Vorgabezeit: H-2967
+
+## U
+
+- Umbuchung von Lagerartikeln: G-2877, K-3393
+- Umlasten
+  - Arbeitsart: H-3271
+  - Auftrag (Leitstand): H-3267
+  - Leitstand Auftrag: H-3302, H-3306
+  - nicht möglich: H-3309
+  - Position: H-3273
+  - Position (Leitstand): H-3269
+- Ummelden: Y-3456
+- Umrechnung
+  - Vorgabezeit in Stunden: H-2969
+- Umsatz
+  - Ausgabe, Summenbildung, Sortierung: F-2644
+  - Auswahl: F-2644
+  - Einkauf: F-2665
+  - Ergebnis: F-2650
+  - Grafik: F-2651
+  - Restriktionen: F-2649
+  - SQL-Abfrage: F-2652
+  - Verkauf: F-2642
+- Umsatz Jahr/Periode: B-911
+- Unabhängiger Austauschzuschlag: B-358
+- Unterposition
+  - Wareneingang Kiste: D-2274, K-3417
+- UP siehe Unterposition
+
+## Ü (Umlaut)
+
+- Überblick
+  - offene Lieferungen: D-2280
+- Übergabe
+  - Produktionsübergabe: C-1285, E-2466
+  - A+W Production Servername: B-1129
+  - Angebot, Auftrag: E-2466
+  - Archiv: B-1108, C-1632
+  - Bestellung: C-1564, D-2102
+  - Einstellungen Angebot: B-1126
+  - Einstellungen Aufträge: B-1126
+  - in die Statistik ohne Rechnungsdruck: B-1105
+  - nach Erfassungsdatum: B-1106
+  - Profit-Center-Abrechnung: B-1126
+  - Rückmeldung: C-1496
+  - Stammdaten an A+W Production: B-606
+  - Statistik: B-1108, C-1626
+  - Versandorganisation: A-44, E-2313
+  - Wareneingang: D-2167
+  - Zeitwirtschaft aktiv: B-1116
+- Übergabe Archiv
+  - Verkauf: C-1974
+- Übergangszeit
+  - Arbeitsart: H-3112
+  - Berechnungsbeispiel: H-3026
+  - Berechnungsbeispiel mit Schichten: H-3027
+- Übermenge
+  - Wareneingang: D-2158
+- Übermengen: E-2373
+- Übernahme Hauptposition: B-232, B-718
+- Überrechnen: C-1400, C-1964
+- Überschreiben
+  - Nummernverwalter: C-1447
+- Übersicht
+  - aktueller Fertigungsstand: H-3242
+  - Alternativangebote: C-1677
+  - Anzahlungen: C-1844
+  - Auslastung zu Datum: H-3286
+  - Bereichsgrafik: H-3186
+  - Bestellteile (Leitstand Auftrag): H-3304
+  - Dokumente (Lagerinfo): C-2039
+  - eingelastete Aufträge: H-3214
+  - erfasste Aufträge: F-2636
+  - fakturierte Aufträge: F-2638
+  - Fertigmeldungen: H-3223
+  - Kapazitäten: C-1831
+  - Module: A-27
+  - offene Aufträge: F-2639
+  - Produktionsliste: H-3236
+  - produzierte Aufträge: F-2637
+  - Reklamationen: C-1843
+  - Restmengen anzeigen: H-3295
+  - Stammdaten: A-29
+  - Statusrückmeldung: C-1860
+  - Stückliste: C-1957
+  - Teillieferungen: C-1841
+- Übersichten
+  - im Verkauf: C-1292
+- Überspringen
+  - Arbeitsgang: H-3182
+  - Folge-Aggregat: H-3178
+
+## V
+
+- Variable: B-539
+  - Bearbeitungstext: B-707
+  - verfügbare Variablen: B-599
+- Variablen
+  - allgemeine: B-599
+  - für Bearbeitungen: B-600
+  - für Rahmentexte: B-600
+- Varianten: B-267
+  - Farben: B-685
+  - Produktvarianten: B-760
+- Vektor: B-321
+  - Vorgabezeiten: H-3147
+- Verbrauch
+  - Analyse: F-2669
+- Verbrauchsanalyse
+  - Ergebnis: F-2674
+  - Restriktionen: F-2672
+- Vererbung: B-244
+  - Stückliste: B-1077
+  - Zuschlagsart: B-387
+- Verfügbare Touren: E-2507
+- Vergleich mit Vorjahreswerten: F-2635
+- Verkauf
+  - Angebot: C-1660
+  - Berechnung: C-1398
+  - Dokument: C-1281
+  - Folgedokument: C-1281
+  - Grafik: F-2651
+  - Grundgedanken: C-1277
+  - Handlungsablauf: C-1278
+  - Informationen: C-1292
+  - Menü-Übersicht: C-1274
+  - Preise: C-1398
+  - Reklamationsstatistik: F-2657
+  - täglicher Ablauf: C-1279
+  - Übersichten: C-1292
+  - Umsatz: F-2642
+- Verklebung: C-1746
+- Verloren
+  - Gestell: E-2542
+- Verlust (Gas): B-721
+- Vermaßung
+  - zwingend für Modell: B-1068
+- Verpackung: B-863
+  - Versandsteuerung: E-2596
+- Verpackungsart: B-1135
+- Verpackungseinheit (Positionserfassung): C-1785
+- Versand: E-2591
+  - Auftrag fertigmelden: E-2394
+  - Auftragsposition fertigmelden: E-2396
+  - eingetragene Vorlauftage: B-681
+  - Einstellungen (Firmendaten): B-1134
+  - Fahrzeug Gesamtgewicht: E-2401
+  - Handlungsablauf: E-2314
+  - Tour anlegen: E-2379
+  - Tour planen: E-2382
+- Versandaufträge löschen: E-2598
+- Versanddaten
+  - ändern: E-2514
+- Versandinfo
+  - Ladeliste: E-2595, E-2604
+- Versandsteuerung
+  - Aufträge sammeln: E-2593
+  - Gestell-Packliste: E-2599
+  - Ladeliste: E-2603
+  - per Spedition: E-2591
+  - Teillieferung: E-2601
+  - Verpackung, Transport: E-2596
+  - Versand: E-2591
+  - Versandauftrag löschen: E-2598
+  - Versandinfo: E-2595
+- Verschieben
+  - Leitstand Auftrag: H-3306
+  - nicht möglich: H-3309
+- Verschnitt: G-2718
+  - mittlerer (Produktverwaltung): B-721
+- Versicherungsleistung: C-1899
+- Versicherungspreise: B-826
+- Vertreter: B-1161
+  - AD-Bereich: B-173
+  - Provision: B-447, B-1163
+- Vertreterprovision
+  - anlegen: B-450
+- Vertreterzuordnung
+  - Kleinkunden: B-1161
+- Vertrieb
+  - Kundenverwaltung: B-913
+- Vertrieb siehe AD-Bereiche
+- Vertriebsgemeinkosten: B-1120
+- Verursacher
+  - Pflichteingabe: B-1108
+- Verwaltungsgemeinkosten: B-1120
+- Verweiltage
+  - Berechnungsbeispiel: H-3025
+  - Berechnungsbeispiel mit Übergangszeiten: H-3026
+  - Produktionsbereich: H-3116
+- Verweil-Matrix: H-3134
+- Virtuelle Positionsnummer: D-2170, D-2275, K-3418
+  - Firmendaten: D-2081, D-2170
+- Vorauskasse: B-152, C-1301, C-1536
+- Vorauszahlung erfassen: C-1538
+- Vorgabe
+  - Dokumentenart, AV-Bereich: B-1153
+- Vorgaben
+  - Position löschen: C-1715
+  - Stücklistenposition löschen: C-1715
+  - Zeiten: A-54, H-2965
+- Vorgaben für EK-Kalkulation festlegen: B-619
+- Vorgabezeit: H-2969
+  - alternativer Vorgang: H-2968
+  - ändern pro Arbeitsart, Aggregat: H-3149
+  - Basiszeit: H-2967
+  - Dreiecksform: H-2969, H-3145
+  - festlegen: H-2985
+  - Format: H-2969
+  - Format festlegen: H-2985
+  - gestaffelt: H-3145, H-3147, H-3148
+  - kopieren: H-3149
+  - Matrix: H-3145
+  - Priorität: H-2968
+  - Rüstzeit: H-2983
+  - Typ: H-2967
+  - Typ Basiszeit: H-3142
+  - Umrechnung in Stunden: H-2969
+  - Vektor: H-3147
+  - Würfel: H-3148
+  - Zeitwert eintragen: H-2987
+  - Zeitzuschlag: H-2971
+- Vorgabezeiten
+  - sonstige Zuschläge: H-3142
+- Vorgang: B-876
+  - alternativ: H-3142
+  - Verwaltung: B-927
+- Vorgang ignorieren: H-3143
+- Vorgang siehe Arbeitsart
+- Vorhaltetage: B-1111
+  - Kreditlimit: B-1112
+- Vorlage
+  - für Modell speichern: C-1430
+  - für Modell übernehmen: C-1437
+- Vorlage siehe Template
+- Vorlagen: C-1327
+- Vorlauftage
+  - Liefertermin Lieferant (Firmendaten): B-1115
+  - Produktionsstart (Firmendaten): B-1115
+  - Warengruppe: B-681
+- Vorschauspalten
+  - Definition: E-2581
+- Vorwärtsterminierung: A-55, H-3024
+
+## W
+
+- Währung: B-157, B-530, B-909
+  - Anzeige in Auftragserfassung: B-1060
+  - Einstellung: B-1059
+  - Einstellungen (Firmendaten): B-1058
+  - elektronischer Datenaustausch: D-2196
+  - Firmendaten: B-157, B-530
+  - Kennzeichen: B-1045
+  - Kurs (allgemein): B-1045
+  - Stammdatenpreis: B-1092
+  - Umrechnung in Fremdwährung: B-158, B-531
+  - Wechselkurs: B-532
+- Warenausgang
+  - Kiste ausbuchen: E-2445, K-3361
+  - Kiste der Position zuweisen: E-2448, K-3364
+- Warenausweis
+  - Zollverwaltung: E-2584
+- Wareneingang: D-2264, Y-3435
+  - Eingangskontrolle: D-2159
+  - Einstellung für ID: D-2171
+  - erfassen: D-2161
+  - ID für Kiste: D-2274, K-3417
+  - Kiste: D-2170, D-2267, K-3410
+  - Kisten erfassen: D-2172
+  - komplett erfassen: D-2162
+  - komplette Bestellungen: D-2278
+  - kontrollieren: D-2167
+  - Lagerbestellung: D-2155
+  - Lagerbuchung: G-2755
+  - Mengendiskrepanzen: D-2280
+  - Mengendiskrepanzen prüfen: D-2167
+  - mit automatischer Kisten-ID erfassen: D-2172
+  - mit manueller Kisten-ID: D-2175
+  - offene Bestellung suchen: D-2162
+  - ohne Lagerkennzeichen: D-2157
+  - Produktionsdatum: D-2170
+  - Status: D-2076, D-2155
+  - Teillieferung: D-2157
+  - Teillieferung erfassen: D-2164
+  - Teilmenge: D-2272, K-3415
+  - Übermenge: D-2158
+  - Unterposition (Kisten): D-2274, K-3417
+  - unvollständige Lieferungen anzeigen: D-2167
+  - vollständig: D-2270, K-3413
+  - Voreinstellungen prüfen: D-2160
+- Warengruppe
+  - Fremdschlüssel: B-331
+  - Preise: B-331
+- Warengruppen: A-34, B-204, B-680
+  - abweichende (Produktverwaltung): B-732
+  - anlegen: B-213
+  - Bestandslisten: C-2023
+  - Erlöskonten: B-1047
+  - für Produkt: B-709
+  - für Statistik (Produktverwaltung): B-709
+  - Hierarchie: B-205
+  - Kombinationen: B-682
+  - kombinieren: B-214
+  - Kombi-WGR: B-205
+  - Kombi-WGR mit Stückliste: B-209
+  - Nummer bei Folgebearbeitung: B-209
+  - Regeln für Kombi-WGR: B-206
+  - Top-WGR: B-211
+  - Top-WGR anlegen: B-216
+- Wartung und Pflege: A-26
+- Wechsel des Produktionsbereichs: H-2977
+- Wechseldruck Verwaltung: C-1962
+- Wechselkurs: B-532
+- Wechselobligo: B-911
+- Wegfallsprossen (Register in Sprossen): C-1778
+- Weitere Angaben (Register in Positionserfassung): C-1786
+- Weitere Optionen (Register in Dokumente kopieren): C-1825
+- Wertberichtigung
+  - Inventur: G-2819
+- Wertzuordnung (Klassifikatoren): B-929
+- WGR
+  - Sonderzuschlag: B-681
+  - zuordnen (Kapa): H-3156
+- WGR Fremdkey
+  - Fremdschlüssel: B-681
+- WGR siehe auch Warengruppen
+- WGR-Fremdkey: B-317
+- WGR-Kombi
+  - für Rabatte: B-1087
+  - mit kompletter Stückliste: B-1087
+- WGR-Kombinationen: B-682
+- WGR-Statistik: B-732
+- Wiederholungsdruck: B-1214
+- Wiedervorlage
+  - abfragen: C-1607
+- Wiedervorlage (Angebot): C-1605, C-1663
+- Wiedervorlage Angebot: B-1115
+- Windows
+  - Login für A+W Business: B-1116
+- Workflow-Task
+  - Einstellungen für Produktionsübergabe prüfen: E-2322
+  - Intervall festlegen: E-2323
+- Wunschtermin übernehmen (AE): C-1684
+- Würfel: B-324
+  - Grenztypen (Kapa): H-3148
+  - Vorgabezeit: H-3148
+
+## Z
+
+- Zählliste: G-2848
+- Zählliste drucken: G-2823
+- Zahltag siehe Zahlungstag
+- Zahlung
+  - kundenspezifische Einstellungen: B-142
+  - Zahlungstagverschiebung: B-145
+- Zahlungsbedingungen: B-149, B-1042
+- Zahlungseingang: C-1467
+  - erfassen: C-1472
+- Zahlungsplan: C-1288
+- Zahlungstag
+  - in Auftragserfassung: C-1703
+  - Kundenverwaltung: B-906
+  - Zahlungszielberechnung: C-1469
+- Zahlungsweg: B-1052
+- Zahlungsweg (AE): C-1700
+- Zahlungsziel
+  - Berechnungsbeispiele: C-1470
+  - Zahlungsplan: C-1288
+  - Zahlungszielberechnung: C-1469
+  - Zahlungsbedingungen: B-1042
+- Zählwerte erfassen: G-2827
+- Zeit
+  - Format: B-1114
+  - Reduktion: H-2975
+  - Reservierung beim Positions-Split: H-3032
+  - Staffelung, Grenztypen: H-2969
+  - Wert für Basiszeit: H-2987
+- Zeitfaktor
+  - Folgebearbeitung: H-3161
+  - Folgebearbeitung+Modell: H-3167
+  - Kantenbearbeitung: H-3165
+  - Kombi-Produktgruppe: H-3169
+  - Modell: H-3163
+  - Serien: H-2984
+- Zeitkalkulation: H-2946
+- Zeitkosten: H-3070
+  - pro Angebot: H-3075
+  - pro Auftrag: H-3075, H-3244
+- Zeitplanung
+  - Basiskomponenten: A-54, H-2965
+  - Beispiel ISO: H-2972
+  - Berechnungsbeispiel: H-2976
+  - Faktor, Zuschlag: H-2975
+- Zeitraumbegrenzung
+  - Rabatt: B-418
+  - Rabatte: B-936
+  - Rabattverwaltung: B-935
+- Zeitwirtschaft
+  - Übergabe aktiv: B-1116
+  - Vorhaltetage: B-1111
+- Zeitwirtschaft siehe Kapazitätsplanung
+- Zeitzuschlag: H-3143
+  - Arbeitsart: H-2971
+  - Berechnungsbeispiel: H-2976
+  - Sonderzeit anlegen: H-2990
+  - Vorgabezeit: H-2967
+- Zolltouren: B-1000
+- Zollverwaltung: E-2583
+  - Datenexport: E-2588
+  - Ladeliste: E-2584
+  - Liste: E-2583, E-2586
+  - Listennummer zurücksetzen: E-2587
+  - Produktgruppe: E-2587
+- Zollverwaltungslistennachweis: E-2586
+- Zubehör
+  - Gestell: E-2555
+- Zugeordnete Aggregate
+  - Arbeitsarten: H-3107
+  - Produktionsbereiche: H-3110
+- Zugriffsrechte
+  - externe Kundennummer: B-1151
+- Zukünftiger Lagerbestand: A-61
+- Zukünftiger Lagerbestand (Register in Lagerinfo): C-2038
+- Zuordnen
+  - Aggregat: H-3013
+  - Folgebearbeitung: H-3161
+  - implizit, explizit: H-3013
+  - Kombi-Produktart: H-3159
+  - Kombi-Produktgruppe: H-3169
+  - Produkt: H-3158
+  - Produktart - Arbeitsart: H-3154
+  - Produktgruppe - Arbeitsart: H-3157
+  - WGR - Arbeitsart: H-3156
+- Zuordnung
+  - CEKAL: B-1224
+  - der automatischen Zuschläge ändern: B-747
+  - festlegen: H-3018
+  - Kombi-Produktart, -Produktgruppe: H-3017
+  - Sonderzuordnung festlegen: H-3018
+  - spezielle Arbeitsart: H-3018
+  - Stücklisten-Komponente: H-3017
+  - Übersicht über die Dialoge: H-3015
+- Zusatz
+  - Lagerverwaltung: G-2871, K-3387
+- Zusatz (Register in Dokumentenverwaltung): C-1696
+- Zusatz (Register in Positionserfassung): C-1782
+- Zusatzleistung
+  - Versicherungspreise: B-832
+- Zuschlag
+  - als Rabatt nutzen: B-399
+  - auf gerundete Menge: B-1091
+  - Austauschzuschlag anlegen: B-361
+  - Austauschzuschlag kopieren: B-366
+  - Automatischen Zuschlag anlegen: B-399
+  - Automatischer Zuschlag: B-396
+  - dickenabhängigen Zuschlag anlegen: B-347
+  - dickenabhängiger Austauschzuschlag: B-358
+  - Energiezuschlag nach gerundetem Gewicht: B-1090
+  - Energiezuschlag nach Positionsgewicht: B-1090
+  - für Produktionszeit: H-2970
+  - Gruppenzuschlag: B-339
+  - Gruppenzuschlag anlegen: B-347
+  - Gruppenzuschlag kopieren: B-353
+  - Kostenkalkulation: B-681
+  - Modellzuschlag anlegen: B-372
+  - Preisgruppe: B-342
+  - produktabhängiger Austauschzuschlag: B-358
+  - produktorientierten Zuschlag anlegen: B-399
+  - Produktverwaltung: B-717
+  - Sonderzeit: H-2970, H-3150
+  - Sonderzeit anlegen: H-2990
+  - Sonstige Zuschläge: B-388
+  - Teuerungszuschlag: B-396
+  - unabhängiger Austauschzuschlag: B-358
+  - Verteilung in Lagerbestellungen: G-2748
+- Zuschlagsarten: B-379
+- Zuschlag für Rechnungsstellung: B-116
+- Zuschlag/Rabatt
+  - auf Bestellungen verteilen: D-2209
+- Zuordnung: D-2191
+- Zuschläge: A-35, B-335, B-336
+- Zuschlagsart
+  - Berechnung: B-379
+  - Produktverwaltung: B-720
+  - Vererbung: B-387
+- Zuschlagsart (Positionserfassung): C-1738
+- Zuschneidetisch: B-1009
+- Zuschnitt
+  - automatischer: B-726
+  - Lagerplatte: B-226
+  - XY-Schnitt: B-226
+- Zwingende Modellvermaßung: B-1068

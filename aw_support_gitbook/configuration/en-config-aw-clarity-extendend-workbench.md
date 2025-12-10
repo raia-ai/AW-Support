@@ -1,0 +1,1063 @@
+---
+title: "EN CONFIG A+W Clarity Extendend Workbench"
+category: "configuration"
+product: "A+W Clarity Extendend Workbench"
+doc_type: "Configuration"
+language: "EN"
+tags: ["CONFIG", "A+W Clarity Extendend Workbench"]
+version: "1.0"
+last_updated: "2025-12-10"
+description: "Configuration   A+W Clarity Extended Workbench                                                                             english        A+W Software GmbH                                           - -INTERNAL-                        EN-CONFIG-A+W Clarity Extendend Workbench.docx   1 Change history           Date        Author     Remarks                               Version         2019-03-14 DLA         Summary from other documents          1.0     A+W Software GmbH   EN-CONFIG-A+W"
+source_file: "EN-CONFIG-A+W Clarity Extendend Workbench.pdf"
+---
+
+
+# EN CONFIG A+W Clarity Extendend Workbench
+
+         Configuration
+
+
+A+W Clarity
+Extended Workbench
+
+
+
+
+                                                                        english
+
+
+
+
+   A+W Software GmbH                                           - -INTERNAL-
+                       EN-CONFIG-A+W Clarity Extendend Workbench.docx   1
+Change history
+
+
+        Date        Author     Remarks                               Version
+        2019-03-14 DLA         Summary from other documents          1.0
+
+
+
+
+A+W Software GmbH   EN-CONFIG-A+W Clarity Extendend Workbench.docx             2
+Content
+
+1.   Goal                                                                                 4
+     1.1. Prerequisite                                                                    4
+     1.2. Scenarios: simple glass with external screen printing                           4
+     1.3. Scenario: external lamination                                                   5
+2.   A+W Enterprise                                                                       6
+     2.1. Order entry                                                                     6
+     2.2. Direct shipment (#407114)                                                       7
+     2.3. Order processing in the background                                              7
+     2.4. Direct delivery from one supplier to the other                                  8
+     2.5. Purchase order                                                                  8
+     2.6. Cost calculation                                                               11
+     2.7. Dispatch control                                                               12
+     2.8. Printing dispatch papers                                                       13
+     2.9. Configuration                                                                  13
+     2.10. Master data                                                                   14
+     2.11. Process/communication                                                         16
+3.   A+W Production                                                                      17
+     3.1. Scheduling                                                                     17
+     3.2. Intermediate packing                                                           17
+     3.3. Processing sequences                                                           18
+     3.4. Configuration parameters                                                       18
+     3.5. Master data                                                                    19
+          3.5.1. New processing types                                                    20
+          3.5.2. New lot type assignment intermediate packing                            20
+          3.5.3. Adjustment machines in machine allocation                               20
+          3.5.4. New machines in machine allocation                                      21
+          3.5.5. Required processing articles                                            22
+          3.5.6. TG stamp                                                                23
+          3.5.7. New formulas                                                            23
+          3.5.8. New text conditions                                                     24
+          3.5.9. Work processes and transition times                                     25
+          3.5.10. Effects on lists and labels                                            26
+4.   Processing generation                                                               28
+     4.1. 'Last processing' and changes to the BOM                                       29
+     4.2. IP for external processing (e.g. screen printing or sand blasting)             29
+     4.3. ZVP0 intermediate packing for externally generated processing (e.g. contract
+     tempering and contract lamination) of the upper part                                29
+     4.4. Packing after production                                                       30
+     4.5. Shipping after production                                                      30
+5.   Table of Figures                                                                    31
+
+
+
+
+A+W Software GmbH        EN-CONFIG-A+W Clarity Extendend Workbench.docx                       3
+1. Goal
+At many companies, there are individual processings that the company cannot do itself. Things
+begin with production, then the goods are transported to a processor who does the processing.
+After that, the goods are transported back and the further processing is done in-house at the
+company.
+This process was already supported in the earlier version in ALCIB-PMS. Now the Extended
+Workbench (case #227069) is also available in some cases to an extended extent in interplay
+between A+W Enterprise and A+W Production.
+The extended workbench serves in interplay between A+W Enterprise and A+W Production to
+transfer individual or several processings to another processor without generating individual orders
+for these and including the following steps:
+    •     Triggering of a correctly-scheduled purchase order
+    •     Organization of the transport out and back via the dispatch control
+    •     Goods receipt in A+W Enterprise and A+W Production -> Continuation of production
+The procedure has the advantages:
+    •     There is only one order in production
+    •     The relationship between the BOM parts provided and the goods receipt after successful
+          processing can be traced easily in A+W Production
+    •     The work plan for the order can be regarded as a whole so that the scheduling and backlog
+          tracing happen with the same tools as for production orders
+
+
+1.1. Prerequisite
+Currently this function only works in interplay between A+W Enterprise and A+W Production. A
+prerequisite for this function is the use of A+W processing types.
+Per BOM part, there can be only one supplier and per supply and order only one PO.
+
+
+1.2. Scenarios: simple glass with external screen
+   printing
+
+    Cut             Grind            Print          Stamp         TG            Pack    Ship
+
+
+In the first step, the BOM configurator inserts a processing IP (intermediate packing, type 1805)
+into the BOM.
+
+
+    Cut           IP         Grind       Print      Stamp         TG            Pack    Ship
+
+
+
+
+A+W Software GmbH           EN-CONFIG-A+W Clarity Extendend Workbench.docx                        4
+A+W Capacity finds the external processing and shifts in the BOM the IP processing generated by
+the BOM configurator before the external processing. For IP, A+W Capacity finds a date in
+connection with the external processing. This date is reported back for the external processing
+
+
+    Cut          Grind         IP            Print            Stamp     TG          Pack     Ship
+
+
+
+
+1.3. Scenario: external lamination
+
+  Cut         Grind       IP         Print           TG           IP0
+
+
+
+                                                          Interlayer         LAMI     Pack     Ship
+
+
+
+                         Cut        Grind            TG           IP0
+
+
+
+
+   •      The foil is treated as a purchased part
+   •      IP is on various BOM levels
+
+
+
+
+A+W Software GmbH           EN-CONFIG-A+W Clarity Extendend Workbench.docx                            5
+2. A+W Enterprise
+
+
+
+
+Figure 2-1 Example of a BOM in A+W Enterprise
+
+
+
+2.1. Order entry
+For the person entering the order, little changes with the extended workbench. Adjusting the
+supply types of glass in the order and thus triggering purchase orders is one of the basic functions
+of our ERP systems.
+In the past, the supply type of a processing could be changed in order to order the processing
+outside the site, for example.
+For such processing, the glass to be provided is also incorporated into the order generation. Here,
+an important restriction should be noted:
+All externally ordered processings per BOM level must absolutely be ordered from only one
+supplier. The glass itself, as well as other subparts from the entire BOM can, if necessary, be ordered
+elsewhere.
+In the example, a glass (item 110006, see Figure 1) is cut in-house and processed. Then this glass
+110006 is delivered to supplier 500001 in order to further process it there. To be noted here would
+be that the supply type of the glass above 350006 is production (6). This is necessary because not
+the entire TGH is ordered, but only the service of tempering.
+This example serves only to clarify and shows the important characteristics:
+    •   Within the BOM level, you can have any processings performed externally, as long as you
+        specify the same supplier
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                             6
+    •   The sequence of entry plays no role here
+    •   The external processings must be done in a block
+To simplify and for a better overview, adherence to a sensible processing sequence in A+W
+Production is recommended.
+An additional processing "intermediate packing" can be inserted in front of these processings if it is
+necessary for the cost calculation. However, this is not necessary for the sequence. If due to the
+cost calculation, this new processing (AWTyp= 1805-intermediate packing) is necessary, it is
+possible to set up a check during the entry that also checks the presence of such a processing.
+In order to generate a correct purchase order, you need appropriate master data.
+
+
+2.2. Direct shipment (#407114)
+The "Extended workbench" module has been expanded to include the possibility of direct
+shipment.
+In the BOM of the ordered processing, it is now possible to enter direct shipment to the customer
+on the "Addresses" tab (checkbox in the DL field). At the time of entry, the delivery address
+number for the order is entered in the Delivery address field. If the order has no delivery address
+(customer has no default address in the master data and none was entered in the order itself),
+then the customer's invoice address is used. If the delivery address is changed after the fact in the
+order, the delivery address for ordered processings is also adjusted with direct shipment.
+
+Since at the time of order entry in A+W Enterprise it is not known whether this ordered
+processing is actually also the final processing according to all settings in A_W Production, there
+can be no check on the spot as to whether the entries are plausible. Here, the knowledge of the
+person making the entry is placed before the current processes for the processing.
+
+In order to make these orders clear for production, they should also be assigned a specially
+created route. For this, per company analogous to the "direct" type, a route of the type "VWB-
+direct" (route cd=7) must be entered. This route must also be made known in A+W Production as
+"direct shipment" so that no goods receipt is expected for these orders. Since at this point in A+W
+Production the incorrectly entered orders (entered direct shipment despite an after-the-fact
+processing on-site) are scheduled correctly and the error is thus eliminated, A+W Enterprise has
+no opportunity to detect it. On the spot, there should be a manual check.
+
+For the generated order, the delivery address will be taken over from the order. In shipping,
+however, only the outgoing goods record is generated.
+
+
+
+
+2.3. Order processing in the background
+The EDI process no longer handles the set-up of the new BOM for the purchase order, however.
+This is taken over directly from the background process INTAUF during the generation of the
+purchase order. Here no new item per processing is created; instead, there is an attempt to
+combine the processings ordered per sheet. For this reason, the sequence of the processings
+entered plays a decisive role. This order item includes the complete branch of the BOM beginning
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                              7
+with the processed glass up to the last ordered processing from the same supplier. All elements of
+the BOM that are not on supply type="purchase order" in the order will be marked as included. The
+item ordered takes over the item number from the table BESTBEAARTZU and the designation from
+the processed glass from the order (see figure 1).
+
+
+2.4. Direct delivery from one supplier to the other
+If an element of the BOM is ordered externally from a supplier A and the subsequent processing
+should be executed by another supplier B, then you can order the delivery of the subpart from
+supplier A directly to supplier B. This is done in the BOM by entering the delivery address for the
+ordered element with <Ctrl+L>.
+If, for example, the LSG foil is ordered from supplier A and LSG laminate from supplier B. You should
+first enter the appropriate suppliers in the BOM. Then for the element LSG foil with <Ctrl+L> first
+enter the supplier B on the query dialog and then select the required address for the supplier. If for
+supplier B only one address was entered in the master data, then this is taken over automatically.
+At the edge of the dialog, the appropriate information "Direct delivery to..." appears.This
+information is also visible on the last MODE dialog ("Addresses" tab). If the address for the direct
+delivery should be removed, do this with <Ctrl+L>.
+If the processing for LSG foil is now generated, the delivery address in the purchase order is
+overwritten with the address of the supplier B. The purchase order is not converted from "direct
+delivery" so that it will be found in case of possible correction.
+
+
+2.5. Purchase order
+Another example: in an order, IG is entered with a processed TGH, whereby for the TGH two
+external processings are applied. These two processings are ordered from the same supplier
+Important setup node in the BOM of the order:
+Header item:           IG                                                               glass 500044
+1. BOM level:   TGH sheet 350004                         PRODUKTION
+2. TSG setup:          FLOAT glass110004                      PRODUKTION
+                        Processing/s (399100, 399110) PRODUKTION (in-house)
+                        Ext. processing 799230        BESTELLUNG (TNR = 15)
+                        Ext. processing 399289        BESTELLUNG (TNR = 16)
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                            8
+Figure 2-2 Order BOM with external POs
+
+The order now includes an item with an item article according to the master data maintained
+[Master data  Keys  Products  Ordered processings].
+More important setup node in the BOM of the generated PO for the supplier 500002:
+Header level: glass 110002 (from the table BESTBEAART), designation from the FLOAT 4 mm
+    Glass 110004                             MITGELIEFERT
+    Processing/s 399100, 399110              MITGELIEFERT (from         own         company)
+    Ext. processing 799230                   BESTELLUNG
+    Ext. processing 399289                   BESTELLUNG
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                  9
+Figure 2-3 PO for processings to be ordered
+
+To be heeded is that per ordered processing, a record is still generated in the appropriate
+preparation tables (INTBEST, BESTWUN, BESTPOOL) for EACH (!) processing ordered. The
+combination into an order item is only done with the generation of the purchase order by the
+background process INTAUF. Therefore it is also important to always keep this data from the order
+pool together. If an ordered processing was marked in the order pool for order generation, then all
+additional elements in the order pool that belong to this order item are marked; they will
+automatically have the same supplier and should also be ordered for the same date.
+The order item generated can then under some circumstances not contain complete reference
+information from the order. Here the tuple of the last ordered processing is entered as original
+tuple. (in our example above, BPOS.ORGTNR=16). Furthermore, this order item is also marked with
+BPOS.VONSTKLST=2. This must be considered in any existing SQL queries.
+Table aufstrukt shows in field aufkz the original tnr (original tupel number).
+#448944: 09.07.2019 build 13.04.5075
+If in the default PO pool order items with different delivery dates are grouped for a PO, then the
+earliest delivery date for the entire PO is taken over for the entire PO.
+
+If in the course of the "Extended workbench" several processings with different delivery times are
+ordered at the same time from the same supplier, it can still be necessary that not the earliest but
+the latest delivery date should be taken over in the PO.
+
+Now the PO pool can be configured precisely this way (environment variable
+BESTPOOL_LATE_PROCESSING). If this configuration is active, a few restrictions apply. If both
+ordered processings and glass are marked together, processings and glass are grouped in separate
+POs. For the glass order, the earliest delivery date will be used as previously and for the
+processing PO the latest delivery date. If for processings to be ordered accessories or foils are
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                        10
+ordered, then these are marked during the marking of the processing to be ordered. In this case,
+these accessories are inserted into the PO for the processings and the PO receives the latest
+delivery date. If these accessories and foils are marked and grouped without the associated
+processing, they are treated like glass and receive the earliest delivery date.
+
+
+
+
+2.6. Cost calculation
+#402350: ORDERED_PROCESSING_KOST = ON
+With an active "extended workbench" module, the subparts ordered (processings) are not taken
+over 1:1 for an order item; instead, they are, if possible, combined into an item with a pseudo
+header item, whereby the processings ordered (if necessary also subparts ordered) from the BOM
+are found in a combined order item. The last tuple number to be ordered from the appropriate
+BOM level of the order is taken over into the purchase order as reference (bpos.orgtnr).
+As for any cost-relevant subpart ordered, for each processing ordered, a material cost record is
+generated, which does not yet bear any costs. (material cost calculation for ordered processings
+will follow in one of the next A+W Enterprise versions).
+Directly after generation of the appropriate purchase order, the prices of the order items are
+calculated and with active writing back of the PU costs, reported back to the order. Since the clear
+assignment of a purchase order item to an ordered tuple from the order is no longer possible and
+the manual changing of the price in the order is also possible on the item and BOM level, the PU
+costs from the order can no longer be transferred unambiguously to the material costs in the
+order. For this reason, a new cost type "purchased" was introduced. (kostentyp=7). For all
+ordered processings and subparts that were combined into a purchase order item, the possible
+existing material costs are zeroed out and the identifier manual = PU (2) is set. In addition, a
+superior record of the type "purchased" is created, which takes over the purchase price for the
+entire purchase order item. As reference (header item), a pseudo item is taken over from the
+purchase order.
+In the cost overview in the order, for the material costs of the ordered processings and other
+subparts that were zeroed out in favor of the cost collective record "purchased," the appropriate
+purchase order number and item are shown at the top right of the dialog. The is also the case for
+the cost record of the type purchased.
+The new cost record "purchased" is treated like a material cost record and also added to the
+remaining material costs of the entire item with the remaining material costs. For the FinAc and
+statistics booking, the record is treated analogously to material cost records (type=1).
+To be able to use this function, the environment variable ORDERED_PROCESSING_KOST = ON
+must be activated
+For material costs (satztyp= 1) for the ordered processings, the following fields are used
+differently
+
+
+poskost.agnr = work process number for production costs.
+= purchase order for material costs of the ordered processings
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                           11
+poskost.pfldpos = production item for production costs
+= item in the purchase order for material costs of the processings ordered.
+
+
+
+
+2.7. Dispatch control
+If a purchase order is generated for the processings automatically or via the order pool, it is also
+booked into dispatch. The manner of these bookings depends on the system settings:
+There are 4 possibilities:
+    •   only goods receipt
+    •   Outgoing goods + goods receipt  Outgoing goods for all that have a date for the supplier
+    •   Only incoming goods, but only for items with ordered processings
+    •   Outgoing goods + goods receipt only for items with ordered processings
+The date for goods delivery to the supplier is reported from production and is noted in A+W
+Enterprise in the table BESTPARAMETER.ZVPDAT for the tuple of the processing ordered.
+
+
+
+
+Figure 2-4 Shipping information for the POs
+
+Depending on the configuration, 1 or 2 records are booked for each purchase order. Insofar as an
+intermediate packing is reported from production (status=559), the packed quantities are booked
+in the outgoing goods record. Naturally it is also possible to correct the data manually in dispatch.
+Directly after that, you can create the accompanying papers.
+Goods receipt for the glass delivered back including the processings ordered should be done in A+W
+Enterprise. This action can be performed in dispatch. If for the purchase order a complete goods
+receipt should be reported, then you can start the booking directly via menu [F4  Deliv./goods
+receipt release]. All planned quantities are reported as available and packaged and the goods
+receipt is generated. If the glass has not arrived completely, then you should use the missing
+quantity check to report the sub-quantities received as packaged, move the rest to a later date, and
+then generate goods receipt for the quantities received.
+A helpful functionality on the item level can be reached with the key combination <Shift+F8>. With
+it, you can display the first level of the BOM. If, e.g. a LSG is ordered, then a collective item for all
+sheets is generated in dispatch. For this, you can visualize the components using the key
+combination mentioned.
+
+
+
+
+A+W Software GmbH            EN-CONFIG-A+W Clarity Extendend Workbench.docx                           12
+2.8. Printing dispatch papers
+It is intended that in dispatch, you should be able to output both loading lists as well as advance
+delivery notes using the normal interfaces. For the reports required for this, please ask your A+W
+contact person. The report adjustments are not included in the scope of the module.
+
+
+2.9. Configuration
+Environment configuration
+    •   MODUL_ORDERED_PROCESSING (ON/OFF) activates the logic of the extended workbench
+        both in A+W Enterprise and in A+W Production.
+    •   Switch MODUL_EK_LAPOOL was expanded as follows:
+            o   1 - only goods receipt
+            o   2 - outgoing goods + goods receipt: Outgoing goods for all that have a date for the
+                supplier
+            o   3 - only incoming goods, but only for items with ordered processings.
+            o   4 - outgoing goods + goods receipt only for items with ordered processings
+        The environment variable can not be client site-individually.
+    •   BESTPOOL_GRUPPIEREN = 1 must be active! This regulates the grouping of POs and at the
+        same time allows all POs for the order from the pool to be generated with evaluation of
+        the supplier.
+    •   STDLIEF_DISPLAY must be activated so that the stored default suppliers are also visible on
+        the external processings in the BOM.
+    •   ORDERED_PROCESSING_KOST = ON: writing back changed material costs
+Expansion of the ERP Web Service
+    •   GetExternalWorkbenchDateList()
+        This method determines possible date tuples for the capacity planning. For a group of IP
+        dates (intermediate packing), appropriate XWE dates (goods receipt dates) are determined.
+        IP dates are trading days that suit the supplier route, XWE dates consider the delivery time,
+        the trade calendar, the route and the supplier's handling time. For the group of tuples
+        determined this way, any existing records in the dispatch control are evaluated.
+    •   SetOrderProdBomItemStatus()
+        Using this method, the tuple-precise quantities are transmitted via PDC reading to the ERP
+        system and reported back to the dispatch control. For this, the new status 559
+        "intermediate packing" has been defined.
+    •   CompleteScheduling()
+        For ordered processings, the IP date is written to the field BESTPARAMETER.ZVPDAT.
+For all extensions in the ERP Webservice, corresponding functions were defined in the ALRPC
+service. This assumes that with the use of the extended workbench logic, both the ERP Webservice
+as well as the ALRPC service have the versions that were specified in the transaction.
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                          13
+These ERP webservice methods and the expansions for ALRPC services are already present starting
+with Version 13.3.
+Printing dispatch papers
+In the dispatch control, two different printing possibilities are provided, for records with
+LAPOOL.VMODUS=2 (PU-out), loading lists, and advance delivery notes. The existing reports cannot
+be used for this since they obtain data especially texts for Vorgang=5. Therefore, two new form
+types have been defined in order to be able to address deviating reports. If the reports are not
+created in the report management, you will not be able to use the appropriate menu items in
+dispatch. It is assumed that the ALENV variable MODUL_ORDERED_PROCESSING is activated.
+Loading list purchase order (LLBest)
+This list is based on the normal loading list (format=114), must obtain data from LAPOOL and texts
+from AUFTXT with document = 2 (purchase order). The parameters, both the number and the
+sequence, are identical to the normal loading list. Form type is 83. For the text procurement, the
+delivery note flag in the form vector must be evaluated.
+For calls via the REPSPOOL the script XLADEPOOL must be adjusted. For the call via the print service,
+there are – apart from the report – no further adjustments required.
+Advance delivery note order (ADNPU)
+The advance delivery note PO gets form type 86. This is a form that refers to data for document=2.
+For the texts, the REPTZUI was adjusted accordingly. The call of REPTZUI is made with form type 23
+and document 2
+For calls via the REPSPOOL, the script XLAPOOLLSD must be adjusted and if necessary, additional
+adjustments may be necessary in dispatch. For the call via the print service, there are – apart from
+the report – no further adjustments required.
+
+
+2.10.            Master data
+Ordered processings
+In order to generate the correct purchase order, you need appropriate master data in the table
+BESTBEAART, which is already familiar from the earlier version of the ordered processings. Nothing
+about the structure of the master data table has changed [Master data  Keys  Products 
+Ordered processings].
+It makes sense instead to store a data record for all suppliers (LINR=0), where a (glass) product is
+also assigned for all ordered processings. e.g.:
+
+
+
+
+Figure 2-5 "Ordered processings" dialog
+
+Here it must be noted that for product stored here, various item master data must absolutely be
+set to YES:
+
+
+
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                         14
+Figure 2-6 Important master list data in the article master data
+
+Article master data
+For the processings that are ordered externally, the supply types of possible external processings
+must be viewed and adjusted. The supply type 'PO' must occur in the list, otherwise no supplier and
+thus no supply time can be stored.
+Use the Beschaffungsart=6 if you produce the processing yourself and also award it externally.
+Select Beschaffungsart=3 if you only order the processing externally.
+On the supplier assignment dialog [Article Master Data  Article  <F4>Supplier] you can specify
+the default supplier, delivery price, and order time.
+
+
+
+
+Figure 2-7 Supplier details in the article master data
+
+Consideration of the travel time
+For the determination of the time span from provision date to re-supply, the travel time for just the
+one-way route is considered. However, in most cases, the glass is also delivered back. In such cases,
+you should approximately double the supplier travel time, and in the end be able to calculate the
+correct date for production and final delivery.
+
+
+
+A+W Software GmbH            EN-CONFIG-A+W Clarity Extendend Workbench.docx                       15
+2.11.       Process/communication
+
+
+
+
+A+W Software GmbH   EN-CONFIG-A+W Clarity Extendend Workbench.docx   16
+3. A+W Production
+3.1. Scheduling
+In the order entry, a supply type is stored and if necessary changed for the various processings in
+the BOM. In the process, it is specified whether (supply type: PO) and where (supplier) the
+processing should be performed externally.
+For the order transfer, the supplier information is transported with the processing information and
+mapped in the course of scheduling in the fields POOL_BEARBEIT.BESTELL_KZ (0: produced; 1:
+ordered). Starting with Version 6.2, the supplier from whom the processing is ordered is in the field
+POOL_BEARBEIT.LIEF_NR. This information is required, among other things, for the machine
+assignment.
+Depending on the BOM configuration, additional processings are generated, insofar as they were
+not entered in the order.
+    •   Packing for external processing in order to provide the glass to be processed
+    •   Packing for an externally generated processing in order to provide glass for contract
+        tempering, contract lamination, and contract insulation
+    •   Optional: goods receipt after external processing in order to indicate that a product returns
+        after processing and should be quality checked.
+Then the scheduling runs and the dates found are reported back to A+W Enterprise.
+A+W Enterprise needs this date for the generation of an order proposal (see chapter PO).
+
+
+3.2. Intermediate packing
+Before glass can be processed further externally, it must be provided and packed for transport if
+necessary. From the manufacturer's point of view, production ends and is only continued when the
+glass returns from the service provider.
+Basically, both delivery processes (packing and dispatch) as well as goods receipt were processes
+mastered in production as start point of the production. New is that glass returns to production
+after dispatch (with significant effects for possible date shifts). Also new is that glass returns again
+to production after shipping and the glass is processed before goods receipt.
+The proven logic is retained that the BOM of ordered glass is ignored in A+W Production and only
+transported for quality assurance on goods receipt. Similarly, it is retained that with the reporting
+of the processing of type '1800 - Packing' the progress report is incorporated into the dispatch
+control.
+In that the new processing type '1805 - Intermediate packing for external processing' was included,
+now the technical possibility exists:
+    •   Query of date pairs for provision and return of the glass and consideration in the scheduling
+    •   Consideration of the provision date for the purchase order proposal generation
+    •   Display of provision dates in the dispatch control
+    •   Reporting of glass as 'provided' from production to dispatch control
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                             17
+The processing 'Intermediate packing for external processing' can be transferred with the order
+(e.g. in order to indicate that a glass will return between two external suppliers) or is artificially
+generated in A+W Production. In both cases, the processing sequence is not determined by the
+article master data, but corrected by A+W Capacity Planner before scheduling so that the provision
+processing takes place immediately before the fits external processing. If a generated processing
+should be produced externally (contract tempering, contract lamination, contract insulation),
+intermediate packing is generated as last processing on the BOM level below.
+
+
+3.3. Processing sequences
+The processing sequence is specified in A+W Production based on the master data of the processing
+item and (if nothing was found there) from the processing types. Only after that is the entry
+sequence of the ERP considered in order to map specialities such as screen printing sequences.
+For the management of ordered processings, it must be considered that for a sequence, either all
+processing items are ordered or all processing items themselves are worked through. The
+background of this limitation is that the processing 'intermediate packing' has a sequence that is 1
+smaller than the first ordered processing by BOM branch.
+
+
+3.4. Configuration parameters
+In [Master Data  Configuration] the following switches must be set:
+[ITEMS4ALCIM_SPECIAL / PROCESS NO MODE]
+
+
+
+
+Figure 3-1 [ITEMS4ALCIM_SPECIAL / PROCESS NO MODE]
+
+[Date Takeover (Items4Alcim)  Customer Settings  Processing Sequence] = 1, in order to use the
+processing sequences from the A+W Production processing master data. The processing sequences
+from the ERP are seamless and too small to be able to insert the additional processings reliably.
+[ITEMS4ALCIM_SETTINGS / PURCHASEDPARTS_TO_ERP_??]
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                           18
+Figure 3-2 [ITEMS4ALCIM_SETTINGS / PURCHASEDPARTS_TO_ERP_??]
+
+[Data Takeover (Items4Alcim)  Customer Settings  Mode for handling finished items] = 1
+(caution station-dependent) in order to report the set-up edge of ordered parts to the ERP system.
+[CAPA_SETTINGS / GOODSRECEIPT_EXTERNAL]
+In A+W Capacity Planner, switches on the sequence correction for provision and goods receipt. It
+can assume the following values:
+        0 (default): off
+        1: activated, only correct provision,
+        9095: Processing type of the processing goods receipt after external processing
+This switch can only be insert with an SQL statement:
+SELECT * FROM parameter WHERE bereich = 'CAPA_SETTINGS' AND eintrag =
+'GOODSRECEIPT_EXTERNAL';
+INSERT INTO parameter (lastmodstation, lastmodzeit, bereich, eintrag, nummer, typ,
+text) VALUES ('WT ;-)', CURRENT, 'CAPA_SETTINGS', 'GOODSRECEIPT_EXTERNAL', 0, 0,
+'9095');
+New properties for supplier query
+These properties should be entered automatically through database update in the table
+FORMULA_PROPERTIES.
+SELECT   *   FROM   formula_properties   WHERE            client_id      =   1      AND   name   IN
+('Processing_LIEF_NR', 'Parts_LIEFERANT');
+If this is not the case, they can be created manually with the following INSERTs:
+INSERT INTO formula_properties (lastmodstation, lastmodzeit, client_id, name, table,
+column, datatype, unit, byref) VALUES ('-CAPA-', CURRENT, 1, 'Processing_LIEF_NR',
+'POOL_BEARBEIT', 'LIEF_NR', 1, -1, 0);
+INSERT INTO formula_properties (lastmodstation, lastmodzeit, client_id, name, table,
+column, datatype, unit, byref) VALUES ('-CAPA-', CURRENT, 1, 'Parts_LIEFERANT',
+'POOL_TEILE', 'LIEFERANT', 1, -1, 0);
+
+
+3.5. Master data
+For the extended workbench, new master data is required in A+W Production.
+
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                        19
+          New processing types
+[A+W Production  Master data  Processings  Processing types]
+    •   1805 Intermediate packing (sequence : 100)
+    •   9095 Goods receipt after external processing (sequence : 100)
+    •   1635 Gas filling (sequence: 110)
+The A+W processing type for 1805 intermediate packing must be created in the TEXTE table. This is
+done with a database update.
+SELECT * FROM texte        WHERE idnum = 1805;
+If this is not the case, it can be done manually with the following INSERT. Here it must be noted that
+with this, the A+W types 1800 and 1805 are stored with the same designations.
+INSERT INTO texte (modul, idnum, idtext, text, sprache, format, status) SELECT
+modul, 1805, 'Bearbeitung_1805', text, sprache, format, status FROM texte WHERE
+modul = 'A_W_BEARBEITUNGSTYP' AND idnum = 1800;
+
+
+          New lot type assignment intermediate packing
+[Master data  Detailed scheduling  Lot types … / Processings]
+Assign processing type 1805 - intermediate packing with supply type production (0) to a lot type.
+By default, the lot type "Processing" (2000) is used.
+
+
+
+
+Figure 3-3 Detailed scheduling master data: lot types and processings
+
+
+
+
+          Adjustment machines in machine allocation
+In [Master Data  MA  MA Editor] the following machines must be edited…
+    •   210      Receipt of goods
+
+
+A+W Software GmbH           EN-CONFIG-A+W Clarity Extendend Workbench.docx                         20
+    •   2910     Packing
+...and the property processing chains = NO so that a problem-free scheduling for the combination
+ordered glass with external processings is possible:
+
+
+
+
+Figure 3-4 Machine allocation master data
+
+
+          New machines in machine allocation
+For the externally ordered processings such as IG assembly, frame assembly or muntin construction,
+individual (new) machine must be created because these processings have different technology
+types.
+E.g. for external insulated glass manufacturing, a new machine 217 - external insulated glass
+production must be created, whose machine type is created on "IG line" with the componentID
+'LINX'.
+
+
+
+
+Figure 3-5 Master data MA for externally ordered IG assembly
+
+Furthermore, for such machines the transition times must also be adjusted accordingly [Master
+Data  Capacity Planning  Transition Times]:
+
+
+
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                      21
+Figure 3-6 Transition times
+
+
+          Required processing articles
+[Master data  Processings  Processing article]
+Processings for goods receipt
+Article 999906 – no goods receipt
+        Type: 9990; Sequence: 100; Internal processing ON;
+is generated for ordered BOM parts that do not appear, e.g. because they are delivered directly or
+do not have any processings. Prominent representative is the LAMI foil for contract lamination
+Article 999908 - Goods Receipt from external
+        Type: 9095; Sequence: 0; Internal processing OFF
+Is generated optionally, in cases where the common date external processings on the machine
+'external processings' is not sufficient
+Article 999909 - goods receipt
+        Type: 9090; Sequence: 0; Internal processing ON;
+is generated for ordered BOM parts that expect regular goods receipt, are not shipped regularly or
+are only in the BOM for reasons of completeness
+Processings for intermediate packing
+Article 999992 - supplier change
+        Type: 1805; AW-Type:0; Sequence: 0; External: ON;
+is generated if an ordered or contract produced part has a follow-up processing that is done by
+ANOTHER supplier. Serves to re-initiate the date calculation if the supplier changes.
+Article 999993 - Packing for external parent
+        Type: 1805; AW-Type: 1805; Sequence = Verpacken.Sequenz
+is generated if the upper part is produced externally and the last processing on the part is produced
+Article 999994 - Packing for external Processing
+        Type: 1805; AW-Type: 1805; Sequence = 0
+Intermediate packing for external processing is generated if an external processing follows on a
+produced processing. As for other articles, the processing articles transferred by A+W Enterprise
+for intermediate packing must be assigned the type (1805 - intermediate packing) and the sequence
+set to 0.
+Processing for packing and shipping
+Shipping processing is generated for header parts and can assume one of three forms
+    •    Shipping for everything that is not direct shipment
+    •    Direct shipment for items that should be delivered directly and have an external processing
+         as last processing in the BOM
+    •    Invalid direct shipment for items whose direct shipment ID is set and whose last processing
+         is done in-house. Open here is whether this is an entry error, incorrect processing
+
+
+A+W Software GmbH             EN-CONFIG-A+W Clarity Extendend Workbench.docx                      22
+        sequences or a state problem of the processing generation. Crucial is that the circumstance
+        can be detected early on
+Article 999995 – packing
+        Type: 1800; AW-Type: 1800; Sequence = 0
+is only generated for items that are sent regularly and not shipped directly
+In contrast to previous versions, it is checked before generation of the processing 'Packing' whether
+there is already a processing of this type and whether the glass is really in-house
+    •   The direct shipment ID is not set
+    •   There is no processing 'Packing" in the BOM
+Article 999996 – Shipping
+        Type = 1810; AW-Type: 1810; Sequence = 0;
+is only generated for items that are sent regularly and not shipped directly
+Article 999997 - Direct shipment
+        Type = 1810; AW-Type: 1810; Sequence = 0;
+is only generated for items that are marked as direct shipment and (have explicit processings or a
+contract produced or ordered) and the last processing (if present) is not produced
+Article 999998 - Invalid direct shipment
+        Type = 1810; AW-Type: 1810; Sequence = 0
+is only generated for items that are marked as direct shipment and the last processing (if present)
+is produced or (have no explicit processings AND are produced in-house)
+
+
+         TG stamp
+The TGH stamp is a metapart in A+W Enterprise, but it is not transferred to A+W Production despite
+the Beschaffungsart=Produktion, but only the processing 'stamp applied'.
+
+
+         New formulas
+For the entry of formulas, care must be taken that the language is '(internal)'.
+AWF_PartHasPackingForPurchase
+Number of processings of type 1805 (packing externally)
+[1;{{;ALL;;$Parts_TEILE_NR};SELF;~~[$Processing_TYP;;]==[1805;;];;` AND
+~[$Processing_AE_TYP;;]!=[0;;];;`;;`;};MAX]
+
+AWF_PartParentToPurchase
+0: ParentPart Inhouse; 1: ParentPart external
+[1;{{;ALL;;$Parts_TEILE_NR};PARENT;~~[$Processing_BEARB_NR;;]==[0;;];;` AND
+~[$Processing_BESTELL_KZ;;]==[1;;];;`;;`;};MAX]
+
+AWF_PartParentToProduce
+1: ParentPart exist and is inhouse; 0 else
+[1;{{;ALL;;$Parts_TEILE_NR};PARENT;~~[$Processing_BEARB_NR;;]==[0;;];;` AND
+~[$Processing_BESTELL_KZ;;]==[0;;];;`;;`;};MAX]
+
+
+
+A+W Software GmbH           EN-CONFIG-A+W Clarity Extendend Workbench.docx                        23
+AWF_ProcessingsToPurchase
+Amount of Processings to purchase
+[1;{{;ALL;;$Parts_TEILE_NR};SELF;~~[$Processing_BESTELL_KZ;;]==[1;;];;` AND
+~[$Processing_AE_TYP;;]!=[0;;];;`;;`;};SUM]
+
+AWF_SupplierOfNextProcessing
+supplier of the first processing, or 0 if that processing is not external
+[$Processing_LIEF_NR;{;PARENT;~~[$Processing_LIEF_NR;;]>[0;;];;`;;`;};MAX]+[$Part
+s_LIEFERANT;{;PARENT;~~[$Parts_LIEFERANT;;]>[0;;];;` AND
+~[$Processing_BEARB_NR;;]==[0;;];;`;;`;};MAX]
+
+AWF_SupplierOfPart
+supplier of the part goods receipt or external
+[$Processing_LIEF_NR;{;SELF;~~[$Processing_LIEF_NR;;]>[0;;];;`;;`;};MAX]+[$Parts_
+LIEFERANT;{;SELF;~~[$Parts_LIEFERANT;;]>[0;;];;` AND
+~[$Processing_BEARB_NR;;]==[0;;];;`;;`;};MAX]
+
+
+          New text conditions
+For the entry of formulas, care must be taken that the language is '(internal)'.
+CPWR_99908
+When explicit processing is external (BESTELL_KZ != 0) OR goods receipt from external
+AWF_ProcessingType == 9095 OR ([$Processing_BESTELL_KZ;;] != 0 AND
+[$Processing_AE_TYP;;] != 0)
+
+AW_GoodsReceiptIgnore
+Purchased parts not appearing in Production
+AWF_ProcessingsToProduce == 0 AND (AWF_PackShippingDirect ==1 OR
+AWF_PartParentToPurchase == 1 OR (AWF_PartParentToProduce != 0 AND
+AWF_ProcessingsToPurchase != 0))
+
+AW_GoodsReceiptRegular
+Purchased parts that do appear in Production
+AWF_ProcessingsToProduce != 0 OR (AWF_PackShippingDirect == 0 AND
+AWF_PartParentToPurchase == 0 AND (AWF_PartParentToProduce == 0 OR
+AWF_ProcessingsToPurchase == 0))
+
+AW_PackAtSupplier
+true, if the supplier of the part and the supplier of the processing are explicit and different
+AWF_SupplierOfPart > 0 AND AWF_SupplierOfNextProcessing > 0 AND
+AWF_SupplierOfPart != AWF_SupplierOfNextProcessing
+
+AW_PackForExternal
+Part is produced and contains purchased processsings
+AWF_ProcessingsToPurchase > 0 AND AWF_PartHasPackingForPurchase == 0 AND
+(AWF_ProcessingsToProduce > 0 OR [$Processing_BESTELL_KZ;;]==0)
+
+AW_PackForExternalParent
+parent part exists and is external, last processing is here
+AWF_PartParentToPurchase == 1 AND AWF_PartHasPackingForPurchase == 0 AND
+AWF_ProcessingLastToProduce == 1
+
+
+
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                         24
+         Work processes and transition times
+In the machine allocation, the work processes 99908 and 18050 must be created for machines 210
+and 2910. These machines also require appropriate transition times:
+Work process 99908 – External processing
+Work process for external processing, must be created above the regular work process with the
+condition CPWR_99908. In the work process allocation, allocate this work process to the machine
+goods receipt (210).
+Because the MA editor does not currently allow the creation of a work process with such a high
+number (but it is technically possible), the work process must be configured with the following
+steps:
+    •   Creation as work process 9998, exit the editor and on the database, set the number
+        manually to 99908:
+        UPDATE mzo_arbeitsgaenge SET id_arbeitsgang = 99908 WHERE id_arbeitsgang = 9998
+
+    •   ONLY AFTER THAT, finish configuring the work process:
+        Allocation additional condition CPWR_99908
+
+
+
+
+Figure 3-7 Work process 99908
+
+Work process 18050 - Intermediate packing
+Work process for intermediate packing must be created with the restriction processing type 1805
+(not A+W type). In the work process allocation, allocate this work process to the machine packing
+(2910).
+
+
+
+
+Figure 3-8 Work process 18050
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                      25
+Transition times
+With external processings, something new happens in A+W Capacity Planner: a sheet can be
+transferred from packing (2910) to goods receipt (210). In order to configure the date-finding so
+that it is stable, the following transitions are required:
+    •    Packing (2910) to goods receipt (210) Type: normal      Shifts 4 (max 2)
+    •    Packing (2910) to goods receipt (210) Type: rush        Shifts 2 (max 2)
+    •    Goods receipt (210) to goods receipt (210)      Type: normal: Shifts: 0 (max 0)
+
+
+
+
+Figure 3-9 Transition times
+
+
+
+To guarantee that the report always receives precisely 'its' packing dates, the following must be
+considered:
+    •    Delivery routes with travel dates (times) must be created.
+    •    The shift end for packing for external processings must be before the smallest travel date.
+    •    In A+W Production, the transition time from the sending machine for external processing
+         => goods receipt external processing must be selected so that the maximum transition
+         between provision and goods receipt is made.
+    •    Adjusting processing generation via Production.ToolBox
+
+
+                 Effects on lists and labels
+For the packing for external processing, lists are required in production to provide the sheets on
+time.
+To achieve this, starting with A+W Production 6.2 in the production table POOL_BEARBEIT, a field
+LIEF_NR is kept, which contains the supplier number (the addressee for the glass to be provided)
+Depending on whether the supplier ships directly to the end customer for externally produced
+header parts, it may be necessary to transfer the customer labels to him. However, that should be
+
+
+
+
+A+W Software GmbH             EN-CONFIG-A+W Clarity Extendend Workbench.docx                     26
+no problem since the property 'is produced externally' depends only on the processing to be
+generated.
+If necessary, product labels for external processings after which the glass comes back must be
+printed.
+
+
+
+
+A+W Software GmbH       EN-CONFIG-A+W Clarity Extendend Workbench.docx                     27
+4. Processing generation
+During scheduling, processings are generated, among other things in order to control the logistics
+after production. Especially if a processing in the BOM should be done by an external supplier, the
+previous provision and completion of the glass is a relevant planning goal. At the same time, the
+regular processings 'packing' and 'shipping' must be reworked since a glass may not come back if
+the supplier ships it directly to the end customer.
+Because the setup of the processing generation for the extended workbench is not possible with
+common editors, a new tool has been created for this: A+W Production.Toolbox. It is in the A+W
+program path under:
+%ProgramFiles(x86)%\A+W\Techsoft\Tools\Production.Toolbox\Production.Toolbox.exe
+The following restrictions must be mentioned here:
+    •   $Processing_BEARB_NR <= 0 (this is conniving. in processing generation, parts without
+        processings bear BEARB_NR = -1. This can no longer be changed)
+    •   $Parts_BESTELL_FLAG < 2 (filters parts ordered in addition)
+
+
+
+
+Figure 4-1 Processing generation
+
+In order to note the numerous combinations for ordered and produced parts and processings
+compactly, in the following pages, an individual notation for the BOMs is introduced
+     P: produced BOM part                  B: ordered generated processing/purchased part
+     x: produced processing                b: ordered (external) processing
+     ?: something
+
+
+Examples
+
+
+A+W Software GmbH          EN-CONFIG-A+W Clarity Extendend Workbench.docx                       28
+P - x cut part with processing
+B - x: ordered part with processing
+P- b: cut part with ordered processing
+P - x - B – x:   part is produced and processed, contract tempered and further processed in-
+house
+
+
+4.1. 'Last processing' and changes to the BOM
+In many of the following conditions, the 'last processing' of the BOM is queried. At the same time,
+processings are generated that can change this query.
+In order not to change the validity of the query, it must be ensured that new processings correspond
+to the query (last processing is produced) or because of their sequence do not become last
+processing. Where this does not succeed, the processing generation must be pushed up accordingly
+(Master Data | Scheduling | BOM Configuration... correct with the arrow keys)
+
+
+4.2. IP for external processing (e.g. screen printing or
+   sand blasting)
+For an ordered processing, the glass must be provided and packed if necessary. To enable A+W
+Capacity Planner, to push the sequence of such a packing message immediately before the ordered
+processing, it sequence in the article master data must be specified as 100. This also ensures that
+its generation does not influence the relevant 'last processing'
+    •    The BOM part is produced
+    •    There is no processing 'intermediate packing' in the BOM AND the BOM includes other
+         ordered processings
+Covered cases: P-b-?, P-x-b-?, P-x-b-x-?, P-b-x-?
+B-x-b is a forbidden state that arises, e.g. if an ordered processing has the wrong sequence. These
+cases are treated as B-b-x
+
+
+4.3. ZVP0 intermediate packing for externally
+   generated processing (e.g. contract tempering and
+   contract lamination) of the upper part
+Because for contract tempering and contract lamination the provision is done on the immediate
+sub-parts, it can happen that two intermediate packings occur on a BOM part. Once before the
+ordered processing and then as last processing in the BOM
+    •    The upper part exists and has an ordered generated processing
+    •    The last processing of the BOM is produced (can be the generating processing of the part)
+    •    There is no processing 'intermediate packing' in the BOM OR the BOM includes other
+         ordered processings
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                         29
+Despite the query 'last processing', ZVP0 is robust against other generated processings as long as
+their sequences are smaller than that of the packing
+Covered cases: P-B, P-x-B, B-x-B, B-b-x-B, P-x-b-x-B, P-b-x-B
+
+
+4.4. Packing after production
+In contrast to previous versions, it is checked before generation of the processing 'Packing' whether
+there is already a processing of this type and whether the glass is really in-house (the last processing
+is not ordered)
+    •   The last processing of the BOM is produced (can be the generating processing of the part)
+    •   There is no processing 'Packing' in the BOM
+
+
+4.5. Shipping after production
+In contrast to previous versions, it is checked before generation of the processing 'Shipping'
+whether there is already a processing of this type and whether the glass is really in-house (the last
+processing is not ordered)
+    •   The last processing of the BOM is produced (can be the generating processing of the part)
+
+
+
+
+A+W Software GmbH         EN-CONFIG-A+W Clarity Extendend Workbench.docx                             30
+5. Table of Figures
+Figure 2-1 Example of a BOM in A+W Enterprise .............................................................................. 6
+Figure 2-2 Order BOM with external POs .......................................................................................... 9
+Figure 2-3 PO for processings to be ordered ................................................................................... 10
+Figure 2-4 Shipping information for the POs ................................................................................... 12
+Figure 2-5 "Ordered processings" dialog ......................................................................................... 14
+Figure 2-6 Important master list data in the article master data .................................................... 15
+Figure 2-7 Supplier details in the article master data ...................................................................... 15
+Figure 3-1 [ITEMS4ALCIM_SPECIAL / PROCESS NO MODE] ............................................................. 18
+Figure 3-2 [ITEMS4ALCIM_SETTINGS / PURCHASEDPARTS_TO_ERP_??] ........................................ 19
+Figure 3-3 Detailed scheduling master data: lot types and processings .......................................... 20
+Figure 3-4 Machine allocation master data ..................................................................................... 21
+Figure 3-5 Master data MA for externally ordered IG assembly ..................................................... 21
+Figure 3-6 Transition times .............................................................................................................. 22
+Figure 3-7 Work process 99908 ....................................................................................................... 25
+Figure 3-8 Work process 18050 ....................................................................................................... 25
+Figure 3-9 Transition times .............................................................................................................. 26
+Figure 4-1 Processing generation ..................................................................................................... 28
+
+
+
+
+A+W Software GmbH                   EN-CONFIG-A+W Clarity Extendend Workbench.docx                                                       31
+

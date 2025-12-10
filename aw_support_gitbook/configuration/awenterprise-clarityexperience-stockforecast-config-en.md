@@ -1,0 +1,103 @@
+---
+title: "EN-CONFIG-AW_Enterprise_CX_Stock"
+source: "EN-CONFIG-AW_Enterprise_CX_Stock.pdf"
+tags: ["A+W", "Clarity Experience", "Stock Forecast", "Configuration", "Software", "ERP", "Glass Manufacturing", "Inventory Management"]
+version: "1.0"
+last_updated: "2025-10-03"
+short_description: "This document provides configuration instructions for the A+W Clarity Experience - Stock Forecast module. It details the necessary prerequisites for the frontend, backend, and middleware components, and outlines specific configuration settings for user-defined fields, oversize indicators, order suggestions, and inventory forecasting for unreleased orders."
+long_description: "This is an internal configuration guide for the 'A+W Clarity Experience - Stock Forecast' software module, part of the A+W Enterprise system for glass manufacturing. The document outlines the essential prerequisites and setup procedures required for proper functionality. It begins by detailing the necessary installations for the Windows-based frontend (A+W Clarity Suite and Clarity Suite Stock) and the Linux-based backend (stockservice), as well as middleware configuration. The main section focuses on specific configuration parameters, including setting up user-defined fields in the article view using system switches and a custom procedure. It also explains how to configure oversize indicators for consumption, evaluate purchase order (PO) suggestions, and calculate announced vs. non-announced quantities in POs. Furthermore, it covers how to adjust for past consumptions and enable the inventory forecast feature for unreleased orders, detailing the required system variables, background processes, and WebService interactions."
+---
+
+# A+W Clarity Experience - Stock Forecast
+
+**-INTERNAL-**
+
+**A+W - Software for Glass**
+
+---
+
+---
+## Change history
+
+| Date | Author | Remarks | Version |
+| :--- | :--- | :--- | :--- |
+| 2023-01-16 | Andre Münch | Creation | 1.0 |
+
+## 1. Introduction
+
+For start-up, the prerequisites that are described in the following sections must be fulfilled:
+
+### 1.1. Frontend (Windows)
+
+First, the following set-ups must be installed on the PC:
+- A+W Clarity Suite
+- A+W Clarity Suite Stock
+
+### 1.2. Backend (Linux)
+
+The following service for the clients must be configured on the Linux server:
+- stockservice
+
+### 1.3. Middleware (Windows)
+
+To connect the front end to the back end, the front end of the Service Locator must be configured on the computer on which the back end service was configured. (See Enterprise System configuration EN-CONFIG-A+W Enterprise System.pdf)
+
+## 2. Configuration
+
+### 2.1. User-defined fields in the article view (main overview)
+
+The text for the column headers is set with the following system switches:
+- `CX_STOCKFORECAST_ARTICLE_USERLABEL1`
+- `CX_STOCKFORECAST_ARTICLE_USERLABEL2`
+- `CX_STOCKFORECAST_ARTICLE_USERLABEL3`
+
+To fill the columns with values, the following procedure must be created:
+
+`cu_forecast_article_fields (artnr INTEGER, Inr INTEGER, varart SMALLINT, farbnr SMALLINT, hausnr SMALLINT)`
+
+The procedure should return three character strings, each with a maximum length of 100 characters. These are displayed in the three user-defined fields.
+
+### 2.2. Oversizes indicator for consumption in the article details
+
+In the table of the consumption, an article can be defined as oversized. For this, the following system switches must be set:
+- `CX_STOCKFORECAST_OVERSIZE_SMALLERSIDE`
+- `CX_STOCKFORECAST_OVERSIZE_LARGERSIDE`
+- `CX_STOCKFORECAST_OVERSIZE_ANYSIDE`
+
+**Check:**
+- If `CX_STOCKFORECAST_OVERSIZE_SMALLERSIDE` and `CX_STOCKFORECAST_OVERSIZE_LARGERSIDE` are set, an article is displayed as oversized if the smaller side exceeds the first value and the larger side the second value.
+- If `CX_STOCKFORECAST_OVERSIZE_ANYSIDE` is set, a glass counts as oversized if one of the two sides exceeds this value.
+
+### 2.3. Evaluating order suggestions as POs
+
+By default, PO suggestions and PO desires are incorporated into the forecast as POs. If this is not desired, the environment variable `"WL_PROGNOPOOL"` is set to the value `"ON"`. If the variable is set, these values are ignored.
+
+### 2.4. Calculation of announced and non-announced quantities in POs
+
+In order to calculate the non-announced PO quantities, the announced quantity must be multiplied by the physical quantity. So that the calculation has no rounding differences, the physical quantity must be set to ON with the environment variables `"RUNDUNG_PHYMESTK_3STELLIG"`. If this is not the case, the unconfirmed quantity will not be calculated correctly.
+
+### 2.5. Consideration of consumptions in the past
+
+Environment variable for A+W Enterprise `"WL_WLPPMS_ADAT_SHIFT"`. This variable is filled with a numeric value if you want to increase the starting date for selecting the stock forecast data from table `wlppms` by 1 or more days. The selection of the data from `wlppms` is selected with `wlppms.a_datum >= today`. Now the selection can be shifted with the value from the variable into the past. (`wlppms.a_datum >= today - value from WL_WLPPMS_ADAT_SHIFT`)
+
+### 2.6. Inventory forecast for unreleased orders
+
+In the A+W Enterprise Clarity Experience - Stock module, it is now possible to inform yourself about how much storage space is required for unreleased orders.
+
+For this, forecast data for such orders (tables `wldispo`/`slppms`) is generated. It has the status 4. Since this status lies completely over the status, the data is not incorporated into the normal inventory forecast. It is generated by the background process `intauf` and by the ERP WebService for unreleased orders and could be viewed in the A+W Enterprise Clarity Experience - Stock module. If the order is released later, this data is deleted and new forecast data with correct forecast date and status 0 is generated.
+
+On cancellation of such an order without release, this data is deleted again.
+
+In der A+W Enterprise Clarity Experience - Stock forecast, you can see these values for the article by including the "Releasepool" column in the view. In the details, in addition to the already-released orders, a new "Releasepool" tab has been added, on which you can see the individual orders in the release pool.
+
+**Attention:** Here the system must be configured so that unreleased orders are transferred to the A+W Production for cost calculation. See also the "Background process 'intauf'" in "EN-CONFIG-A+W Enterprise System".
+
+If via the cost calculation in AWP no production start date can be reported, the delivery date is used in the table `wlppms` as the forecast date.
+
+The ERP WebService writes the forecast data and now also with `Still=-3` and `-43` to the table `awc_wlppms`. These are normally written with `Type=1` (0 = normal, 1=not released). The `alrpc` then transfers the data to `wlppms` and fills field status with `awc_wlppms.typ=1` with the value 4.
+
+The logic must be released via the variable `WL_FORECAST_NOT_RELEASED_ORDERS`.
+
+In A+W Production, the following switch must be set:
+
+A+W Production /order import (Order4Production) /ERP report (scheduling and rescheduling) / report type = 1

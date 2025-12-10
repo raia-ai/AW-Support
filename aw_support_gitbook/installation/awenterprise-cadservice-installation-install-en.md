@@ -1,0 +1,294 @@
+---
+title: "EN-INST-AW_Enterprise_CAD_Service"
+source: "EN-INST-AW_Enterprise_CAD_Service.pdf"
+tags: ["A+W Enterprise", "CAD Service", "Installation", "Configuration", "Software Manual", "Glass and Windows Software", "Informix", "Setup", "Technical Guide"]
+version: "1.0"
+last_updated: "2025-10-03"
+short_description: "Installation and configuration guide for A+W Enterprise 6 CAD Service. This document outlines system requirements, installation procedures, and detailed configuration steps for database, email, and service settings."
+long_description: "This technical manual provides comprehensive installation instructions for the A+W Enterprise 6 CAD Service, a software component for the glass and windows industry. The guide is intended for system planners and administrators. It begins by outlining the prerequisites, including supported Windows Server versions (2008 R2, 2012 R2), network requirements, and necessary pre-installed software like Informix Client SDK and .NET Framework. The document details a step-by-step installation procedure using the A+W Setup Launcher. A significant portion of the manual is dedicated to the post-installation configuration using the 'Config Tool'. This includes setting up common parameters like polling intervals and CAD export types, configuring detailed database connections to the A+W Enterprise DB Server, setting up template-specific rules for CAD export, configuring e-mail notifications for service events, and defining maintenance settings for data cleanup. The guide also covers the configuration of the Windows service user, directory structure requirements for environment variables, and final steps for verifying the installation. It concludes with information on auto-updates, known issues, and the uninstallation process."
+---
+
+# Installation Instructions: A+W Enterprise 6 CAD Service
+
+---
+## Change history:
+
+| Date      | Edited by | Remarks       | Version |
+| :-------- | :-------- | :------------ | :------ |
+| 16.04.22  | MP        | New creation  | 1.0     |
+| 16.12.13  | MP        | AutoUpdate    | 1.2     |
+
+The installation instructions will assist the planner with the installation and configuration process for the software named. Please proceed in the following sequence:
+
+1.  Check the installation requirements.
+2.  Compile the required data, additional programs, drivers, etc.
+3.  Note or determine the time required.
+
+## Content
+
+1.  **Installation of the A+W Enterprise 6 CAD Service**
+    1.1. Overview and the basics
+    1.2. Time requirement
+        1.2.1. Installation time for the software
+    1.3. Requirements
+        1.3.1. Windows Server Version
+        1.3.2. Network
+        1.3.3. Software
+    1.4. Procedure
+    1.5. Incompatibilities
+    1.6. Directory structure
+        1.6.1. DATEI_REF_PFAD
+        1.6.2. SNFILES_DIR
+    1.7. Result of the installation
+    1.8. Configuration
+    1.9. Tips and tricks
+        1.9.1. AutoUpdate
+        1.9.2. Known errors and workarounds
+    1.10. Uninstalling
+
+---
+
+## 1. Installation of the A+W Enterprise 6 CAD Service
+
+The following installation instructions assume that there is no previous version installed.
+
+An update of an earlier release version of the A+W Enterprise 6 CAD Service is executed precisely like a new installation.
+
+An update of an earlier version of the CAD Service, e.g. from A+W Enterprise 5 CAD Service to A+W Enterprise 6 CAD Service is not possible. Only one version of the CAD Service should be installed.
+
+This document describes only the installation and configuration of the A+W Enterprise 6 CAD Service. In case of questions about the installation or configuration of dependent set-ups/disk sets, please see the installation instructions for these products.
+
+### 1.1 Overview and the basics
+
+The following list provides an overview of the work that must be done during installation:
+
+-   Installation and configuration of the Informix driver via setnet32.exe
+-   Creation of the necessary set-ups/disk sets
+    -   A+W CAD Designer (Shapes)
+    -   A+W Enterprise 6 CAD Service
+    -   A+W Infrastructure 6 Collector Services
+    -   A+W Infrastructure 6 Middleware
+    -   Java 7 Update 51
+    -   A+W Setup Launcher
+-   Installation of the CAD Service and the dependent disk sets with the Setup Launcher
+-   Configuration of the CAD Service with the ConfigTool
+
+### 1.2 Time requirement
+
+If all requirements are checked and fulfilled, the following times are required for the installation and the conversion of the existing data:
+
+#### 1.2.1 Installation time for the software
+
+Depending on the computer, storage space, and configuration, the installation times will vary for different computers. The installation time specified was determined using a reference device with the following characteristics:
+
+-   **Processor:** 3000 Mhz
+-   **RAM:** 4 GB
+-   **Other:** /
+
+For an initial or new installation, an installation time of 5 minutes must be anticipated for the reference device. For higher or lower-power hardware, shorter or longer installation times must be anticipated.
+
+### 1.3 Requirements
+
+#### 1.3.1 Windows Server Version
+
+Supported operating systems:
+
+-   Windows 2008 Server R2 32/64bit.
+-   Windows 2012 Server R2 32/64bit.
+
+#### 1.3.2 Network
+
+For the installation itself, no network access is necessary.
+
+For the operation of the service, there must be a connection to the A+W Enterprise DB Server and the company network.
+
+#### 1.3.3 Software
+
+It is assumed that the following disk sets were already installed and configured BEFORE the installation of the A+W Enterprise 6 CAD Service disk set.
+
+-   Informix Client SDK 3.5 TC9 (or newer)
+-   Microsoft .NET Framework 4.5.1 SDK
+
+### 1.4 Procedure
+
+For the installation, please proceed in the following sequence:
+
+1.  Use `setnet32.exe` to configure the database server and hosts. This assumes that an IBM Informix Client SDK was installed (see software requirements).
+
+2.  Installation of the A+W Enterprise 6 CAD Service with the Setup Launcher.
+    On the Component Selection dialog on the A+W Enterprise node, select the "A+W Enterprise 6 CAD Service" module. This automatically selects all dependent set-ups.
+
+    *[Image: A+W SetupLauncher Component Selection dialog. The tree view shows A+W Enterprise expanded, and "A+W Enterprise 6 CAD Service" is checked.]*
+
+3.  After the successful installation, the CAD Service is configured with the Config Tool.
+
+    #### 3.1. Common Settings
+
+    *[Image: A+W Enterprise 6 CAD Service Configuration window, on the "Common Settings" tab.]*
+
+    ##### 3.1.1. Polling Interval
+    In the **Polling Interval (Seconds)** field, the number of seconds is set that the service waits until it checks the `sntransfer` transfer table again for new data records. The default value is 20 seconds.
+
+    ##### 3.1.2. CAD Export Types
+    -   **Type A:** Generation of SN files and machine export for product sets based on templates.
+    -   **Type B:** Generation of SN files for order items based on templates.
+
+    The CAD Service currently recognizes two processing types. The correct configuration can only be made in consultation with Development since both types were developed based on special customer requirements.
+
+    ##### 3.1.3. Background iTOE
+    -   **SN file synchronization:** generation of SN files based on templates with simultaneous synchronization of the AWE BOM with the template file.
+
+    At the moment, iTOE can only be activated with the export type B. There is a detailed description of this in the configuration document for the A+W Enterprise CAD Service.
+
+    ##### 3.1.4. Protocol-Button
+    With the **Protocol** button, you can reach the Protocol Configuration dialog. This automatically selects all dependent set-ups. On the first tab, the trace categories for the frontend are configured; on the following tabs, the tracing of dependent modules and programs can be activated if necessary.
+
+    *[Image: Protocol Configuration dialog, showing trace level settings for various categories like AWEBasis, AWECADService, etc.]*
+
+    The following trace levels are distinguished:
+    -   Fatal
+    -   Error
+    -   Warning
+    -   Info
+    -   Debug
+
+    If, for example, the Info level is active, trace messages of the type Error and Warning will also be written into the tracing file.
+
+    The tracing file is always in the directory `%ProgramData%\A+W\Log`. The file name consists of the service name, the current date and the process number and ends with `.awtrc`.
+
+    The A+W Enterprise CAD Service currently uses no log protocol.
+
+    #### 3.2. Database settings
+
+    On this dialog, all database-precise settings are configured, starting with the database itself.
+
+    *[Image: A+W Enterprise 6 CAD Service Configuration window, on the "Database Settings" tab, showing an empty list of database configurations.]*
+
+    -   With the **New** button, you can create a new configuration.
+    -   With the **Edit** button, you can edit an existing configuration.
+    -   With the **Delete** button, you can delete an existing configuration.
+
+    ##### 3.2.1. Data Source Properties
+    With the **New** or **Edit** buttons or with a double-click on a row in the table, you reach the Site Properties dialog. Here, all database-dependent settings can be made.
+
+    *[Image: Data Source Properties dialog with fields for Site Settings and Database Settings like Data Source Name, ERP Type, Database Type, Server Name, etc.]*
+
+    ##### 3.2.2. Database settings
+    -   In the **Data Source Name** field, a name is entered for the data source. The name can be selected at will and has no further meaning than making the data source identifiable for the user. The name stored here plays no role in the establishing of the database connection.
+    -   The **ERP Type** field cannot currently be changed. It defines the connected ERP system. At the moment, only a connection to A+W Enterprise is possible.
+    -   In the **ERP Site** field, the main site number of the connected ERP system is stored.
+    -   The **Database Type** field cannot currently be changed. It defines the database type. Thanks to the exclusive connection to A+W Enterprise, the database type is specified as Informix.
+    -   The database server is entered in the **Server Name** field. Via the combo box, all DB servers entered in the setnet32 can be selected.
+    -   A user name that has access to the database must be entered in **User Name**.
+    -   If the fields **Server Name**, **User Name**, and **Password** are filled with valid values, the **Database Name** combo box already contains all available database names of the database server.
+    -   The appropriate locale settings are entered in the **Client Locale** and **DB Locale** fields. The combo boxes already contain most values used. If it is necessary to enter deviating values, this is also possible manually.
+    -   In the **Background Process Host** field, the server is entered on which the background processes of the connected A+W Enterprise are working.
+
+    ##### 3.2.3. DB Functions
+    -   With the **Start Setnet32** button, it is possible to start the `setnet32.exe` program directly; with it, database server/hosts can be set up.
+    -   With **Check Alenv** you can check the A+W Enterprise environment variables for this service and view the current database configuration. Since this dialog is only for checking purposes, it will not be described in any more detail. The settings of the Alenv variables are made in A+W Enterprise.
+    -   The **Test Connection** button allows you to check the current values of the database configuration. If a database connection can be established with these values, you will see the following message box; otherwise an error message.
+        *[Image: Info dialog box with the message "Database Connection established".]*
+
+    #### 3.3. Template Settings
+    This dialog is only relevant if in **Common Settings** the export type A was selected.
+
+    The machine assignment for each template that is used in the CAD export is entered here and it is decided whether in particular views in the SN the drill holes should be removed.
+
+    *[Image: Template Settings dialog showing a list of templates and their properties.]*
+    *[Image: Template Properties dialog with fields for Template Name, Machines, and a checkbox for Delete Drill Hole.]*
+
+    ##### 3.3.1. Template Properties
+    -   In the **Template Name** field, the name of the template without extension (.sn) is stored.
+    -   The assigned machines are stored in the **Machines** field. The machines are required to generate the machine driver.
+    -   With the **Delete Drill Hole** checkbox, it is specified whether in particular views of the SN the drill holes should be removed.
+
+    #### 3.4. E-Mail Settings
+    On this dialog, the sending of e-mails from the CAD Service is configured.
+
+    *[Image: E-Mail Settings dialog with fields for SMTP Server, Port, From, To, CC, and Authentication options.]*
+
+    -   In the **SMTP Server** field, the SMTP server is specified.
+    -   In the **Port** field, the SMTP port is specified.
+    -   In the **From** field, the sender's address is stored.
+    -   In the **To** field, the recipient's address is stored. Several recipients can be specified separated by semicolons.
+    -   In the **CC** field, the address of the CC recipient is stored. Several CC recipients can be specified separated by semicolons.
+    -   With the **Authentication** checkbox, the authentication of the E-mail recipient can be forced. **Account** and **Password** are only relevant if Authentication was selected.
+        -   In the **Account** field, the authentication user is stored for Authentication.
+        -   In the **Password** field, the user's password is stored for Authentication.
+        -   In the **Confirm Password** field, the password for Authentication is confirmed.
+    -   With the **Enable SSL** checkbox, it is possible to activate SSL encryption.
+
+    #### 3.5. Maintenance Settings
+    Use this dialog to configure the clean up-time for processed records in table `sntransfer`.
+
+    *[Image: Maintenance Settings dialog with fields for "Clean Up Time Success (Days)" and "Clean Up Time Error (Days)".]*
+
+    -   In field **Clean Up Time Success** the clean up time in days is specified for successfully processed records.
+    -   In field **Clean up Time Error** the clean up time in days is specified for processed records in `sntransfer` that encountered an error.
+
+    #### 3.6. Windows Service configuration
+    The service users are stored on the **Windows Service Configuration** dialog. These are Windows users who are used to access external objects such as network paths, etc. This user must have the appropriate rights.
+
+    *[Image: Windows Service Configuration dialog with fields for Domain, User, Password, and Parallel Services.]*
+
+    With the **Pick user...** button it is possible to select a domain user.
+
+    If no network domain is available, e.g. because the service was installed on a PC, the value `.` can be entered in the **Domain** field.
+
+    If no user is available, the service can also run under "LocalSystem" in case of emergency. This is the default services user in a Windows system.
+
+    Currently no parallel services can be installed. If necessary, please contact Development.
+
+4.  Now the A+W Enterprise 6 CAD Service is ready and it writes a log into the directory named above.
+
+5.  Setting of A+W Enterprise environment variables
+
+### 1.5 Incompatibilities
+
+No incompatibilities are known.
+
+### 1.6 Directory structure
+
+#### 1.6.1 DATEI_REF_PFAD
+
+The env variable `DATEI_REF_PFAD` is defined in AWE. The file path stored here (or a superior path) must be connected as network drive on the Windows server.
+
+Both the CAD service as well as the access rights required by SN to the path stored in `DATEI_REF_PFAD` as well as all subdirectories.
+
+#### 1.6.2 SNFILES_DIR
+
+The env variable `SNFILES_DIR` is defined in AWE. The file path stored here (or a superior path) must be connected as network drive on the Windows server.
+
+Both the CAD service as well as the access rights required by SN to the path stored in `SNFILES_DIR` as well as all subdirectories.
+
+This is the directory in which the SN file generated by the CAD Service is saved.
+(General remark: If an existing SN file should be opened (specification in kposp.brokefile), it is opened by SN from this directory.)
+
+**WARNING:** The path specification must end with a backslash! (In contrast to the path specification in DATEI_REF_PFAD)!
+
+### 1.7 Result of the installation
+
+If the service could be started, the installation was successful. Otherwise, the trace log is available for determining possible problems.
+
+### 1.8 Configuration
+
+For additional configurations, please see the CAD Service documentation.
+
+### 1.9 Tips and tricks
+
+#### 1.9.1 AutoUpdate
+
+In order to be able to install the service via AutoUpdate, the setup must have been installed successfully at least once with the Setup Launcher and configured with the ConfigTool.
+
+#### 1.9.2 Known errors and workarounds
+
+(No known errors and workarounds listed in this section).
+
+### 1.10 Uninstalling
+
+You can uninstall the program as usual via Control Panel -> Programs and Functions.
+
+*[Image: Uninstall confirmation dialog in German. The text "Möchten Sie A+W Enterprise 6 CAD Service wirklich deinstallieren?" translates to "Do you really want to uninstall A+W Enterprise 6 CAD Service?". The options are Ja (Yes) and Nein (No).]*
+
+**Note:** The config file is not deleted automatically. For a final uninstallation, the program directory of the A+W Enterprise 6 CAD Service must be deleted manually.

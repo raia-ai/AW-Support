@@ -1,0 +1,120 @@
+---
+title: "A+W Production Terminal (EL) Functional Description"
+source: "EN-FUNC-AW_Production_Terminal_EL.pdf"
+tags: ["A+W", "Production Terminal", "EL", "Software for Glass", "Functional Description", "Business Pro", "Manufacturing Software"]
+version: "1.0"
+last_updated: "2025-10-03"
+short_description: "A functional description of the A+W Production Terminal (EL), a software module for A+W Business Pro. It details the product's purpose, which includes production control, displaying sheet information, reporting completed processing, and managing breakage entries for glass manufacturing."
+long_description: "This document provides a detailed functional description for the A+W Production Terminal (EL), a software module designed for A+W Business Pro customers in the glass industry. It outlines the capabilities of the terminal, which serves to handle production control at various points in the manufacturing flow. Key functions include displaying CAD images and detailed information for sheets to be produced, allowing operators to report 'completed' status for processing steps, and entering breakage reports with reasons and locations. The document specifies the system requirements, such as the need for A+W Business Pro, a Microsoft SQLServer database, and A+W Business Interface Service. It also lists the product's functionalities, like loading sheets via barcode scanning and displaying the Bill of Materials (BOM). Finally, it clarifies the operational restrictions, such as the lack of support for individual sheet tracing, rack bookings, or partial bookings. The document serves as a guide for understanding the scope, features, and limitations of the A+W Production Terminal (EL) module."
+---
+
+# A+W Production Terminal (EL)
+**A+W - Software for Glass**
+
+---
+## 1. Content
+
+1.  **Content**
+2.  **Notes on this Document**
+    2.1. Trademarks
+    2.2. Copyrights
+    2.3. Disclaimer of liability
+3.  **Performance Description**
+    3.1. Data
+    3.2. Description
+    3.3. Requirements
+    3.4. List of functions
+    3.5. Restrictions
+    3.6. Notes
+4.  **Contact Address**
+
+## 2. Notes on this Document
+
+This documentation and the software it describes is only distributed with a license and may only be used and copied according to this license. The content of the documentation serves only as information and can be changed without prior notice at any time. The text and illustrations were compiled with the utmost care. However it is not possible to exclude errors completely. A+W Software GmbH assumes no liability for errors or imprecise statements unless these can be traced back to intentional or negligent actions.
+
+### 2.1. Trademarks
+
+All hardware and software designations mentioned in the documentation can also be registered trademarks or other industrial property rights of third parties. The property rights of third parties must be observed.
+
+### 2.2. Copyrights
+
+© 2017, A+W Software GmbH, all rights reserved, including the right of reprint, the production of copies and of the translation. The documentation can be copied, completely or in part, saved in an archiving system, or transferred in any other form only in accordance with our license agreement. Transmission of the documentation is not allowed, neither electronically, nor mechanically, nor by recording or in any other way, without the written prior approval of A+W Software GmbH.
+
+### 2.3. Disclaimer of liability
+
+A+W Software GmbH does not assume any liability for data errors resulting from the basics of the standard functions provided by Microsoft, Unix or other software and hardware suppliers.
+
+A+W Software GmbH reserves the right to change software data, structure, and interfaces as part of program expansions without prior announcement. All amendments, extensions, database queries, reports, analyses, and interface extensions which have been individually created for our customers and/or machine and software partners as well as all related costs and expenses are to be borne by the customer (customers, machine and software partners). This includes also any necessary long-term costs and efforts for the expansion and adjustment of subsequent program versions. This is necessary to make sure that the commissioned amendments/extensions which have been made or developed for a version will work flawlessly and can be used in the successor version.
+
+## 3. Performance Description
+
+### 3.1. Data
+
+| | |
+| :--- | :--- |
+| **Product** | A+W Business Pro |
+| **Module number** | 230013 |
+| **Module** | A+W Production Terminal (EL) |
+| **Brief description**| Production Terminal for Business Pro customers |
+| **Available** | V6.4 available as of 2018 |
+
+### 3.2. Description
+
+A+W Production Terminal (EL) handles production control at various points in the production flow. The basic functions of A+W Production Terminal (EL) include the display of information about the sheets to be produced, the reporting "completed" of processings, and breakage entry.
+
+On the largest part of the screen, a CAD image is displayed for the sheets to be produced.
+
+On the left side of the screen, the quantities are entered that you would like to report completed. Furthermore, the BOM tree for the selected item is displayed. Here, glass items are displayed in blue and the processings for the selected machine in red.
+
+The lower part of the screen displays additional information about the selected item in a table. The user can change the content of this table. Here, you can change the sequence and add or remove fields from a pre-selection. A table once set up can be saved under its own name and then called up again as needed.
+
+### 3.3. Requirements
+
+The A+W Production Terminal (EL) requires the following A+W products:
+
+*   A+W Business Pro installation with licensed A+W Business Capa.
+*   A+W Business Pro database in Microsoft SQLServer.
+*   A+W Business Interface Service to process the bookings.
+*   A+W CAD Designer (Shapes) to display the geometry, a A+W CAD Designer (Shapes) license is not necessary. A CAD drawing is required, it can be generated by A+W Business using the appropriate modules (TOE) for which a license is required.
+
+### 3.4. List of functions
+
+The following functions are mapped:
+
+*   Booking of completion report for sheets for the production step
+*   Breakage report of sheets with breakage reason and breakage location
+*   Display of CAD images via A+W CAD Designer (Shapes). CAD files are necessary for this; they are generated by A+W Business.
+*   Load sheets via scanning of a bar code and the search via input of the order, item, and part number
+*   Schematic display of the BOM of the glass unit
+*   Additional information about the sheet displayed in a table
+
+### 3.5. Restrictions
+
+The product is subject to the following restrictions:
+
+*   Bookings on racks are not supported
+*   No individual sheet tracing is supported, only quantitative completed messages on the machines
+*   There is no search by batch number, rack, etc. - only the search via order, item, and part
+*   The assembly of products (e.g. assembly of FLOAT sheets in an IGU) is not supported.
+*   There are no terminals for the input or output on a machine. Thus, no bookings are possible for this state. A booking always means that the sheet was produced on this machine.
+*   Only keyboard scanners are supported.
+*   Partial bookings (e.g. only 2 of 4 holes) are not possible.
+*   The automatic ordering of broken sheets that are ordered is not possible.
+*   The display and performance (functions, which ones are integrated and available via the operating elements of the interface) in A+W Production Terminal (EL) are specified permanently and they cannot be adjusted or expanded.
+
+### 3.6. Notes
+
+*(This section is intentionally blank in the source document.)*
+
+## 4. Contact Address
+
+**A+W Software GmbH**
+
+Siemensstraße 3
+35463 Fernwald
+Germany
+
+Tel. +49 641 96620-0
+
+E-mail: info@a-w.com
+Internet: http://www.a-w.com/

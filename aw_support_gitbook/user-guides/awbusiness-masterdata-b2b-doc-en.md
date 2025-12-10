@@ -1,0 +1,1943 @@
+---
+title: "EN_AWBusiness_Master_Data_9_12"
+source: "EN_AWBusiness_Master_Data_9_12.pdf"
+tags: ["A+W Business", "Master Data", "B2B", "Product Import", "Price Import", "Export Settings", "SN File Rules", "Software Reference", "openTrans"]
+version: "1.0"
+last_updated: "2025-10-03"
+short_description: "This document is a software reference guide for the A+W Business Master Data module, focusing on Business-to-Business (B2B) functionalities. It details procedures for data exchange, including exporting documents as files or emails in openTrans format, and configuring rules for data import and processing."
+long_description: "A comprehensive technical reference manual for the A+W Business Master Data software, specifically covering the B2B (Business-to-Business) section. The guide provides detailed instructions on configuring and using various data exchange features. Key topics include setting up export types for documents like order confirmations, invoices, and dispatch notifications, which can be sent as files or email attachments, with support for the openTrans format. It explains the process for creating SN File Rules to automate file generation during production transfer. The document also outlines the procedures for Product Import and Price Import, allowing users to import master data from external sources like BME-CAT or VEGLA price lists. It covers a wide range of parameters for these imports, such as article lists, matchcode prefixes, price lists, and procurement types. The latter part of the document consists of a detailed, alphabetized section index, providing quick access to specific topics and their corresponding page references within the A+W Business Master Data system."
+---
+
+---
+## B2B
+
+### Export type
+Documents can be dispatched as files or as email attachments:
+- **Export to a file:** This setting means that the data will be saved in a file. The field for the target path is released. You can select a directory or enter the path manually.
+- **Export via email:** This setting means that the data will be attached to an email. The checkbox for the email address is accessible.
+
+### Export order confirmations, invoices, dispatch notification
+These document types can be exchanged in openTrans format.
+- The corresponding document type will not be exported in openTrans format.
+- This document type will be exported in openTrans format.
+
+### File export
+The field for the target path is accessible only if you have selected **Export to file**.
+
+**Target path**
+You can select a directory or enter the path manually.
+
+### Export by email
+- **Use special email address for the export:** This checkbox is accessible only if you have selected **Export by email**.
+- Email transfer uses the addresses entered in master data. You have to check whether the email address has been defined correctly in the customer master data.
+- Different email addresses should be used for the email transfer. The fields for the corresponding document type are released.
+
+**For OCs, invoices, disp. notif.**
+You can enter a separate email address for every document type.
+
+### Tab Table
+This tab lists all specified customers.
+
+### SN File Rules
+**Master Data > B2B > Customer > SN file rules**
+
+**Fig. B-314 Rules for creating a SN file**
+
+| Artikel/Article | Product type | Product class |
+| :--- | :--- | :--- |
+| Einfachglas/Single glass | Artikel/article | Einfachglas/Single glass |
+| Einfachglas/Single glass | Artikel/article | Floatglas/Float glass |
+| Einfachglas/Single glass | Artikel/article | Floatglas farbig/Float glass coloured |
+
+This dialog serves to specify the product types/classes for which an SN file should be automatically created at transfer to production (OrderXML). This file is attached to the BOM. Manual creation per item is therefore unnecessary.
+
+During the transfer to A+W Production, this SN file is usually created by A+W Production.
+
+### Product Import
+**Master Data > B2B > Product Import**
+
+**Fig. B-315 Product Import**
+
+This dialog can be used for importing all article master data that is offered for selection but cannot be imported by BME-CAT.
+
+The settings for BMECat import are made in customer data.
+⇨ "Company Data - Miscellaneous" on page B-999
+
+#### Parameters
+- **Article list:** Choose the article list. All article lists saved in the directory specified in field 'Source file' will be offered for selection.
+- **Matchcode prefix:** Article numbers can get a prefix when they are imported, e.g. the supplier's initials. This helps to identify them clearly in master data.
+- **Client:** Article import for a certain database.
+- **Source file:** Choose the article file to be imported.
+- **Product type, product class:** Product type and product class to be assigned to the imported articles.
+- **PGR, PGR statistics:** Product group and product group for statistics to be assigned to the imported articles.
+- **Price list, key:** Price list and price key in which the prices for the imported articles are kept.
+- **Article number from, to:** Select the article numbers to be imported.
+- **First price table for product colors:** Different price tables can be used for the variants. This means that more than one price table exists for a product. This is why you have to enter the free (table) number starting from which the price tables should be created.
+- **Sketches:** Directory in which the imported article sketches should be saved.
+- **Procurement type:** Select the procurement type to be allocated to the imported articles.
+- **Stock booking type:** Choose the stock booking type to be allocated to the imported articles. This field is accessible only if the procurement type **Stock withdrawal** has been chosen. Stock booking types are described in detail in section **Stock management**.
+
+#### Article list
+This table lists all articles belonging to the selected article list. The checkbox **New** is checked right after an import/update. It shows all modified entries.
+
+### Price Import
+**Master Data > B2B > Price Import**
+
+**Fig. B-316 Price import**
+
+Use this dialog to import the VEGLA price data.
+
+# A+W Master Data
+
+## Section Index
+
+## A+W Business
+
+**A+W - Software for Glass, Windows and Doors**
+
+## Index
+
+### A
+- **A+W Production**
+    - Processing catalog: B-532
+    - Product management: B-619
+    - Transfer file: B-530
+    - Transferred data: B-530
+- **Access rights**
+    - External customer number: B-1005
+- Accounting date: B-83
+- Administration overheads: B-977
+- Adopt main item: B-167, B-602
+- Allocate price group: B-274
+- **Allocation**
+    - CEKAL: B-1072
+    - change automatic surcharges: B-629
+- **Alternative article**
+    - in product management: B-595
+- **Application examples**
+    - PP calculation IG: B-545
+- **Archives**
+    - Company data: B-962
+    - Database: B-962
+- **Archiving: B-369, B-370**
+    - by input date: B-964
+    - Delete document: B-964
+    - Minimum status: B-966
+    - Mode: B-967
+    - multiple: B-964
+    - Order area: B-967
+    - Path for DMS: B-981
+    - Path for report file: B-967
+- Article see Product
+- **Attachment**
+    - File in customer management: B-787
+- **Attachments**
+    - Path for file: B-932
+- **Automatic cutting**
+    - Code (product management): B-609
+- **Automatic loader**
+    - Code: B-877
+- Automatic scheduling: B-939
+- Automatic surcharge: B-326
+- Automatic Surcharges: B-325
+- **Automatic surcharges**
+    - Available surcharges/discounts: B-327
+- Avalara WebService: B-922
+- Average waste: B-605
+- AW-Broke: B-598
+- **AWRack**
+    - Rack invoice: B-991
+
+### B
+- **Backup file**
+    - Storage time: B-968
+- Balance: B-778
+    - of customer: B-780
+- **Bank**
+    - Client: B-89
+    - Common Banks: B-907
+    - Company bank accounts: B-1020
+    - Enter bank account: B-374
+    - Enter for subsidiary: B-374
+    - IBAN, BIC: B-89
+- **Barcoding**
+    - Status allocation: B-424
+- Basic Number Areas: B-561
+- **Basic product**
+    - Change at data import: B-1098
+    - Product management: B-603
+- **Basic table: B-33**
+    - Lock entry: B-34
+    - New entry: B-33
+- **Blanket order**
+    - Claim: B-837
+    - Complete: B-516
+    - Enter order: B-512
+    - Invoice: B-508
+    - Issue invoice: B-516
+    - Issue partial invoice: B-513
+- **BMECat**
+    - Company data: B-999
+- **BOM: B-179**
+    - Add element: B-186
+    - Add step: B-186
+    - Calculate tax by item: B-939
+    - Change gas and spacer: B-938
+    - Concept: B-179
+    - Create product name: B-939
+    - Glass in statistics: B-963
+    - Keep processing upon replacement: B-940
+    - Management of forms: B-1051
+    - Max. number of elements: B-980
+    - Other surcharges: B-949
+    - Parameter in product management: B-596
+    - PGR combination: B-946
+    - Print elements: B-616
+    - Print options: B-1051
+    - Product management: B-614
+    - Production BOM breakdown: B-178
+    - Recursive quantity calculation: B-949
+    - Relevance of elements: B-181
+    - Stockkeeping: B-958
+    - Transfer: B-938
+    - Transmission: B-180
+- Booking period: B-1023
+- **Booking type**
+    - for Stock: B-741
+- Breakage reasons: B-879
+- **Business partner**
+    - Data transfer: B-1094
+    - Enter: B-50
+    - Monthly invoice: B-57
+    - Partial invoice: B-57
+- **Business partners**
+    - Different groups: B-45
+    - Groups: B-43
+- Business Type: B-887
+- **Business type**
+    - Proceeds accounts: B-909
+
+### C
+- **Calculation**
+    - Bars by grid: B-947
+    - by surcharge type: B-309
+    - Commission: B-937
+    - Company data: B-977
+    - Cost + surcharge: B-977
+    - delivery time: B-121
+    - Drilling for grills: B-163
+    - Foreign currency: B-96, B-457
+    - Freight cost limit: B-991
+    - grill pattern: B-163
+    - Individual price: B-947
+    - Marginal income: B-977, B-978
+    - Miscellaneous surcharges: B-318
+    - Mixed calculation: B-533
+    - Other surcharges from BOM: B-949
+    - Price-relevant sales/purchasing: B-168
+    - Processing by quantity: B-949
+    - Rounding: B-122, B-442
+    - Rounding examples: B-445
+    - Rounding point: B-444
+    - Surcharge on processing: B-317
+    - Surcharges: B-977
+    - Tax by BOM item: B-939
+- **Calculation unit**
+    - Price units: B-231
+- **Calendar**
+    - Company holidays: B-101
+    - Define working time: B-101
+    - Enter: B-101
+    - Enter holidays: B-101
+    - Workdays: B-559
+- **Capacity**
+    - Define by weekday: B-978
+- **Capacity planning**
+    - Automatic scheduling: B-961
+    - Company data: B-993
+    - Transfer active: B-973
+- Cash discount: B-905
+    - Calculation type (partner management): B-781
+    - Examples: B-97
+- **Category**
+    - CEKAL: B-1071
+- **Cause**
+    - Mandatory input: B-965
+- **CE**
+    - CPIP code: B-1079
+    - IG data: B-1081
+    - Size restrictions: B-1080
+- **CEKAL: B-1070**
+    - Allocation: B-1072
+    - Category: B-1071
+    - Parameters: B-933
+    - Product text: B-1077
+    - Restriction: B-1076
+    - Result: B-1073
+- Text allocation: B-1073
+- Change B. O. M. structure: B-185
+- Change with gas: B-938
+- **Check**
+    - Credit limit: B-90
+- Claim: B-837
+- History: B-838
+- **Classifier**
+    - Allocate: B-75
+    - Alpha-numerical value: B-76
+    - Assign value: B-75
+    - Customer management: B-772
+    - Definition: B-752
+    - Employee: B-794
+    - Enter: B-74
+    - Numerical value: B-78
+    - Value allocation: B-798
+- Client: B-371
+- Bank account: B-89
+- Company data: B-918
+- Enter: B-373
+- Matchcode: B-918
+- Number: B-918
+- Subsidiary: B-371, B-1022
+- **Coated glass**
+    - Product management: B-599
+- Coating: B-160
+- Coating side: B-578
+- Coating Type: B-579
+- Coating type: B-160
+- **Code**
+    - Automatic cutting: B-609
+    - maturity: B-82
+    - Procurement type: B-608
+    - Receipt of stock P.O.: B-957
+    - SP, PP: B-605
+    - Supply type: B-171
+- Collective invoice: B-768, B-1062
+- **Collective printing**
+    - Code: B-1062
+- Comments: B-1044
+- Commercial vehicle: B-863
+- **Commission: B-1017**
+    - Complaint: B-963
+    - Delete: B-381
+    - Enter: B-379
+    - Enter graduation: B-380
+    - Interactive: B-937
+    - Salesman: B-376
+    - see Sales commission
+    - Splitting: B-376
+    - Storage time for statistics: B-968
+- Common Base: B-991
+- **Communication**
+    - Links in partner data: B-761
+- **Company**
+    - Customer: B-761
+    - Employees: B-383
+    - Enter bank account: B-374
+    - Enter employee: B-390
+    - Number: B-918
+- **Company data**
+    - Archives: B-962
+    - Archiving: B-369, B-370
+    - BMECat import: B-999
+    - Calculation (overheads): B-977
+    - Capacity planning: B-993
+    - Client: B-371, B-918
+    - Currencies: B-95, B-456
+    - Daily balance: B-371, B-968
+    - Dispatch: B-990
+    - Email dispatch type: B-929
+    - FinAcc: B-369, B-923
+    - Order area: B-436
+    - Outlook connection: B-999
+    - Parameters: B-934
+    - Pricing: B-944
+    - Print: B-979
+    - Production: B-983
+    - Receivables report: B-369
+    - Statistics: B-371
+    - Stock/PCH/EDI: B-955
+    - Subsidiary: B-371
+    - Super statistics: B-963
+    - System: B-970
+    - System settings: B-369
+    - Tax: B-920
+    - Tax, Inland revenue: B-920
+- **Company holidays**
+    - Enter: B-101
+- Payment date postponement: B-83
+- Company number: B-920
+- Company's employee see Employee
+- **Complaint**
+    - Cause as a default: B-965
+    - Commission: B-963
+    - Lock code: B-929
+    - Place as default: B-966
+    - Statistics: B-963
+- Complaint Cause: B-574
+- Compulsory shape dimensioning: B-929
+- **Construction type**
+    - Leaded designs: B-526
+- **Control code**
+    - for product: B-601
+- **Copy**
+    - Discount: B-361
+    - External articles: B-1090
+    - Price table: B-245
+    - Proceeds accounts: B-911
+- Copy technical parameters: B-628
+- **Cost accounting**
+    - Enable: B-925
+- **Cost calculation**
+    - Master data: B-539
+    - Settings: B-645
+    - Special surcharge for PGR: B-567
+- Cost Centers: B-913
+- **Cost centers**
+    - Proceeds accounts: B-909
+    - Product management: B-602
+- **Cost type: B-912**
+    - Product management: B-602
+- **Costs**
+    - Cost calculation: B-645
+- Country code: B-557
+- **CPIP**
+    - CE code: B-1079
+- Create blanket order: B-509
+- **Credit limit**
+    - Analysis: B-94, B-844
+    - Checking process: B-93
+    - Order: B-90
+    - Partner management: B-778
+    - Raise status: B-935
+    - Snapshot: B-94, B-844
+    - Status when overdrawn: B-91
+    - Storage time: B-969
+    - Type of check: B-90
+- **Credit limit lock**
+    - Copy quotation: B-940
+    - duplicate check: B-940
+    - enter quotation: B-940
+- **Credit note**
+    - Transfer to statistics: B-963
+- Credit Rating: B-906
+- **Credit standing**
+    - Customer management: B-776
+- **Cross cut**
+    - Code: B-877
+- Cube: B-255
+- **Currency: B-95, B-456, B-778**
+    - Code: B-908
+    - Company data: B-95, B-456
+    - Convert to foreign currency: B-96, B-457
+    - Exchange rate: B-458
+    - Exchange rate (general): B-908
+    - Master data price: B-951
+    - Settings: B-921
+    - Settings (company data): B-920
+    - Show at order entry: B-921
+- **Customer: B-757**
+    - also see Partner
+    - Credit limit: B-94
+    - Discount: B-343
+    - Discount management: B-803
+    - Enter discount: B-353
+    - Enter individual price: B-238
+    - Enter product-related surcharge: B-330
+    - Individual products: B-818
+    - Miscellaneous: B-759
+    - Rounding allocations: B-839
+    - Subsidiary numbers: B-64
+    - unit price: B-216
+- **Customer calendar**
+    - Copy holidays: B-106
+    - Delete: B-106
+    - Enter: B-103
+    - Enter holidays: B-105
+- Customer discounts (see discount management): B-803
+- **Customer groups**
+    - Dialog: B-745
+    - Rounding allocation: B-840
+- Customer invoices: B-53
+- Customer management: B-757
+    - Attachment (file): B-787
+    - Classifiers: B-772
+    - Employees: B-769
+    - Print: B-757
+    - Production: B-784
+    - Sales: B-782
+    - Subsidiaries: B-769
+    - Text: B-770
+- **Customer number**
+    - External: B-1005
+- Customer parameters: B-816
+- Customer projects: B-821, B-823
+- **Customer's subsidiary**
+    - Enter: B-64
+- Customised product: B-182
+- Customs Routes: B-865
+- **Cutting**
+    - Automatic: B-609
+    - Stockplate: B-161
+    - XY cut: B-161
+- Cutting table: B-874
+- Jumbos, glass type: B-872
+
+### D
+- **Daily balance: B-371**
+    - Company data: B-968
+- **Data**
+    - Archiving: B-369
+    - Input sequence: B-31
+    - Statistics: B-371
+    - Transfer to A+W Production: B-530
+- **Data transfer**
+    - Article import: B-1103
+    - Business partner: B-1094
+    - Copy external articles: B-1090
+    - EDI settings: B-1083
+    - Gas: B-1092
+    - openTrans: B-1100
+    - Route: B-1093
+    - SN rules: B-1102
+    - Spacer data: B-1091
+- **Database**
+    - Archives: B-962
+    - Clients: B-371
+    - Customer code: B-972
+    - Measurements: B-970
+- **Date**
+    - Format: B-971
+- Partial delivery: B-935
+- Days (dialog): B-557
+- Default discount: B-805
+- Define production BOM breakdown: B-189
+- **Delete**
+    - System logbook: B-969
+- Delivery Conditions: B-860
+- **Delivery fee: B-861**
+    - Surcharge: B-327
+- **Delivery time**
+    - calculation: B-121
+    - Customer: B-820
+    - example: B-121
+    - Supplier: B-820
+- Different PGR: B-615
+- Different product code: B-173
+- **Dimensioning**
+    - Compulsory for shapes: B-929
+- Direct debiting: B-774
+- **Direct printing: B-483**
+    - Define: B-486
+    - Order forms: B-1061
+- **Discount**
+    - Adopt for replacement: B-948
+    - Adopt from main item: B-948
+    - Change: B-361
+    - Copy: B-361
+    - Customers: B-803
+    - Define diversion of rates: B-359
+    - Discount search: B-345
+    - Enter: B-353
+    - Enter exchange discount: B-357
+    - Enter graduated discount: B-355
+    - Exchange discount: B-348
+    - Graduated discount: B-348
+    - Insurance prices: B-706
+    - PGR combination for discounts: B-946
+    - PGR discount for spacers: B-951
+    - Search for mixed calculation: B-946
+    - Search in standard prices: B-946
+    - see Discount management
+    - Standard discount: B-347
+    - Supplier: B-803
+    - Validity: B-347
+- Discount hierarchy: B-345
+- **Discount management: B-347**
+    - Deviations: B-806
+    - Discount list: B-804
+    - Graduated discounts: B-808
+    - Discount search: B-345
+- Discountable: B-343
+- **Dispatch**
+    - Defined lead days: B-567
+    - Settings (company data): B-990
+- **Diversion of rates: B-349**
+    - Define: B-359
+- **Document: B-747**
+    - Allocation of forms: B-473
+    - Automatic deletion: B-966
+    - Available document types: B-518
+    - Collective fax dispatch: B-929
+    - Delete (automatic options): B-966
+    - Delete after archiving: B-964
+    - Delete without reference check: B-964
+    - Email dispatch type: B-929
+    - List in project management: B-834
+    - Lock: B-939
+    - Management: B-796
+    - Type: B-518
+- **Document archiving**
+    - Code: B-1062
+- Document Type: B-899
+- **Documents**
+    - Number ranges: B-891
+- **Documents (tab ...)**
+    - Company: B-928
+    - Number ranges: B-890
+- **Drill point**
+    - grills: B-163
+- Drivers (dialog): B-864
+- **Due date calculation**
+    - Payment terms: B-905
+- **Duplicate**
+    - for locked customers: B-940
+
+### E
+- **Edge length**
+    - Calculate by edge: B-948
+    - Minimum size: B-947
+    - Edge stripping surcharge: B-328
+- **Edgework**
+    - Calculate exact lin.m.: B-934
+- **EDI**
+    - Autom. capacity scheduling: B-960
+    - Backup file: B-968
+    - Business partner: B-1094
+    - Company data: B-955
+    - Copy external article: B-1090
+    - External articles: B-1084
+    - Interface: B-1083
+    - Parameters: B-1096
+    - Storage time: B-968
+- **Elements**
+    - Max. number on BOM: B-980
+- **Email**
+    - Addresses for export: B-1100
+    - Client: B-919
+    - Dispatch type: B-929
+- Emergency glazing: B-705
+- **Employee: B-1003**
+    - Delete rights: B-403
+    - Dialog (customer): B-794
+    - Enter: B-390
+    - Lock: B-1005
+    - Status management: B-1013
+- **Employee group**
+    - Status management: B-1013
+- Employee management: B-383
+- Employee groups: B-385
+- Examples rights: B-387
+- Profile: B-387
+- Employee profile: B-387
+- Employee's rights: B-1010
+- **Employees: B-769**
+    - Add to partner: B-65
+    - Company: B-383
+    - Copy rights: B-397
+    - Copy standard settings: B-393
+    - Dialog (company): B-1003
+    - Edit rights: B-397
+    - Groups: B-385, B-1009
+    - Lock: B-396
+    - Restrict rights: B-401
+    - Rights: B-385
+    - Set up number range: B-437
+    - User settings: B-1007
+- Enter a product and its price: B-334
+- Enter details for PP calculation: B-543
+- Enter external key for PGR: B-262
+- Enter product-related surcharge: B-329
+- **Exact lin.m.**
+    - Edgework: B-934
+- **Example**
+    - Cash discount calculation: B-97
+    - delivery time: B-121
+    - Field-symmetrical: B-163
+    - Foreign currency: B-96, B-457
+    - Group and user rights: B-385
+    - Hole-symmetrical: B-163
+    - Limit type: B-249
+    - Miscellaneous surcharge: B-306
+    - number areas: B-434
+    - Number for PGR combinations: B-146
+    - Rounding: B-442
+    - Rounding in order: B-445
+    - Surcharge and additional calculation: B-316
+    - Surcharge on basic item: B-312
+    - Surcharge on basic item + processing: B-313
+    - Surcharge on basic item + shape: B-314
+    - Surcharge on basic price: B-311
+    - Surcharge on previous item: B-315
+    - Surcharge on previous processing: B-314
+    - Surcharge, non-additional calculation: B-316
+    - Text code: B-68, B-463
+    - Triangle (matrix): B-249
+- **Exchange discount (discount management): B-809**
+- **Exchange rate: B-458**
+    - Customer management: B-778
+    - per currency: B-908
+- **Exchange spacer**
+    - BOM: B-928
+- Exchange Surcharge: B-288, B-666
+- **Exchange surcharge**
+    - Allocate to partner: B-291
+    - Copy: B-296
+    - Enter: B-291, B-294
+    - Independent exchange surcharge: B-288
+    - on replaced glass: B-294
+    - Product management: B-603
+    - Product-related exchange surcharge: B-288
+    - Surcharge on changed-in glass: B-291
+    - Thickness-related exchange surcharge: B-288
+- **Explicit: B-166**
+    - Price view: B-602
+- **Export**
+    - Documents: B-1100
+    - Super statistics: B-963
+- **Express surcharge**
+    - Limit days for express surcharge: B-767
+- **Extended project management: B-501**
+    - Project details: B-825
+- **External article**
+    - Copy EDI data: B-1090
+    - Gas: B-1092
+- **External articles**
+    - Products: B-1083
+    - Spacer: B-1091
+- **External key: B-595**
+    - Limit type: B-567
+    - Product group: B-262
+- External PGR key: B-250
+- External key: B-567
+
+### F
+- **Factors**
+    - Mixed calculation: B-930
+- **Fax dispatch**
+    - Partner management: B-763
+    - per document: B-929
+- **Fax transmission**
+    - Print job: B-1062
+- **File**
+    - Path for attachments: B-932
+- **FinAcc**
+    - Booking area: B-924
+    - Company data: B-923
+    - Database: B-926
+    - Number ranges: B-895
+    - Select: B-924
+    - Transfer: B-369
+- FinAcc server: B-926
+- Financial accounting see FinAcc
+- Fitting Allocation: B-655
+- Follow-up order: B-984
+- **Foreign currency: B-95, B-456, B-921**
+    - Calculate from unit price: B-948
+    - Example: B-96, B-457
+- **Form**
+    - Direct printing: B-1061
+    - Management of forms: B-1046
+    - Order forms: B-483
+    - Print job: B-484
+    - Printing templates: B-472
+- **Format**
+    - Date, time: B-971
+- **Freight costs**
+    - Define critical limit: B-991
+- **French price calculation**
+    - settings: B-954
+
+### G
+- **Gas**
+    - External article: B-1092
+    - Loss: B-605
+- Glass Type: B-633
+- **Glass type**
+    - Group: B-580
+- Graduated discounts: B-808
+- **Graduation**
+    - Enter discount: B-355
+    - Enter price: B-256
+- **grill pattern**
+    - drilling: B-163
+    - type: B-162
+- **Grills: B-234, B-599**
+    - Calculate by grid: B-947
+    - Customer management: B-763
+    - enter in item: B-189
+    - Order spacers: B-956
+    - Print options for sketches: B-1059
+    - print sketch: B-480
+    - Product management: B-625
+    - Types: B-572
+    - Width (product management): B-594
+- **grills**
+    - Enter price: B-243
+- **Group rights**
+    - Example: B-385
+- **Group surcharge: B-270**
+    - Change: B-281
+    - Complete: B-281
+    - Copy: B-283
+    - Delete: B-282
+    - Delete all: B-282
+    - Enter: B-278
+- Group Surcharges: B-687
+- Group-independent surcharge: B-807
+- **Groups**
+    - Customers: B-745
+    - Employees: B-385, B-1009
+    - Glass type: B-580
+    - Partner: B-744
+    - Products: B-565
+    - Suppliers: B-746
+
+### H
+- Handling of business processes: B-419
+- Header/footer (management of forms): B-1049
+- **Headquarters**
+    - Replication: B-975
+- **Height**
+    - in BOM (product management): B-615
+    - Minimum size for production (product management): B-594
+- **History**
+    - Monitoring of changes: B-527
+- History of Changes: B-732
+- HLP MODKANTQUALI: B-654
+- Holidays: B-101
+- Hour claim: B-835
+
+### I
+- Identification: B-759
+- **IG**
+    - Basic table: B-225
+    - Copy technical parameters: B-628
+    - Data (CE code): B-1081
+    - P.O. without in-house production: B-956
+    - Structure: B-650
+    - Technical parameters: B-626
+- Imperial: B-970
+- **Implicit: B-166**
+    - by quantity unit: B-219
+    - Price view: B-602
+- **Import**
+    - Article: B-1103
+- Independent exchange surcharge: B-288
+- Independent subsidiary: B-761
+- **Individual price: B-231**
+    - Calculation: B-947
+    - Enter: B-236
+    - Mixed calculation: B-947
+    - Search discount: B-946
+    - Several permitted: B-945
+- Industries: B-749
+- **Info**
+    - Customer management: B-762
+    - in product management: B-592
+- Inland revenue: B-920
+- Insurance Prices: B-702
+- **Interface**
+    - Business partner: B-1094
+    - CommonBase: B-991
+    - EDI: B-1083
+    - EDI (capacity scheduling): B-960
+    - EDI parameters: B-1096
+    - FinAcc: B-924
+    - Product data: B-1083
+- **Invoice**
+    - Check before transfer: B-963
+    - Customised settings: B-53
+    - Lock document: B-939
+    - Maturity: B-82
+    - Monthly invoice: B-57
+    - Partial invoice: B-57
+    - Transfer to statistics: B-963
+- **Invoice management**
+    - Accumulated totals: B-831
+    - Allocated orders: B-829
+    - Allocated purchase orders: B-830
+    - Blanket order: B-827, B-828
+    - Claim: B-837
+    - Create blanket order: B-509
+    - Estimated quantities: B-832
+    - History of claims: B-838
+    - Hour claim: B-835
+    - Invoice blanket order: B-508
+    - Invoicing details: B-827
+    - Project: B-823
+    - Purchases required: B-836
+    - Variants: B-495
+    - with allocated orders: B-507
+- **Invoicing**
+    - Tax: B-455
+- Invoicing surcharge: B-56
+- **Item**
+    - enter grills: B-189
+    - even grill pattern: B-190
+    - uneven grill pattern: B-192
+- **Items**
+    - Delete from partial delivery: B-935
+    - Fill shift in case of splitting: B-995
+    - Prevent splitting: B-996
+    - Show terms: B-801
+
+### J
+- **Jumbo**
+    - Cutting table: B-872
+
+### K
+- Key (price): B-222
+
+### L
+- Language: B-554
+    - Partner management: B-759
+    - Product management: B-618
+- **Languages**
+    - Price and quantity units: B-555
+- **Lead days**
+    - Product group: B-567
+    - Start of production (company data): B-972
+    - Supplier's delivery date (company data): B-972
+- Leaded design type: B-526
+- Letter of Credit: B-780
+- **Level**
+    - Pattern, coating: B-161
+- Liabilities: B-780
+- **Limit**
+    - Enter: B-256
+    - External key: B-263
+    - Marginal income: B-846
+- **Limit type: B-249**
+    - Available limit types: B-519
+    - Example: B-249
+    - External PGR key: B-250
+    - Processing index: B-251
+- **Lock: B-34**
+    - Document: B-939
+    - Employee: B-1005
+    - Employees: B-396
+    - Invoice after printing: B-939
+    - Quotation for locked customers: B-940
+- **Lock code**
+    - Allocate: B-428
+    - Complaint: B-929
+    - Dialog: B-897
+    - Enable: B-430
+    - Partial delivery: B-929
+    - Status diversion: B-425
+- Lock status: B-423
+- Login
+
+### M
+- Main account: B-776
+- **Management of forms**
+    - Allocation: B-473
+    - Dialog: B-1045
+    - Form: B-1046
+    - Header/footer: B-1049
+    - Print options: B-1051
+    - Print point: B-472
+    - Settings for printing prices: B-476
+    - Text not to be printed: B-1050
+- **Manual**
+    - Reference price: B-952
+- Margin: B-977
+- **Marginal income: B-978**
+    - Limits: B-846
+- **Master data**
+    - Barcode status allocation: B-424
+    - Basic table: B-33
+    - BOM: B-179
+    - Company data: B-369
+    - Currencies: B-95, B-456
+    - Enter stock size: B-205
+    - Examples for status allocation: B-423
+    - Handling of business processes: B-419
+    - in the order: B-409
+    - Lock status: B-423
+    - Manual status allocation: B-424
+    - Menu Overview: B-25
+    - Minimum status: B-422
+    - Mixed calculation: B-533
+    - Number ranges: B-433
+    - Order area: B-436
+    - Product groups: B-140
+    - Product types: B-140
+    - Quality text: B-462
+    - Set up route: B-48
+    - Size calculation: B-149, B-150
+    - Spacer text: B-462
+    - Status point: B-420
+    - Subsidiary: B-371
+    - Surcharge calculation: B-539
+    - Variants: B-202
+    - Wildcard: B-465
+- **Matchcode**
+    - Client: B-918
+    - Product: B-591
+- Material overheads: B-977
+- Matrix: B-253
+- **Maturities**
+    - Customised settings: B-81
+- **Maturity**
+    - code: B-82
+    - Reference date: B-83
+- Max. surface and aspect ratio surcharge: B-328
+- Metric: B-970
+- Minimum order value: B-56
+- **Minimum price**
+    - Not reached: B-931
+- Minimum quantity: B-216
+- Check by price unit: B-952
+- **Minimum size**
+    - Edge length: B-947
+    - Edge length by edge: B-948
+- Minimum status:
+    - Archiving: B-966
+- Minimum values: B-216
+- Minimun ststatus: B-422
+- Miscellaneous Surcharges: B-664
+- **Miscellaneous surcharges: B-306, B-806**
+    - Calculation example: B-318
+    - Enter: B-319
+    - Enter graduation: B-321
+    - Example: B-306
+    - Product management: B-603
+- **Mixed calculation**
+    - Factors: B-930
+    - Individual prices: B-947
+    - Master data: B-533
+    - Prices: B-696
+    - Search discount: B-946
+- **Mode**
+    - Archiving: B-967
+    - Stock management: B-958
+- **Monitoring of changes**
+    - History: B-527
+    - Management: B-527
+- Monthly invoice: B-56, B-57, B-763, B-767
+- Print: B-979
+- Months: B-556
+
+### N
+- Name 3 (for processing product): B-592
+- National currency: B-921
+- Next key: B-217
+- **No reminders**
+    - Customer management: B-776
+- Non-wage labour costs: B-977
+- Notch
+    - Height x width: B-938
+- **Number**
+    - BOM elements: B-980
+    - Client: B-918
+    - Company: B-918
+    - Rule for PGR combination: B-144
+- **Number area**
+    - example: B-434
+- **Number manager**
+    - Create for master data test: B-416
+- **Number Range**
+    - Credit note/invoice: B-930
+- **Number range: B-891, B-928**
+    - Check overlap: B-938
+    - Define: B-437
+    - Dialog: B-890
+    - FinAcc: B-895
+    - Lock: B-439
+    - Production: B-894
+    - Rack numbers: B-990
+    - Table: B-896
+- Number ranges: B-433
+
+### O
+- OM area: B-436
+- **openTrans**
+    - Interface: B-1100
+- **Optimization: B-868**
+    - Key (product management): B-598
+- **Optimization key**
+    - Product management: B-598
+- **Order**
+    - Allocate project: B-499
+    - Check number range: B-938
+    - Customer management: B-765
+    - Define direct printing: B-486
+    - Define print job: B-488
+    - Enter for blanket order: B-512
+    - Enter for master data test: B-413
+    - Follow-up order: B-984
+    - for project: B-829
+    - Internal order: B-984
+    - Settings for transfer to production: B-983
+- **Order area: B-436**
+    - Batch number: B-967
+    - Check number range: B-938
+    - Dialog: B-1014
+    - Document type: B-1007
+    - Lock number range: B-439
+    - Rack invoice: B-991
+    - Set up number range: B-437
+- **Order forms**
+    - Direct printing: B-483, B-1061
+- **Order info**
+    - Storage time: B-968
+- Order management area see Order area
+- Orders on hand: B-780
+- **Other surcharges**
+    - from BOM: B-949
+- **Outlook**
+    - Company data: B-999
+- Overheads: B-977
+
+### P
+- **Ρ.Ο.**
+    - for project: B-830
+    - IG without in-house production: B-956
+    - Lead days: B-567
+    - Save changed value: B-937
+- Packaging type: B-990
+- Packing: B-734
+- **Parameters**
+    - BOMs: B-596
+    - Company data (calculation): B-934
+    - Customer: B-816
+    - Supplier: B-816
+- **Partial delivery**
+    - Date: B-935
+    - Delete item: B-935
+    - Lock code: B-897, B-929
+    - Permit (partner management): B-768
+- **Partial invoice: B-57**
+    - Enter for blanket order: B-513
+    - Permit (partner management): B-768
+- **Partner**
+    - Credit limit: B-94
+    - Credit limit snapshot: B-94
+    - Customer: B-757
+    - Groups: B-744
+    - Order-, P.O. parameters: B-120
+    - Partner: B-752
+    - Supplier: B-853
+- **Partner data**
+    - Employees: B-65
+    - Enter: B-50
+- **Partners**
+    - Different groups: B-45
+    - Groups: B-43
+    - Maturity: B-82
+    - Partner management: B-38
+    - Project: B-123
+- Partners see Partner
+- **Password**
+    - Employee: B-1005
+- **Path**
+    - A+W Production archiving: B-967
+- Pattern: B-160
+- Pattern level: B-577
+    - Product management: B-599
+- **Pattern side**
+    - Dialog: B-577
+    - see Pattern level
+- **Pattern type**
+    - Grills: B-599
+    - grills: B-162
+    - Product management: B-599
+- Patterns: B-653
+- **Payment**
+    - Customised settings: B-81
+    - Payment date postponement: B-83
+- **Payment date**
+    - Customer management: B-775
+- Payment in advance: B-90
+- Payment Mode: B-914
+- Payment terms: B-87, B-905
+- **PCH**
+    - Company data: B-955
+- **PGR**
+    - Special surcharge: B-567
+- **PGR combination: B-143**
+    - Describe entire BOM: B-147
+    - Example number: B-146
+    - for discounts: B-946
+    - Next processing: B-147
+    - Number: B-144
+    - Rule: B-144
+    - with complete BOM: B-946
+- **PGR combinations**
+    - Dialog: B-568
+- PGR see Product groups
+- PGR statistics: B-615
+- Place of complaint: B-966
+- **PP calculation**
+    - Application example (IG): B-545
+    - Enter details: B-543
+    - IG: B-545
+- **Precision**
+    - Sizes: B-971, B-1097
+- **Price: B-262**
+    - Basic IG table: B-225
+    - Calculate actual shape surface: B-949
+    - Calculate purchase product: B-945
+    - Change: B-246
+    - Copy: B-245
+    - Cube: B-255
+    - Currency from master data: B-951
+    - Define rate: B-227
+    - Discountable: B-343
+    - display in printing: B-476
+    - Enter exchange surcharge: B-291
+    - Enter for customer: B-238
+    - Enter graduation: B-256
+    - Enter grill price: B-243
+    - Enter limits: B-256
+    - Enter shape price: B-241
+    - Extended pricing: B-952
+    - Factors for mixed calculation: B-930
+    - Graduation: B-248
+    - grills: B-234
+    - Group surcharge: B-270
+    - Individual price: B-231
+    - Individual price calculation: B-947
+    - Limit type: B-249
+    - Matrix: B-253
+    - Minimum price not reached: B-931
+    - Minimum quantity: B-216
+    - Minimum values: B-216
+    - Next key: B-217
+    - Price group: Β-273, B-274
+    - Price key: B-222
+    - Price list: B-222
+    - Price units: B-231
+    - Price view: B-165, B-218
+    - price-relevant: B-168
+    - Print: B-763, B-768
+    - Printer settings: B-476
+    - printer settings: B-478
+    - Product management: B-601
+    - Production cost calculation: B-225
+    - Rate: B-223
+    - Reason for manual change: B-952
+    - Save changed values in document: B-937
+    - Search discount: B-946
+    - Several individual prices permitted: B-945
+    - Shape: B-233
+    - Surcharge: B-266
+    - Triangle: B-253
+    - unit price: B-216
+    - Vector: B-252
+- Price and quantity unit: B-700
+- **Price calculation**
+    - French with limit quantity for gas, AIR: B-954
+    - French with minimum price in BOM: B-954
+- **Price change**
+    - Reason for manual change: B-952
+- Price Group Allocation: B-685
+- Price group-based surcharge: B-807
+- **Price group-independent surcharge**
+    - Deviation: B-806
+- Price Groups: B-684
+- Price groups: B-273
+- Price key: B-222
+- Price Keys: B-661
+- Price list: B-222, B-660
+- Price Management: B-713
+- Price management: B-217
+- Price management by PGR: B-262
+- **Price table**
+    - Change: B-245
+    - Copy: B-245
+    - Cube: B-255
+    - Enter: B-236
+    - Individual price: B-231
+    - Matrix: B-253
+    - Product management: B-603
+    - Triangle (matrix): B-253
+    - Vector: B-252
+- **Price unit: B-555**
+    - Minimum quantity: B-952
+- **Price view**
+    - for product: B-602
+    - Implicit, explicit: B-165, B-218
+    - implicit, explicit: B-602
+- **Price-relevant sales/purchasing**
+    - in product management: B-168
+- Price-relevant SP/PP code for product: B-605
+- **Prices**
+    - Catalog: B-659
+- **Pricing**
+    - Company data: B-944
+    - Pricing methods: B-214
+- **Print**
+    - BOM (product management): B-616
+    - Company data: B-979
+    - Customer management: B-757
+    - dimensioned sketch: B-481
+    - grill settings: B-480
+    - Lock invoice printing: B-939
+    - Monthly invoice: B-979
+    - Output formats: B-475
+    - price display: B-476
+    - price settings: B-478
+    - Server name: B-980
+    - shape settings: B-480
+    - sketch: B-479
+- **Print job: B-484**
+    - Define: B-488
+- **Print options**
+    - Management of forms: B-1051, B-1055
+- Print point: B-472, B-885
+- **Print run: B-484**
+    - Define: B-488
+- Print server: B-1062
+- **Printing of forms**
+    - Print formats: B-475
+    - Printing templates: B-472
+- **Priority**
+    - Production: B-889
+- **Proceeds account**
+    - Copy: B-911
+- Process name: B-420
+- Process number: B-420, B-885
+- **Processing: B-656**
+    - Discount from main item: B-948
+    - Keep upon replacement: B-940
+    - Name 3: B-592
+    - Product management: B-611
+    - Production BOM breakdown: B-178
+- Processing catalog: B-532
+- Processing index: B-251
+- Product management: B-605
+- Processing Restrictions: B-652
+- **Processing surcharge**
+    - Enter shape surcharge: B-302
+- Processing variable: B-592
+- **Procurement type**
+    - Code search: B-937
+    - Product management: B-608
+- **Product**
+    - Add data: B-184
+    - Allocate automatic surcharge: B-329
+    - BOM: B-179
+    - BOM transmission: B-180
+    - change automatic surcharges: B-629
+    - Code for procurement type: B-937
+    - Code search active: B-937
+    - Colors: B-641
+    - Customized: B-818
+    - Enter: B-182
+    - Enter product variant: B-207
+    - grills: B-234
+    - Individual product: B-182
+    - Name acc. to BOM: B-939
+    - P.O. parameters: B-608
+    - Production-relevant BOM: B-179
+    - Size calculation: B-149
+    - Stock management parameters: B-610
+    - Suited for cash discount (product management): B-605
+    - Suited for discount (product management): B-605
+    - Variant: B-641
+    - Variants: B-202
+- Product allocation surcharges: B-326, B-1024
+- Product classes: B-565
+- **Product code**
+    - different: B-173
+    - Product management: B-630
+- **Product group**
+    - External key: B-262
+    - Price: B-262
+- **Product groups: B-142, B-566**
+    - Combinations: B-568
+    - Combine: B-152
+    - Different (product management): B-615
+    - Discount management: B-809
+    - Enter: B-151
+    - Enter Top PGR: B-154
+    - for product: B-593, B-594
+    - for statistics (product management): B-594
+    - Hierarchy: B-143
+    - Number of next processing: B-147
+    - PGR combination: B-143
+    - PGR combination with BOM: B-147
+    - Proceeds accounts: B-909
+    - Rules for PGR combinations: B-144
+    - Top PGR: B-149
+- Product Management: B-137, B-590
+- **Product management**
+    - A+W Production: B-619
+    - BOM: B-614
+    - Grills: B-625
+    - Language: B-618
+    - Price/surcharge: B-601
+    - Product: B-591
+    - Production: B-596
+    - Purchasing: B-606
+    - Shape: B-611
+    - Size allowance: B-599
+    - Spacer text: B-617
+    - Stock: B-606
+- **Product text**
+    - CEKAL: B-1077
+- **Product type: B-564**
+    - Change: B-141
+    - Discount management: B-809
+    - for product: B-593
+- **Product variant**
+    - Enter: B-207
+- **Production**
+    - Breakage reasons: B-879
+    - Lead days: B-972
+    - Priority: B-889
+    - Processing catalog: B-532
+    - Product management: B-596
+- Profit center: B-984
+- Registration points: B-869
+- Report: B-961
+- Spacer text: B-462
+- Transfer: B-983
+- **Production (tab ...)**
+    - Customer management: B-784
+- **Production (tab...)**
+    - Company data: B-983
+    - Number ranges: B-894
+- **Production cost calculation**
+    - Enable in rate: B-225
+- Production costs: B-539
+- Product-related exchange surcharge: B-288
+- **Products**
+    - Copy technical parameters: B-628
+    - EDI interface: B-1083
+    - Product management: B-591
+    - Size allowances: B-639
+    - Stock sizes: B-635
+    - Technical parameters: B-626
+- **Project: B-123**
+    - Allocate to customer: B-125
+    - Customers, supplier: B-821
+    - Dialog: B-750
+    - Enter: B-124
+    - Enter in extended project management: B-502
+    - Enter order: B-499
+    - Invoicing: B-823
+- **Project data**
+    - Extended project: B-825
+    - Standard project: B-824
+- **Project management**
+    - Accumulated totals: B-504, B-831
+    - Allocated documents: B-834
+    - Allocated orders: B-829
+    - Allocated purchase orders: B-830
+    - Blanket order: B-828
+    - Claim: B-837
+    - Estimated quantities: B-832
+    - Extended project management: B-501
+    - History of claims: B-838
+    - Variants: B-495
+- **Purchase article**
+    - Complete (product management): B-608
+- **Purchase Price**
+    - Average: B-955
+- **Purchase price**
+    - Calculate: B-955
+- **Purchase quantity factor**
+    - Product management: B-608
+- Purchases required: B-836
+- Purchasing
+    - Product management: B-606
+
+### Q
+- Quality Text: B-581
+- **Quality text**
+    - Master data: B-462
+- **Quantity**
+    - in BOM (product management): B-615
+    - Rounded for surcharge: B-950
+- Quantity Limits: B-888
+- **Quantity unit: B-700**
+    - for product: B-595
+    - Multi-lingual operation: B-555
+- Quantity units: B-231
+- **Quotation**
+    - Copy by order: B-940
+    - Copy with credit limit lock: B-940
+    - Settings for transfer to production: B-983
+
+### R
+- **Rack**
+    - Invoice AWRack: B-991
+    - Load: B-990
+    - Management: B-991
+    - Number range: B-990
+    - Storage time history: B-968
+- **Rate: B-223**
+    - Adopt discount: B-949
+    - Basic IG table: B-225
+    - Define: B-227
+    - Delete: B-228
+- Rates: B-662
+- **Reason of complaint**
+    - Dialog: B-575
+- **Receivables**
+    - Check: B-799
+    - Customer management: B-778
+    - Financial accounting: B-780
+    - Path for reports: B-924
+    - Report: B-925
+    - Update: B-925
+- Recursive quantity calculation: B-949
+- **Reference**
+    - Delete document: B-964
+- **Reference price**
+    - Manual change: B-952
+- **Registration point**
+    - Production: B-869
+    - Report (company data): B-961
+- Reminder text: B-1042
+- Partner management: B-776
+- Repair glazing: B-703
+- Repeated printing: B-1062
+- **Replacement**
+    - Gas and spacer: B-938
+    - Keep processing in BOM: B-940
+    - Transfer: B-938
+- **Replacement surcharge**
+    - Adopt discount: B-948
+- **Replication**
+    - Active: B-975
+- Report: B-1045
+- **Reservation**
+    - Stock on hand: B-958
+- **Restriction**
+    - CEKAL: B-1076
+- **Restrictions**
+    - CE code: B-1080
+- Resubmission of quote: B-972
+- **Rights**
+    - Employees: B-1010
+    - for employees: B-385
+- **Rounding: B-880**
+    - Allocate: B-450
+    - at item entry: B-446
+    - Calculation: B-122, B-442
+    - Change: B-449
+    - Commercial for sizes: B-948
+    - Define: B-449
+    - Example: B-442
+    - for partners: B-448
+    - Rounding point: B-444
+    - Size calculation: B-150
+    - Size rounding: B-447
+    - Surcharge on rounded quantity: B-950
+- Rounding Allocation: B-447, B-883
+- **Rounding allocation**
+    - Customer groups: B-840
+    - Customers: B-839
+    - Supplier: B-839
+    - Supplier group: B-840
+- **Rounding point**
+    - Examples: B-445
+- **Rounding points**
+    - Dialog: B-882
+    - Overview: B-444
+- **Rounding rate**
+    - Change: B-449
+    - Enter: B-449
+- Rounding type: B-442
+- Rounding value: B-442
+- **Route**
+    - Customer management: B-759
+    - Data transfer: B-1093
+    - Define: B-48
+    - Set up: B-48
+    - Times: B-861
+- Route sequence: B-791
+- **Rule**
+    - Number for PGR combinations: B-144
+    - PGR combination: B-144
+    - PGR combination with BOM: B-147
+    - PGR combination with next processing: B-147
+
+### S
+- **Sales**
+    - Customer management: B-782
+- **Sales commission**
+    - Enter: B-379
+- Sales overheads: B-977
+- Sales representative: B-1015
+- **Sales representative allocation**
+    - Minor customers: B-1015
+- Sales representatives: B-111
+- Sales see Sales territories
+- **Sales territories**
+    - Salesman: B-111
+    - Sales territory: B-1015
+- **Salesman**
+    - Commission: B-376, B-1017
+    - Sales territory: B-111
+- **Schedule**
+    - search for delivery date: B-996
+    - select machine automatically: B-995
+- **Scheduling**
+    - Automatically in capacity planning: B-961
+- **Sense of pattern**
+    - Dialog: B-576
+    - Product management: B-599
+- **Server**
+    - A+W Production transfer: B-986
+    - FinAcc database: B-926
+    - Name of print server: B-980
+- **Setting**
+    - Document type, order area: B-1007
+- **Shape**
+    - Add: B-193
+    - Calculate actual surface: B-949
+    - Compulsory dimensioning: B-929
+    - Cutting table: B-877
+    - Display in order: B-176
+    - Enter price: B-241
+    - Price: B-233
+    - Print options for sketches: B-1059
+    - print sketch: B-480
+    - Processing surcharge: B-301
+    - Product management: B-611
+- Select catalog: B-928
+- SN rules for data transfer: B-1102
+- Shape Edge Qualities: B-654
+- Shape processing surcharges: B-697
+- **Shape surcharge: B-301**
+    - Enter: B-241, B-302
+- **Shift**
+    - Route: B-861
+    - specify quantity: B-994
+- **Short info**
+    - Customer management: B-762
+    - Product: B-592
+- **Side**
+    - Coating: B-599
+- **Size allowance: B-159, B-639**
+    - Product management: B-599
+- **Size calculation: B-149**
+    - Variable, formulas: B-150
+- Size precision: B-971, B-1097
+- Size reduction: B-159
+- **Size restrictions**
+    - CE code: B-1080
+- **Size rounding: B-806**
+    - Commercial: B-948
+    - Product management: B-604
+- **Size system**
+    - Precision: B-971, B-1097
+- **Size-related (stock article)**
+    - Product management: B-608
+- **Sketch**
+    - dimensioned sketch: B-481
+    - print: B-479
+    - Print (product management): B-599
+    - Printer settings: B-1059
+- SN: B-598
+- **Snapshot**
+    - Credit limit: B-844
+- **Spacer: B-938**
+    - Change restriction, Password: B-647
+    - External articles: B-1091
+- Spacer Restrictions: B-647
+- **Spacer text**
+    - Wildcard: B-617
+- **Spacers**
+    - Order with grills: B-956
+- Special discount: B-326, B-328, B-1024
+- Available special discounts: B-327
+- Partner management: B-763
+- Product management: B-603
+- Special glass surcharge: B-807
+- **Special surcharge**
+    - Product group: B-567
+- Specification
+    - Employee: B-1005
+- **Standard project management**
+    - Project details: B-824
+- **Standard rounding**
+    - Customer management: B-763
+- Standard shipping address: B-793
+- **Standard text: B-461**
+    - Enter: B-469
+- State: B-751
+- **Statistics**
+    - BOM glass: B-963
+    - Commission: B-937, B-966
+    - Complaint: B-963
+    - Master data: B-371
+    - Storage time: B-968
+    - Turnover: B-966
+- **Status**
+    - Allocate: B-426
+    - Allocate lock code: B-428
+    - Barcode status allocation: B-424
+    - Credit limit overdrawn: B-91
+    - Diversion: B-425
+    - Enable lock code: B-430
+    - Examples for status allocation: B-423
+    - Lock code: B-425
+    - Lock status: B-423
+    - Manual status allocation: B-424
+    - Minimum status: B-422
+    - Raise for credit limit: B-935
+    - Status point: B-420
+    - User status: B-421
+- Status Allocation: B-422, B-886
+- **Status allocation**
+    - Lock status: B-423
+    - Minimum status: B-422
+- **Status diversion**
+    - Define: B-428
+    - Enable: B-430
+- **Status management: B-884**
+    - Per employee(group): B-1013
+    - User status: B-421
+- **Status point**
+    - Allocate: B-426
+- Status points: B-885
+- **Step**
+    - Add to IG unit: B-186
+- **Stock**
+    - Booking types: B-741
+    - Code for stock P.O.: B-957
+    - Company data: B-955
+    - Level: B-735
+    - Levels: B-735
+    - Logbook storage time: B-968
+    - Number of days for the preview: B-959
+    - Product management: B-606
+    - Stock management mode: B-958
+    - Stock on hand on BOM level: B-958
+    - Update stock on hand: B-958
+- **Stock article**
+    - Size-related (product management): B-608
+- Stock size: B-205
+- Stock Categories: B-738
+- Stock Definition: B-736
+- Stock Levels: B-737
+- Stock Location for Machines: B-739
+- **Stock management**
+    - Product parameters: B-610
+- Stock preview: B-959
+- **Stock size**
+    - enter in master data: B-205
+    - Stock article: B-205
+- **Stock sizes**
+    - for pricing: B-635
+- **Storage place**
+    - Search machines: B-740
+- **Storage time: B-968**
+    - Credit limit: B-969
+- **Subsidiary**
+    - Client: B-1022
+    - Customer management: B-793
+    - Enter bank account: B-374
+    - Enter for customer: B-64
+    - Export super statistics: B-963
+    - Independent subsidiary: B-761
+    - Replication active: B-975
+- Suited for cash discount: B-605
+- **Super statistics**
+    - Company data: B-963
+- **Supplement**
+    - Insurance prices: B-708
+- **Supplier: B-853**
+    - also see Partner
+    - Catalog: B-852
+    - Discount: B-343
+    - Discounts: B-803
+    - Lead days: B-972
+    - Parameters: B-816
+    - Pricing of purchase products: B-945
+    - Product management: B-615
+    - Rounding allocation: B-839
+- Supplier directory: B-859
+- Supplier discounts: B-803
+- Supplier File: B-130
+- **Supplier groups**
+    - Rounding allocation: B-840
+- Supplier List: B-854
+- Supplier projects: B-821
+- **Suppliers**
+    - Groups: B-746
+- **Supply type**
+    - in product management: B-171
+- **Surcharge: B-326**
+    - Automatic surcharge: B-326
+    - Available surcharges: B-327
+    - Copy exchange surcharge: B-296
+    - Copy group surcharge: B-283
+    - Cost calculation: B-567
+    - Energy surcharge by item weight: B-950
+    - Energy surcharge by rounded item weight: B-950
+    - Enter automatic surcharge: B-329
+    - Enter exchange surcharge: B-291
+    - Enter group surcharge: B-277
+    - Enter product-related surcharge: B-329
+    - Enter shape surcharge: B-302
+    - Enter thickness-related surcharge: B-277
+    - Group surcharge: B-270
+    - Independent exchange surcharge: B-288
+    - Insurance prices: B-706
+    - Miscellaneous surcharges: B-318
+    - on rounded quantity: B-950
+    - Partner management: B-763
+    - Price group: B-273
+    - Product allocation: B-1024
+    - Product management: B-601, B-603
+    - Product-related exchange surcharge: B-288
+    - Surcharge: B-326
+    - Surcharge types: B-309
+    - Thickness-related exchange surcharge: B-288
+- **Surcharge type**
+    - Calculation: B-309
+    - Product management: B-604
+    - Transmission: B-317
+- Surcharges: B-266, B-267
+- **System**
+    - Company data: B-970
+- **System logbook**
+    - Delete: B-969
+- **System settings**
+    - Archiving: B-370
+    - Daily balance: B-371
+    - Databanses: B-369
+    - FinAcc
+- **System text: B-461**
+    - Dialog: B-1041
+
+### T
+- **Tax: B-455, B-920**
+    - Avalara WebService: B-922
+    - by BOM item: B-939
+    - Company data: B-920
+- Tax rates: B-903
+- Technical data: B-1044
+- Technical parameters: B-626
+- Template Editor: B-649
+- **Terms**
+    - Display: B-801
+- Text: B-461, B-1039
+- Available system text: B-522
+- CEKAL: B-462
+- CEKAL standard text: B-933
+- Code: B-1039
+- Customer-specific: B-71
+- Dialog: B-1040
+- Enter: B-469
+- Formulas: B-466
+- Header/footer (management of forms): B-1049
+- Management of forms: B-1049
+- Quality text: B-462
+- Standard text: B-461
+- System text: B-461, B-1041
+- Text not to be printed: B-1050
+- Variables: B-466
+- **Text (tab ...)**
+    - Customer management: B-770
+- **Text (tab...)**
+    - Product management: B-617
+- **Text allocation**
+    - CEKAL: B-1073
+- **Text code**
+    - Dialog: B-1039
+    - Example: B-68, B-463
+- Text codes: B-68
+- Text identifier: B-463
+- **Text not to be printed (management of forms): B-1050**
+- Thickness: B-594
+- Metric, imperial: B-970
+- Thickness-related exchange surcharge: B-288
+- **Time**
+    - Format: B-971
+- **Time limit**
+    - Discount: B-347
+    - Discount management: B-804
+    - Discounts: B-805
+- **Time management**
+    - Storage time: B-968
+- Title (dialog): B-748
+- **Top PGR: B-149**
+    - Dialog: B-570
+- **Transfer**
+    - A+W Production server name: B-986
+    - Archives: B-966
+    - BOM: B-938
+    - by input date: B-964
+    - Capacity planning active: B-973
+    - Master data to A+W Production: B-530
+    - Profit center invoicing: B-984
+    - Settings for orders: B-983
+    - Settings for quotations: B-983
+    - Statistics: B-966
+    - to statistics without invoice printing: B-963
+- Transmission: B-180
+- Surcharge type: B-317
+- Transport insurance IG: B-328
+- **Triangle (matrix): B-253**
+    - Example: B-249
+- Truck: B-863
+- Turnover year/period: B-780
+- **Type**
+    - Grill pattern: B-599
+    - grill pattern type: B-162
+    - Leaded design type: B-526
+
+### U
+- **Unit**
+    - Price: B-700
+- Unit price: B-216
+- Units of measurement: B-766
+- Unsettled accounts see Receivables
+- **User**
+    - Number range: B-891
+- **User rights**
+    - Example: B-385
+- User status: B-421, B-884
+
+### V
+- Value Added Tax: B-903
+- Value allocation (classifiers): B-798
+- **Variable: B-465**
+    - Available variables: B-523
+    - Processing text: B-592
+- **Variables**
+    - for processing: B-524
+    - for spacer text: B-524
+    - General: B-523
+- **Variants: B-202**
+    - Colors: B-571
+    - Product variants: B-641
+- **VAT**
+    - Partner management: B-777
+- VAT see Value Added Tax: B-903
+- Vector: B-252
+
+### W
+- **Waste**
+    - average (product management): B-605
+- **Weight: B-594**
+    - Surcharge by item: B-950
+    - Surcharge on rounded weight: B-950
+    - Truck: B-863
+- **Width**
+    - in BOM (product management): B-615
+    - Minimum size for production (product management): B-594
+- **Wildcard: B-465**
+    - Available wildcards: B-523
+    - for processing: B-524
+    - for spacer text: B-524
+    - General: B-523
+    - in text: B-466
+    - Processing text: B-592
+- **Windows**
+    - Login for A+W Business: B-973
+- **Workdays**
+    - Calendar: B-559
+    - Define time: B-101
+
+### Y
+- Year: B-222
+

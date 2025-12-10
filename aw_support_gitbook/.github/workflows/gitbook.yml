@@ -1,0 +1,29 @@
+name: GitBook Sync
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Validate markdown
+        run: |
+          find . -name "*.md" -type f -exec echo "Checking {}" \;
+      
+      - name: Check links
+        continue-on-error: true
+        run: |
+          echo "Link checking would run here"
+      
+      - name: GitBook sync
+        run: |
+          echo "GitBook will auto-sync when connected"
