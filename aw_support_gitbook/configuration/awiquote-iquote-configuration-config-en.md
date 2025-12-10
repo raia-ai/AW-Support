@@ -1,12 +1,7 @@
 ---
-title: "A+W iQuote v6 Configuration Instructions"
-source: "EN-CONFIG-AW_iQuote_1.pdf"
-tags: ["A+W", "iQuote", "Configuration", "Software", "Glass Industry", "ERP", "Workflow", "System Setup", "Internal Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for A+W iQuote v6. It covers system setup, infrastructure configuration, business case management, and various user and product settings for the A+W software for the glass industry. This guide is intended for internal use by technical staff and administrators."
-long_description: "The A+W iQuote v6 Configuration Instructions is a comprehensive internal guide for setting up and customizing the A+W iQuote software, a solution designed for the glass industry. The document begins with a detailed change history, tracking updates from version 13.0.0 to 13.4.10144, and a table of contents outlining the entire configuration process. Key sections include System Configuration, which covers infrastructure setup and business case definitions; detailed Configuration steps for enabling users, products, and processings; and Workflow management using the Workflow Studio. The manual provides step-by-step instructions on setting up parameters for products like insulated glass, managing user access, configuring printouts with Crystal Reports, and customizing the user interface with CSS. It also addresses advanced topics such as macro configuration, handling stock dimensions, setting up self-pickup options, and integrating with Okta for login. The guide is rich with screenshots to illustrate the configuration dialogs and settings within the A+W Business and Infrastructure Services interfaces."
+description: "A+W iQuote v6 Configuration Instructions"
 ---
+
 
 # A+W Configuration Instructions: A+W iQuote v6
 

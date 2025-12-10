@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_5"
-source: "D-AWBusiness-HB_5.pdf"
-tags: ["A+W Business", "Stammdaten", "Zuschläge", "Rabatte", "Preisberechnung", "Tutorial", "ERP", "Glasindustrie", "Fensterbau", "Mitarbeiterverwaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual and tutorial for the A+W Business software, focusing on master data management. It covers the configuration of surcharges (Zuschläge), discounts (Rabatte), and company-specific settings, including employee and rights management."
-long_description: "This document serves as a comprehensive guide and tutorial for setting up and managing master data within the A+W Business ERP system, a software solution tailored for the glass, windows, and doors industry. It is divided into several key sections. The 'Zuschläge' (Surcharges) section details how to create and manage various types of surcharges, including simple, automatic, and complex, multi-dimensional pricing based on factors like weight, area, and edge length. The 'Rabatte' (Discounts) section explains the discount hierarchy, how to define standard, tiered, and exchange discounts, and how to apply them to specific customers, customer groups, or products. The 'Zusatzinformationen zur Firma' (Additional Company Information) section covers global system settings, managing multiple clients (Mandanten) and branches (Filialen), setting up bank details, sales representative commissions (Vertreterprovision), and detailed employee and user rights management (Mitarbeiterverwaltung). The final part, 'Dokumente,' introduces the basics of commercial document processing, explaining how master data for customers, products, prices, and surcharges flow into documents like orders (Aufträge) and how to test these configurations. The manual provides step-by-step instructions, exercises, and reference information to guide users through the complex setup processes."
+description: "D-AWBusiness-HB_5"
 ---
+
 
 # Tutorial 1: Zuschläge
 

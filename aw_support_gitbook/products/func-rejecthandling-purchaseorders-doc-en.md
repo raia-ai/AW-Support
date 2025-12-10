@@ -1,12 +1,7 @@
 ---
-title: "A+W Business - Reject Handling for Purchase Orders"
-source: "EN-FUNC-AW_Reject_Handling.pdf"
-tags: ["A+W Business", "Reject Handling", "Purchase Orders", "Software for Glass", "ERP", "A+W Production", "Functional Description", "Breakage Report", "Supplier Complaint"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the 'Reject Handling for Purchase Orders' module for A+W Business software. It details how to manage defective or broken purchased parts during the production process, integrating A+W Production with the ERP system."
-long_description: "This document provides a detailed functional description of the 'Reject Handling for Purchase Orders' module (Module number 210015) for the A+W Business software suite. It outlines the process for reporting and managing breakages of purchased glass sheets that occur during production. The system integrates A+W Production with the A+W Business ERP system, allowing for real-time reporting of defects via scanner or terminal. The document explains the three main handling procedures: creating a for-cost reorder if the fault is in production, issuing a free complaint to the supplier if the defect is their fault, or requesting a credit from the supplier if a reorder is not needed. It also lists the technical requirements, key functions, and known restrictions of the module."
+description: "A+W Business - Reject Handling for Purchase Orders"
 ---
+
 
 # A+W Functional Description: A+W Business - Reject Handling for Purchase Orders
 

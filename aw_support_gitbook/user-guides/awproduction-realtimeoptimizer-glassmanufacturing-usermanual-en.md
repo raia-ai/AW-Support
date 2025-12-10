@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_12"
-source: "EN_UM_AWProduction_12.pdf"
-tags: ["A+W Production", "Realtime Optimizer", "Software Reference", "Glass Manufacturing", "Windows and Doors", "Cutting Optimization", "Packing Optimization", "Software Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual for the A+W Production Realtime Optimizer and Packing Optimization software. This document serves as a software reference and tutorial, detailing functionalities for optimizing glass cutting and packing processes. It covers weight distribution, load balancing, and integration with various modules."
-long_description: "This document is a comprehensive user manual for A+W's software solutions, specifically the 'A+W Production Realtime Optimizer' and 'A+W Production Packing Optimization'. It is structured into two main parts: a tutorial and a software reference. The tutorial section provides step-by-step guidance on using the software, covering basic ideas, data import, optimization techniques, cutting processes, and interplay with other modules like the Residual Stock Manager, Pattern Viewer, and DynOpt Compact. The software reference section offers detailed descriptions of all menus, dialogs, fields, and functions available within the software. Key topics include managing rush orders, creating manual cutting plans, handling rejects, optimizing cutting tables for yield improvement, and controlling the cutting process. The manual is intended for operators and administrators of the A+W software, providing the necessary information to efficiently manage and optimize the production of glass, windows, and doors."
+description: "EN_UM_AWProduction_12"
 ---
+
 
 # A+W Production Packing Optimization - Software Reference
 

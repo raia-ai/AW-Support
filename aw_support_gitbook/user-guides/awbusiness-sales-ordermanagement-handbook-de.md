@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_16"
-source: "D-HB-AWBusiness_16.pdf"
-tags: ["A+W Business", "Sales", "Order Management", "Document Copying", "Status Management", "Employee Rights", "Partial Deliveries", "Down Payments", "Complaints", "Credit Notes", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business Sales module, covering status management, employee rights configuration, and various document handling procedures. It provides step-by-step instructions and exercises for changing order statuses, copying documents to create new ones (orders, partial deliveries, complaints), managing partial deliveries, handling down payments, processing complaints, and issuing credit notes."
-long_description: "This comprehensive user manual serves as a tutorial for the A+W Business Verkauf (Sales) software. It is structured into several key learning blocks, each focusing on a specific aspect of order and document management. The initial sections cover foundational concepts like managing the status of orders and configuring detailed employee access rights to ensure data security and proper workflow control. A significant portion of the document is dedicated to the 'Document Copying' functionality, which is a core feature for efficient document creation. It details how to create new orders, partial deliveries, down payments, complaints, and credit notes by copying information from existing documents, including those in the archive. The manual provides detailed, step-by-step instructions for each process, such as creating a new order from a quote, handling item-wise copying, and making necessary adjustments. Subsequent sections provide in-depth tutorials on specific document types: Teillieferungen (Partial Deliveries), explaining how to manage and invoice them; Anzahlungen (Down Payments), covering both invoiced and non-invoiced down payments; Reklamationen (Complaints), for processing customer issues and creating replacement orders; and Gutschriften (Credit Notes). The guide also covers the 'Bestellung' (Purchasing) process, detailing how to hand over order items to purchasing, manage suppliers, and track purchase orders. Further topics include managing 'Dokumentendaten' (Document Data) for collective changes and handling 'Angebote' (Offers), including creating alternative items and offers. Each section includes learning objectives, benefits, key points (Merke), and practical exercises (Übungen) to reinforce the user's understanding."
+description: "D-HB-AWBusiness_16"
 ---
+
 
 # Status
 

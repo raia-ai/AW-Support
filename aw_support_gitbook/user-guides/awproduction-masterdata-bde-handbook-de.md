@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_11"
-source: "DE_HB_AWProduction_11.pdf"
-tags: ["A+W Production", "Software Reference", "Master Data", "BDE", "Packing Optimization", "Stammdaten", "Packmitteloptimierung", "Tutorial", "PackView", "Gestelle"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference and tutorial for the A+W Production system, focusing on Master Data (Stammdaten) for Shop Floor Data Collection (BDE) and the Packing Material Optimization (Packmitteloptimierung) module. It provides detailed explanations of dialogs, fields, and functions related to managing racks (Gestelle), statuses (Zustände), employees (Mitarbeiter), and various feedback settings."
-long_description: "This extensive manual serves as a comprehensive guide for users of the A+W Production software. It is divided into two main parts: a software reference for master data management and a tutorial for the Packing Material Optimization (PMO) module. The first part, \"Softwarereferenz - Stammdaten,\" details the setup and configuration of essential master data for Shop Floor Data Collection (BDE). This includes in-depth descriptions of dialogs for managing equipment (Betriebsmittel), feedback settings, racks (Gestelle), status types (Zustandstypen), employees (Mitarbeiter), and column mappings (Spaltenzuordnung). Each section explains the purpose of various fields, checkboxes, and their corresponding database fields. The second part, \"Packmitteloptimierung,\" begins with a tutorial that explains the fundamental concepts, master data setup (*.RUL and *.VAL files), and visualization of optimization results using the PackView tool. It covers different display modes, editing functions, and manual manipulation of packing layouts. The tutorial is followed by a software reference section for PMO, providing a detailed breakdown of menus, dialogs, and functions within the PackView application, enabling users to understand and effectively manage the packing of finished goods onto transport racks."
+description: "DE_HB_AWProduction_11"
 ---
+
 
 # Softwarereferenz - Stammdaten
 

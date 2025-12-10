@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Production_1"
-source: "EN-CONFIG-AW_Production_1.pdf"
-tags: ["A+W Production", "Software Configuration", "Glass Manufacturing", "Scheduling", "Crystal Reports", "Batch Release", "Technical Manual", "ERP", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is an internal configuration manual for the A+W Production software, a solution designed for the glass industry. It provides detailed instructions on setting up and managing various production-related modules and functions."
-long_description: "This is a comprehensive technical guide for the configuration of the A+W Production software system. Intended for internal use by system administrators and technical staff, it details the setup, functionality, and customization of key components. The manual covers a wide range of topics, starting with a detailed change history tracking versions from 1.0 to 1.72. Core sections include instructions on scheduling (Orders4Production), rough scheduling with features like FIX filters, batch release management, and generating reports using Crystal Reports. It also provides in-depth guidance on handling surplus quantities, remake handling, and configuring various production terminals (e.g., TG-In, LG-Assembly, IG-Out). Advanced functions such as multi-site configuration, data archiving, and integration with A+W IoT Smart Trace are also explained. The document serves as a central reference for ensuring the A+W Production environment is correctly configured to meet specific operational requirements in glass manufacturing."
+description: "EN-CONFIG-AW_Production_1"
 ---
+
 
 # A+W Configuration: A+W Production
 

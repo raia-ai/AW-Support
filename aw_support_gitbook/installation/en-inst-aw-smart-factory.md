@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Smart Factory"
-category: "installation"
-product: "A+W Smart Factory"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Smart Factory"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions       Beta - A+W Clarity Smart Factory - Multistep      Automated Production    Change history:      Date            Author               Comments                                               Version      2019-03-21      DLA                  Document created                                        1.0      …               …                    …                                                       …      2021-01-18      MME                  "SwapFour" as new method"
-source_file: "EN-INST-A+W Smart Factory.pdf"
+description: "EN INST A+W Smart Factory"
 ---
+
 
 
 # EN INST A+W Smart Factory

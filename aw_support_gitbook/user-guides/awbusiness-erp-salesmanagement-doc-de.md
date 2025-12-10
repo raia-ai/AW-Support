@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_3"
-source: "DE_AWBusiness_Verkauf_4_3.pdf"
-tags: ["A+W Business", "ERP", "Sales Management", "Document Management", "Invoicing", "Tutorial", "German", "Formularverwaltung", "Preisdruck", "Mahnwesen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive German-language tutorial for the A+W Business sales software. It guides users through the complete workflow from creating documents like quotes and orders to final invoicing, covering key functionalities such as form management, price printing settings, dunning processes, and status management."
-long_description: "This tutorial provides a detailed, step-by-step guide to using the A+W Business Verkauf (Sales) module. It is designed for users who handle the entire sales process, from initial document creation to final invoicing and payment tracking. The document is structured into several key chapters. It begins with 'Formularverwaltung' (Form Management), explaining how to configure price printing options on different forms. The tutorial then moves to practical tasks like 'Dokument drucken' (Printing Documents), covering invoices, order confirmations, and labels, including procedures for handling reprints and collective print runs. A significant portion is dedicated to 'Rechnungen' (Invoices), which details different invoice types, due date calculations, and payment processing ('Zahlungseingang'). The 'Mahnwesen' (Dunning) section explains how to track open invoices, record payments, and issue reminders. The document also covers 'Dokumenten-Historie' (Document History) for auditing changes and 'Status' management to control the document lifecycle through various internal processes. Further sections explain how to manage user rights ('Mitarbeiterrechte') and how to use the copy function to efficiently create new documents like partial deliveries ('Teillieferungen'), down payments ('Anzahlungen'), complaints ('Reklamationen'), and credit notes ('Gutschriften'). The tutorial concludes with the 'Bestellung' (Purchasing) process, explaining how to handle order items and transfer them to the purchasing department. Throughout the document, screenshots, tables, and callout notes provide clear, visual instructions."
+description: "DE_AWBusiness_Verkauf_4_3"
 ---
+
 
 # Kompletterfassung von Dokumenten bis Faktura
 

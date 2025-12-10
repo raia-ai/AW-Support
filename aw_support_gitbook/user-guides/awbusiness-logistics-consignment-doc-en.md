@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_3-2"
-source: "EN_AWBusiness_Production_3-2.pdf"
-tags: ["logistics", "consignment", "shipping", "rack management", "inventory", "A+W Business Production", "software reference", "order management", "fleet planning"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the A+W Business Production system, focusing on logistics modules. It covers consignment planning, rack transfers, list printing, and detailed rack management, including issuing, returning, and tracking racks."
-long_description: "This document is a detailed software reference manual for the A+W Business Production system, specifically covering the logistics and shipping functionalities found in the Production module. It begins with the \"Consignment\" section, which details how to plan the loading of a vehicle fleet, manage consignment dialog menus, and execute functions like history lookups and item transfers. It then explains the \"Rack Transfer\" and \"Export Options\" dialogs for reorganizing rack management. The guide moves on to \"List Printing,\" explaining how to generate various reports like rack loading lists and acceptance confirmations after picking is complete. A significant portion is dedicated to \"Shipping of Racks\" and \"Shipping of Boxes,\" outlining procedures for analyzing rack loads and managing box inventory. The final major section, \"Racks,\" provides a comprehensive overview of the rack management system. This includes creating and monitoring racks, managing their status (available, locked, lost), booking them out to customers (Exit tab), booking them back in (Entry tab), viewing their complete transaction history (History tab), and managing overdue return reminders (Reminder tab). The document serves as a procedural guide for users responsible for shipping, logistics, and inventory management of racks and boxes within the A+W software environment."
+description: "EN_AWBusiness_Production_3-2"
 ---
+
 
 # Consignment
 

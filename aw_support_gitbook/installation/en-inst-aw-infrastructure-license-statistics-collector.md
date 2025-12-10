@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Infrastructure License Statistics Collector"
-category: "installation"
-product: "A+W Infrastructure License Statistics Collector"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Infrastructure License Statistics Collector"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Infrastructure                                      License                 Statistics           Collector    Change history:      Date            Edited by                 Comments                                           Version      2018-09-25      Jürgen Makowka            Original Version                                   1.0          The installation instructions will assist the planner with the installation and      configuration of the"
-source_file: "EN-INST-A+W Infrastructure License Statistics Collector.pdf"
+description: "EN INST A+W Infrastructure License Statistics Collector"
 ---
+
 
 
 # EN INST A+W Infrastructure License Statistics Collector

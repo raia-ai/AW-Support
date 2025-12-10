@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_EDV_Modulkuerzel"
-source: "EN-CONFIG-AW_Enterprise_EDV_Modulkuerzel.pdf"
-tags: ["A+W Enterprise", "EDP", "Module Codes", "User Rights", "Software Configuration", "Glass Industry", "ERP", "Technical Manual", "Access Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document details the EDP (Electronic Data Processing) module codes for A+W Enterprise, a software solution for the glass industry. It provides an overview of the general logic for user rights management, access controls, and program behavior. The manual explains how module codes are used to define permissions for individual employees or groups, including read, write, and client-specific access."
-long_description: "This is a comprehensive technical manual for the A+W Enterprise software, specifically focusing on the EDP (Electronic Data Processing) Module Codes. The document is intended for both internal and external users, such as system administrators and technical consultants, who are responsible for configuring user rights and access permissions. It begins with an overview of the system's history and the general logic behind module codes, explaining how they control program behavior on a per-employee or per-group basis. Key concepts like user rights, rights groups, multi-site capabilities, and the hierarchy of authorization are detailed. The core of the document is a detailed breakdown of individual module codes, organized by program area (e.g., Notes, Barcode, Stock Management, Prices, Documents). For each module, the manual provides the specific code, its designation, the menu items it affects, possible rights allocations (read/write), a description of its function, any dependencies, and its multi-site capability. This structured information allows administrators to precisely control user access to various functions and data within the A+W Enterprise system, ensuring data security and proper workflow management in a multi-site environment."
+description: "EN-CONFIG-AW_Enterprise_EDV_Modulkuerzel"
 ---
+
 
 # A+W Enterprise – EDP Module Codes
 

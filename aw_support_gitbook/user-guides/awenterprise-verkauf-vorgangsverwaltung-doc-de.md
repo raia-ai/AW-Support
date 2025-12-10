@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_3"
-source: "DE_AWEnterprise_Verkauf_4_3.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Vorgangsverwaltung", "Auftragserfassung", "Software-Referenz", "ERP", "Glasindustrie", "Fensterbau", "Rabatte", "Preisgestaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist eine Softwarereferenz für das Modul A+W Enterprise Verkauf. Es beschreibt detailliert die Felder und Funktionen innerhalb der Vorgangsverwaltung und Auftragserfassung, einschließlich der Verwaltung von Rabatten, Preisen, Positionen und Lieferdetails."
-long_description: "Diese Softwarereferenz ist ein umfassendes Handbuch für Anwender des A+W Enterprise Verkauf-Moduls. Es bietet eine detaillierte Erläuterung der Benutzeroberfläche, Felder und Funktionalitäten in den Bereichen Vorgangsverwaltung und Auftragserfassung. Das Dokument beginnt mit der Beschreibung der Stammdatenfelder in der Vorgangsverwaltung, wie z.B. Skontobedingungen, Zahlungsverkehr, Provisionssätze und kundenspezifische private Felder. Es werden auch spezifische Parameter für die Glasindustrie wie Windlast, Fassadenzone und Falzmaß behandelt. Ein wesentlicher Teil des Dokuments widmet sich der 'Auftragserfassung', wo die Erstellung und Bearbeitung von Aufträgen im Mittelpunkt steht. Hier werden die Dialoge 'Summen' und 'Detailansicht Rabatte' ausführlich erklärt, die es dem Benutzer ermöglichen, auftragsspezifische Rabatte, Zuschläge und Zahlungsoptionen zu definieren und zu verwalten. Des Weiteren werden die verschiedenen Register der 'Auftragspositionen' ('Allgemein', 'Eigensch.', 'Preise', 'Status', 'Kosten') beschrieben. Benutzer lernen, wie sie Artikel auswählen, Maße und Mengen festlegen, Beschaffungsarten bestimmen, technische Werte einsehen und Preise kalkulieren. Spezialfunktionen wie die Verwendung von Produktsets (Sash Master), die Anbindung von CAD-Dateien und die Konfiguration von Lieferadressen werden ebenfalls behandelt. Das Handbuch enthält zahlreiche Screenshots, technische Informationen zu Datenbankfeldern (DB-Feldern) und Navigationstipps, um die Effizienz bei der täglichen Arbeit mit der Software zu steigern."
+description: "DE_AWEnterprise_Verkauf_4_3"
 ---
+
 
 # Softwarereferenz
 

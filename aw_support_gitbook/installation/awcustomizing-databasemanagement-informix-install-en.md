@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Customizing_Manager"
-source: "EN-INST-AW_Customizing_Manager.pdf"
-tags: ["Installation Guide", "A+W Customizing Manager", "Software Configuration", "Database Management", "Informix", "DB2", "Customizing", "Software Deployment", "Version Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An installation and user guide for the A+W Customizing Manager, a tool for managing and deploying software customizations like reports, scripts, and configuration files across multiple sites and environments."
-long_description: "This document serves as a comprehensive installation and operations manual for the A+W Customizing Manager. It is intended for technically competent users responsible for installing the software and managing application customizations. The guide begins with prerequisites, detailing the necessary installation of the IBM.DB2 Driver Package and subsequent manual configuration of Windows Registry keys and GAC assemblies. The core installation process is covered, from using the A+W Setup Launcher to the initial database connection and setup, which currently supports INFORMIX. The guide then transitions to configuration, explaining how to set trace levels and define master data such as sites, environments (Live/Test), and path categories. A major section provides a step-by-step walkthrough of the tool's workflow, demonstrating how to create and manage 'Objects' (customization files). This includes adding new files, versioning them through 'test', 'release', and 'archived' states, and managing their metadata. The final part of the workflow covers the 'Publish' functionality, which allows users to simulate and then execute the deployment of these objects to their designated target environments. The document concludes with specific technical instructions for configuring Informix and DB2 databases to listen for the DRDA protocol, a necessary step for database connectivity."
+description: "EN-INST-AW_Customizing_Manager"
 ---
+
 
 # Installation Instructions: A+W Customizing Manager
 

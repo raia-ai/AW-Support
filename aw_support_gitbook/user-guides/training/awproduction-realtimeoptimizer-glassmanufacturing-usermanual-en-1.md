@@ -1,15 +1,7 @@
 ---
-title: "Software Reference"
-category: "training"
-product: "AWProduction"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWProduction", "RealtimeOptimizer", "GlassManufacturing", "UserManual", "EN (1)"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_UM_AWProduction_13" source: "EN_UM_AWProduction_13.pdf" tags: ["A+W Production", "Realtime Optimizer", "glass manufacturing", "software reference", "cutting optimization", "table optimization", "batch processing", "residual stock", "DynOpt", "Production Terminals"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is a comprehensive software reference manual for the A+W Production Realtime Optimizer and A+W Production Terminals. It details functionalities for"
-source_file: "AWProduction-RealtimeOptimizer-GlassManufacturing-UserManual-EN (1).md"
+description: "Software Reference"
 ---
+
 
 
 title: "EN_UM_AWProduction_13"

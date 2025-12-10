@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_20"
-source: "EN-UM-AWEnterprise_20.pdf"
-tags: ["Dispatch Control", "Logistics", "Dispatch Explorer", "A+W Enterprise", "Order Management", "Tour Planning", "Rack Management", "Shipping", "Software Reference", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the Dispatch Explorer module within the A+W Enterprise system. It covers the user interface, hierarchical data levels (date, tour, order, item), and available functions for managing logistics and dispatch operations."
-long_description: "This document provides a detailed technical reference for the 'Dispatch Explorer' feature in A+W Enterprise software, a tool for managing logistics and shipping. It begins with an overview of the main explorer interface, explaining the different data levels: date, route, document (order/PO), and item. The guide meticulously describes each field and column within these views, including technical details like database field names. A significant portion of the document is dedicated to the various functions available through menus (Supplementary, Info) and on-screen buttons. These functions include searching for documents, postponing shipments, managing missing quantities, booking items to transport, and handling rack allocations. The manual also details the management of tours and racks, covering tabs for RouteInfo, RackInfo, VehicleInfo, and Optimization. It explains how to view and edit transport data, lock tours, and manage rack contents. The document serves as a comprehensive guide for users responsible for dispatch control, providing step-by-step instructions and explanations for all features within the Dispatch Explorer."
+description: "EN-UM-AWEnterprise_20"
 ---
+
 
 # Dispatch Explorer
 

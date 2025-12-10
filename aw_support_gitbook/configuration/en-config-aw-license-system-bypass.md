@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W License System Bypass"
-category: "configuration"
-product: "A+W License System Bypass"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W License System Bypass"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W License System bypass                                          english                                  - -INTERNAL- Change history             Date        Author              Comments           Version           2022-11-4   EB                  Original version   1.0           2022-11-7   PK                  Extensions         1.1     Content  1.   Use of A+W license system bypass                              3      1.1. Introduction"
-source_file: "EN-CONFIG-A+W License System Bypass.pdf"
+description: "EN CONFIG A+W License System Bypass"
 ---
+
 
 
 # EN CONFIG A+W License System Bypass

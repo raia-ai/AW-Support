@@ -1,12 +1,7 @@
 ---
-title: "A+W Smart Companion User Manual"
-source: "EN_UM_AW_SmartCompanion_1_1.pdf"
-tags: ["software", "user manual", "A+W Smart Companion", "glass manufacturing", "window production", "door manufacturing", "plant data collection", "inventory management", "production tracking", "mobile application"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This user manual provides comprehensive instructions for using the A+W Smart Companion application, a mobile solution for plant data collection in the glass, window, and door manufacturing industries. It covers the Basic, Production, and Stock modules."
-long_description: "This document is a detailed user manual for the A+W Smart Companion application, version 1.20 (dated March 2023). The A+W Smart Companion is a mobile app for iOS and Android designed to replace classic barcode scanners for plant data collection in manufacturing environments. The manual is intended for end-users and covers the full scope of the application's functionalities. It begins with an introduction, including a revision history and editorial notes. The main content is divided into a tutorial and detailed documentation. The tutorial guides users through basic operations, from goods receipt to production bookings and inventory management. The documentation section provides in-depth information on the different modules: Basic License, Production, and Stock. It explains core operations, module selection, hardware modes (smartphone and Zebra scanner), and system messages. The Production Module section details logging in, navigating the menu bar, scanning products and racks, reporting breakages, and accessing information like rack status, order status, and order location. The Stock Module section covers functions such as goods receipt, stock movement, stock withdrawal, and inventory checks. The manual includes step-by-step instructions, screenshots, and explanations of all user interface elements, icons, and display conventions to ensure users can effectively operate the application."
+description: "A+W Smart Companion User Manual"
 ---
+
 
 # A+W Smart Companion
 

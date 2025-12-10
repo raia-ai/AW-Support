@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Lager_HelpCards"
-source: "DE_AWEnterprise_Lager_HelpCards.pdf"
-tags: ["A+W Enterprise", "Lager", "Warehouse Management", "Inventory Management", "ERP", "Help Cards", "User Guide", "Stammdaten", "Glass Software", "Windows and Doors"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a series of 'Help Cards' for the A+W Enterprise Lager (Warehouse) module. It offers step-by-step instructions for various warehouse management tasks, including master data setup, goods receipt and issue, inventory control, and system administration."
-long_description: "This is a comprehensive user guide for the A+W Lager module within the A+W Enterprise software suite, specifically for version 2015. The guide is structured as a collection of 'Help Cards,' each dedicated to a specific function or workflow. It covers all major aspects of warehouse management. The main sections include: Stammdatenverwaltung (Master Data Management) for setting up warehouses and articles; Lagerverwaltung (Warehouse Management) for daily operations like goods receipt, goods issue, and handling different storage types (e.g., bin locations, crates, racks); Inventurverwaltung (Inventory Management) for performing stocktakes; Bewertung (Valuation) for article pricing; and an Infosystem for retrieving data and generating reports. Each help card clearly outlines the goal, prerequisites, additional information, and a detailed, numbered workflow to guide the user through the software's interface. This document is essential for users who manage inventory, process stock movements, and administer the A+W Lager system."
+description: "DE_AWEnterprise_Lager_HelpCards"
 ---
+
 
 # A+W Lager: Help Cards für A+W Enterprise
 

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Analytics"
-category: "configuration"
-product: "A+W Analytics"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Analytics"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Analytics powered by QLIK Sense                                      english                             - INTERNAL - Change history              Date         Author                 Remarks                   Version            2018-04-06 DLA                      Original version          1.0            2019-05-21 DLA                      AWP O4P Performance APP   1.1     Content  1.   Implementation                                                             4      1.1."
-source_file: "EN-CONFIG-A+W Analytics.pdf"
+description: "EN CONFIG A+W Analytics"
 ---
+
 
 
 # EN CONFIG A+W Analytics

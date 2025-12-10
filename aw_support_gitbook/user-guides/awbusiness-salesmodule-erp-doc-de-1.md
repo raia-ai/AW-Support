@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_1"
-source: "DE_AWBusiness_Verkauf_4_1.pdf"
-tags: ["A+W Business", "Software Manual", "Sales Module", "ERP", "Glass Industry", "Windows and Doors", "Order Management", "Invoicing", "Tutorial", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive German-language user manual for the 'Verkauf' (Sales) module of the A+W Business software. It serves as a tutorial and reference guide for managing the entire sales process, from creating offers and orders to invoicing and data transfer, tailored for the glass, windows, and doors industry."
-long_description: "This document is a comprehensive user manual and tutorial for the 'Verkauf' (Sales) module of the A+W Business software, a specialized ERP system for the glass, windows, and doors industry. The manual, written in German, is intended for end-users and provides detailed instructions on managing the entire sales workflow. It begins with an introduction and a detailed revision history, outlining changes and updates to the software and documentation over time. The core of the document is a tutorial section that covers the complete process from creating documents like offers and orders, managing order headers and line items, handling complex pricing structures and macros, to generating invoices and managing follow-up documents such as partial deliveries and credit notes. The manual also details crucial functionalities like status management for process control, document copying for efficiency, order processing for purchasing, and data transfer to other integrated modules like financial accounting (FiBu) and production. A significant portion of the document is a software reference, providing a granular breakdown of all menus, dialogs, and functions within the sales module. This includes detailed explanations of offer management, document administration, position data entry, and various reporting and analysis tools. It serves as both a training guide for new users to learn the system from the ground up and a detailed reference for experienced operators to look up specific functions and procedures."
+description: "DE_AWBusiness_Verkauf_4_1"
 ---
+
 
 # A+W Verkauf C
 

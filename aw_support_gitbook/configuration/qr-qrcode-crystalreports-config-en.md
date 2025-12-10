@@ -1,12 +1,7 @@
 ---
-title: "QR Code Integration"
-source: "EN-CONFIG-QR_Code_Integration.pdf"
-tags: ["QR Code", "A+W", "Software for Glass", "Crystal Reports", "A+W Production", "Barcode", "Integration", "IDAutomation", "Configuration", "Swiss Cross"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide on integrating QR code functionality within A+W software products, specifically for Crystal Reports and A+W Production. It covers installation, configuration parameters, and usage examples."
-long_description: "This document, 'QR Code Integration,' is an internal configuration guide from A+W, a provider of 'Software for Glass.' It details the process of implementing QR codes within their ecosystem. The guide begins by explaining the necessary installation steps, which involve purchasing and setting up the 'A+W IDAutomation QR Code' extension. It provides in-depth instructions for using QR codes in Crystal Reports, including example code, a breakdown of all parameters like DataToEncode, ProcTilde, EncMode, Version, and ErrorCorrectionLevel. A special section is dedicated to creating Swiss QR Codes with a central cross. The document then shifts focus to 'Usage in A+W Production,' outlining prerequisites, master data setup in the awbar_barcodetypes table, and configuration of QR code scanners (specifically the Datalogic Gryphon GM4500). Finally, it covers the settings required for connecting a scanner to the A+W Production Terminal and configuring QR code reading in the A+W Smart Companion using regular expressions. The document serves as a comprehensive manual for developers and technicians to enable and customize QR code generation and scanning across various A+W platforms."
+description: "QR Code Integration"
 ---
+
 
 # A+W Configuration: QR Code Integration
 

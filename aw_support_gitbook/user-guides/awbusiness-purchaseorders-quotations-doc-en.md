@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_4-1"
-source: "EN_AWBusiness_Sales_4_4-1.pdf"
-tags: ["A+W Business Sales", "Purchase Orders", "Quotations", "ERP Software", "Order Management", "Supplier Management", "Delivery Dates", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical tutorial for the A+W Business Sales software, focusing on the creation, management, and modification of purchase orders (P.O.s). It covers changing delivery dates, comparing supplier prices, and managing P.O. flags. The guide also details the Document Data feature for collective changes and concludes with an introduction to creating quotations and alternative quotations."
-long_description: "This document is a detailed training manual for the 'Purchase Orders' and 'Quotations' modules within the A+W Business Sales software. It serves as a step-by-step tutorial for users learning to manage the procurement process. The first major section is dedicated to Purchase Orders, explaining how to create P.O.s from orders, manage them in the 'Order Pool,' change delivery dates, and switch suppliers. It includes practical guides on comparing supplier prices to select the most favorable option and altering P.O. codes to change procurement types. The manual provides numerous screenshots and exercises to reinforce learning. A significant portion is dedicated to the 'Document Data' and 'Customer Information' dialogs, which allow for batch processing of changes to delivery dates and efficient communication with customers about postponements. The final section introduces the 'Quotations' module, outlining the process for entering standard and alternative quotations, which can be used for estimates or offering different product options to customers. Overall, the document is a comprehensive guide for commercial staff using A+W Business to handle procurement and sales quotations."
+description: "EN_AWBusiness_Sales_4_4-1"
 ---
+
 
 # Tutorial: Purchase Orders
 

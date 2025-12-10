@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Clarity Extendend Workbench"
-category: "configuration"
-product: "A+W Clarity Extendend Workbench"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Clarity Extendend Workbench"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Clarity Extended Workbench                                                                             english        A+W Software GmbH                                           - -INTERNAL-                        EN-CONFIG-A+W Clarity Extendend Workbench.docx   1 Change history           Date        Author     Remarks                               Version         2019-03-14 DLA         Summary from other documents          1.0     A+W Software GmbH   EN-CONFIG-A+W"
-source_file: "EN-CONFIG-A+W Clarity Extendend Workbench.pdf"
+description: "EN CONFIG A+W Clarity Extendend Workbench"
 ---
+
 
 
 # EN CONFIG A+W Clarity Extendend Workbench

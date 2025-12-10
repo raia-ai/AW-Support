@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Formula_Editor_1.02"
-source: "EN_AWProduction_Formula_Editor_1.02.pdf"
-tags: ["A+W Production", "Formula Editor", "Software Manual", "Glass Manufacturing", "Window Production", "Conditions", "Formulas", "Allocation", "Technical Documentation", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for the A+W Formula Editor, a component of the A+W Production software. This guide details the functional principles, operational steps, and software reference for creating and managing complex rules, conditions, and formulas for production processes in the glass, window, and door industries."
-long_description: "This document serves as a comprehensive guide to the A+W Formula Editor within the A+W Production software suite. It is intended for end-users who need to define and manage rules for various production-related tasks. The manual is divided into several key sections. The 'Functional Principle' section explains the core concepts of the Formula Editor, breaking it down into three levels of complexity, from simple formulas and comparisons to advanced quantity and allocation rules. It also covers the specific syntax of the 'Formula.dll'. The 'Operation' section provides practical, step-by-step instructions for using the editor in different contexts, such as setting conditions for racks, organization groups, and production sections, as well as creating group formation modes. The 'Software Reference' section offers a detailed description of every dialog, field, button, and menu item within the Formula Editor, serving as a quick-reference for UI elements. Finally, the 'Partindex' provides a comprehensive alphabetical index for easy lookup of terms and functions. This manual is essential for users looking to customize and optimize their production logic for tasks like machinery allocation, label selection, and organizational grouping."
+description: "EN_AWProduction_Formula_Editor_1.02"
 ---
+
 
 # A+W Formula Editor
 

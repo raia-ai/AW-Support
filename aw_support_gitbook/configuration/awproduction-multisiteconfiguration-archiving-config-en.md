@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Production_4"
-source: "EN-CONFIG-AW_Production_4.pdf"
-tags: ["A+W Production", "Multi-Site Configuration", "Software Manual", "Archiving", "PDC", "Database Configuration", "Technical Documentation", "A+W IoT Smart Trace", "Production Monitor"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This technical document details the configuration and operation of A+W Production in a multi-site environment. It covers the setup of services and web services using the MultiSite CONFIG tool, application startup procedures, and special considerations for updates and database management."
-long_description: "This comprehensive guide provides in-depth instructions for setting up, configuring, and managing the A+W Production software in a multi-site architecture. The document begins by explaining how to use the A+W Production MultiSite CONFIG tool to create and manage services and PPS WebService instances for each site. It walks through the application startup process, including site selection for users assigned to multiple sites. Key sections are dedicated to special features and the update process, outlining manual steps required in a multi-site environment that are typically automated in a single-site setup, such as database updates, designer screen updates, and managing the TRANS release. A major portion of the document is dedicated to data archiving, covering both manual and automatic archiving procedures. It explains how to configure archiving modes, set up archive databases (for both Informix and SQL Server), manage the deletion of associated files, and utilize expanded archiving methods for greater flexibility. The guide also introduces the A+W IoT Smart Trace feature for sending data to external systems, detailing gateway connection settings and PDC (Production Data Collection) configuration. Finally, it covers other functions like the Parameter Administrator for general and station-dependent settings, the management of document links across different A+W modules, and an overview of the Production Monitor for visualizing workloads and backlogs."
+description: "EN-CONFIG-AW_Production_4"
 ---
+
 
 ---
 ## A+W Production Multisite Config

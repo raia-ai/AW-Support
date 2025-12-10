@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-12"
-source: "EN-CONFIG-AW_Business-12.pdf"
-tags: ["A+W Business", "ALFAK", "ERP Configuration", "Financial Accounting Interface", "Database Replication", "SQL Server Migration", "CAM Credit Management", "Workflow Automation", "UDF"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration manual for A+W Business (ALFAK) software. It provides detailed instructions on managing production status, automating workflows, configuring interfaces to various financial accounting systems (Brilliant, Datev, Varial, eGecko), setting up credit management with CAM, and managing database replication and migration from SQL Base to SQL Server."
-long_description: "This is a comprehensive guide for system administrators and technical consultants configuring the A+W Business (ALFAK) ERP system. The document is divided into major sections covering production management, financial interfaces, and database administration. The production management section details the meaning of status codes in the `BW_LOCK_KAPA` table and explains how to use various user-defined functions (UDFs) to automate status changes and workflow tasks. The financial accounting interface section provides in-depth instructions for setting up data transfers to systems like Brilliant, Datev, Varial, eGecko, and the CAM credit management system, including required settings, formula definitions, and data mapping. The final section focuses on database management, offering a step-by-step guide to setting up and managing data replication between a central headquarters and subsidiary sites, as well as a detailed procedure for migrating databases from SQL Base to Microsoft SQL Server. The document includes numerous screenshots, tables, code examples, and function definitions to facilitate configuration."
+description: "EN-CONFIG-AW_Business-12"
 ---
+
 
 ---
 ## 11.18. Managing the production status in table BW_LOCK_ΚΑΡΑ

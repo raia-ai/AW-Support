@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_1"
-source: "DE-HB-AWCADDesignerShapes_1.pdf"
-tags: ["A+W CAD Designer", "Shapes", "CAD Software", "User Manual", "Glass Manufacturing", "Windows and Doors", "German", "Tutorial", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This is a German user manual for the 'A+W CAD Designer (Shapes)' software. It provides a comprehensive guide for end-users, covering tutorials, software reference, and tool descriptions for creating and editing geometries for glass, windows, and doors."
-long_description: "This document serves as the official handbook ('Handbuch') for 'A+W CAD Designer (Shapes),' a 2D CAD program designed for the creation and construction of free-form shapes in architectural and automotive glass. The manual is intended for manufacturers of irregular or processed glass products. It details how to manage all processing steps, from contour definition to machine control, within a single application. The content is structured into several key sections: an 'Überblick' (Overview) that introduces the software's core concepts and functions, a 'Tutorial' with step-by-step exercises for creating and dimensioning various shapes, a 'Softwarereferenz' (Software Reference) detailing the user interface and file management, and a 'Werkzeuge' (Tools) section that describes the functionalities for contouring, dimensioning, and editing. The manual aims to enable users to efficiently design products, manage process-related data, and control manufacturing machinery directly from the software."
+description: "DE-HB-AWCADDesignerShapes_1"
 ---
+
 
 # A+W CAD Designer (Shapes) Handbuch
 

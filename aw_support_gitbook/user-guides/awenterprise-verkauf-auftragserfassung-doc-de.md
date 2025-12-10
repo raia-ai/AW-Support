@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_6"
-source: "DE_AWEnterprise_Verkauf_4_6.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Software referenz", "Auftragserfassung", "Preiskonditionen", "Anmerkungen", "Texte", "ERP", "Pricing", "Sales Order"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A segment of the A+W Enterprise Verkauf software reference manual, focusing on the configuration and use of notes, texts, pricing, and conditions within the sales order entry module."
-long_description: "This document is an excerpt from the A+W Enterprise Verkauf software reference guide, version 4.00/02-2020. It provides detailed instructions for users on managing various types of information and settings at the sales order level. The first part covers the creation and management of different 'Anmerkungen' (notes/remarks), such as customer-item, supplier-item, and project-item specific notes. It also explains how to handle various 'Texte' (texts), including header/footer texts, item/position texts, and special texts like crate signatures. The second, more extensive part of the document details the 'Preise und Konditionen' (Prices and Conditions) functionalities. It explains how to set up and modify order-specific conditions, item prices, crosspiece prices, and exchange prices. It delves into the various pricing methods (PKZ-Basisglas, PKZ-ESG, ISO, etc.) and describes the numerous dialogs and fields for configuring surcharges, discounts, rounding, and other price calculation parameters for both sales and purchasing. The document serves as a technical guide for correctly calculating prices and adding relevant information to sales orders."
+description: "DE_AWEnterprise_Verkauf_4_6"
 ---
+
 
 # Softwarereferenz Anmerkungen
 

@@ -1,12 +1,7 @@
 ---
-title: "A+W Production - Index (S-Z)"
-source: "DE_HB_AWProduction_16.pdf"
-tags: ["Index", "A+W Production", "German", "Technical Manual", "Software", "Manufacturing", "Glass Processing", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document contains the index for the A+W Production software handbook, covering entries from 'S' to 'Z'. It provides quick reference to topics, features, and configurations within the software."
-long_description: "This document is an index extracted from the A+W Production software technical manual. It provides an alphabetical listing of terms, features, and concepts from 'S' to 'Z', designed to help users efficiently locate information within the full handbook. Each entry, such as 'Schichtreservierungen' (Shift Reservations) or 'Zuschnitt' (Cutting), is paired with a corresponding page or section reference (e.g., E-635, J-1242). The index covers a comprehensive range of functionalities, including production planning, machine control, data management, system configuration, reporting, and process optimization. It is an essential navigational tool for operators, administrators, and technical staff working with the A+W Production system in a manufacturing environment, likely specialized in glass or window fabrication."
+description: "A+W Production - Index (S-Z)"
 ---
+
 
 # A+W Production Index (S-Z)
 

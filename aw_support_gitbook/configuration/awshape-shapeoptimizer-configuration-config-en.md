@@ -1,12 +1,7 @@
 ---
-title: "A+W Shape Optimizer Configuration"
-source: "EN-CONFIG-AW_Shape_Optimizer.pdf"
-tags: ["A+W", "Shape Optimizer", "Configuration", "XOPT.CFG", "Glass Software", "Optimization", "Technical Documentation", "Opt2Par.dat", "Opt2Dat.dat"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An internal configuration guide for the A+W Shape Optimizer software. This document details settings within the XOPT.CFG file and explains how behavior is influenced by other input files for parameters like trimmed edges, rotation, and turning/mirroring of glass plates."
-long_description: "This document is an internal technical manual detailing the configuration of the A+W Shape Optimizer, a software component designed for the glass industry. It provides a comprehensive guide on how to adjust the optimizer's behavior to meet specific production needs. The primary method of configuration is through the XOPT.CFG file, and the manual lists and describes all relevant switches within this file. These switches control core functionalities, such as activating or deactivating shape optimization, setting tolerances, and defining dimensional limits for catalog shapes. Additionally, the document explains how the optimizer's behavior is further controlled by parameters within various input files, including Opt2Dat.dat, Opt2Par.dat, and Opt2Fa.dat, which can override settings from the XOPT.CFG. Specific sections are dedicated to adjusting behaviors like the handling of trimmed edges and borders, the conditions under which glass lites can be rotated, and the rules for turning or mirroring stock plates, including restrictions related to coatings and patterns. This guide is essential for technical personnel responsible for setting up and fine-tuning the A+W shape optimization process."
+description: "A+W Shape Optimizer Configuration"
 ---
+
 
 # A+W Shape Optimizer Configuration
 

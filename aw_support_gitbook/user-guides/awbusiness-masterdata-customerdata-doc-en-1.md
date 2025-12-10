@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_1-4"
-source: "EN_AWBusiness_Master_Data_9_1-4.pdf"
-tags: ["A+W Business", "Master Data", "Customer Data", "Finances", "Credit Limit", "Payment Terms", "Invoicing", "Tutorial", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial from the A+W Business Master Data guide, focusing on managing customer data. It covers allocating classifiers, setting up financial details like payment terms and credit limits, and managing invoicing data within the A+W software."
-long_description: "This document is a detailed tutorial chapter on managing Customer Data within the A+W Business software. It provides step-by-step instructions for various master data management tasks. The first part covers allocating both alpha-numerical and numerical classifiers to customer records. The second, more extensive part, delves into the 'Finances and Balance' section, explaining how to configure payment settings, due date calculations, payment day postponements, and payment terms. It also details the setup and management of credit limits, including the process for checking limits, handling overdrawn accounts, and analyzing credit data. The tutorial includes instructions on managing currencies, pricing in foreign currencies, cash discounts, and bank data. It is illustrated with screenshots and process flowcharts to guide the user through the A+W Business interface for effective customer financial management."
+description: "EN_AWBusiness_Master_Data_9_1-4"
 ---
+
 
 # Customer Data
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Business_Production_Manager_3"
-source: "EN-INST-AW_Business_Production_Manager_3.pdf"
-tags: ["A+W Software", "Production Manager", "Glass Manufacturing", "Window Manufacturing", "Technical Manual", "XTV Reporting", "xOptMult", "xRecalc", "AWB", "Optimization Manager"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide for A+W's 'Software for Glass and Windows,' specifically covering the Business Production Manager. This document details new features, bug fixes, and configuration steps for various modules, including order entry, stock management via XTV reporting, error workarounds for Microsoft components, and optimization batch processes."
-long_description: "This document is an installation and configuration manual for the A+W Business Production Manager, part of the A+W software suite for glass and window manufacturing. It provides detailed instructions on new features and updates across different versions and hotfixes. Key topics include turning off standard models in order entry, managing stock and plate bookings through XTV reporting, and resolving known issues like Microsoft component installation failures and incorrect batch pathing for optimization tools like `xOptMult` and `xReCalc`. The manual guides users through specific configurations in the AWB (A+W Business) and Production Manager environments, such as setting up stock definitions, registry edits, and batch file modifications. It also covers new features in V6, such as new columns in statistics tables, improved user input retention in the Optimization Manager, waste cost calculation, and support for new driver scripts. Additionally, it details functionalities like multi-selection in lists, customized edge deletion, saving residual plates, printing cutting labels via machine drivers, and handling special shapes. The document is intended for system administrators and technical users responsible for maintaining and configuring the A+W production software."
+description: "EN-INST-AW_Business_Production_Manager_3"
 ---
+
 
 ---
 ## 6.1.10 New AWB function: turning of standard models on the order entry screen (#377601)

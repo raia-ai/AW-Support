@@ -1,12 +1,7 @@
 ---
-title: "DE_CapaView"
-source: "DE_CapaView.pdf"
-tags: ["A+W Capa View", "Production Visualization", "Capacity Planning", "Manufacturing Software", "Glass Industry", "Window Manufacturing", "Door Manufacturing", "BDE", "A+W Business", "A+W Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for A+W Capa View, a web-based service for visualizing production capacities and manufacturing progress. It explains how to interpret data displays, operate the program, and integrate it with other A+W software like A+W Production, A+W Business, and A+W Dashboard."
-long_description: "This is the German user manual for A+W Capa View, version 1.00, dated April 2015. A+W Capa View is a tool designed for visualizing available production capacities and tracking manufacturing progress, primarily for the glass, window, and door industries. The software integrates with A+W Capacity Planning and pulls data from BDE (Betriebsdatenerfassung) to provide real-time insights. The manual is intended for end-users such as sales staff and order entry personnel who need to check production availability. It covers the program's purpose, data representation through bar charts in both a general 'Monitor View' and a detailed 'Detail View', and instructions on how to operate the interface. Key features include viewing planned vs. unplanned capacity, tracking produced orders, and filtering data by machine, shift, or time period. The document also details how to use and save specific view URLs for quick access or integration into A+W Dashboard and A+W Business. It emphasizes that accurate data display relies on correct and complete BDE bookings."
+description: "DE_CapaView"
 ---
+
 
 # A+W Capa View
 

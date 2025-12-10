@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W CAD Designer Bars"
-category: "installation"
-product: "A+W CAD Designer Bars"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W CAD Designer Bars"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W CAD Designer (Bars)    Change history:      Date            Edited by              Comments                     Version      2012-01-08      Jens Schmidt           Original version             1.0      2014-07-08      Jens Schmidt           Release 5.4                  5.4      2017-01-18      Jens Schmidt           Release 6.2                  6.2     19.02.2021                          EN-INST-A+W CAD Designer Bars.docx    1 Content     Installat"
-source_file: "EN-INST-A+W CAD Designer Bars.pdf"
+description: "EN INST A+W CAD Designer Bars"
 ---
+
 
 
 # EN INST A+W CAD Designer Bars

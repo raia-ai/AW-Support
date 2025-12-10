@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Business_Production_Terminal_EL"
-source: "EN-INST-AW_Business_Production_Terminal_EL.pdf"
-tags: ["A+W", "Software Installation", "Configuration", "Production Terminal", "Business Pro", "Glass and Windows", "Documentation", "Setup", "System Requirements"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation and configuration instructions for the A+W Business Production Terminal (EL) software. It outlines the necessary prerequisites, system requirements, step-by-step installation procedures using the A+W SetupLauncher, and post-installation configuration settings. The guide is intended for planners and system administrators responsible for deploying the software."
-long_description: "This is a comprehensive installation and configuration guide for the A+W Business Production Terminal (EL), a software solution designed for the glass and windows industry. The document begins with a change history, detailing version updates from 2017 to 2020. It then covers the prerequisites, including required program documents, system environment specifications (.Net Framework 4.5, SQL Server), and minimal program versions for related A+W components like CAD Designer and Production Manager. The installation section provides a detailed, step-by-step walkthrough of the A+W SetupLauncher, from the welcome screen to component selection, service user configuration, and database connection setup. The configuration section explains how to set up machine-specific parameters, CAD settings, booking and scanner options, list displays, and auto-update features. It also details new database tables (PROD_PT_AGGREGATE, PROD_PT_PARMETER) added to the A+W Business Pro environment. The operational guide covers user login, navigation, finding and booking parts, machine code output, and understanding the main user interface. Finally, the document details release-specific features and improvements for August 2018 and September 2019, including barcode handling and dependency updates."
+description: "EN-INST-AW_Business_Production_Terminal_EL"
 ---
+
 
 # Installation and Configuration Documentation: A+W Business Production Terminal (EL)
 

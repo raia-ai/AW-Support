@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Rack_Optimizer"
-source: "EN-FUNC-AW_Rack_Optimizer.pdf"
-tags: ["A+W Rack Optimizer", "Software for Glass", "Functional Description", "Production Optimization", "Logistics", "Rack Loading", "A+W Production", "Manufacturing Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Rack Optimizer module, a software solution designed for the glass industry. It details how the module integrates with A+W Production to streamline the process of loading glass sheets directly onto transport racks, optimizing production sequences and packaging. The guide covers the module's data, requirements, functions, limitations, and notes on implementation."
-long_description: "This functional description provides a comprehensive overview of the A+W Rack Optimizer module, part of the A+W Production software suite for the glass industry. The document outlines the purpose of the module, which is to optimize the loading of finished glass sheets directly onto transport racks, thereby eliminating the need for intermediate storage and re-sorting in dispatch. It details the system's ability to automatically define the optimal production and packing sequence based on criteria like delivery date, route, and shipping address. The document specifies the required software prerequisites, including the A+W Production core module and the A+W Production Terminal for graphical display. It enumerates key functions, such as the ability to group orders, display results in an editor, repack racks with simple mouse clicks, and provide real-time guidance to operators on the production line. The description also addresses limitations, such as the physical availability of racks, and provides notes on minimizing waste and utilizing sorting aids like harp racks. Legal notices, including trademarks, copyrights, and a disclaimer of liability, are also included."
+description: "EN-FUNC-AW_Rack_Optimizer"
 ---
+
 
 # A+W Functional Description: A+W Rack Optimizer
 

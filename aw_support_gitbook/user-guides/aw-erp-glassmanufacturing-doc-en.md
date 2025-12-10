@@ -1,12 +1,7 @@
 ---
-title: "AW_Sales_Tool_2025_1-1-2"
-source: "AW_Sales_Tool_2025_1-1-2.pdf"
-tags: ["A+W Enterprise", "ERP", "Glass Manufacturing", "Fenestration", "Software Modules", "Business Processes", "Sales", "Purchasing", "Stock Management", "Dispatch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical overview of the A+W Enterprise ERP system, detailing its integrated modules and business processes for the glass and fenestration industry. It covers core functionalities like Sales, Purchasing, Stock Management, and Dispatch, along with specialized add-ons."
-long_description: "This document provides a comprehensive presentation of the A+W Enterprise system, an ERP solution designed for the glass and fenestration sectors. It outlines the various integrated modules that automate and manage key business processes. The presentation begins with a high-level overview of the system's features and technical specifications, such as its 3-tier architecture and multi-site capabilities. It then delves into specific modules, including Sales for order management, Purchasing for procurement, and specialized entry modules like Georgian Bar Entry, Shape Entry, and Processing Entry for detailed product configuration. Further sections explain the logistics modules for Dispatch and Stock Management, highlighting features like status checks, route assignment, and inventory forecasting. The Controlling module is also covered, focusing on margin calculation and workflow management. Each section details the module's primary features, technical specifications, and associated add-ons, illustrated with user interface screenshots."
+description: "AW_Sales_Tool_2025_1-1-2"
 ---
+
 
 # A+W Enterprise: Integrated Modules & Business Processes
 

@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_15"
-source: "DE_HB_AWProduction_15.pdf"
-tags: ["A+W Production", "Production Terminal", "Software Manual", "Glass Manufacturing", "ERP", "Technical Documentation", "German", "LG-In", "LG-Assembly", "Edit Terminal"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German technical manual for the A+W Production Terminals software, covering modules like LG, LG-Assembly, and Edit. It provides tutorials and software references for operating these terminals in a glass manufacturing environment, including workflows for scanning, production, and handling exceptions."
-long_description: "This document is a comprehensive user guide and software reference for the A+W Production Terminals, a software suite designed for managing glass production lines. The manual is written in German and is structured into two main parts: a \"Tutorial\" and a \"Software Reference\". The tutorial section provides step-by-step instructions and overviews for various terminal modules, including `Production Terminal LG`, `Production Terminal LG-Assembly`, and `Production Terminal Edit`. It explains the user interface, key functionalities like scanning labels, turning glass units, and handling damaged items, and managing batches. The LG-In terminal focuses on the entry point of the lamination line, while LG-Assembly handles the cleanroom assembly process. The Edit terminal is used for correcting or rebooking production data. The \"Software Reference\" section offers detailed descriptions of all UI elements, dialogs, and functions, such as loading jobs, managing machine status, and generating reports. The document also includes \"Help Cards\" which are quick reference guides for common workflows like producing a pane, changing machine status, and loading remake orders. This manual is essential for operators and administrators responsible for the day-to-day use of the A+W Production Terminals."
+description: "DE_HB_AWProduction_15"
 ---
+
 
 # A+W Production: A+W Production Terminals
 

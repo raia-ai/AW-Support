@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Info_Terminal"
-source: "EN-FUNC-AW_Info_Terminal.pdf"
-tags: ["A+W Info Terminal", "Functional Specifications", "Software for Glass", "Production Information", "A+W Production", "A+W", "Software Documentation", "Info Terminal", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides the functional specifications for the A+W Info Terminal, a software module designed to display production-relevant information for the glass manufacturing industry. It outlines the module's data, description, requirements, functions, and limitations."
-long_description: "This document details the functional specifications for the A+W Info Terminal, a module within the A+W Production software suite from A+W Software GmbH. The A+W Info Terminal serves as an information display tool for the production floor in the glass industry. Its primary function is to provide real-time, relevant information about individual sheets, orders, or batches. Users can search for items using various parameters like order number, item number, batch number, or by scanning a barcode. The terminal can display a multitude of information elements including document links, editing overviews, CAD drawings (with zoom and multi-monitor support), and production texts. While it allows for the display and printing of reports and labels, the module is strictly for information retrieval and does not support data entry, machine code generation, or plant data collection bookings. The document specifies the prerequisites for its use, such as the need for A+W Production with operating data collection, and highlights technical limitations, including screen resolution recommendations and considerations for using scanners on a terminal server."
+description: "EN-FUNC-AW_Info_Terminal"
 ---
+
 
 # A+W Functional Specifications
 # A+W Info Terminal

@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_7"
-source: "D-HB-AWBusiness_7.pdf"
-tags: ["A+W Business", "Stammdaten", "Software Manual", "Technical Documentation", "Glass Industry", "ERP", "Configuration", "Cost Calculation", "Price Calculation", "iTOE"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual and tutorial for the A+W Business software, focusing on supplementary information and master data management. It covers topics such as change monitoring, data transfer between A+W Business and A+W Production, various costing and pricing methods, and provides detailed application examples for the iTOE module for importing DXF files."
-long_description: "This document serves as a comprehensive guide, specifically 'Tutorial 2' and a software reference for the A+W Business ERP system, tailored for the glass, windows, and doors industry. The first part provides supplementary information and tutorials on advanced master data configurations. Key topics include defining variables for frame texts, an overview of standard leaded glass construction types, and a detailed explanation of the change monitoring system for tracking modifications in customer, supplier, price, and discount data. It outlines the process for transferring master data to the A+W Production system, ensuring data consistency across both platforms, with detailed field mapping tables. The manual delves into various calculation methods, including mixed costing (Mischkalkulation), French pricing for insulating glass, and a comprehensive cost-plus calculation (Kosten- und Aufschlagskalkulation) framework. It explains how to set contribution margin limits and provides a complex example of cost calculation for an insulating glass unit. The second part, 'Anwendungsbeispiele iTOE', offers practical, step-by-step examples for using the iTOE (intelligent T.O.E.) module to import DXF files. These examples cover various scenarios, such as model recognition, importing custom shapes, handling rotated models, processing cutouts (like speaker holes), and managing edge qualities. It clarifies how rules and priorities within the system affect the final imported product data. The final, extensive part of the document is a 'Softwarereferenz' (Software Reference), which acts as a detailed index and guide to the master data ('Stammdaten') structure within A+W Business. It systematically describes the dialogs, fields, and settings across all major modules, including Products, Pricing, Warehouse, Market Partners, Production, Order Processing, and Finance, providing a foundational resource for system configuration and administration."
+description: "D-HB-AWBusiness_7"
 ---
+
 
 # Tutorial 2: Zusatzinformationen
 

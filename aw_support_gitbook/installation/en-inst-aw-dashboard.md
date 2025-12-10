@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Dashboard"
-category: "installation"
-product: "A+W Dashboard"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Dashboard"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Dashboard    Change history:     Date           Edited by                Remarks                                    Version     2014-05-26     AKU                      Original version                           1.0     2015-02-24     AKU                      Reworking for Version 5.5                  2.0     2016-07-05     MME                      Reworking for Version 6.0                  2.1     2016-07-21     DLA                      Reworkin"
-source_file: "EN-INST-A+W Dashboard.pdf"
+description: "EN INST A+W Dashboard"
 ---
+
 
 
 # EN INST A+W Dashboard

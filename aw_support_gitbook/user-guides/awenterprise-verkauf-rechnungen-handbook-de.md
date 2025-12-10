@@ -1,12 +1,7 @@
 ---
-title: "DE-AWEnterprise_15"
-source: "DE-AWEnterprise_15.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Rechnungen", "Gutschriften", "Auftragsstatus", "Formulare", "ERP", "Software-Referenz", "Help Cards", "Auftragserfassung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Enterprise Sales (Verkauf) module. It provides detailed descriptions of functionalities related to invoices, credit notes, forms, order status tracking, and searching for business transactions. The manual also includes task-oriented \"Help Cards\" for quick guidance on specific procedures."
-long_description: "This is a comprehensive software reference manual for the A+W Enterprise Sales (Verkauf) module. The document is structured to guide users through various sales-related processes and dialogs within the software. It begins by detailing the \"Positionsinfo\" dialog, explaining the fields and data related to individual items in an invoice or credit note. It then covers the creation and management of invoices (`Rechnungen`), both manual and automatic, including down payment and final invoices. Subsequent sections explain how to handle credit notes (`Gutschriften`), generate and manage forms (`Formulare`) like direct prints and emails, and check the order status (`Auftragsstatus`) through various informational registers. The manual also provides an in-depth guide on searching for transactions (`Recherche zu Vorgängen`) using multiple criteria. The final part of the document consists of \"Help Cards,\" which offer step-by-step, workflow-based instructions for common tasks such as creating quotes, entering orders, managing item positions, and handling different types of invoices. These cards are designed for quick reference to streamline daily operations within the A+W Enterprise system."
+description: "DE-AWEnterprise_15"
 ---
+
 
 # Softwarereferenz: A+W Enterprise Verkauf
 

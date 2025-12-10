@@ -1,16 +1,7 @@
 ---
-title: "AW_Production_Terminal_-_Allow_Multiple_Instances_Version_1.00"
-source: "AW_Production_Terminal_-_Allow_Multiple_Instances_Version_1.00.docx"
-tags: ["windows", "aw", "production-terminal", "multiple-instances", "configuration", "how-to", "procedure", "documentation", "environment-variables", "system-administration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Step-by-step guide for enabling multiple concurrent instances of A+W Production Terminal on a single Windows workstation or terminal server. Covers licensing considerations, recommended monitor setups for usability, and two configuration methods (via System Settings and via elevated Command Prompt using setx) to add the AllowMultipleToolTVs environment variable. Includes annotated screenshots and an example showing two stations running side-by-side."
-long_description: "This document provides a practical, administrator-focused procedure to configure A+W Production Terminal to run more than one instance simultaneously on the same Windows system. It begins with context and intent—why operators may require two terminals at once (for example, opening an Order Station while monitoring incomplete processings on a custom terminal)—and highlights any licensing requirements that should be validated with A+W Support.
-
-For best results, the guide recommends workstation display configurations that comfortably host two Production Terminal windows, such as dual 1920×1080 monitors or a 3440×1440 ultrawide. The core configuration step is the addition of a system-wide environment variable AllowMultipleToolTVs set to True. Two implementation options are provided: (1) using the Windows System Settings interface to add the variable under Environment Variables > System variables, and (2) using an elevated Command Prompt to run setx /m AllowMultipleToolTVs \"True\". Both methods achieve the same result and are accompanied by screenshots for clarity.
-
-An example walk-through demonstrates launching two stations (e.g., AUW_ORDER and AUW_TG_IN) and arranging their windows side-by-side to validate the configuration. This end-to-end reference helps ensure operators can work efficiently without application conflicts, and that system administrators can repeat the setup on any required workstations or terminal servers."
+description: "AW_Production_Terminal_-_Allow_Multiple_Instances_Version_1.00"
 ---
+
 
 **A+W PRODUCTION TERMINAL**
 **ALLOW ****MULTIPLE INSTANCES**

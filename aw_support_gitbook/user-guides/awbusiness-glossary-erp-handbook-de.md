@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_36"
-source: "D-HB-AWBusiness_36.pdf"
-tags: ["Index", "Glossary", "A+W Business", "ERP", "Business Management", "Technical Manual", "Reference Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An alphabetical index (L-Z) for the A+W Business software manual, providing reference codes for various terms, features, and functions."
-long_description: "This document is a comprehensive, multi-page alphabetical index for the A+W Business software system, covering entries from 'L' to 'Z'. It serves as a detailed reference guide, listing key terms, features, and functions alongside unique reference codes (e.g., C-1299, H-3033, B-211) that point to specific sections within the main documentation. The index is structured alphabetically and includes nested sub-entries for more granular topics. It covers a wide range of business processes such as logistics (tours, transport, delivery), sales (quotes, orders), production planning (capacity, workflow), financial management (surcharges, pricing), and master data management. This makes it an essential tool for users looking to quickly locate information within the extensive A+W Business software manual."
+description: "D-HB-AWBusiness_36"
 ---
+
 
 # Index (L-Z)
 

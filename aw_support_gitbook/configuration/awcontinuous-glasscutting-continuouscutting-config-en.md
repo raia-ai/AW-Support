@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Continuous_Cutting"
-source: "EN-CONFIG-AW_Continuous_Cutting.pdf"
-tags: ["A+W", "Software", "Glass Cutting", "Continuous Cutting", "Realtime Optimizer", "Configuration", "Technical Documentation", "User Guide", "Shopfloor"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Continuous Cutting module, a component of the A+W Realtime Optimizer. It covers initial setup, parameterization, and operational use for planning and executing continuous cutting processes in glass manufacturing."
-long_description: "This technical guide details the setup and configuration of the A+W Continuous Cutting module, which is available as a prototype feature within the A+W Realtime Optimizer software for glass processing. The document is intended for system administrators and technical users. It begins with the initial configuration steps required in the XOPTON.CFG file, including setting the 'ContinuousCuttingMode' to enable different operational modes for office planning or shop floor production. It then guides the user through the parameter administrator within the A+W Realtime Optimizer, explaining how to specify standard values for post-optimization, linking, and remants. A significant section is dedicated to creating and managing parametrizable SQL filters, which allow for dynamic data selection during the planning phase. The final part of the document covers the practical application of the module, outlining the user workflows for both 'Planning cutting'—where batches are prepared—and 'Cutting'—where the planned optimizations are sent to the cutting table for execution in a continuous flow."
+description: "EN-CONFIG-AW_Continuous_Cutting"
 ---
+
 
 # A+W Configuration: A+W Continuous Cutting
 

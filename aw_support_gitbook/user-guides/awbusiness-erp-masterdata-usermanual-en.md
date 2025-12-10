@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_5"
-source: "EN-UM-AWBusiness_5.pdf"
-tags: ["A+W Business", "ERP", "Master Data", "Surcharges", "Discounts", "Pricing", "User Management", "Sales Commission", "Software Tutorial", "Order Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed tutorial (Tutorial 1) for the A+W Business ERP software, focusing on master data configuration. It covers the setup and application of surcharges and discounts, including complex pricing exercises. It also details the management of company-level data, such as user accounts, access rights, sales commissions, and bank information."
-long_description: "This document serves as an in-depth training manual (Tutorial 1) for configuring master data within the A+W Business ERP system. The tutorial is split into several key sections. The 'Surcharges' section explains how to define and assign various types of surcharges, including item-related and general surcharges, with practical examples and exercises on creating customized special discounts. The 'Discounts' section provides a comprehensive overview of the discount hierarchy, function, and search logic. It covers standard, graduated, and exchange discounts, and how to manage them for specific customers, customer groups, or projects. It includes instructions on defining discount diversions and copying or changing discounts in bulk. The manual also includes a 'Complex Exercise' that walks the user through setting up multi-dimensional pricing using a price cube with multiple limit types (surface, width, height). The final major section, 'Additional Information on the Company,' details the setup of company-wide parameters, including system settings for financial accounting, databases, archiving, and defining clients and subsidiaries. It provides step-by-step guides on managing employees, user rights, employee groups, and sales commissions. This tutorial is designed for users who need to master the advanced pricing and administrative functions of A+W Business to tailor the system to specific business processes."
+description: "EN-UM-AWBusiness_5"
 ---
+
 
 # Tutorial 1
 

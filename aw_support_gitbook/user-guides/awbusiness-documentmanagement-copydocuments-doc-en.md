@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_6-2"
-source: "EN_AWBusiness_Sales_4_6-2.pdf"
-tags: ["A+W Business Sales", "Software Reference", "Document Management", "Copy Documents", "Order Processing", "Status Change", "Capacity Overview", "Header Data", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical reference for the A+W Business Sales software, detailing document management functionalities. It covers searching documents, using the details view, and provides an in-depth guide to the 'Copy Documents' feature for creating orders, partial shipments, complaints, and down payments. It also explains related features like status changes, capacity overviews, and document history."
-long_description: "This document serves as a detailed user guide and software reference for a specific set of features within the A+W Business Sales application. It focuses on the management and manipulation of documents, particularly concerning header data. The primary feature explained is 'Copy Documents,' a versatile tool that allows users to duplicate existing documents to create new ones, such as converting a quotation to an order, or creating a partial shipment, complaint, or down payment from an existing order. The guide walks through the various tabs and options within the 'Copy Documents' dialog, including 1:1 copying, item-by-item copying, setting target document options (like dates and delivery addresses), source document options, and adding text or attachments. Furthermore, the document describes several related overviews and management tools. These include the 'Search Documents – Details View' for inspecting document items, the 'Capacity Overview' for viewing production schedules from A+W Production Capacity Planner, the 'Document View' for a summary of a document, 'Customer Info', and the 'History' dialog for tracking all actions performed on a document. It also covers administrative functions like 'Status Change' for modifying document statuses individually or in bulk, and 'NM Selection' for managing number managers. This guide is intended for users who perform order processing, logistics, and administrative tasks within the A+W Business Sales environment."
+description: "EN_AWBusiness_Sales_4_6-2"
 ---
+
 
 # Overviews and References concerning Header Data
 

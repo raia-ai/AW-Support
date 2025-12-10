@@ -1,15 +1,7 @@
 ---
-title: "EN UM AWProduction"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_UM_AWProduction"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Production   Manual     English Editorial                 Editorial             Revision overview of the documentation              10-2024      Update of complete manual for PDF and HTML5 format.               Notes             This document is intended only for end users of A+W Production.             The documentation and software described are licenses that must be used or             copied only in accordance with the conditions of our license agreement. The             content of the"
-source_file: "EN_UM_AWProduction.pdf"
+description: "EN UM AWProduction"
 ---
+
 
 
 # EN UM AWProduction

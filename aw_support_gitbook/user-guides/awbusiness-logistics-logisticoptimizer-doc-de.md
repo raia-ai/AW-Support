@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_LogisticOptimizer_2_1"
-source: "DE_AWBusiness_LogisticOptimizer_2_1.pdf"
-tags: ["Logistics", "Software", "A+W", "Logistic Optimizer", "A+W Business", "Route Planning", "Tour Optimization", "ERP", "Fleet Management", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the A+W Logistic Optimizer (OTR), a software solution by A+W for tour and route planning. It provides a comprehensive tutorial on using the software, from basic concepts and database connections to detailed steps for administration, planning, optimization, and result analysis. The manual is written in German and is intended for end-users of A+W Business."
-long_description: "This is a detailed German-language user manual for the 'A+W Logistic Optimizer' (also referred to as OTR - Optimizer of Transport Routes), a software module within the A+W Business suite. The document serves as a tutorial and software reference for end-users involved in logistics, specifically tour and route planning for deliveries. The manual begins with an editorial section covering version history, copyright, and contact information. It then dives into a tutorial that explains the fundamental concepts of the OTR module, including its three-phase process: Planning, Optimization, and Results. It covers essential setup steps like database connections (to both OTR and ERP databases) and introduces the dynamic mode for automatic grouping of delivery locations. The document details the user interface, including menu bars, toolbars, and map functionalities. A significant portion is dedicated to the 'Administration' section, where users learn to manage master data such as users, statuses, customers, departments, vehicles, and drivers. Subsequent sections guide the user through the practical steps of planning tours, optimizing routes based on various factors (costs, vehicle capacity), analyzing the results, and generating reports. The manual also includes a software reference section for more technical details on configuration and data management. It's designed to help users efficiently manage delivery logistics, reduce costs, and improve productivity."
+description: "DE_AWBusiness_LogisticOptimizer_2_1"
 ---
+
 
 # A+W Logistic Optimizer
 

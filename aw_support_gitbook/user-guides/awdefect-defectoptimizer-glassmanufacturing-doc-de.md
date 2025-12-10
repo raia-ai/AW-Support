@@ -1,12 +1,7 @@
 ---
-title: "DE-AWDefect_Optimizer_Kurzbeschreibung"
-source: "DE-AWDefect_Optimizer_Kurzbeschreibung.pdf"
-tags: ["A+W Software", "Defect Optimizer", "Glass Manufacturing", "Window Production", "ERP", "Cutting Optimization", "Quality Control", "Viprotron", "Hegla", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A short product description in German for the A+W Defect Optimizer software. This software integrates with glass cutting lines to detect and optimize around defects in jumbo glass sheets, reducing waste and improving quality."
-long_description: "This document is a short description ('Kurzbeschreibung') in German for the A+W Defect Optimizer, a software solution for the glass, window, and door manufacturing industry. It details how the software works in conjunction with quality scanners (like Viprotron) and cutting lines (like Hegla) to identify defects on jumbo glass plates before the cutting process begins. The software then re-optimizes the cutting pattern in real-time to avoid these defects, either by repositioning the required glass panes or by placing smaller, less costly panes over the defective areas. The manual outlines the process flow from defect detection to re-optimization, explains the benefits such as cost reduction and quality improvement, and details system prerequisites. It serves as an introductory guide for end-users to understand the functionality and value of the A+W Defect Optimizer."
+description: "DE-AWDefect_Optimizer_Kurzbeschreibung"
 ---
+
 
 # A+W Defect Optimizer Kurzbeschreibung
 

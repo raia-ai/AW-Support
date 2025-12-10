@@ -1,15 +1,7 @@
 ---
-title: "Gryphon I GD 4200   Englisch"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Gryphon I GD 4200 ", " Englisch"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "GRYPHON™ I GD4200                                                                        ENHANCED LINEAR IMAGING TECHNOLOGY                                                                        The Gryphon™ 4200 series represents the premium range of hand held                                                                        scanners from Datalogic for general purpose applications.                                                                        Designed with people in mind, the Gryp"
-source_file: "Gryphon I GD 4200 - Englisch.pdf"
+description: "Gryphon I GD 4200   Englisch"
 ---
+
 
 
 # Gryphon I GD 4200   Englisch

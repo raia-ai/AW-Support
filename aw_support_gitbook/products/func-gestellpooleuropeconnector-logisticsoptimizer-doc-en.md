@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Gestellpool_Europe_Connector"
-source: "EN-FUNC-AW_Gestellpool_Europe_Connector.pdf"
-tags: ["A+W Software", "Gestellpool Europe Connector", "Logistics Optimizer", "Functional Description", "Glass Software", "CSV Import", "Rack Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Gestellpool Europe Connector. It details the interface for importing rack pick-up information via a CSV file into the A+W Logistics Optimizer, outlining prerequisites, functions, and data specifications."
-long_description: "This is a functional description for the A+W Gestellpool Europe Connector, an interface module designed to integrate Gestellpool Europe with the A+W Logistics Optimizer. The document explains how the connector facilitates the import of rack data, specifically information about racks ready for pick-up, from Gestellpool Europe into the A+W system. The import is handled via a CSV file. The guide covers the product details, prerequisites for use (requiring Gestellpool Europe and one of the A+W logistics modules like Smart Delivery or Logistics Optimizer), and a step-by-step list of functions, including how to access the import feature. It provides a detailed breakdown of the CSV file structure and the 'GPE rack header' data fields, specifying which are used. It also outlines the process after import, such as geolocating pick-up addresses and planning them into routes. The document concludes with restrictions, noting the lack of a web service and the need for manual checks on packaging dimensions, along with contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Gestellpool_Europe_Connector"
 ---
+
 
 # A+W Functional Description: Gestellpool Europe Connector
 

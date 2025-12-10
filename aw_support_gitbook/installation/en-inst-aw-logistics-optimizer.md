@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Logistics Optimizer"
-category: "installation"
-product: "A+W Logistics Optimizer"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Logistics Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Logistics Optimizer    Change history:      Date            Edited by               Remarks                                   Version      2013-10-01      PK                      Original version                          1.0      2014-01-10      DLA                     New Version                               1.1      2014-09-02      JL                      New Functions                             1.1.1      2015-02-05      JL"
-source_file: "EN-INST-A+W Logistics Optimizer.pdf"
+description: "EN INST A+W Logistics Optimizer"
 ---
+
 
 
 # EN INST A+W Logistics Optimizer

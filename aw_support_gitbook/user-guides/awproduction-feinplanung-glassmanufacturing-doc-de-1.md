@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Feinplanung_3_4"
-source: "DE_AWProduction_Feinplanung_3_4.pdf"
-tags: ["A+W Production", "Feinplanung", "Software Reference", "Glass Manufacturing", "ERP", "Optimization", "Storage Locations", "Batches", "Production Planning", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Production Feinplanung (Fine Planning) module. It provides detailed explanations of the settings and parameters for managing storage locations (Abstellplätze), batch types (Lostypen), and the fine-planning of production runs (Läufe)."
-long_description: "This comprehensive technical reference guide details the configuration and use of the A+W Production Feinplanung (Fine Planning) software module. It is intended for administrators and advanced users responsible for setting up and managing production planning processes in a glass manufacturing environment. The document is divided into several key sections. The 'Abstellplätze' section covers the setup of various storage locations, including A-racks (A-Böcke), compartment carts (Fächerwagen), and fixed storage locations (Feste Abstellplätze), detailing parameters like depth, width, capacity, and robot control. The 'Lose' section explains the creation and management of batch types, including their properties, grouping rules, and relationships with different processing steps and procurement types. It also covers the automatic generation of dependent processing steps. The 'Läufe feinplanen' section provides an in-depth walkthrough of the fine-planning dialog, which appears after a run has been roughly planned. It explains the various tabs (Register) used to review and modify planning parameters, such as 'Glasarten' (Glass Types), 'Bockbelegung' (Rack Assignment), 'Ergebnisse' (Results), 'Spezial' (for handling remnants, broken sheets, and fillers), 'Orga' (organizational settings), and 'Optionen' (optimization parameters). For many fields, the corresponding database table and field names are provided under 'Technische Info'."
+description: "DE_AWProduction_Feinplanung_3_4"
 ---
+
 
 ---
 ## Abstellplätze

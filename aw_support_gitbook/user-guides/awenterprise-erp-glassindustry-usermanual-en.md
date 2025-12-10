@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_1"
-source: "EN-UM-AWEnterprise_1.pdf"
-tags: ["A+W Enterprise", "ERP", "User Manual", "Glass Industry", "Windows and Doors", "Software Documentation", "Master Data", "Sales", "Production", "Logistics"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the official user manual for A+W Enterprise, an ERP software solution tailored for the glass, windows, and doors industry. It provides a comprehensive overview of the system's modules, features, and functionalities."
-long_description: "The A+W Enterprise Manual is an in-depth guide for end-users of the A+W Enterprise ERP system. The document begins with an editorial section that outlines revision history, legal notices, copyright information, and display conventions used throughout the manual. A detailed table of contents provides a roadmap to the software's extensive capabilities, covering modules such as Overview (A), Master Data (B), Prices and Conditions (C), Sales (D), Purchasing (E), Stock (F), and Dispatch Control (G). The manual is structured to introduce users to the system's architecture, supported business processes, and general usage basics. It delves into specific functional areas, including sales management, production planning, inventory, logistics, and purchasing. The 'Overview' section introduces the product, its features, system environment, and the benefits of using A+W Enterprise. The 'Master Data' section explains the core data organization for market partners, articles, bills of material (BOM), and product groups, which are fundamental to all business processes within the system. It is a critical resource for both new and experienced users to understand and effectively operate the A+W Enterprise software."
+description: "EN-UM-AWEnterprise_1"
 ---
+
 
 # A+W Enterprise Manual
 

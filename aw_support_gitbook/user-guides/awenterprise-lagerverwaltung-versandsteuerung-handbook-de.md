@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_19"
-source: "DE-HB-AWEnterprise_19.pdf"
-tags: ["A+W Enterprise", "Lagerverwaltung", "Versandsteuerung", "Software-Referenz", "Help Cards", "Inventur", "Preiskorrektur", "Systemverwaltung", "Warenwirtschaft", "Logistik"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein kombiniertes Software-Referenzhandbuch und Tutorial für die Module A+W Enterprise Lager und Versandsteuerung. Es bietet detaillierte Anleitungen für Lager- und Logistikprozesse."
-long_description: "Dieses Dokument dient als umfassende Anleitung für die Module A+W Enterprise Lager (Warehouse) und Versandsteuerung (Shipping Control). Es ist in zwei Hauptteile gegliedert. Der erste Teil, die 'Softwarereferenz', beschreibt spezifische Dialoge und Funktionen wie Bestandsprognosen, das Drucken von Etiketten und Listen sowie administrative Aufgaben wie das Löschen von Protokollen, Preiskorrekturen und Datensicherungen. Der zweite, umfangreichere Teil besteht aus 'Help Cards', die als schrittweise Tutorials für eine Vielzahl von Aufgaben konzipiert sind. Diese 'Help Cards' decken das gesamte Spektrum der Lagerverwaltung ab, einschließlich Stammdatenverwaltung, Buchung von Lagerein- und -ausgängen (für verschiedene Lagertypen wie Fach-, Kisten-, Gestell- und Stapellager), Inventurverwaltung, Bewertung und die Nutzung des Infosystems. Jede 'Help Card' folgt einer einheitlichen Struktur mit Ziel, Voraussetzungen, Zusatzinformationen und einem detaillierten Workflow. Der zweite große Themenblock behandelt die Versandsteuerung und bietet ebenfalls eine Mischung aus Tutorial und Referenz. Er deckt Themen wie Versandmodi, den Versand-Explorer, das Verschieben von Touren und Aufträgen, die Versandvorbereitung (z.B. Fehlmengenkontrolle, Lieferscheindruck), die Gestellverwaltung und die Anbindung an den A+W Logistics Optimizer ab. Das Dokument richtet sich an Anwender, die mit den Lager- und Logistikfunktionen von A+W Enterprise arbeiten."
+description: "DE-HB-AWEnterprise_19"
 ---
+
 
 # Teil 1: A+W Enterprise Lager - Softwarereferenz
 

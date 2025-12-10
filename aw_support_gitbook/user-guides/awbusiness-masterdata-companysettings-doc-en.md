@@ -1,16 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_10-2"
-source: "EN_AWBusiness_Master_Data_9_10-2.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "Company Settings", "Financial Accounting", "Document Management", "Pricing", "BOM", "CEKAL", "Order Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for A+W Business Master Data, focusing on company-level settings. It covers configurations for financial accounting (FinAcc) integration, document output options, parameters for document entry and processing, and detailed price calculation rules."
-long_description: "This document is an excerpt from the A+W Business Master Data software reference manual, detailing company-wide configuration settings. It provides instructions on how to set up and manage various system functionalities. The guide is divided into several key sections:
-- **Financial Accounting (FinAcc) Integration**: Details settings for linking A+W Business with financial accounting systems like Syska, including customer data synchronization, file formats (Unicode), and main client definitions.
-- **Company Data > Documents**: Explains options for document output, such as shape catalogs, lock codes, fax/email dispatch, compulsory dimensioning, and handling of various document types (quotations, orders, delivery notes). It also covers settings for Declarations of Performance and integration with external interfaces like A+W SLT.
-- **Company Data > Parameters**: Covers a wide range of parameters that control document entry and order processing logic. This includes rules for edgework calculation, Bill of Materials (BOM) handling, credit limit checks, procurement types, sales commissions, and tax calculations.
-- **Company Data > Price Calculation**: Describes the extensive pricing engine settings. This section details how to configure individual prices, supplier prices, discounts, product group (PGR) combinations, mixed calculations for insulated glass (IG), and various surcharges. It provides fine-grained control over how prices are determined, rounded, and applied in different scenarios."
+description: "EN_AWBusiness_Master_Data_9_10-2"
 ---
+
 
 ---
 ## Company Settings

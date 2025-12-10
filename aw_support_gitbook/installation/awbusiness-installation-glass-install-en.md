@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Business"
-source: "EN-INST-AW_Business.pdf"
-tags: ["A+W Business 6", "Installation", "Software", "Glass", "Windows", "SQLBase", "Setup", "Configuration", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical installation manual for the A+W Business 6 software, a solution for the glass and windows industry. It covers new installations, updates, system requirements, configuration of components like SQLBase and PDF printers, and troubleshooting tips."
-long_description: "This document provides comprehensive installation instructions for A+W Business 6, a software package designed for the glass and windows industry. It is intended for competent technical readers. The manual details the procedure for a new installation, including system requirements (hardware, network, OS), time estimates for installation and data conversion, and necessary prerequisites like .NET Framework. It walks the user through the setup process using the SetupLauncher, detailing the installation of required components such as Unify SQLBase 11.6, maxx PDFMAILER, or eDocPrinter. The guide includes screenshots and specific configuration settings for database clients, server authentication, and application parameters. Additionally, it addresses mixed installations with older production software. The document also contains a section for updating from a previous version, highlighting the differences from a new install. A troubleshooting section offers tips, FAQs, and solutions for known errors, including performance issues with SQL Server."
+description: "EN-INST-AW_Business"
 ---
+
 
 # Installation Instructions A+W Business 6
 

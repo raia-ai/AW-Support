@@ -1,12 +1,7 @@
 ---
-title: "A+W Late Order Change Functional Description"
-source: "EN-FUNC-AW_Enterprise_Late_Order_Change.pdf"
-tags: ["A+W", "Late Order Change", "Software for Glass", "Functional Description", "A+W Enterprise", "Production Management", "ERP", "Order Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the 'A+W Late Order Change' module for the A+W Enterprise software system. It details how the module enables users to modify non-technical order data, such as delivery information and routes, even after the production process has commenced. The functionality aims to improve the organization and flexibility of production and delivery workflows."
-long_description: "This functional description outlines the capabilities, requirements, and operational details of the 'A+W Late Order Change' module (No. 200020), a for-fee extension for A+W Enterprise v6 and later. The module is designed to allow for the modification of select commercial data in A+W Production after an order has already entered the production phase. The document specifies the system requirements, including compatible versions of A+W Enterprise 5, A+W Production 5 (with Service Pack 5), and the A+W Enterprise 5 OrderXML Service. It classifies order modifications into three categories: purely commercial changes that remain local to the ERP system; informational changes (e.g., delivery address updates) that are forwarded to production without requiring new scheduling; and production-relevant changes (e.g., quantity, product specs) that necessitate rescheduling for unlocked items. The guide also covers restrictions related to system settings, logging mechanisms for changes, and notes that this is a Value+ function."
+description: "A+W Late Order Change Functional Description"
 ---
+
 
 # A+W Late Order Change Functional Description
 

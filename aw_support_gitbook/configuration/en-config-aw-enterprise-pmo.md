@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise PMO"
-category: "configuration"
-product: "A+W Enterprise PMO"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise PMO"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise PMO                                                                       english       A+W Software GmbH   EN-CONFIG-A+W Enterprise PMO.docx   - -INTERNAL-                                                                   1 Change history        Date         Edited by              Remarks                                            Version      2006-02-24   svh                    Original version                                   0.0.1      2006-05-31   T."
-source_file: "EN-CONFIG-A+W Enterprise PMO.pdf"
+description: "EN CONFIG A+W Enterprise PMO"
 ---
+
 
 
 # EN CONFIG A+W Enterprise PMO

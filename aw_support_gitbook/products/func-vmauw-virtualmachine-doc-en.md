@@ -1,12 +1,7 @@
 ---
-title: "VMAUW Functional Description"
-source: "EN-FUNC-VMAUW.pdf"
-tags: ["VMAUW", "A+W", "Virtual Machine", "Software", "Functional Description", "Internal Product", "Glass Software", "A+W Clarity"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of VMAUW, an internal virtual machine (VM) product from A+W. The VM is designed for A+W employees to facilitate presentations, training, and support by providing a pre-configured environment running current A+W Clarity products."
-long_description: "This functional description details the VMAUW product, a virtual machine developed by A+W for internal use only. The primary purpose of VMAUW is to provide a standardized, ready-to-run environment for A+W employees to conduct presentations, training sessions, and handle support cases. The VM comes pre-loaded with a suite of A+W Clarity products, including A+W Business, A+W Enterprise, A+W Production, and various optimizers and design tools. The document outlines the technical specifications and prerequisites for running the VM, such as minimum RAM, required VMWare software, and licensing access. It also details the list of functions, included A+W products, system and application language support, and limitations, particularly regarding unit conversions and language localization. Furthermore, the document clarifies the process for requesting additional content or languages and outlines the responsibilities of MarketSolutions and other departments in maintaining and updating the standard VMAUW image."
+description: "VMAUW Functional Description"
 ---
+
 
 # A+W Functional Description: VMAUW
 

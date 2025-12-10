@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_21"
-source: "D-AWBusiness-HB_21.pdf"
-tags: ["A+W Business", "Purchasing", "Master Data", "Price Lists", "Orders", "Supplier Management", "Goods Receipt", "ERP Software", "Tutorial", "Warehousing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the purchasing module of the A+W Business software, covering master data setup for purchasing, price list management, document status, and the complete order processing cycle from inquiry to goods receipt."
-long_description: "This comprehensive tutorial provides a step-by-step guide to the purchasing functionalities within the A+W Business software. It begins with the configuration of master data essential for purchasing, focusing on the setup and management of price lists. The document details the flexible, component-based price calculation system, including the hierarchy of price application from manual entries to general agreements. It then explains how to check and manage price master data. The tutorial moves on to document status management, explaining how statuses are assigned and updated for referenced documents like purchase orders linked to sales orders. A major section is dedicated to the creation and management of purchase orders, differentiating between automated handovers from sales orders and manual creation. This includes handling order items, selecting suppliers, managing changes, and processing supplier confirmations. The guide also covers delivery date control, generating inquiries to suppliers, and handling collective orders. The final part of the tutorial focuses on deliveries and goods receipt, explaining how to record incoming goods, manage partial deliveries, handle excess quantities, and process deliveries of special items like crates. It provides instructions for checking default settings and controlling the entire goods receipt process to ensure data accuracy in inventory and related documents."
+description: "D-AWBusiness-HB_21"
 ---
+
 
 ---
 ## Stammdaten für den Einkauf

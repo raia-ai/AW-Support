@@ -1,15 +1,7 @@
 ---
-title: "DE HB AWProduction"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_HB_AWProduction"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Production   Handbuch     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              10-2024     Gesamthandbuch für PDF und HTML5-Format aktualisiert.               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W Produc-             tion gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz             vergeben und darf nur gemäß dieser Lizenz verwendet und kopi"
-source_file: "DE_HB_AWProduction.pdf"
+description: "DE HB AWProduction"
 ---
+
 
 
 # DE HB AWProduction

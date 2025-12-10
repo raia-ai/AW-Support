@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_8"
-source: "DE-HB-AWCADDesignerShapes_8.pdf"
-tags: ["CAD", "A+W CAD Designer", "Glass Processing", "Technical Manual", "Werkzeuge", "Hilfsschnitte", "Schneidwege", "Autoglas", "Flächenentschichtung", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a chapter from the A+W CAD Designer (Shapes) user manual, focusing on the various tools available within the software. It provides step-by-step instructions for using tools related to surface modifications, technological cuts, autoglass processing, and quality control."
-long_description: "This document serves as a detailed guide to the 'Werkzeuge' (Tools) section of the A+W CAD Designer (Shapes) software. It is intended for users who design and prepare glass shapes for manufacturing. The guide covers a wide array of functionalities, organized into logical sections. It begins with tools for placing surface elements like recessed grips, applications, motifs, stamps, and logos. It then moves to more technical processes such as applying surface delayering ('Flächenentschichtungen') and creating V-groove lines ('Rillenschlifflinien'). A significant portion is dedicated to 'Werkzeuge für Technologien' (Tools for Technologies), which includes instructions for inserting various types of auxiliary cuts ('Hilfsschnitte') to aid in the glass breaking process. The manual also details how to define cutting paths at corners and prepare cutting table controls. Specialized sections for autoglass production cover positioning axes, stops, and suction cups, as well as defining cutting/breaking paths and setting start points for different machines. Finally, it explains how to set measurement points for quality control. Each tool description includes its purpose, an icon, step-by-step usage instructions, and relevant parameters."
+description: "DE-HB-AWCADDesignerShapes_8"
 ---
+
 
 # Werkzeuge verwenden
 

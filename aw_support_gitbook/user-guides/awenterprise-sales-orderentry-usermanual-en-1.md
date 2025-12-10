@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_11"
-source: "EN-UM-AWEnterprise_11.pdf"
-tags: ["A+W Enterprise", "Sales", "Order Entry", "BOM", "ERP", "Software Tutorial", "User Manual", "Technical Documentation", "Item Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial section from the A+W Enterprise Sales user manual, focusing on entering new items, managing orders, and using various product-specific entry methods. It covers topics like item entry by customer description or article number, editing item properties, managing Bill of Materials (BOM), and handling different product types such as glass, LAMI, and IG."
-long_description: "This document is a comprehensive tutorial for the A+W Enterprise Sales module, providing step-by-step instructions for managing orders and items within the system. It begins with the fundamental processes of entering new items, either by customer description or by a specific article number. The guide details how to handle various data fields like quantity, width, height, and price, and explains system prompts for features like SN-Auto (Shape and Nesting). It extensively covers the Bill of Materials (BOM), explaining how to view, edit, add, and copy articles within the BOM structure. The manual addresses particularities for different product types, including stock items with variants, float/basic glass, tempered glass, laminated glass (LAMI), and insulated glass (IG). Specialized entry procedures are also detailed, such as entering shapes, muntins, and stepped glass units (iTOE). The document also covers related sales functions like product replacement, entry without prices, creating delivery notes, invoices, and managing order releases. It serves as a practical guide for users to navigate the complexities of order creation and modification within the A+W software environment. The document is divided into a tutorial section and a software reference section, which includes a detailed table of contents and descriptions of various menus, dialogs, and functions."
+description: "EN-UM-AWEnterprise_11"
 ---
+
 
 # Tutorial: Orders
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Pattern_Viewer"
-source: "EN-CONFIG-AW_Pattern_Viewer.pdf"
-tags: ["A+W", "Clarity", "Pattern Viewer", "Software for Glass", "Configuration", "Workflow", "Realtime Optimizer", "Installation", "Customizing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A configuration guide for the A+W Clarity Pattern Viewer, a software solution for the glass industry. It covers installation, registration, and customization of the viewer, along with its integration with the A+W Realtime Optimizer."
-long_description: "This document provides comprehensive instructions for the installation, configuration, and customization of the A+W Clarity Pattern Viewer. It is intended for technical personnel responsible for setting up and maintaining A+W software solutions for glass manufacturing. The guide begins with system requirements and the installation of necessary components, including the A+W Clarity Pattern Viewer, A+W Planning 6 Optimization Services, and A+W Production 6 Realtime Optimizer. It details two methods for viewer registration: one through the application's UI and another using the `PreparePatternViewer` command-line tool, explaining the differences and use cases for each. The document then covers the configuration of the A+W Realtime Optimizer to work with the Pattern Viewer, including settings in the `XOPTON.CFG` file. A significant portion is dedicated to customizing the Pattern Viewer's display through the A+W Infrastructure 6 Workflow Studio. This includes modifying the starting point of patterns, adding custom text and colors, displaying logos, and changing breakout sequences. The guide also addresses troubleshooting common issues, setting up table-dependent workflows, and using the A+W Push Button Tool for remote control."
+description: "EN-CONFIG-AW_Pattern_Viewer"
 ---
+
 
 # A+W Clarity Pattern Viewer
 

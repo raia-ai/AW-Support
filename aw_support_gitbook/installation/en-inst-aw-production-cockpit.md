@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Production Cockpit"
-category: "installation"
-product: "A+W Production Cockpit"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Production Cockpit"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Production Cockpit                                Installation Guide  History     Date             Author                   Modification/remarks                                                        Version    24.08.2012       Peter Kühn               First Release                                                               1.0    11.07.2014       Marco Meiser             Revised                                                                     1.1   Content"
-source_file: "EN-INST-A+W Production Cockpit.pdf"
+description: "EN INST A+W Production Cockpit"
 ---
+
 
 
 # EN INST A+W Production Cockpit

@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Commericial Logistic Service"
-category: "installation"
-product: "A+W Commericial Logistic Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Commericial Logistic Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Commercial Logistic Service    Change history:      Date            Edited by                Comments                                 Version      2016-03-16      Bastian Michel           Original Version                         1.0          The installation instructions guide the consultant through the installation and      the configuration process of the cited software. Please proceed in the      following order:        1.      Check the inst"
-source_file: "EN-INST-A+W Commericial Logistic Service.pdf"
+description: "EN INST A+W Commericial Logistic Service"
 ---
+
 
 
 # EN INST A+W Commericial Logistic Service

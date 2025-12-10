@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusines_Systemueberblick_5.21"
-source: "DE_AWBusines_Systemueberblick_5.21.pdf"
-tags: ["ERP", "A+W Business", "glass industry", "software manual", "Fenster", "Türen", "Glas", "Kapazitätsplanung", "Stammdaten", "production management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a comprehensive overview of the A+W Business ERP software, version 5.21. It details the system's architecture, modules, and core functionalities tailored for the glass, windows, and doors industry. The guide covers master data management, sales and purchasing processes, production planning (including A+W Business Pro), capacity management, inventory control, and reporting tools like A+W Discovery and A+W Dashboard. It also includes instructions for basic user operations, UI navigation, and a list of hotkeys."
-long_description: "This is a detailed system overview (Überblick) for the A+W Business ERP software, a solution specifically designed for the flat glass industry, including manufacturers of windows and doors. The document, version 5.21 as of January 2017, serves as a comprehensive guide for end-users. It begins with an introduction to the A+W product portfolio, differentiating A+W Business from A+W Enterprise and outlining its 2-tier, MS SQL Server-based architecture. The core of the document explains the software's modular structure, covering key areas in depth. These include: Stammdaten (Master Data) for managing products, partners, bills of materials, and pricing; Dokumente for handling sales, quotes, and purchasing; Fertigung (Production) detailing the data transfer to production systems and the various expansion stages available; Kapazitätsplanung (Capacity Planning); Statistiken und Reports (Statistics and Reports), which covers integrated tools like Crystal Reports, A+W Discovery, and A+W Dashboard for business intelligence; and Lagerverwaltung (Inventory Management). Furthermore, the document provides a practical guide on 'Arbeit mit A+W Business' (Working with A+W Business), explaining how to start the application, navigate the user interface, and utilize standard menus and functions. A significant portion is dedicated to listing keyboard shortcuts (hotkeys) for efficient document and order entry. The manual concludes by explaining the available documentation and the context-sensitive online help system."
+description: "DE_AWBusines_Systemueberblick_5.21"
 ---
+
 
 # A+W Überblick
 

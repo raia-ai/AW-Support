@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Box_Management_1_2"
-source: "EN_AWBusiness_Box_Management_1_2.pdf"
-tags: ["Box Management", "Inventory", "Stock Control", "Purchase Order", "Goods Receipt", "Shipping", "A+W Business", "Software Reference", "ID Numbers", "Kistenmanagement"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the A+W Business Box Management module. It details the procedures for receiving and shipping stock boxes, managing purchase orders, and assigning unique ID numbers for inventory tracking."
-long_description: "This document serves as a comprehensive software reference manual for the 'Box Management' (Kistenmanagement) module within the A+W Business software platform. It provides detailed instructions and descriptions for managing the entire lifecycle of stock boxes, from receipt to dispatch. The guide covers functionalities related to stock purchase orders (P.O.), explaining how to process incoming goods against them. Users can learn to perform goods receipt in various ways: as a complete delivery, item by item, or by using specific filters like P.O. number, supplier, or delivery date. A key feature detailed is the system for assigning and managing unique ID numbers for individual boxes, which is crucial for accurate tracking, stock withdrawal (FiFo principle), and inventory management. The manual explains how to configure the settings for these IDs, handle surpluses or shortfalls in deliveries, and update stock levels accordingly. Furthermore, it covers the process of shipping boxes from stock, reserving them for specific orders, and viewing protocol logs of all box-related transactions. This document is essential for users responsible for inventory, purchasing, and logistics, particularly in industries like glass manufacturing where goods are handled in cases or boxes."
+description: "EN_AWBusiness_Box_Management_1_2"
 ---
+
 
 # Software Reference
 

@@ -1,15 +1,7 @@
 ---
-title: "DE CAD Designer Bars HC"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["CAD_Designer_Bars_HC"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "CAD Designer (Bars)                         Help Cards                 A+W CAD Designer                  Help Cards                                                                        CAD Designer (Bars)                      CAD Designer (Bars)                  Die Darstellungen in den Help Cards basieren auf der Auslieferversion A+W CAD Designer 2014. Ein-                  zelne Schritte in den Workflows können je nach Konfiguration abweichen.                   Stammdaten"
-source_file: "DE-CAD_Designer_Bars_HC.pdf"
+description: "DE CAD Designer Bars HC"
 ---
+
 
 
 # DE CAD Designer Bars HC

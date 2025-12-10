@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Fertigung 5.11"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Fertigung_5.11"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Fertigung             E                          deutsch                 A+W Business                                                                                                                 Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Part            Beschrei"
-source_file: "DE_AWBusiness_Fertigung_5.11.pdf"
+description: "DE AWBusiness Fertigung 5.11"
 ---
+
 
 
 # DE AWBusiness Fertigung 5.11

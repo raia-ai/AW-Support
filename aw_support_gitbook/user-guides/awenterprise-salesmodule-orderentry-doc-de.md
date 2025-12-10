@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_2"
-source: "DE_AWEnterprise_Verkauf_4_2.pdf"
-tags: ["A+W Enterprise", "Sales Module", "ERP Software", "Software Reference", "Order Entry", "Product Search", "Transaction Management", "German", "User Guide", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Enterprise Sales (Verkauf) module, version 4.00. It provides detailed descriptions of the search functions and transaction management capabilities within the system, intended for users and technical staff."
-long_description: "This comprehensive software reference manual details the functionalities of the A+W Enterprise Sales (Verkauf) module, specifically version 4.00, dated February 2020. The guide is divided into two main parts: Search Functions (Suchfunktionen) and Transaction Management (Vorgangsverwaltung). The Search Functions section covers various methods for finding articles, products, and objects within the system. It explains search criteria for 'Artikel-Suche' (Article Search) by code, description, type, and more. It also details 'Produktsuche nach Elementen' (Product Search by Components) for complex products like insulated glass (ISO) or laminated glass (VSG), and 'Objekt-Suche' (Object Search) for site- or project-specific data. The Transaction Management section provides an in-depth overview of creating and managing sales documents, including quotes (Angebote), orders (Aufträge), and price-less entries. It describes the user interface, field definitions, process flows, and various options for order entry, customer data, shipping, invoicing, and printing. The document serves as a technical guide for users, explaining UI elements, navigation paths (e.g., Verkauf > Auftragserfassung), keyboard shortcuts, and the meaning of different system statuses and symbols."
+description: "DE_AWEnterprise_Verkauf_4_2"
 ---
+
 
 # Softwarereferenz: Suchfunktionen
 

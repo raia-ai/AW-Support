@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_24"
-source: "D-AWBusiness-HB_24.pdf"
-tags: ["A+W Business", "Production Feedback", "Fileless Feedback", "ERP", "Manufacturing", "Capacity Planning", "Delivery Management", "Tour Planning", "Software Tutorial", "Freight Costs"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for the A+W Business Production (Fertigung) module. It provides detailed instructions on configuring and using features such as fileless production feedback, delivery and tour planning, status messaging, and freight cost calculation."
-long_description: "This comprehensive guide serves as both a tutorial and a software reference for the Production (Fertigung) module within the A+W Business software suite. It is designed for users and administrators responsible for managing manufacturing and logistics processes. The document begins with a tutorial on setting up and verifying 'fileless production feedback,' a modern method for receiving production updates without manual file transfers. It covers the necessary settings in A+W Production, the CommonBase, and the PPS Webservices. Subsequent sections detail the delivery system (Lieferwesen), including how to define and plan delivery tours, manage shipping data, and print tour lists. It also explains the system for status messages (Statusmeldung), covering manual and automatic status updates for orders. Additional functions (Zusatzfunktionen) like managing production orders, calculating freight costs, and handling goods issue for crates are also thoroughly explained. The guide includes step-by-step procedures, annotated screenshots, and practical examples. The latter part of the document acts as a software reference, providing an overview of all dialogs and functions within the production module, with cross-references to detailed descriptions."
+description: "D-AWBusiness-HB_24"
 ---
+
 
 ---
 ## Rückmeldungen aus der Produktion

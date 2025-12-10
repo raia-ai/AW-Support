@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise iQuote Configuration Instructions"
-source: "EN-CONFIG-AW_Enterprise_iQuote_1.pdf"
-tags: ["A+W Enterprise", "iQuote", "Configuration", "Workflow", "Master Data", "ICE Environment", "Multi-language", "Software for Glass", "Technical Manual", "System Setup"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for A+W Enterprise iQuote, a webshop solution for configuring glass product orders. It covers prerequisites, installation, version updates, master data consolidation, and environment variable setup. The guide is intended for technical personnel responsible for deploying and maintaining the A+W iQuote system."
-long_description: "This is a comprehensive internal configuration manual for the A+W Enterprise iQuote software. It outlines the necessary steps to set up and customize the iQuote environment, which functions as a webshop for glass product configuration and ordering. The document details the required infrastructure, including A+W Windows services and the ICE (Internet Communications Engine) environment. It provides a full change history, version update instructions, and a complete list of relevant A+W Enterprise environment variables with their descriptions. A significant portion of the manual is dedicated to Master Data Consolidation, explaining how to configure product groups, exchange groups, geometry, employee logins (including Okta integration), and various article master data settings like BOMs, processings, and procurement times. The guide also covers advanced topics such as LAMI inheritance logic, multi-language support setup across database tables and workflows, and the configuration of A+W iQuote Services and Web front end, including multi-client capabilities. It serves as an essential reference for system administrators and implementation specialists."
+description: "A+W Enterprise iQuote Configuration Instructions"
 ---
+
 
 # A+W Configuration Instructions: A+W Enterprise iQuote
 

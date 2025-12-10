@@ -1,15 +1,7 @@
 ---
-title: "PO Transfer to one PO"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["PO Transfer to one PO"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Create only one PO when using PO Transfer for orders with different delivery dates Changelog  Name                                 Date                                       Change  Henrik J                             03-12-2021                                 Created document.     Settings To make it possible for A+W Business to create one PO for several orders you first need to have the following settings:  Make sure that you have “Order related transfer” disabled. When this is active, one PO"
-source_file: "PO Transfer to one PO.pdf"
+description: "PO Transfer to one PO"
 ---
+
 
 
 # PO Transfer to one PO

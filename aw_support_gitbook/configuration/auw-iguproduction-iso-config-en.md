@@ -1,29 +1,7 @@
 ---
-title: "AUW_Configuration_FlippedIGUProduction"
-source: "AUW_Configuration_FlippedIGUProduction.docx"
-tags: ["A+W", "IGU production", "ISO", "MZO_EXTENDED", "AUSGANGSNR", "Feinplanung", "Configuration", "Machine driver", "XL_JOBRELEASE", "German"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "This document describes how to configure and operate flipped IGU (insulating glass unit) production in A+W, including planning switches, machine driver settings, and database fields. It explains reasons to flip units, how flipping is recognized and displayed at production terminals, and details two approaches—via AUSGANGSNR or the MZO_EXTENDED model—to control unit and lite orientation throughout the ISO production line."
-long_description: |
-  Purpose and scope
-  This document provides a comprehensive configuration and operating guide for producing insulating glass units (IGUs) in a flipped orientation within the A+W environment. It explains when and why flipped production is needed—such as to protect coatings or meet downstream logistics requirements—and how these needs tie into the capabilities of the ISO line (e.g., single‑lite flippers and unit flip stations).
-  
-  Core configuration switches
-  Two global fine‑planning switches govern how lites are placed for an IGU: [FEIN_HARPRACK / ORDERING] and [FEIN_HARPRACK / ORIENTATION]. The document outlines their operational modes and interplay, including commonly used options 6 and 7. Mode 6 allows maximum flexibility by expressing production either via MZO_EXTENDED tables or by setting POOL_TEILE.AUSGANGSNR before fine planning; mode 7 mirrors mode 6 while additionally honoring ORIENTATION.
-  
-  Recognition in production and standard lists
-  When AUSGANGSNR is set or MZO_EXTENDED is used, A+W Production Terminals and standard ISO production lists render the cross‑section and order of assembly appropriately for flipped units. Terminals visualize the unit build (not individual lite flips); lists also mark per‑lite flips where applicable.
-  
-  Machine driver parameters
-  To ensure correct mirroring in the sealer’s machine code, XL_JOBRELEASE.CFG must be configured with MIRRORUNIT and UseCoatingPosition. MIRRORUNIT behavior is described for values N and Y in relation to AUSGANGSNR values (e.g., 1 or 11).
-  
-  AUSGANGSNR value semantics
-  The field POOL_TEILE.AUSGANGSNR must be set (typically via a CU function) at least on the IGU and all cutting parts prior to fine planning; values 0, 1, 10, and 11 control whether the unit build and/or individual lites are flipped.
-  
-  MZO_EXTENDED data model
-  The MZO_EXTENDED approach models how each part enters (MZO_EINSTELLEN) and exits (MZO_ABSTELLEN) each machine, including setup edge, flipping on entry or within the machine, and multi‑part sequencing for units. Constraints and activation via [ALCIM_SETTINGS / MZO_EXTENDED] are described, along with field‑level semantics (e.g., WENDEN_IN, WENDEN_INSIDE, WENDEN_OUT, WENDEN_AFTER) that govern orientation relative to bill of materials and coating side. The document focuses examples on ISO lines, where the model is most commonly applied.
+description: "AUW_Configuration_FlippedIGUProduction"
 ---
+
 
 # Configuration flipped IGU production
 

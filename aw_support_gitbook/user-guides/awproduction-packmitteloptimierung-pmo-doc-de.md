@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_PMO_2.00"
-source: "DE_AWProduction_PMO_2.00.pdf"
-tags: ["A+W Production", "Packmitteloptimierung", "PMO", "Software Manual", "Glass Manufacturing", "Window Manufacturing", "Logistics", "Stacking", "Optimization"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual for the A+W Production \"Packmitteloptimierung\" (Packaging Optimization) module, version 2.00. It details the setup, operation, and reference for optimizing the loading of glass, windows, and doors onto transport racks and crates to save space and streamline production logistics."
-long_description: "This document is the comprehensive German user manual for the A+W Production \"Packmitteloptimierung\" (PMO), or Packaging Optimization, software module, version 2.00. It is intended for end-users and administrators of the A+W software suite for glass, window, and door manufacturing. The manual is divided into a Tutorial, a Software Reference, and an Index. The Tutorial section explains the fundamental concepts of PMO, which aims to eliminate intermediate storage and complex sorting by planning the direct packing of production units onto transport racks. It covers master data setup (RUL and VAL files), parameter configuration for stacking rules, and how to use the PackView visualization tool. The PackView tool allows users to see a 3D representation of the optimized racks, manipulate units, and manage loading sequences. The Software Reference section provides a detailed breakdown of all menus, dialogs, buttons, and functions within the PMO module, including creating and managing packaging groups, setting rules and values, and using the various display and editing modes in PackView."
+description: "DE_AWProduction_PMO_2.00"
 ---
+
 
 # A+W Packmitteloptimierung
 

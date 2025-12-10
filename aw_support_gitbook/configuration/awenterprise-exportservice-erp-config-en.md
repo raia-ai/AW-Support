@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Export_Service"
-source: "EN-CONFIG-AW_Enterprise_Export_Service.pdf"
-tags: ["A+W Enterprise", "Export Service", "Software for Glass", "ERP", "PPS", "Webservice", "Database Interface", "WAEINALCIM", "CANCELORDER", "Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration and technical details for the A+W Enterprise Export Service. It explains the procedure for transferring events and data from A+W Enterprise to other programs' Web services, detailing the use of interface tables, Windows services, and specific interfaces like WAEINALCIM, CANCELORDER, and BESTINFOALCIM."
-long_description: "This is an internal configuration manual for the A+W Enterprise Export Service, a solution designed to bridge the gap between A+W Enterprise and external Web services. A+W Enterprise cannot directly address Web services, so this service acts as an intermediary. It works by polling a dedicated interface table (`exportinfo`) in the database, which is populated by A+W Enterprise whenever a transfer event occurs. The Windows service then reads records from this table, processes them, and passes the relevant data to the appropriate target Web service (e.g., a PPS or ERP Webservice). The document outlines the general procedure, logging mechanisms, and details of the transfer tables (`exportinfo` and `exportinfook`). It provides in-depth descriptions of various implemented interfaces, including those for goods received (WAEINALCIM), registration point creation (ERFSTELLENALCIM), purchase order information (BESTINFOALCIM), order cancellation (CANCELORDER), and production release (PRODRELEASE). It also covers multi-site capabilities, cleanup logic, and a troubleshooting guide for common issues like service hangs and database lock problems."
+description: "EN-CONFIG-AW_Enterprise_Export_Service"
 ---
+
 
 # A+W Configuration
 # A+W Enterprise Export Service

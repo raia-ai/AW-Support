@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusines Systemueberblick 5.21"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusines_Systemueberblick_5.21"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Überblick            A                          Deutsch                 A+W Business                                                                                                                   Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Version/Datum Beschreib"
-source_file: "DE_AWBusines_Systemueberblick_5.21.pdf"
+description: "DE AWBusines Systemueberblick 5.21"
 ---
+
 
 
 # DE AWBusines Systemueberblick 5.21

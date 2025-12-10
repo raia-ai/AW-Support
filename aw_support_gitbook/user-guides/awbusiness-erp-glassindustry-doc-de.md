@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_1"
-source: "D-AWBusiness-HB_1.pdf"
-tags: ["A+W Business", "ERP", "Glass Industry", "Window Manufacturing", "Door Manufacturing", "Software Manual", "Stammdaten", "Verkauf", "Einkauf", "Fertigung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the user manual for A+W Business, an ERP software solution designed for the glass, windows, and doors industry. It provides a comprehensive overview of the system's modules, features, and functionalities, including master data management, sales, purchasing, and production."
-long_description: "This is the 'Handbuch' (manual) for A+W Business, a specialized ERP system by A+W Software GmbH. The manual is intended for end-users and covers the full scope of the software. It begins with an overview (Überblick) of the system's architecture, key features, and modular structure. The document details the core functionalities such as master data management (Stammdaten), sales processes (Verkauf), purchasing (Einkauf), production (Fertigung), inventory management (Lagerwirtschaft), capacity planning (Kapazitätsplanung), and logistics. It also includes tutorials, software references, and editorial notes like revision history and contact information. The manual explains how A+W Business integrates various business processes, from order entry and production planning to delivery and invoicing, tailored specifically for the flat glass industry. It also touches upon advanced modules like the Production Manager (A+W Business Pro) and Logistics Optimizer. The document is structured with clear sections, tables of contents, and diagrams to guide the user through the software's extensive capabilities. The 'Entwurf' (Draft) watermark indicates it may be a preliminary version."
+description: "D-AWBusiness-HB_1"
 ---
+
 
 # A+W Handbuch - A+W Business
 

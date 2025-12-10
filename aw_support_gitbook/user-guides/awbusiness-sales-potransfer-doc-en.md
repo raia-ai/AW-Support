@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_7-3"
-source: "EN_AWBusiness_Sales_4_7-3.pdf"
-tags: ["A+W Business", "Sales", "P.O. Transfer", "Order Management", "Software Reference", "Financial Accounting", "Price Comparison", "Further Settings", "BOM Overview", "Recalculate"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Sales software, focusing on the P.O. (Purchase Order) Transfer functionality. It details processes for transferring orders to purchasing, managing suppliers, comparing prices, and configuring various settings related to P.O. creation and financial accounting transfers."
-long_description: "This document serves as a detailed software reference manual for the A+W Business Sales application, specifically covering modules related to order processing and purchasing. It begins with the 'P.O. Transfer' feature, explaining how to manage settings for costs, size surcharges, and data adoption from orders to purchase orders. The guide walks users through the 'P.O. Numbers' and 'Order Pool' tabs, detailing different transfer modes like 'Fill batch,' 'Direct order,' and 'Direct inquiry.' It provides instructions on how to select and manage documents, change suppliers and delivery dates, and use the 'Price Comparison' tool to select the most economical supplier. The manual also covers 'Further Settings' for customizing P.O. text, file attachments, and sorting criteria. Additionally, it describes related functionalities such as viewing a 'BOM (Bill of Materials) Overview,' recalculating document totals, managing down payments, bank receipts, and transferring data to financial accounting (FinAcc) systems. The guide includes descriptions of various dialogs, menus, and fields within the software, making it an essential resource for users responsible for procurement and order fulfillment."
+description: "EN_AWBusiness_Sales_4_7-3"
 ---
+
 
 # Software Reference
 

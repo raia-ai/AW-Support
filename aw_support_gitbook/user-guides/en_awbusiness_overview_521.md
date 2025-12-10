@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Overview 5.21"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Overview_5.21"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Overview            A                          English                A+W Business                                                                                                            Introduction                                              Introduction                                          This part of the documentation contains editorial notes.                                            Revision Overview                                          Version/Date    Description"
-source_file: "EN_AWBusiness_Overview_5.21.pdf"
+description: "EN AWBusiness Overview 5.21"
 ---
+
 
 
 # EN AWBusiness Overview 5.21

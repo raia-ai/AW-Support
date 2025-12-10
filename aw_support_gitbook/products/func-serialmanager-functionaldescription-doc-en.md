@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Serial_Manager"
-source: "EN-FUNC-AW_Serial_Manager.pdf"
-tags: ["A+W", "Serial Manager", "Software", "Functional Description", "Glass Manufacturing", "FDC", "Barcode Manager", "Production Terminal", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Serial Manager, a software module for A+W Production. It details the module's capability to execute serial bookings using quantity Factory Data Collection (FDC), where a single barcode is assigned per BOM element quantity, rather than per individual lite. This document outlines its features, requirements, and limitations."
-long_description: "This document provides a detailed functional description of the A+W Serial Manager module (220017) for A+W Production software, version 5.1 and later. The module enables serial bookings through the A+W Barcode Manager, specifically focusing on the use of 'quantity FDC' (Factory Data Collection). Unlike traditional FDC where each individual lite has a unique barcode, quantity FDC assigns a single barcode to a BOM element with a large quantity. This approach significantly reduces data volume in the database, improving performance during initialization and bookings. The document specifies the system requirements, such as the necessity of the A+W Production Terminal Order for quantity entry. It also lists the supported functions, including integration with the A+W Realtime Optimizer for standard cutting. Finally, it outlines key limitations, such as the lack of support for scanners (A+W Barcode Manager), the inability to track individual lites, and restricted reporting capabilities when combining with individual lite FDC data. Legal notices, including trademarks, copyrights, and a disclaimer of liability, are also included."
+description: "EN-FUNC-AW_Serial_Manager"
 ---
+
 
 # A+W Serial Manager - Functional Description
 

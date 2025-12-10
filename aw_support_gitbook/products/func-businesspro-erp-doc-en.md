@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Business_Pro"
-source: "EN-FUNC-AW_Business_Pro.pdf"
-tags: ["A+W", "Business Pro", "ERP", "Glass Industry", "Software", "Functional Description", "Production Planning", "Optimization", "Machine Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of A+W Business Pro 6, an integrated ERP/PPS solution for small and medium-sized businesses in the glass processing and production planning sector. It outlines supported and unsupported features across organization, optimization, machine control, and integration with other A+W modules."
-long_description: "This document provides a detailed functional description of A+W Business Pro 6, a specialized ERP and Production Planning System (PPS) designed for the glass industry. It targets small and medium-sized companies, offering a comprehensive solution for managing quotations, orders, production planning, and other business areas like warehouse and dispatch. The document outlines the software's capabilities, particularly focusing on the production area (master data and production manager). It details supported features and limitations in key areas such as organizational setup (lot types, rack systems), optimization modes (waste and sequence optimization), and machine control. A significant portion is dedicated to explaining how A+W Business Pro 6 couples with other A+W products like the Realtime Optimizer, Business Capacity Planning, and Business BDE (barcoding), specifying the functionalities that are supported and those that are not. The document serves as a technical specification to clarify the software's scope and distinguish it from other A+W solutions and market alternatives."
+description: "EN-FUNC-AW_Business_Pro"
 ---
+
 
 # A+W Functional Description: A+W Business Pro 6
 

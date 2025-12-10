@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Detailed_Scheduling_3.00"
-source: "EN_AWProduction_Detailed_Scheduling_3.00.pdf"
-tags: ["A+W Production", "Detailed Scheduling", "Glass Manufacturing", "Window Production", "Door Production", "ERP", "MES", "Optimization", "Production Planning", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for the Detailed Scheduling module of the A+W Production software. It provides comprehensive guidance for end-users on configuring and utilizing the software for efficient production planning in the glass, window, and door manufacturing industries."
-long_description: "This manual serves as a comprehensive guide to the A+W Production 'Detailed Scheduling' module, version 3.00. It is intended for end-users, system administrators, and trainees involved in the production planning processes for glass, windows, and doors. The document is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section offers a hands-on approach to learning the core concepts, including Grouping and Sorting, Racks and Stacking Modes, various Optimization Modes, and the setup of Organizations. It explains how to balance production sequence, yield, and flexibility to meet specific manufacturing requirements. The Software Reference section provides detailed descriptions of all dialogs, fields, and settings within the Detailed Scheduling module. It covers master data configuration for organizations, racks, groupings, lot types, and processing steps. It also details the functionality for handling special elements like filler orders, residue plates, and rejects. This guide is essential for understanding how to optimize production batches, manage rack allocation, and configure the system for maximum efficiency and minimal waste."
+description: "EN_AWProduction_Detailed_Scheduling_3.00"
 ---
+
 
 # A+W Detailed Scheduling
 

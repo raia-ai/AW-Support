@@ -1,21 +1,7 @@
 ---
-title: "A+W Business Software - Production, Delivery, and Rack Management"
-source: "D-HB-AWBusiness_26.pdf"
-tags: ["A+W Business", "ERP", "Production Planning", "Delivery Management", "Shipment Control", "Tour List", "Rack Management", "Customs Administration", "Picking", "Marshalling"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Fertigung (Manufacturing) module, detailing functionalities related to production data, delivery management (Lieferwesen), tour planning (Tourenliste), status messaging (Statusmeldung), picking/marshalling (Kommissionierung), customs administration (Zollverwaltung), and comprehensive rack management (Gestellverwaltung). It covers dialogs, menus, and procedures for booking production data, planning shipments, managing vehicle loads, updating order statuses, handling customs exports, and tracking the complete lifecycle of transport racks, including issue, return, and dunning."
-long_description: "This extensive software reference guide provides an in-depth look at several key logistical and production-related modules within the A+W Business ERP system for manufacturing. The document is structured as a user manual, guiding through various functionalities step-by-step. Key areas covered include:
-*   **Produktionsdaten (Production Data):** Explains how to book production data, which involves deducting raw materials from inventory and adding finished goods.
-*   **Lieferwesen (Delivery Management):** Covers the entire delivery process, starting with the `Tourenliste` (Tour List) for planning shipments based on criteria like date, tour, and status. It details how to modify shipping data, generate KAPS interface files, and print tour lists.
-*   **Statusmeldung (Status Messaging):** Describes the process of manually updating order statuses and assigning packaging materials (like racks) using barcode scanners or manual input.
-*   **Kommissionierung (Picking/Marshalling):** Focuses on planning the loading of the company's own vehicle fleet, assigning orders to trucks, drivers, and tours.
-*   **Gestellverwaltung (Rack Management):** A comprehensive section on managing transport racks. It details how to create rack types, track individual racks, book them out to customers (Ausgang) and back in (Eingang), view their history, and manage reminders/dunning (`Mahnung`) for overdue racks. It also covers assigning specific order items to racks (`Gestellbelegung`).
-*   **Terminübersicht (Schedule Overview):** Details tools for viewing production schedules, required materials, and capacity utilization based on various filters like date, product, and production area.
-*   **Zollverwaltung (Customs Administration):** Explains how to create customs lists and export data for customs programs, essential for international shipping.
-*   **Versandsteuerung (Shipment Control):** Focuses on organizing shipments handled by third-party forwarders (Spedition), including creating shipping orders and adding surcharges for transport and packaging.
-The manual includes numerous screenshots of the software's user interface, detailed descriptions of all fields and options, and procedural guidance, making it an essential resource for operators and administrators responsible for logistics and production fulfillment within the A+W Business environment."
+description: "A+W Business Software - Production, Delivery, and Rack Management"
 ---
+
 
 # Produktionsdaten
 

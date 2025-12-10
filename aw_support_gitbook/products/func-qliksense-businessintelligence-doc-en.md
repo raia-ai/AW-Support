@@ -1,12 +1,7 @@
 ---
-title: "A+W Analytics for A+W Clarity - Functional Description"
-source: "EN-FUNC-AW_Analytics.pdf"
-tags: ["A+W Analytics", "QLIK Sense", "Business Intelligence", "Software for Glass", "Functional Description", "Data Visualization", "A+W Clarity", "ERP", "A+W Business", "A+W Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of A+W Analytics for A+W Clarity, a business intelligence (BI) solution powered by QLIK Sense®. It outlines the software's capabilities, requirements, and data visualization features for the glass industry."
-long_description: "This functional description details the 'A+W Analytics for A+W Clarity' module, a web-based, self-service business intelligence (BI) tool developed by A+W Software GmbH. Powered by QLIK Sense®, the solution enables the visualization of data from A+W Clarity products (A+W Production and A+W Business) across multiple locations. The document covers the necessary requirements for implementation, including a QLIK Sense® server and appropriate database licenses. It explains the 'data loading architecture,' which processes data from live and archive databases into compressed QVD files for analysis. A significant portion of the document is dedicated to describing the standard visualizations provided, such as sales statistics, stock forecasts, work-in-process tracking, breakage analysis, production statistics, workload planning, waste statistics, and delivery reliability. It also discusses restrictions, noting its current compatibility with A+W Business and A+W Production, and outlines the process for custom adjustments and extensions."
+description: "A+W Analytics for A+W Clarity - Functional Description"
 ---
+
 
 # A+W Analytics for A+W Clarity powered by QLIK Sense®
 ---

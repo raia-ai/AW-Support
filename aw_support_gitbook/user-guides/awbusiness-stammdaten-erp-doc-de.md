@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_10"
-source: "D-AWBusiness-HB_10.pdf"
-tags: ["A+W Business", "Stammdaten", "ERP", "Software-Referenz", "Kundenverwaltung", "Lieferantenverwaltung", "Auftragsverwaltung", "Fertigungssteuerung", "Glasindustrie"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business, focusing on master data management (`Stammdaten`). It provides detailed instructions on configuring and managing data for customers (`Kunde`), suppliers (`Lieferant`), orders (`Auftrag`), and production (`Fertigung`). It covers topics like article management, delivery times, object billing, rounding rules, and production settings."
-long_description: "This comprehensive technical manual serves as a software reference for the A+W Business ERP system, specifically detailing the setup and maintenance of master data (`Stammdaten`). The guide is structured into several key areas, providing users with a step-by-step approach to configuring the system's core data entities. The 'Kunde' (Customer) section explains how to manage customer-specific articles, delivery durations, and object-based billing. The 'Lieferant' (Supplier) section mirrors this structure, covering supplier data, product catalogs, and delivery terms. The 'Auftrag' (Order) section details the configuration of rounding rules, status management, document types, and number ranges essential for order processing. The 'Fertigung' (Production) section outlines the setup for production-related data, including optimization parameters, production feedback stations, cutting tables, and work processes. The document is highly structured, using screenshots, field descriptions, and practical examples to illustrate the software's functionality. It is intended for system administrators and power users responsible for the initial setup and ongoing management of the A+W Business system, particularly within the glass and window manufacturing industry."
+description: "D-AWBusiness-HB_10"
 ---
+
 
 # A+W Business Stammdaten
 

@@ -1,16 +1,7 @@
 ---
-title: AUW_Configuration_HEGLA_Remaster
-source: AUW_Configuration_HEGLA_Remaster.docx
-tags:
-- HEGLA
-- Configuration
-- Remaster
-- Glass
-- Setup
-version: '1.0'
-last_updated: '2025-10-03'
-short_description: 'Configuration HEGLA ReMaster History | Date | Author | Modification/remarks
-  | Version | | --- | --- | --- | --- | | 08.06.2012 | Eike Luh | Issue first release
+description: "AUW_Configuration_HEGLA_Remaster"
+---
+ | --- | --- | --- | | 08.06.2012 | Eike Luh | Issue first release
   | 1.0 | | 26.02.2019 | Peter Kühn | Add information about TCP IT communication |
   1.1 | Content ## Introduction The Hegla Remaster system has become one of the most
   efficient systems out there in the market to be able to reduce glass yields in very

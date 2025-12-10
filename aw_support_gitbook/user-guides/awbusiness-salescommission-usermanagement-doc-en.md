@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_4-4"
-source: "EN_AWBusiness_Master_Data_9_4-4.pdf"
-tags: ["A+W Business", "Sales Commission", "User Management", "Employee Rights", "Software Tutorial", "Master Data", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial segment from the A+W Business Master Data manual, covering the setup and management of sales commissions and the administration of employee data, user groups, and access rights within the system."
-long_description: "This document is a detailed tutorial for the A+W Business software, focusing on two key administrative areas: Sales Commission and Management of Employees. The first section on Sales Commission explains how to configure commission rates for salespersons based on various criteria like main product groups (MPG), price lists, turnover, or discount percentages. It details the process of creating standard and graduated commission rates, including examples and step-by-step instructions for entering, modifying, and deleting commission rules in the 'Sales commission' dialog. The section also covers commission splitting between multiple sales representatives and the calculation logic. The second major section, Management of Employees, provides a guide to entering and managing employee data, which is essential for system access and security. It discusses the creation of user profiles, assignment to user groups (e.g., Manager, Supervisor, User), and the detailed allocation of access rights. This includes defining permissions to view, add, edit, or delete data across different modules of the software. The tutorial provides practical examples and instructions for creating new users, setting passwords, locking user accounts, and editing user rights."
+description: "EN_AWBusiness_Master_Data_9_4-4"
 ---
+
 
 # Additional Information on the Company
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_7-2"
-source: "EN_AWBusiness_Master_Data_9_7-2.pdf"
-tags: ["A+W Business Master Data", "Software Reference", "Product Management", "Technical Parameters", "Stock Management", "Product Codes", "IG Structure", "Cost Calculation", "Product Variants"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Master Data system, focusing on product management. It provides detailed instructions on configuring technical parameters, product codes, stock sizes, costs, and variants for glass products, including insulated glass (IG) units."
-long_description: "This is a comprehensive software reference manual for the A+W Business Master Data application, specifically covering the Product Management module. The guide details the processes and dialogs for defining and managing product data. Key sections include 'Technical Parameters,' which explains how to input values like Ug-value, light transmission, and tolerances for glass products. 'Product Code Management' describes setting up different supply types for internal orders across various company clients or order areas. The 'Stock Sizes' section covers the entry of stock dimensions for pricing, distinct from inventory management. 'Cost Calculation' provides a method for defining primary costs for insulated glass (IG) components like spacers and sealants. Other important features detailed are 'Product Variants' for managing different product options (e.g., colors, finishes), 'Spacer Restrictions' for defining manufacturing constraints, 'IG Structure' for defining the composition of insulated glass units, and tools for copying parameters and managing surcharges. The document serves as a technical guide for system administrators and power users responsible for maintaining accurate and complete product master data within the A+W Business ecosystem."
+description: "EN_AWBusiness_Master_Data_9_7-2"
 ---
+
 
 # Product Management
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_4"
-source: "EN-CONFIG-AW_Enterprise_4.pdf"
-tags: ["A+W Enterprise", "Configuration", "Master Data", "BOM", "Product Exchange", "Stock Management", "Order Pool", "Dispatch", "PO Management", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical configuration guide for A+W Enterprise software. This document covers advanced settings for edge stripping, masking, master data management, product exchange, stock management, and order processing."
-long_description: "This document is a comprehensive technical manual for configuring the A+W Enterprise system. It details various modules and functionalities, including internal P.O. transfers, masking processes for coated sheets, and master data setup for articles, processing, and materials. The guide provides step-by-step instructions for setting up bill of materials (BOM), handling stepped IG units, and managing product exchanges for IG, LAMI, and TG products. It also covers the configuration of stock management, including item master data, inventory evaluation (FIFO/LIFO), and triggering purchase order (PO) proposals. Additionally, the document explains settings for dispatch, order pool management, and system environment variables that control various automated behaviors within the software. It is intended for system administrators and technical writers responsible for maintaining and documenting the A+W Enterprise configuration."
+description: "EN-CONFIG-AW_Enterprise_4"
 ---
+
 
 If the entry help for the edge stripping is configured, then there is an alternative textsing for this processing analogous to the texting for the processing type masking.
 

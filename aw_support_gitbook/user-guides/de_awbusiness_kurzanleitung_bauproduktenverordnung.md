@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Kurzanleitung Bauproduktenverordnung"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Kurzanleitung_Bauproduktenverordnung"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Umsetzung der Bauproduktenverordnung in A+W Business                                     deutsch     Editorial     Anmerkungen zu diesem Dokument     Diese Veröffentlichung ist ausschließlich für Endanwender von A+W Business gedacht. Diese Dokumentation und die da-     rin beschriebene Software werden nur in Lizenz vergeben und dürfen nur gemäß dieser Lizenz verwendet und kopiert     werden. Der Inhalt der Dokumentation dient nur der Information und kann jederzeit ohne Vorankündigung geändert"
-source_file: "DE_AWBusiness_Kurzanleitung_Bauproduktenverordnung.pdf"
+description: "DE AWBusiness Kurzanleitung Bauproduktenverordnung"
 ---
+
 
 
 # DE AWBusiness Kurzanleitung Bauproduktenverordnung

@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Clarity_Experience"
-source: "EN-INST-AW_Clarity_Experience.pdf"
-tags: ["A+W Clarity Experience", "Installation Instructions", "Software Installation", "Glass and Windows", "A+W Enterprise", "Version 6", "Linux/AIX", "Dependencies", "Setup"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for A+W Clarity Experience, a software for the glass and windows industry. It outlines the process for a new installation of version 6, detailing requirements, dependencies, and procedures for both the main suite and its add-ins."
-long_description: "This document serves as the official installation guide for 'A+W Clarity Experience,' a software solution designed for the glass and windows industry. It is intended for planners and system administrators responsible for deploying the software. The guide begins with a change history log and an introductory overview of the installation steps. The core of the document focuses on the new installation of version 6, assuming no prior version is present. It details the necessary components, such as A+W Infrastructure 6 Middleware and Collector Service, and optional services like A+W CIM 6 for production data integration. A significant section is dedicated to system dependencies, including specific instructions for Linux/AIX environments, listing critical files and scripts required for the back-end services to function correctly. The guide concludes with a step-by-step procedure for using the A+W SetupLauncher, notes on configuration settings, expected results post-installation, and instructions for uninstalling the software."
+description: "EN-INST-AW_Clarity_Experience"
 ---
+
 
 # Installation Instructions: A+W Clarity Experience
 

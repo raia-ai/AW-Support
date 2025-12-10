@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_2-4"
-source: "EN_AWBusiness_Master_Data_9_2-4.pdf"
-tags: ["A+W Business", "Master Data", "BOM", "Product Definition", "Shapes", "Grills", "Stock Management", "ERP", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide and tutorial for managing product master data within the A+W Business software. It covers defining shapes, creating and managing Bills of Material (BOM), setting up new products, and configuring stock sizes and variants for glass manufacturing."
-long_description: "This document is an excerpt from the 'A+W Business Master Data' manual, specifically focusing on Tutorial 1: Product Data. It provides detailed, step-by-step instructions for defining and managing various product attributes in the A+W Business ERP system, tailored for the glass industry. The guide covers the creation of non-rectangular shapes, the structure and concept of a Bill of Material (BOM), including how to pass details between BOM elements and differentiate between price-relevant and production-relevant components. It walks the user through the complete product definition process, from entering a new product number to configuring production, pricing, and stock parameters. Further sections detail how to edit BOM structures, add processing steps (like steps or edgework), define grill patterns (both common and uneven), and handle stock sizes and variants. The document is rich with UI screenshots and diagrams to illustrate the concepts and procedures."
+description: "EN_AWBusiness_Master_Data_9_2-4"
 ---
+
 
 # Product data - Tutorial 1
 

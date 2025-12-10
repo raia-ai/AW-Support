@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_10-4"
-source: "EN_AWBusiness_Master_Data_9_10-4.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "ERP", "Production Management", "Capacity Planning", "Database Configuration", "Print Settings", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference guide for the A+W Business Master Data module. It covers company-level configurations for printing, database transactions, cost calculations, production settings, capacity planning, and shipment management."
-long_description: "This document serves as a comprehensive software reference manual for configuring the Company Master Data within the A+W Business software suite. It provides step-by-step instructions and explanations for various settings across different functional areas. The guide begins with configurations for construction printing (AWD20.INI) and database transactions for SQL Server. It then delves into the 'Calculation' tab, detailing how to set up surcharges for cost calculation, material overheads, and capacity areas. The 'Print' tab section explains settings for monthly invoices, print sketches, BOM (Bill of Materials) handling, print server connections, and integration with DMS (Document Management Systems). The 'Production' tab is extensively covered, with settings for transferring orders and quotes to production, profit center invoicing, automatic SN file creation, and integration with A+W Production via webservices. It also details configurations for the Production Manager, capacity planning feedback, and complaint order creation. The 'Shipment' tab focuses on rack management, number ranges, and route optimization with A+W Logistics Optimizer. The 'Capacity Planning' section explains how to configure automatic scheduling, error reporting, production scheduling modes, and feedback settings from A+W Production Capacity Planner. Finally, the 'Miscellaneous' tab covers settings for importing product data from suppliers using BMECat and linking contacts with MS Outlook. The document is structured with screenshots and detailed field descriptions, making it an essential resource for system administrators and power users."
+description: "EN_AWBusiness_Master_Data_9_10-4"
 ---
+
 
 ---
 ## Company

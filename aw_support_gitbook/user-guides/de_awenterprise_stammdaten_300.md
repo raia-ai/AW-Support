@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Stammdaten 3.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Stammdaten_3.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Stammdaten              B                             deutsch                  A+W Enterprise                                                                                                           Vorspann                                          Vorspann                                      In diesem Teil der Dokumentation finden Sie editorische Notizen.                                        Revisionsübersicht                                      Part                     Beschreibung"
-source_file: "DE_AWEnterprise_Stammdaten_3.00.pdf"
+description: "DE AWEnterprise Stammdaten 3.00"
 ---
+
 
 
 # DE AWEnterprise Stammdaten 3.00

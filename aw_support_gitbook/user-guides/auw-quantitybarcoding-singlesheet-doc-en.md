@@ -1,18 +1,7 @@
 ---
-title: "AUW_HighQuantityBarcoding"
-source: "AUW_HighQuantityBarcoding.docx"
-tags: ["quantity-barcoding", "single-sheet", "awport", "scanners", "tooltv", "alcim", "awinfo", "restriction-check", "breakage", "database"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Comprehensive guide to implementing and operating Quantity Barcoding in A+W Production (ALCIM). It contrasts quantity barcoding with single-sheet barcoding, defines all quantity-related terms, details database structures and record behavior, and explains activation parameters across Barcoding, Detailed Scheduling, and XOPTON. The document also covers booking flows for cutting, processing, and packing, restriction-check configuration at registration points, breakage handling, reporting and analysis in ToolTV/ALCIM, scanner and AWPort options, and outlines limitations and future improvements (e.g., reliable locations and AWInfo)."
-long_description: "This document specifies the functional, database, and operational framework for Quantity Barcoding within A+W Production (ALCIM), intended for high-volume manufacturing scenarios. It begins with a conceptual comparison to single-sheet barcoding and explains why, in quantity barcoding, identical BOM elements share one barcode and all bookings are quantity-based. The approach dramatically reduces database volume and improves performance, but it limits location granularity. The paper therefore defines the scope and limits (amount of data, locations, overbooking, and production progress metrics) and introduces input options including ToolTV variants and scanner-based workflows with AWPort (A+W Barcode Manager) configuration.
-
-Key terminology is standardized: commercial quantity, surplus, technical/target quantity, excess, overbooked, available, breakage, produced, and accepted quantities—supplemented by a tabular overview with database field references. The database section contrasts how records are modeled in single-sheet versus quantity barcoding across awbar_teile, awbar_sollbuchung, awbar_istbuchung, and awbar_bearbeit. It explains the role of original records (group barcodes), derived S-records, and the smenge semantics per table, clarifying how partial bookings are represented and why location precision is constrained.
-
-Activation and configuration cover Barcoding Options (thresholds and SP behavior), Detailed Scheduling parameters (FEIN_SPECIALS), and XOPTON flags, including settings that must be changed directly in the database. The booking logic and restriction checks are specified per terminal type: cutting (permitted overbooking vs. technical item quantity), intermediate processing (bounded by available quantity), and packing (controlled overbooking). Breakage reporting is addressed for both fixed and flexible process sequences, with rules for resetting previous processing steps and implications for remakes and statistics.
-
-Restriction-check configuration is centralized at registration points in ALCIM master data, with switches for restriction mode, overbooking percentages, and visibility of produced elements—plus example settings and behavior during updates. The analysis section outlines views in ToolTV and ALCIM, capacity planning effects, and report generation for production, breakage, machine utilization, labels, production status, and packing lists, along with known borderlines of fields that are meaningful only in single-sheet contexts. The closing section identifies future enhancements, notably reliable source-based locations and adapting AWInfo to quantity-based analytics."
+description: "AUW_HighQuantityBarcoding"
 ---
+
 
 # High Quantity Barcoding – A+W Production 5.1
 

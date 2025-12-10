@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_2-3"
-source: "EN_AWBusiness_Production_2-3.pdf"
-tags: ["A+W Business", "Production", "Issue of Boxes", "Inventory Management", "ERP", "Software Tutorial", "Rack Management", "Production Preview"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial and software reference guide for the A+W Business Production module. It details procedures for booking the issue of boxes, managing inventory, and using features like rack management and production preview."
-long_description: "This document serves as a comprehensive guide for the Production module within the A+W Business software suite. It is divided into two main parts: a 'Tutorial' and a 'Software Reference.' The tutorial section provides step-by-step instructions on 'How to book the issue of boxes,' starting from navigating the menu, loading customer orders, scanning barcodes, allocating boxes with specific IDs, and verifying reservations in the booking journal. It explains the concept of virtual items and how they are updated as physical boxes are allocated. The second part, 'Software Reference,' offers a detailed overview of the Production module's functionalities, including automatic and manual order transfers, configuration settings for production interfaces (like OrderXML and ERP Webservices), and various transfer modes. It also covers related features like Rack Management for tracking company-owned and third-party racks, and Production Preview for analyzing order summaries by delivery date and product type. The document is intended for users who manage production workflows, inventory, and logistics within the A+W Business environment."
+description: "EN_AWBusiness_Production_2-3"
 ---
+
 
 # Tutorial: Additional Features
 

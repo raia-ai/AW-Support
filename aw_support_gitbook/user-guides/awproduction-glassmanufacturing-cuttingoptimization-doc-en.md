@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Realtime_Optimizer_3.30"
-source: "EN_AWProduction_Realtime_Optimizer_3.30.pdf"
-tags: ["A+W Realtime Optimizer", "glass manufacturing", "production software", "cutting optimization", "software manual", "A+W Production", "batch processing", "DynOpt Compact", "technical documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Realtime Optimizer software, version 3.30. It provides a detailed guide on optimizing glass cutting processes in a production environment. The manual covers tutorials on basic concepts, data import, batch processing, and software reference for all menus and dialogs."
-long_description: "This is the official user manual for A+W Realtime Optimizer, a software solution designed for the glass, windows, and doors industry. The document serves as a complete guide for end-users, detailing how to leverage the software to optimize the use of stockplates, reduce material waste, and speed up the work process by controlling cutting tables directly. The manual is divided into three main parts: an Introduction, a Tutorial, and a Software Reference. The Introduction provides an overview of the document, revision history, and copyright information. The Tutorial section explains the fundamental ideas behind the optimizer, its key features, and provides step-by-step training sessions on using the software. This includes importing data, working in conjunction with A+W Production, using it as a stand-alone system, handling inputs like rejects and rush orders, creating and managing optimizations, and controlling the cutting process. It also details the interplay with other A+W modules like Residue Dispenser, A+W PlanEditor, and A+W DynOpt Compact. The Software Reference section offers an exhaustive description of every dialog, menu, field, and function available in the software, acting as a detailed encyclopedia for users. It covers all aspects from inputting data to managing complex cutting sequences and settings. The manual concludes with a detailed index for quick reference."
+description: "EN_AWProduction_Realtime_Optimizer_3.30"
 ---
+
 
 # A+W Realtime Optimizer
 

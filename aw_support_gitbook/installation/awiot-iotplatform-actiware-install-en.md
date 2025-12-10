@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_IOT"
-source: "EN-INST-AW_IOT.pdf"
-tags: ["A+W", "IOT Platform", "Actiware", "Installation", "Configuration", "Software", "Gateway Service", "Technical Documentation", "Glass", "Windows"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An installation guide for the A+W IOT Platform (Base Actiware). This document details the process for a new installation, including system requirements, procedural steps, and post-installation configuration of the Gateway Service."
-long_description: "This technical document provides comprehensive installation instructions for the A+W IOT Platform, which is based on Actiware. It is intended for system planners and administrators responsible for deploying the software. The guide begins with a change history, followed by a detailed table of contents. The main sections cover the new installation process, starting with an overview, time requirements based on a reference system, and specific prerequisites for network, software, and database. The core of the document walks the user through the installation procedure using the A+W SetupLauncher, specifying the need to install the 'A+W Corporate Gateway Service'. It includes screenshots to guide the user through the SetupLauncher interface and the subsequent web-based configuration. After installation, the instructions detail how to access the infrastructure configuration page, set up the database tables, and configure the Gateway Service parameters, such as server name, port, and login credentials. The document also touches upon incompatibilities, directory structure, and post-installation results, concluding with sections for tips, FAQs, known errors, and uninstalling."
+description: "EN-INST-AW_IOT"
 ---
+
 
 # Installation Instructions A+W IOT Platform (Base Actiware)
 

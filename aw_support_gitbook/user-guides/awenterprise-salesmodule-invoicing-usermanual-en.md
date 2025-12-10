@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_8"
-source: "EN-UM-AW_Enterprise-Sales_4_8.pdf"
-tags: ["A+W Enterprise Sales", "Software Reference", "Sales Module", "Invoicing", "Order Management", "Credit Notes", "Document Research", "Form Printing", "Order Status", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference manual for the A+W Enterprise Sales module, version 4.00. This guide provides detailed descriptions of dialogs, fields, and functions related to managing sales documents, including invoices, credit notes, forms, order status tracking, and document research."
-long_description: "This document is a comprehensive software reference guide for the A+W Enterprise Sales module, version 4.00, dated March 2020. It is intended for users and administrators of the A+W Enterprise software. The manual meticulously details the functionalities within the Sales module, breaking down complex processes into understandable sections. Key areas covered include: **Invoices**, with instructions for creating partial, final, manual, and automatic invoices; **Credit Notes**, explaining how to enter and book credits; **Forms**, detailing procedures for direct printing, form printing, and sending documents via email; **Order Status**, offering an in-depth look at the Order Information dialog with its numerous tabs for tracking every aspect of an order from items and purchasing to production, dispatch, and barcoding; and **Document Research**, which explains how to use the powerful search tool to find documents based on a wide range of criteria. Each section provides navigation paths, screenshots of the user interface, and detailed descriptions of every field, tab, and function, including technical information like database field names. This guide serves as an essential resource for day-to-day operations and for understanding the full capabilities of the A+W Enterprise Sales system."
+description: "EN-UM-AW_Enterprise-Sales_4_8"
 ---
+
 
 ---
 ## Invoices

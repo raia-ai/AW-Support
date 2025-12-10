@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Serial Manager"
-category: "functional_descriptions"
-product: "A+W Serial Manager"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Serial Manager"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Serial Manager                                   english 1. Notes on this Document This documentation and the software it describes is only distributed with a license and may only be used and copied according to this license. The content of the documentation serves only as information and can be changed without prior notice at any time. The greatest care was used in compiling the texts and figures. However it is not possible to exclude errors completely. A+W S"
-source_file: "EN-FUNC-A+W Serial Manager.pdf"
+description: "EN FUNC A+W Serial Manager"
 ---
+
 
 
 # EN FUNC A+W Serial Manager

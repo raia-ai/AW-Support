@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Windows_CE_Scanner_Client"
-source: "EN-FUNC-AW_Windows_CE_Scanner_Client.pdf"
-tags: ["A+W Software", "Windows CE", "Scanner Client", "CIM Barcoding", "Functional Description", "Software for Glass", "Production Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Windows CE Scanner Client, a web-based scanner application for production bookings. It details the software's purpose, requirements, functions, and limitations."
-long_description: "This document provides a comprehensive functional overview of the A+W Windows CE Scanner Client, identified as module number 872505. The client is a web-based application designed for use with A+W Production v6 and later, facilitating production bookings via handheld scanners. The description outlines the system's advantages, such as hardware independence (requiring only a WLAN connection and Internet Explorer 6), ease of configuration, offline data storage capabilities, and direct error reporting. It specifies the necessary software and hardware requirements, including the A+W Infrastructure Process Server components and minimum specifications for Windows CE scanners (CE 6.0, IE 6.0, 240x320 display, WiFi). The document details the user interface, explains the meaning of various icons and display fields for booking results, and illustrates correct and incorrect booking sequences. It also lists hardware devices the client has been tested on (Datalogic, Motorola) and notes software limitations, such as a recommendation of a maximum of 50 offline scans and incompatibility of breakage bookings with the A+W Serial Manager."
+description: "EN-FUNC-AW_Windows_CE_Scanner_Client"
 ---
+
 
 # A+W Functional Description: A+W Windows CE Scanner Client
 

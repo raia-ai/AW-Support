@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Continuous_Cutting"
-source: "EN-FUNC-AW_Continuous_Cutting.pdf"
-tags: ["A+W Software", "Continuous Cutting", "Glass Manufacturing", "Software Functional Description", "Office Planner", "Realtime Optimizer", "Production Planning", "Cutting Automation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Continuous Cutting software module. It details the module's capabilities for automating the glass cutting process by enabling advance planning in an office environment, thereby streamlining operations on the cutting table."
-long_description: "This document is a functional description for the A+W Continuous Cutting software module, a specialized solution for the glass manufacturing industry. It explains how the module enhances the A+W Realtime Optimizer by allowing office personnel to pre-plan and sequence cutting jobs. The document outlines two primary offerings: the 'Office Planner (220085)', which is an expansion for existing A+W Realtime Optimizer installations, and the 'Full Office Planner (220086)', a standalone office version that includes both table optimization and continuous cutting planning. The core functionalities are detailed, including an overview of planned work, the planning of cutting sequences with various configurable settings (e.g., reoptimization, residual plate management), and the automated continuous cutting process on the factory floor. It also specifies software prerequisites, such as the need for A+W Production and specific A+W Realtime Optimizer versions, and lists any operational restrictions. The document concludes with legal notices, including copyright and liability information, and contact details for A+W Software GmbH."
+description: "EN-FUNC-AW_Continuous_Cutting"
 ---
+
 
 # A+W Functional Description: A+W Continuous Cutting
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_B2B_Service"
-source: "EN-CONFIG-AW_Enterprise_B2B_Service.pdf"
-tags: ["A+W Enterprise", "B2B Service", "Configuration", "openTRANS", "XRechnung", "E-invoicing", "Software", "Glass Industry", "EDI", "XML"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Enterprise B2B Service. It details the setup for various functionalities, including openTRANS document exports, A+W EDI exports, and E-invoicing with XRechnung. The guide covers installation steps, logging, control table management, and data mapping for different business documents."
-long_description: "This is a comprehensive configuration manual for the A+W Enterprise B2B Service, a software solution for the glass industry. The document focuses on the 'new' functionality that operates without the A+W ERP Webservice. It is intended for internal use by technical personnel responsible for setting up and maintaining the B2B service.\n\nThe manual is structured to guide the user through the entire configuration process. It begins with general information, distinguishing between old and new functionalities and providing an overview of features such as DORMA PO transfer, internal charging, and various document exports (order confirmation, invoice, delivery note). It then covers installation procedures for different back-end versions, B2B service setup, and the configuration tool.\n\nKey sections are dedicated to specific export formats. Chapter 6 provides an in-depth guide to 'openTRANS export', including installation, configuration of master data and EDI settings, triggering document generation, and detailed data mapping for order confirmations, invoices, and dispatch notifications. Chapter 7 briefly covers the 'PO export / A+W EDI export'. A major section, Chapter 8, is dedicated to 'E-invoicing – XRechnung', the German standard for electronic invoices. This section outlines requirements, version details, validation, installation steps, configuration of environment variables, master data, and specific functions. It also includes extensive data mapping and descriptions of specific data fields (BT-10, BT-49, etc.). The document concludes with sections on error handling, cleanup logic, and a detailed troubleshooting guide for common issues."
+description: "EN-CONFIG-AW_Enterprise_B2B_Service"
 ---
+
 # A+W Enterprise B2B Service
 **Configuration Instructions**
 

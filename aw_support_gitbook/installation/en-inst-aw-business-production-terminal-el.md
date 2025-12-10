@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Business Production Terminal (EL)"
-category: "installation"
-product: "A+W Business Production Terminal (EL)"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Business Production Terminal (EL)"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation and Configuration Documentation A+W Business Production Terminal (EL)    Change history:      Date             Edited by          Remarks                                                  Version     2017-11-16       MST                Original version                                         0.1     2017-12-01       PK                 Corrections                                              0.2     2018-06-25       MST                Driver version Chapter Set-up 4.1.2 and function 5"
-source_file: "EN-INST-A+W Business Production Terminal (EL).pdf"
+description: "EN INST A+W Business Production Terminal (EL)"
 ---
+
 
 
 # EN INST A+W Business Production Terminal (EL)

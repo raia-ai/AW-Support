@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_8"
-source: "EN-CONFIG-AW_Enterprise_8.pdf"
-tags: ["A+W Enterprise", "Pricing", "Price Maintenance", "Surcharges", "Configuration", "Environment Variables", "ERP", "Order Processing", "Delivery Notes", "Invoice"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration guide for the A+W Enterprise ERP system, focusing on advanced pricing rules, order processing, delivery note generation, and goods receipt functionalities. It details various settings, master data configurations, and the use of environment variables to customize system behavior."
-long_description: "This document provides an in-depth technical configuration guide for several key modules of the A+W Enterprise ERP system. It covers Chapter 53 on Pricing, Chapter 54 on Number Ranges, Chapter 55 on Product/Sash Sets, Chapter 56 on Delivery Note Creation, Chapter 57 on Background Processes, and Chapter 58 on Goods Receipt. The guide is intended for system administrators and technical users responsible for customizing the software. It details a wide range of pricing functions, including global price maintenance, processing prices, special pricing, minimum prices, and various surcharges (e.g., shape, size, AIR surcharges). A significant portion of the document explains how these features are controlled through master data settings, specific user actions in the interface, and a comprehensive list of environment variables. It provides detailed instructions on configuring complex pricing rules, managing invoice and credit note numbering, setting up product sets for simplified order entry, and automating background jobs for tasks like delivery note creation. The document also includes information on handling goods receipts, particularly for rack-related stock, and outlines the logic for multi-site environments. It contains specific variable names, menu paths, issue tracking numbers (AWDesk, AWD), and process flows for different scenarios within the software."
+description: "EN-CONFIG-AW_Enterprise_8"
 ---
+
 
 Similarly, the flag is not taken over into the order data. This means if for a processing the pricing type is changed manually, this flag is not applied.
 

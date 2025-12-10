@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_2-1"
-source: "DE_AWBusiness_Verkauf_4_2-1.pdf"
-tags: ["A+W Business", "ERP", "Sales Module", "Order Entry", "Quick Inquiry", "Product Availability", "Muntin Bars", "Model Entry", "Motif Entry", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This tutorial provides a comprehensive guide on using the A+W Business Sales module, covering the complete process from document creation to invoicing. It details procedures for handling quick inquiries, checking product availability, and configuring complex product features like muntin bars, models, stepped glass, edge processing, and motifs."
-long_description: "This document is a detailed tutorial for the A+W Business Sales module, focusing on the complete processing of documents from initial creation to final invoicing. It offers step-by-step instructions for various sales and order entry tasks. Key topics include responding to quick inquiries by selecting a customer and entering product data, and checking product availability by analyzing stock levels, reserved quantities, and future inventory. The guide also provides in-depth instructions for configuring specialized product features. This includes creating both normal and irregular muntin bar constructions, defining custom models and shapes for glass panes, specifying stepped glass dimensions, and adding various edge processings. Furthermore, it explains how to create and apply motifs, both with and without pre-defined screen numbers, detailing the parameters for positioning, scaling, and rotation. The tutorial is designed to guide users through the software's interface with screenshots and clear procedural steps."
+description: "DE_AWBusiness_Verkauf_4_2-1"
 ---
+
 
 # Kompletterfassung von Dokumenten bis Faktura
 

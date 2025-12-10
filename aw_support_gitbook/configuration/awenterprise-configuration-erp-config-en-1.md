@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_9"
-source: "EN-CONFIG-AW_Enterprise_9.pdf"
-tags: ["A+W Enterprise", "Configuration", "ERP", "PPS Webservice", "Intauf", "Rack Planning", "VAT", "Dispatch Control", "Late Change", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for A+W Enterprise, covering a wide range of modules and processes. It details the setup for PPS Webservice integration, management of special 'intauf' process types for calculations and updates, comprehensive guidelines for rack planning, and procedures for VAT adjustments. It also includes instructions for managing late changes to orders and configuring dispatch control."
-long_description: "This is a comprehensive technical configuration guide for the A+W Enterprise system. It outlines procedures for various system functionalities, intended for technical writers, developers, and system administrators. The document begins with instructions on integrating with a Production Planning System (PPS) via Webservices, including how to store URLs and manage registration points using environment variables like `AWC_URL_PPS_WEBSERVICE` and tables like `EXPORTINFO`. It then delves into a series of special 'intauf' process types, which are background jobs for tasks such as cost calculation (`KOSTENKALKEK`), total recalculation (`FORALL_SUM`), and applying energy surcharges (`ENERGY SURCHARGE`). Each type is explained with its corresponding parameters and tables. A significant portion of the manual is dedicated to managing late changes in orders, providing detailed logic tables that explain how the system treats commercial, production-info, and production-relevant changes under different locking statuses and environment variable settings (e.g., `KAUFUPDATE_BEI_BEST`). The document also covers VAT adjustments and conversions, explaining how to manage tax rates in master data and how the system determines the applicable VAT based on document entry dates. Furthermore, it provides extensive details on 'Rack planning', including master data setup, planning algorithms (Total, Partial, Manual, Priority), pricing, costs, and logging. Finally, it covers 'Rack-related shipping', detailing prerequisites, free rack handling, lite allocation, moving racks in dispatch, and correcting mistaken bookings from PDC. The guide uses specific table names, environment variables, and process codes throughout."
+description: "EN-CONFIG-AW_Enterprise_9"
 ---
+
 
 After that, only inward goods for purchase orders can be entered that are assigned to the current company. An entry of company-spanning inward goods is not possible.
 The rack numbers that are entered on the "Rack assignment" dialog are company-spanning. Thus you cannot enter rack 1 for company 100 and then rack 1 for company 110.

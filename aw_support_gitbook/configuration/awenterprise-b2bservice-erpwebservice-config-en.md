@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_B2B_Service_ERP_WS"
-source: "EN-CONFIG-AW_Enterprise_B2B_Service_ERP_WS.pdf"
-tags: ["A+W Enterprise", "B2B Service", "ERP Webservice", "DORMA", "openTRANS", "Configuration", "Technical Documentation", "API", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This internal document provides configuration details for the A+W Enterprise B2B Service, focusing on its integration with the ERP Webservice. It covers setup for DORMA purchase orders, openTRANS document transfers (invoices and delivery notes), and general troubleshooting for the webservice."
-long_description: "This is an internal technical configuration guide for the A+W Enterprise B2B Service, a component that facilitates Business-to-Business communication between the A+W Enterprise (AWE) system and external partners via an ERP Webservice. The document outlines the historical development and functionality of the service. Initially, it was designed to handle DORMA purchase orders using the openTRANS 1.0 format. It later expanded to support generic invoice and delivery note transfers using the more current openTRANS 2.1 standard, including the ability to generate and store these documents as XML files. The guide provides detailed configuration instructions for specific use cases. For DORMA purchase orders, it covers database updates, CommonBase settings (and its subsequent deprecation), licensing notes, and comprehensive troubleshooting for connection problems, remote certificate errors, and specific error messages from the Dorma system. For openTRANS document transfers, it explains the logic for triggering invoice and delivery note generation, the necessary environment variables, data mapping for XML output, and special considerations for internal charging scenarios (like for SGG/Caleoglas). The document also includes technical details on table configurations (mpdfuectrl, ottransfer), API URLs, and general troubleshooting steps for the ERP Webservice, such as resolving URL format exceptions and log file issues."
+description: "EN-CONFIG-AW_Enterprise_B2B_Service_ERP_WS"
 ---
+
 
 # A+W Configuration
 # A+W Enterprise B2B Service feat. ERP Webservice

@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-3"
-source: "EN-CONFIG-AW_Business-3.pdf"
-tags: ["A+W Business", "Configuration", "CAD", "iTOE", "T-SQL", "Database Management", "Form Printing", "Electronic Invoicing", "Comarch", "KSeF"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document details the configuration and technical specifications for A+W Business, focusing on saving CAD (TOE) files in the database, extracting them with T-SQL, and managing the Integrated Technical Order Entry (iTOE) system. It also covers document checking procedures, electronic invoicing for the Polish market (Comarch/KSeF), and provides a comprehensive list of variables for form printing."
-long_description: "This technical configuration guide for A+W Business provides in-depth instructions for several key modules and functionalities. It begins with the process of saving and extracting CAD Designer (Shapes) TOE files within the database. It includes a detailed T-SQL script for creating a stored procedure to extract these files, along with the necessary server-side configurations for OLE Automation. The document then explains the setup and rules for the Integrated Technical Order Entry (iTOE) system, outlining how rules with priorities are used to map imported DXF data to products in the Bill of Materials (BOM). It also describes the 'Document check' feature, which implements a dual control principle for verifying order data. A significant section is dedicated to setting up electronic invoicing for the Polish market, detailing the integration with the Comarch/KSeF service, including workflow definitions and customizing functions for sending, receiving, and confirming invoices. The final major part of the document is a comprehensive reference of all available variables for form printing, categorized into Header, Item, BOM, and Footer variables, along with their types and descriptions. This serves as a vital resource for customizing printed documents like orders, invoices, and delivery notes."
+description: "EN-CONFIG-AW_Business-3"
 ---
+
 
 ---
 ## 2.13. Saving of TOE files of the CAD Designer (Shapes) in the database

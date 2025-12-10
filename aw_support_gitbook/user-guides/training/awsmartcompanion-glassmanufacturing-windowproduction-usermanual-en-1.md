@@ -1,15 +1,7 @@
 ---
-title: "A+W Smart Companion"
-category: "training"
-product: "AWSmartCompanion"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWSmartCompanion", "GlassManufacturing", "WindowProduction", "UserManual", "EN (1)"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "A+W Smart Companion User Manual" source: "EN_UM_AW_SmartCompanion_1_1.pdf" tags: ["software", "user manual", "A+W Smart Companion", "glass manufacturing", "window production", "door manufacturing", "plant data collection", "inventory management", "production tracking", "mobile application"] version: "1.0" last_updated: "2025-10-03" short_description: "This user manual provides comprehensive instructions for using the A+W Smart Companion application, a mobile solution for plant data colle"
-source_file: "AWSmartCompanion-GlassManufacturing-WindowProduction-UserManual-EN (1).md"
+description: "A+W Smart Companion"
 ---
+
 
 
 title: "A+W Smart Companion User Manual"

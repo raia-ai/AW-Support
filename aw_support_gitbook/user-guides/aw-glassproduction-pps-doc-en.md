@@ -1,12 +1,7 @@
 ---
-title: "A+W Production Software Suite Overview"
-source: "AW_Sales_Tool_2025_1-4.pdf"
-tags: ["A+W", "glass production", "PPS", "ERP", "MES", "production scheduling", "optimization", "capacity planning", "breakage management", "software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An overview of the A+W Production software suite, a Production Planning System (PPS) designed for the glass processing industry, including features, specifications, and various add-on modules for enhanced functionality."
-long_description: "This document provides a detailed overview of the A+W Production software suite, a comprehensive Production Planning System (PPS) tailored for the glass manufacturing and processing industry. It covers the core functionalities of the system, which include flexible rough and detailed scheduling for IGU, tempered, single, and laminated glass production. The system allows for complete control over production areas, machines, material flow, and multi-level production flows. The document is structured to first introduce the main system's features and technical specifications, such as its requirement for an ERP system, compatibility with different SQL engines, and use of Microsoft Windows. It then delves into specific functional areas like Machinery Allocation, Rough and Detailed Scheduling, Release Management, and Multistep Management. A significant portion of the document is dedicated to detailing a wide range of optional add-on modules that extend the system's capabilities. These add-ons include tools for optimization (Sequence, Realtime, Shape, Furnace), production tracking and control (Production Terminal, Barcode Manager, Breakage Manager), capacity planning, and business intelligence. Each module's features and technical requirements are clearly outlined, providing a complete picture of the A+W ecosystem for modern glass production facilities."
+description: "A+W Production Software Suite Overview"
 ---
+
 
 # A+W Production Software Suite
 

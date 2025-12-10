@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_DXF-Import"
-source: "EN-CONFIG-AW_DXF-Import.pdf"
-tags: ["A+W", "DXF", "CAD", "Software Configuration", "Glass Software", "Shapes", "A+W Business", "A+W Enterprise", "A+W Production", "Import"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for importing DXF files into various A+W software programs, including A+W CAD Designer (Shapes), A+W Business, and A+W Enterprise. It outlines the functions, guidelines, and configuration settings required for a successful import process."
-long_description: "This is a comprehensive configuration guide for handling DXF file imports within the A+W software suite for the glass industry. It details the specific functionalities and requirements for importing shapes, outlines, and processing data from DXF files into A+W CAD Designer (Shapes). The document provides best-practice guidelines for creating DXF files to ensure smooth, automated imports, covering aspects like closed shapes, layer management, and geometric entities. It explains the import dialogs in A+W CAD Designer, A+W Business, and A+W Enterprise, highlighting features for layer selection, feature detection (cut-outs, drillings), and configuration options via the SN.ini file. The guide also covers advanced topics such as handling edge cut-outs, rotated shapes, and the automated generation of DXF files for production. Finally, it includes a troubleshooting section to address common issues like importing files with layouts or layers that have spaces in their names."
+description: "EN-CONFIG-AW_DXF-Import"
 ---
+
 
 # A+W Configuration Instructions: DXF files in A+W Programs
 

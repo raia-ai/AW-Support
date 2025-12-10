@@ -1,14 +1,7 @@
 ---
-title: "A+W Support AI Assistant - Quick Start Guide"
-category: "documentation"
-product: "A+W Software"
-doc_type: "Quick Start"
-language: "EN"
-tags: ["quick-start", "getting-started", "setup"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Quick start guide for deploying the A+W Support AI Assistant"
+description: "A+W Support AI Assistant - Quick Start Guide"
 ---
+
 
 # A+W Support AI Assistant - Quick Start Guide
 

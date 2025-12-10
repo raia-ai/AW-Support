@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_3"
-source: "EN-CONFIG-AW_Enterprise_3.pdf"
-tags: ["A+W Enterprise", "configuration", "discounts", "invoicing", "order entry", "master data", "environment variables", "stored procedures", "payment schedule", "foreign currency"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration guide for A+W Enterprise software, detailing settings related to discounts, invoicing, order processing, and master data management."
-long_description: "This comprehensive technical manual provides detailed instructions for configuring various modules and features within the A+W Enterprise system. It covers a wide range of topics essential for system administrators and technical personnel. Key areas include the management and calculation of discounts, with sections on updating sales, costs, and purchasing discounts, and how to use stored procedures like 'rabattzuord' for custom calculations. The guide explains how to handle transactions in foreign currencies, including market partner-specific discounts and the rules for redrawing exchange rates. A significant portion of the document is dedicated to invoice generation, covering grouping criteria for collective invoices, and the setup and processing of payment schedules involving deposit and final invoices. It also details the data structures and master data tables involved, such as 'rabattmeth', 'rabstamm', and 'kaufrab', providing field-level descriptions. The document lists and explains numerous environment variables that control system behavior for features like recording documents with reference, small delivery surcharges, and automatic features in order entry like enamel and edge stripping. This guide is crucial for customizing A+W Enterprise to meet specific business requirements."
+description: "EN-CONFIG-AW_Enterprise_3"
 ---
+
 
 ---
 ### Update sales

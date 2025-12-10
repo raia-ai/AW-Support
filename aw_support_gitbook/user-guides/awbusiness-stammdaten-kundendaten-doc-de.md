@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_2"
-source: "D-AWBusiness-HB_2.pdf"
-tags: ["A+W Business", "Stammdaten", "Kundendaten", "Lieferantendaten", "Aufträge", "Finanzen", "ERP", "Tutorial", "Auftragsverwaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial on managing master data in A+W Business software, focusing on creating and managing orders, customers, and suppliers. It covers order headers, positions, basic tables, and the overall commercial process flow."
-long_description: "This document is an excerpt from a tutorial (Tutorial 1) for the A+W Business software, specifically focusing on the management of master data (Stammdaten). The tutorial provides an overview of how to create and manage orders, which form the basis of all commercial activities in the system. It details the necessary data for an order, including the order header (customer information, delivery terms) and order positions (products, dimensions, prices, surcharges). The document explains the structure of the software's user interface, with screenshots illustrating the 'Auftragskopf' (order header) and 'Auftragspositionen' (order items). It then delves into setting up master data, recommending a specific sequence to avoid data dependency issues: customer data, product groups, products, prices, and special discounts. The guide covers the creation and management of basic tables, customer data (including addresses, contacts, financial details), and supplier data. Specific topics include defining customer groups, tours for delivery planning, credit limits, payment terms, and handling of international currencies and taxes. The tutorial aims to equip users with the knowledge to set up and maintain the foundational data required for all subsequent sales, purchasing, and production processes within A+W Business."
+description: "D-AWBusiness-HB_2"
 ---
+
 
 # Tutorial 1: Überblick
 

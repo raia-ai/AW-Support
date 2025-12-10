@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Kapazitaetsplanung 4.02"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Kapazitaetsplanung_4.02"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Kapazitätsplanung         H                               Deutsch                  A+W Business Pro                                                                                                                 Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie editorische Notizen.                                          Revisionsübersicht                                        Part             Besch"
-source_file: "DE_AWBusiness_Kapazitaetsplanung_4.02.pdf"
+description: "DE AWBusiness Kapazitaetsplanung 4.02"
 ---
+
 
 
 # DE AWBusiness Kapazitaetsplanung 4.02

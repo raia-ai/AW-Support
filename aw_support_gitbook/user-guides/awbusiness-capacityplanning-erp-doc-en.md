@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Pro Capacity Planning"
-source: "EN_AWBusiness_Capacity_Planning_4_2.pdf"
-tags: ["A+W Business Pro", "Capacity Planning", "ERP", "Software Tutorial", "Master Data", "Production Scheduling", "Manufacturing", "Glass Industry", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial and software reference guide for the A+W Business Pro Capacity Planning module. It covers master data setup, order scheduling, production management, and cost calculation."
-long_description: "This document serves as a detailed guide for users of the A+W Business Pro software, specifically focusing on the Capacity Planning module. It is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section provides step-by-step instructions on practical applications, such as defining allocations for different product types, scheduling orders using backward and forward methods, handling production bottlenecks by splitting items, and managing production reports. It includes numerous examples, screenshots, and diagrams to illustrate concepts like dwell days, transition times, and item splitting. The Software Reference section provides an in-depth description of all dialogs, fields, and settings within the Capacity Planning and related modules. It covers the configuration of master data, including company-level defaults, machine types, work types, production areas, and cost centers. This part of the guide is essential for administrators and advanced users who need to configure the system to match their company's specific production processes. Overall, the document is a critical resource for planning, managing, and optimizing production capacity within the A+W Business Pro environment."
+description: "A+W Business Pro Capacity Planning"
 ---
+
 
 # A+W Business Pro Capacity Planning Tutorial
 

@@ -1,15 +1,7 @@
 ---
-title: "Wireless Button Dongle"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Wireless Button Dongle"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Wireless Button Dongle            Introduction                                   The Wireless Dongle is inserted in a USB port. The                                                                                           Connect a button to the dongle                                                                                            1.    Insert the Dongle in the PC.                                   workstation recognizes it as a “Human Interface          2.    Launch the “Kel Confgura"
-source_file: "Wireless Button Dongle.pdf"
+description: "Wireless Button Dongle"
 ---
+
 
 
 # Wireless Button Dongle

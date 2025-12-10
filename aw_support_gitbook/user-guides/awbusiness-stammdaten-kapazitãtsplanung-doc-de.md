@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Stammdaten_9_11"
-source: "DE_AWBusiness_Stammdaten_9_11.pdf"
-tags: ["A+W Business", "Stammdaten", "Software Referenz", "Kapazitätsplanung", "Formularverwaltung", "Schnittstellen", "B2B", "CEKAL", "Mitarbeiterverwaltung", "Produktverwaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Software-Referenzhandbuch für die Stammdatenverwaltung in A+W Business. Es behandelt detailliert die Konfiguration von Firmendaten, Kapazitätsplanung, Mitarbeiterrechten, Formularen, Schnittstellen (wie B2B, CEKAL) und produktbezogenen Einstellungen."
-long_description: "Dieses Referenzhandbuch bietet eine umfassende Anleitung zur Konfiguration und Verwaltung der Stammdaten in der A+W Business Software. Das Dokument ist in mehrere Hauptabschnitte gegliedert, die jeweils spezifische Module und Funktionalitäten abdecken. Es beginnt mit den Einstellungen zur Kapazitätsplanung, einschließlich der Einlastung von Aufträgen zum Liefertermin, der automatischen Fertigmeldung und der Produktionsübergabe. Anschließend werden die Firmendaten detailliert, wobei Themen wie der BMECat-Import, die Outlook-Kopplung und die portugiesische Zertifizierung (SAFT-PT) behandelt werden. Ein großer Teil des Dokuments widmet sich der Mitarbeiterverwaltung, einschließlich der Anlage von Mitarbeitern, der Zuweisung von Spezifikationen, Rechten und Gruppen sowie der Konfiguration von mitarbeiterbezogenen Erfassungsparametern. Weitere Abschnitte umfassen die Verwaltung von AV- und AD-Bereichen, die Einrichtung von Vertreterprovisionen und die Konfiguration von Bankverbindungen und Buchungsperioden. Das Handbuch geht auch ausführlich auf die Formularverwaltung ein, wo Benutzer lernen, wie sie Druckpunkte, Kopf-/Fußtexte, Layoutoptionen und den Skizzendruck anpassen können. Die Konfiguration von Schnittstellen-Diensten, einschließlich der Anbindung an A+W Production und externe Systeme (BDE, ALFERT, FiBu), wird ebenfalls abgedeckt. Spezifische Zertifizierungsanforderungen wie CEKAL und CE-Kennzeichen werden mit ihren jeweiligen Einstellungsdialogen für Klassen, Zuordnungen und Restriktionen erläutert. Schließlich behandelt das Dokument B2B-Funktionalitäten für den elektronischen Datenaustausch (EDI) mit Kunden und Lieferanten, einschließlich der Verwaltung von Fremdartikeln, Touren und Dokumentenexporten."
+description: "DE_AWBusiness_Stammdaten_9_11"
 ---
+
 
 ---
 ## Zum Liefertermin einlasten

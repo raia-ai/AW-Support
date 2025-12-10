@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Feinplanung_3_1"
-source: "DE_AWProduction_Feinplanung_3_1.pdf"
-tags: ["A+W Production", "Feinplanung", "Glass Manufacturing", "Window Production", "ERP", "Production Planning", "Software Manual", "Tutorial", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual and tutorial for the A+W Feinplanung (Detailed Planning) module, part of the A+W Production software suite. This document, written in German, explains the core concepts, processes, and configurations for optimizing production in the glass, window, and door manufacturing industries."
-long_description: "This document serves as a comprehensive guide to the A+W Feinplanung (Detailed Planning) module within the A+W Production software ecosystem. It is designed for end-users, system administrators, and A+W trainers. The manual begins with an editorial section covering revision history and legal notices. The core of the document is split into a tutorial and a software reference. The tutorial section provides a detailed overview of the production planning process, from cutting to shipping. It introduces fundamental concepts such as batches (Lose), racks (Böcke), runs (Läufe), and the Bill of Materials (Teilebaum). It explains how to configure groupings and sortings to manage production sequences, defines various storage location modes (Abstellmodi) to optimize material flow, and details different optimization strategies that balance material yield, production sequence, and flexibility. The manual also covers special cases like filler orders, remnants, and breakage. The document is highly structured, with clear definitions, step-by-step procedures, and illustrative diagrams to guide users in setting up and managing their production environment effectively."
+description: "DE_AWProduction_Feinplanung_3_1"
 ---
+
 
 # A+W Feinplanung F
 

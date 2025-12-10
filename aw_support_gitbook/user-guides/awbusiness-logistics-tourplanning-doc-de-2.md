@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_LogisticOptimizer_2_4"
-source: "DE_AWBusiness_LogisticOptimizer_2_4.pdf"
-tags: ["logistics", "tour planning", "A+W Business", "software reference", "user manual", "Kundenverwaltung", "Fahrzeugmanagement", "Routenoptimierung", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Logistic Optimizer. It provides detailed explanations of the administration and planning modules, covering customer data management, vehicle and driver setup, reporting, packaging materials, and data import functionalities."
-long_description: "This is a comprehensive software reference guide for the A+W Business Logistic Optimizer, a tool designed for planning and optimizing delivery tours. The manual is divided into two main sections: Administration and Planning. The Administration section details how to manage core data, including customers (Kunden), departments (Abteilungen), vehicles (Fahrzeuge), drivers (Fahrer), reports (Reports), packaging materials (Packmittel), and data import processes (Datenimport). Each subsection explains the corresponding dialog windows, fields, and functionalities, complete with screenshots and field-by-field descriptions. The Planning section focuses on the operational aspects of tour management. It covers how to create, copy, load, and edit tours. It provides in-depth guidance on setting up new tours by defining general information, assigning vehicles and drivers, and configuring various optimization parameters like tour mode (fastest, shortest, most economical), road type preferences (tolls, highways, tunnels), and optimization factors (distance, weight, schedule). The manual also explains how to manage and edit destinations within a tour, view associated documents and items, and analyze tour costs. This guide serves as an essential resource for administrators and planners using the A+W Business Logistic Optimizer to ensure efficient and effective logistics operations."
+description: "DE_AWBusiness_LogisticOptimizer_2_4"
 ---
+
 
 # Softwarereferenz
 

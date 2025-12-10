@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_9"
-source: "DE-HB-AWCADDesignerShapes_9.pdf"
-tags: ["A+W CAD Designer", "Shapes", "architectural glass", "CAD software", "technical manual", "glass processing", "DXF import", "digitalization", "edge processing", "VSG", "ISO"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for A+W CAD Designer (Shapes), detailing the use of various tools for processing architectural glass. It covers editing drawings, handling different glass types like single, VSG, and ISO, and fundamental CAD operations."
-long_description: "This manual provides a comprehensive overview of the tools and functions available in A+W CAD Designer (Shapes) for the design and production of architectural glass. It is structured to guide users through various workflows, from basic drawing modifications to complex edge processing and component definitions. Key sections include 'Werkzeuge zur Bearbeitung von Bauglas' (Tools for Processing Architectural Glass), which details tools for distorting contours, creating detail views, hatching surfaces, and adding text. It also covers specialized tools for inserting planar fastenings and processing edges on single glass, laminated safety glass (VSG), and insulated glass units (ISO), including grinding, polishing, mitering, and applying facets. The 'Grundsätzliche Bedienung' (Basic Operation) section explains core functionalities like file management (opening, saving, importing/exporting), object transformation (moving, rotating, scaling), zoom controls, and working with groups. The final section, 'Konkrete Fragestellungen' (Specific Questions), addresses common user workflows, such as importing contour data from formats like DXF and ESG, and digitizing glass shapes using a digitizing table."
+description: "DE-HB-AWCADDesignerShapes_9"
 ---
+
 
 # Werkzeuge verwenden
 

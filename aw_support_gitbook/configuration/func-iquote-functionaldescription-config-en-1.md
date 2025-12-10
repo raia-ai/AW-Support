@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_iQuote"
-source: "EN-FUNC-AW_Enterprise_iQuote.pdf"
-tags: ["A+W Enterprise", "iQuote", "Functional Description", "Software for Glass", "Web Configurator", "ERP", "Glass Products", "Order Entry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description document for A+W Enterprise - iQuote, a web-based configurator for glass products. It outlines the software's purpose, features, requirements, and limitations, enabling customers to calculate quotes and place orders online."
-long_description: "This document provides a detailed functional description of the A+W Enterprise - iQuote module. A+W iQuote is a web-based configurator designed for the glass industry, allowing a company's customers to configure, price, and order glass products directly via a web homepage. The document explains that orders and quotations created in iQuote are seamlessly integrated into the main A+W Enterprise ERP system, where they can be processed like any other order. It also details the system's ability to provide customers with an overview of all their orders and quotations, regardless of the entry method, and to check order status. The document lists technical requirements, including server and database specifications. It provides a comprehensive list of functions, such as price calculation, processing entry (drilling, edges, etc.), configurable workflows, and shopping cart management. Finally, it specifies the current limitations of the module and provides notes on deployment options (in-house vs. hosted). Contact information for A+W Software GmbH is also included."
+description: "EN-FUNC-AW_Enterprise_iQuote"
 ---
+
 
 # A+W Functional Description: A+W Enterprise - iQuote
 

@@ -1,12 +1,7 @@
 ---
-title: "A+W Sales Tool Presentation"
-source: "AW_Sales_Tool_2025_1-2.pdf"
-tags: ["A+W", "ERP", "Glass Manufacturing", "CAD", "Software", "Business Processes", "Sales Tool", "Enterprise Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A sales presentation detailing the features and specifications of A+W's software suite for the glass, window, and door manufacturing industry. It covers modules for business processes, enterprise add-ons, and specific functionalities like CAD design, stock management, and order entry."
-long_description: "This document is a comprehensive overview of the A+W software solutions, presented as a sales tool. It is structured into several key areas: A+W Business, A+W Enterprise, and various add-on modules. The \"A+W Business\" section covers integrated modules for core business processes such as sales, purchasing, stock management, dispatch control, and reporting. The \"A+W Enterprise\" section highlights powerful add-ons that extend the system's capabilities, including `A+W CAD Designer` for both bars and shapes, `CX Stock Forecast`, `EDI Import`, and `Gantry Interface`. The presentation provides a feature-by-feature breakdown of each module, often accompanied by technical specifications (Specs) required for implementation. It is designed to inform potential customers about the system's ability to streamline operations, from order entry and technical design to production, logistics, and controlling. Specific functionalities like Excel data import, Georgian bar entry, and door fitting processing are also detailed, showcasing the software's flexibility and depth."
+description: "A+W Sales Tool Presentation"
 ---
+
 
 # A+W Software Solutions
 

@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Rack Manager Starting Guide"
-category: "installation"
-product: "A+W Rack Manager Starting Guide"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Rack Manager Starting Guide"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Rack Manager Start-up AWDesk: 347582    Change history  Date         Edited by   Remarks                                   Version 2016-02-19 J. Makowka    Initial version 2016-03-03 J. Makowka    Expansion to include 'Tips and Tricks'     30.03.2016               EN-INST-A+W Rack Manager Starting Guide         1/44         Content         Change history .............................................................................................................................................."
-source_file: "EN-INST-A+W Rack Manager Starting Guide.pdf"
+description: "EN INST A+W Rack Manager Starting Guide"
 ---
+
 
 
 # EN INST A+W Rack Manager Starting Guide

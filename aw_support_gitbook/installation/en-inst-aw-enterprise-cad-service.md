@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise CAD Service"
-category: "installation"
-product: "A+W Enterprise CAD Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise CAD Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 CAD Service    Change history:      Date             Edited by            Remarks                                      Version     16.04.22         MP                   New creation                                 1.0     16.12.13         MP                   AutoUpdate                                   1.2          The installation instructions will assist the planner with the installation and      configuration process for the softwar"
-source_file: "EN-INST-A+W Enterprise CAD Service.pdf"
+description: "EN INST A+W Enterprise CAD Service"
 ---
+
 
 
 # EN INST A+W Enterprise CAD Service

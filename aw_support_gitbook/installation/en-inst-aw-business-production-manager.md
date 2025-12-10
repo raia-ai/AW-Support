@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Business Production Manager"
-category: "installation"
-product: "A+W Business Production Manager"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Business Production Manager"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation and Configuration Instructions            A+W Production Manager and iCut     10.12.2021             EN-INST-A+W Business Production Manager.docx   1      Date      by     Comments                                                                       Rel      2013-10-31 MT    Release version                                                                1.0      2014-01-20 MT    Release version, AWB Pro-Config-Tool                                           1.1      2014-05-"
-source_file: "EN-INST-A+W Business Production Manager.pdf"
+description: "EN INST A+W Business Production Manager"
 ---
+
 
 
 # EN INST A+W Business Production Manager

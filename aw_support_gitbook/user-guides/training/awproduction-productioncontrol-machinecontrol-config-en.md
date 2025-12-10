@@ -1,15 +1,7 @@
 ---
-title: "A+W Production Machine Control"
-category: "training"
-product: "AWProduction"
-doc_type: "Configuration"
-language: "EN"
-tags: ["AWProduction", "ProductionControl", "MachineControl", "Config"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-CONFIG-AW_Production_MachineControl" source: "EN-CONFIG-AW_Production_MachineControl.pdf" tags: ["A+W", "Production Control", "Machine Control", "Glass Software", "Cutting Table", "Bender", "Sealer", "Georgian Bars", "Processing Machines", "Configuration", "JobRelease"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical configuration manual for A+W's Production Machine Control software. It details the setup and integration of various machines like cutting tables"
-source_file: "AWProduction-ProductionControl-MachineControl-Config-EN.md"
+description: "A+W Production Machine Control"
 ---
+
 
 
 title: "EN-CONFIG-AW_Production_MachineControl"

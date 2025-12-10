@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Business_iQuote"
-source: "EN-FUNC-AW_Business_iQuote.pdf"
-tags: ["A+W Software", "iQuote", "Functional Description", "Glass Industry", "ERP", "Web Configurator", "Quotation Software", "Order Entry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of A+W iQuote (G), a web-based configurator for glass products. This document outlines the software's purpose, features, technical requirements, and limitations. It is intended for customers and partners to understand the capabilities of the iQuote module, which allows end-customers to create quotations and orders online 24/7, with real-time integration into the A+W Business ERP system."
-long_description: "This document provides a detailed functional description of the A+W iQuote (G) software module, version 6.4. A+W iQuote (G) is a web-based configurator designed specifically for the glass industry, enabling a company's customers to independently calculate and enter quotations and orders online, 24/7, directly via the company's homepage. The document details how the module integrates with the A+W Business ERP system (version 5.5 or v6), allowing for immediate availability of documents and automated processing through configurable workflows. Key sections include a performance description covering the data, a detailed description of its functionality, system requirements (Microsoft servers with IIS, SQL Server, and A+W Infrastructure Reporting Service), and a comprehensive list of functions. The functions list details capabilities such as price calculation, product configuration (simple glass, LAMI, TG, insulated glass), processing entry (drilling, edges, etc.), and document history access. The document also clearly states the software's limitations, such as its single-site architecture and lack of support for certain price calculations or BOM exchanges. Finally, it provides notes on installation and the contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Business_iQuote"
 ---
+
 
 # A+W Functional Description: A+W iQuote (G)
 

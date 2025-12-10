@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_23"
-source: "D-AWBusiness-HB_23.pdf"
-tags: ["A+W Business", "Wareneingang", "Rechnungskontrolle", "Produktionsübergabe", "Kapazitätsplanung", "ERP", "Software", "Einkauf", "Fertigung", "Goods Receipt", "Invoice Verification"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the A+W Business Einkauf (Purchasing) and Fertigung (Manufacturing) modules. It details procedures for goods receipt, handling over/under deliveries, invoice verification (both manual and electronic), and handing over orders to production, including capacity planning and feedback mechanisms."
-long_description: "This document serves as a comprehensive software reference for the A+W Business system, specifically focusing on the 'Einkauf' (Purchasing) and 'Fertigung' (Manufacturing) modules. It is intended for end-users and administrators of the A+W Business software. The 'Wareneingang' (Goods Receipt) section explains how to process incoming deliveries, accept or reject quantity discrepancies, manage stock levels, and handle items linked to specific customer orders. It also covers the management of items in crates using unique identification numbers (`Identnummer`). The 'Rechnung' (Invoice) section details the `Rechnungskontrolle` (Invoice Verification) process, allowing users to check and approve supplier invoices before passing them to accounting. This includes both manual and `Elektronische Rechnungskontrolle` (Electronic Invoice Verification) via document import. The 'Fertigung' (Manufacturing) part of the manual outlines the `Produktionsübergabe` (Production Handover) process, describing how orders are transferred from the business system to the production environment (e.g., A+W Production). It explains various handover scenarios, such as with or without `Kapazitätsplanung` (Capacity Planning), and using tools like the A+W Production Capacity Planner. The document also covers handling feedback from production (`Rückmeldungen aus der Produktion`), managing delivery processes (`Lieferwesen`), and other related functionalities, providing tutorials, schematics, and detailed descriptions of dialogs and settings within the software."
+description: "D-AWBusiness-HB_23"
 ---
+
 
 # A+W Business Einkauf: Softwarereferenz
 

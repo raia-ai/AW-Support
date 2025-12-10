@@ -1,15 +1,7 @@
 ---
-title: "A+W Configuration: A+W Analytics powered by QLIK Sense"
-category: "training"
-product: "AWAnalytics"
-doc_type: "Configuration"
-language: "EN"
-tags: ["AWAnalytics", "QlikSense", "Configuration", "Config"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-CONFIG-AW_Analytics" source: "EN-CONFIG-AW_Analytics.pdf" tags: ["A+W Analytics", "Qlik Sense", "Configuration", "Implementation", "Data Loading", "Software for Glass", "ERP", "PPS", "Data Architecture", "Customizing"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is an internal configuration guide for A+W Analytics, a business intelligence solution powered by Qlik Sense. It details the steps for implementation, customization, data loading architecture, a"
-source_file: "AWAnalytics-QlikSense-Configuration-Config-EN.md"
+description: "A+W Configuration: A+W Analytics powered by QLIK Sense"
 ---
+
 
 
 title: "EN-CONFIG-AW_Analytics"

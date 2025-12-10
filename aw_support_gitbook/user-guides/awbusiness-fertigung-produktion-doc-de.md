@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_25"
-source: "D-AWBusiness-HB_25.pdf"
-tags: ["A+W Business", "Fertigung", "Produktion", "Software Referenz", "ERP", "Barcode Übergabe", "Gestellverwaltung", "Tourenliste", "Produktionsdaten", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference for the 'Produktion' (Production) module of A+W Business Fertigung. It details various functions including production transfer, barcode scanning, production data management, delivery management (Tourenliste), and rack management (Gestellverwaltung). It serves as a guide for users to configure and operate these features."
-long_description: "This section of the A+W Business Fertigung software reference manual focuses on the 'Produktion' (Production) and related logistics modules. It provides detailed explanations of functionalities for managing the entire production and delivery workflow. The document begins with 'Menü Funktionen' (Menu Functions) for production transfer, explaining settings for data handoff to the production line. It covers identification parameters like client (Mandant), production area (Bereich), and transfer modes (Produktionsübergabe, Produktionsfreigabe, etc.). The guide then moves to 'Einstellungen Produktionsübergabe' (Production Transfer Settings), detailing interface configurations (Schnittstelle), transfer parameters, and handling of special data like texts and attachments. It describes how to set up the connection to A+W Production and CAD Designer, including ERP-Webservice URLs and data formats like OrderXML. The manual also covers 'Barcode-Übergabe' for position-oriented transfers, 'Produktionsdaten' for managing raw materials and finished goods, and 'Lieferwesen' (Delivery Management), which includes the 'Tourenliste' (Tour List) for planning shipments. Finally, it provides an in-depth look at 'Gestellverwaltung' (Rack Management), explaining how to track, manage, and even invoice for the use of transport racks. Each section breaks down the specific dialogs, fields, and options available to the user, complete with screenshots and cross-references to other relevant parts of the manual."
+description: "D-AWBusiness-HB_25"
 ---
+
 
 # Softwarereferenz Produktion
 

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_7"
-source: "DE-HB-AWCADDesignerShapes_7.pdf"
-tags: ["A+W CAD Designer", "Shapes", "CAD Software", "User Manual", "Technical Documentation", "Boreholes", "Countersinking", "Corner Editing", "Cutouts", "Surface Treatment"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a segment of the user manual for A+W CAD Designer (Shapes), providing detailed instructions on using various tools for creating and modifying geometric designs. It covers functions for boreholes, countersinks, auxiliary lines, corner modifications, cutouts, and surface treatments, aimed at users in the glass and manufacturing industries."
-long_description: "This document serves as a comprehensive guide for the A+W CAD Designer (Shapes) software, focusing on the 'Werkzeuge' (Tools) module. It provides step-by-step instructions for a wide range of design and editing functions essential for creating precise technical drawings, particularly for glass manufacturing. Key topics include creating new boreholes by specifying coordinates, placing multiple boreholes along an arc, and managing borehole dimensions. The manual details various methods for creating countersinks (Senkbohrungen) and step drills (Stufenbohrungen), including conversion from standard boreholes and input via diameter or depth. It explains how to insert and manipulate auxiliary lines (Hilfslinien) to aid in dimensioning and positioning. A significant portion is dedicated to corner editing tools, such as cutting, rounding, chamfering, and tapering corners with precise control over distances and angles. Furthermore, the document covers the creation and placement of complex internal cutouts (Innenkonturen) and macros, including grouping elements and defining reference points for repeatable use. Finally, it addresses surface treatment tools, allowing users to define and apply various finishes like coatings, matting, sandblasting, and various types of printing (color, enamel, silk-screen) to specific areas of a design. The guide is structured to help both novice and experienced users master the functionalities of the A+W CAD Designer software."
+description: "DE-HB-AWCADDesignerShapes_7"
 ---
+
 
 # Werkzeuge
 

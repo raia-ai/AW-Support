@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AW_SmartCompanion-AWE"
-source: "DE-HB-AW_SmartCompanion-AWE.pdf"
-tags: ["A+W Smart Companion", "Handbuch", "Software", "Glass Manufacturing", "Window Production", "Door Production", "Barcode Scanning", "BDE", "Betriebsdatenerfassung", "Lagerverwaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This is the German user manual for the A+W Smart Companion software, a mobile application for operational data acquisition (BDE) in the glass, window, and door manufacturing industry. It details the functionality for both the Production and Warehouse modules, including barcode scanning, status updates, and inventory management."
-long_description: "The A+W Smart Companion Handbuch is a comprehensive German guide for end-users of the A+W Smart Companion mobile application. This software serves as a modern replacement for traditional barcode scanners, running on iOS and Android devices to facilitate real-time operational data acquisition (Betriebsdatenerfassung - BDE). The manual is divided into three main modules: Overview (Überblick), Production (Produktion), and Warehouse (Lager). The Overview section covers the basic licenses, hardware requirements (smartphones, Zebra scanners), user interface conventions, and general operation. The Production module explains how to log in, manage machine statuses, report breakages, track order progress, and perform rack inventory. The Warehouse module details processes for goods receipt, stock movements, and order-based or ad-hoc stock removals, including specific functions for crate and goods storage. The manual provides step-by-step instructions, complete with screenshots and icon explanations, for all key functions, ensuring users can efficiently manage production and warehouse logistics."
+description: "DE-HB-AW_SmartCompanion-AWE"
 ---
+
 
 # A+W Smart Companion Handbuch
 

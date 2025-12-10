@@ -1,12 +1,7 @@
 ---
-title: "A+W Production Terminal (EL) Functional Description"
-source: "EN-FUNC-AW_Production_Terminal_EL.pdf"
-tags: ["A+W", "Production Terminal", "EL", "Software for Glass", "Functional Description", "Business Pro", "Manufacturing Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Production Terminal (EL), a software module for A+W Business Pro. It details the product's purpose, which includes production control, displaying sheet information, reporting completed processing, and managing breakage entries for glass manufacturing."
-long_description: "This document provides a detailed functional description for the A+W Production Terminal (EL), a software module designed for A+W Business Pro customers in the glass industry. It outlines the capabilities of the terminal, which serves to handle production control at various points in the manufacturing flow. Key functions include displaying CAD images and detailed information for sheets to be produced, allowing operators to report 'completed' status for processing steps, and entering breakage reports with reasons and locations. The document specifies the system requirements, such as the need for A+W Business Pro, a Microsoft SQLServer database, and A+W Business Interface Service. It also lists the product's functionalities, like loading sheets via barcode scanning and displaying the Bill of Materials (BOM). Finally, it clarifies the operational restrictions, such as the lack of support for individual sheet tracing, rack bookings, or partial bookings. The document serves as a guide for understanding the scope, features, and limitations of the A+W Production Terminal (EL) module."
+description: "A+W Production Terminal (EL) Functional Description"
 ---
+
 
 # A+W Production Terminal (EL)
 **A+W - Software for Glass**

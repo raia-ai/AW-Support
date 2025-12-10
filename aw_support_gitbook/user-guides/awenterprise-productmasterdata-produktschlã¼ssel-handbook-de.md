@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_4"
-source: "DE-HB-AWEnterprise_4.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Product Master Data", "Produktschlüssel", "Configuration", "Variants", "Technical Data", "ERP", "Bill of Materials", "Technical Values"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the 'Produktschlüssel' (Product Key) module within the A+W Enterprise system. It details the configuration of product master data, including variants, technical specifications, and other product-related settings."
-long_description: "This comprehensive software reference manual provides detailed instructions for configuring the 'Produktschlüssel' (Product Key) module in the A+W Enterprise software. It covers a wide range of master data settings essential for managing products throughout their lifecycle, from creation to production and sales. The document explains how to define dimensional variants, size variants, and measurement designations. It provides an in-depth look at setting up complex 'Austausch-/Zusatzregeln' (exchange/add-on rules) which allow for dynamic bill of materials (BOM) modifications based on customer-specific or product-specific criteria. Furthermore, the manual details the configuration of technical value groups (e.g., sound insulation dB-groups, thermal properties U-groups) and their corresponding vectors for calculating product characteristics. It also covers settings for product certification (CEKAL, CPIP), declaration of performance, and various other specific attributes like fitting types, foil types, and frame types. The guide is intended for system administrators and advanced users responsible for maintaining the product master data in A+W Enterprise."
+description: "DE-HB-AWEnterprise_4"
 ---
+
 
 # Produktschlüssel
 

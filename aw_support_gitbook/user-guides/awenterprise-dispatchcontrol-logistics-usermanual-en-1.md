@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_21"
-source: "EN-UM-AWEnterprise_21.pdf"
-tags: ["Dispatch Control", "A+W Enterprise", "Software Manual", "Logistics", "Racks", "Finished Goods", "Printing", "Workflow", "Help Cards", "Index"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive software reference manual for the A+W Enterprise Dispatch Control module. This document details functionalities for managing logistics, including filtering data, handling finished goods stock, and executing various printing tasks. It also provides step-by-step 'Help Cards' for common operational workflows."
-long_description: "This document serves as a detailed software reference guide for the A+W Enterprise Dispatch Control module, designed for users involved in logistics and dispatch management. The manual is divided into two primary parts: a Software Reference section and a Help Cards section. The Software Reference section provides in-depth information on core functionalities. It begins by explaining how to use filter conditions for searching data and details the various fields displayed in hit dialogs, such as delivery dates, routes, and order information, complete with technical database field names. It then covers advanced topics like the management of Finished Goods Stock, including procedures for search, overview, inventory management (starting and closing), and viewing booking logs. Another significant part of this section is dedicated to 'Print' functions, outlining the processes for printing loading lists, preliminary and final delivery notes, and other user-defined lists. The second part of the manual consists of 'Help Cards,' which offer practical, step-by-step instructions for performing common tasks. These cards are structured to guide users through workflows such as using the Dispatch Explorer (with and without DC Explorer), editing tours (moving entire tours, orders, or individual items), preparing for dispatch (checking missing quantities, correcting packed quantities, changing addresses, creating delivery notes), and canceling documents. The guide is rich with technical details, including navigation paths, keyboard shortcuts, and database field information, making it an essential tool for both daily operations and system configuration."
+description: "EN-UM-AWEnterprise_21"
 ---
+
 
 # Software Reference
 

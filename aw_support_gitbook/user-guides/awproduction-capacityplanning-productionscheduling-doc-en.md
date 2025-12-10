@@ -1,12 +1,7 @@
 ---
-title: "A+W Capacity Planning"
-source: "EN_AWProduction_Capacity_Planning_4_1.pdf"
-tags: ["capacity planning", "production scheduling", "A+W Production", "software manual", "manufacturing", "glass industry", "windows and doors", "shift planning", "resource management", "ERP integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual and tutorial for the A+W Capacity Planning module, a component of the A+W Production software suite. It guides users through the principles and practical application of planning, scheduling, and optimizing production processes for glass, windows, and doors manufacturing."
-long_description: "This comprehensive document serves as a user guide for the A+W Capacity Planning module, designed for production schedulers and administrators within the A+W Production software ecosystem. The manual is divided into an introduction, a detailed tutorial, and a software reference section. The introduction provides an overview of the document's structure, revision history, and copyright information. The tutorial section, which forms the core of this guide, covers the basic principles of capacity planning, including machine allocation, master data setup, and scheduling rules. It offers in-depth, step-by-step instructions on key functionalities such as using the Production Monitor, scheduling and rescheduling orders, campaign planning for specific processes, and managing reservations. It includes practical examples and exercises to help users understand concepts like date optimization, BOM analysis, and handling scheduling conflicts. The guide explains how to configure and customize the system by setting up shifts, calculating costs, defining transition times, and managing machinery groups to optimize production flow and resource utilization. The content is aimed at end-users responsible for ensuring efficient production, adherence to delivery dates, and flexible response to unforeseen events."
+description: "A+W Capacity Planning"
 ---
+
 
 # A+W Capacity Planning
 A+W - Software for Glass, Windows and Doors

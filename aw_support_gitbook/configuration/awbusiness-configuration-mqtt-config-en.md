@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-16-2"
-source: "EN-CONFIG-AW_Business-16-2.pdf"
-tags: ["A+W Business", "Configuration", "MQTT", "Infrastructure", "Feedback Service", "Delivery Date Update", "Smart Companion", "Backend Services", "Euler/Hermes API", "SGG Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for various modules and services within the A+W Business software suite. It covers setting up MQTT for feedback services, managing delivery date updates, integrating with the Euler/Hermes (Allianz Trade) API for credit management, and configuring backend services for the Smart Companion application for stock management."
-long_description: "This is a detailed configuration guide for A+W Business software, intended for system administrators and technical personnel. The document is divided into several key sections. The first part focuses on infrastructure configuration, specifically the activation and setup of the MQTT client for the feedback service, which enables real-time communication for events like delivery date changes. It provides examples of MQTT topic structures for single and multi-site environments and explains how to test and monitor these topics using MQTT Explorer. The guide then delves into the process of handling delivery date updates, both from external systems (like SG4P) to A+W Business and from A+W Business to external systems. It outlines the system architecture, database interactions, and necessary settings in both A+W Business and A+W Production to permit such changes. Another major section details the integration of the SGG Allianz Trade (formerly Euler/Hermes) Restful API. This involves configuring the system to fetch customer credit insurance data, store it in the database, and display it within the customer's financial data tabs in A+W Business. The document explains the required company data setup, formula examples for workflows, and how the credit limit data is displayed in customer management and document entry. Finally, it covers the setup for Smart Companion Backend Services for stock management, including licensing, barcode configuration (using regular expressions for Code39), service installation, and the process for handling goods receipt, outgoing goods, and inventory."
+description: "EN-CONFIG-AW_Business-16-2"
 ---
+
 
 ---
 ## 24.2.2. Infrastructure configuration

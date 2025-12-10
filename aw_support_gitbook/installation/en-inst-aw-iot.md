@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W IOT"
-category: "installation"
-product: "A+W IOT"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W IOT"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W IOT Platform (Base Actiware)    Change history:     Date           Edited by               Comments                                    Version     2019-01-09     OSO                     Original Version                            0.1     2019-01-30     OSO                     Screenshot added                            0.2          The installation instructions will assist the planner with the installation and      configuration process for the"
-source_file: "EN-INST-A+W IOT.pdf"
+description: "EN INST A+W IOT"
 ---
+
 
 
 # EN INST A+W IOT

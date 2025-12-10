@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_CAD_Designer_Shapes"
-source: "EN-INST-AW_CAD_Designer_Shapes.pdf"
-tags: ["A+W", "CAD Designer", "Installation", "Configuration", "Software", "Glass", "Windows", "Shapes"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for A+W CAD Designer 6 (Shapes), a software solution for the glass and windows industry. It covers system requirements, installation procedures, and detailed configuration steps."
-long_description: "This is a comprehensive installation guide for the A+W CAD Designer 6 (Shapes) software. It is intended for planners and system administrators responsible for deploying the application. The document begins with a change history, outlining the version updates from 1.0 to 1.4. It then details the necessary prerequisites for installation, including hardware, network, software (Windows 10/11, Windows Server 2008 R2+), and database requirements. The core of the document walks the user through the installation and configuration process using the 'SN Config Tool'. It explains how to handle new installations versus updates, configure global settings such as server directories, manage user-specific settings, set up service credentials, and update essential files like SN.ini. Screenshots of the configuration tool are provided at each step to guide the user through setting up default values, global parameters, user settings, services, and reviewing the final configuration paths. The guide concludes by explaining how to handle file conflicts during updates and finalize the setup."
+description: "EN-INST-AW_CAD_Designer_Shapes"
 ---
+
 
 # Installation Instructions: A+W CAD Designer 6 (Shapes)
 

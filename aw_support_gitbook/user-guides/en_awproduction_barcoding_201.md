@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Barcoding 2.01"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Barcoding_2.01"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Barcoding              H                             English                 A+W Production                                                                                                           Introduction                                           Introduction                                       This part of the documentation contains editorial notes.                                         Revision overview                                       Part"
-source_file: "EN_AWProduction_Barcoding_2.01.pdf"
+description: "EN AWProduction Barcoding 2.01"
 ---
+
 
 
 # EN AWProduction Barcoding 2.01

@@ -1,15 +1,7 @@
 ---
-title: "A+W Packing Optimization"
-category: "training"
-product: "AWProduction"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWProduction", "PackingOptimization", "GlassManufacturing", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWProduction_PMO_2.00" source: "EN_AWProduction_PMO_2.00.pdf" tags: ["A+W", "Packing Optimization", "Software Manual", "Glass Manufacturing", "Window Manufacturing", "Logistics", "PMO", "PackView"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical manual for A+W Packing Optimization, a software module for A+W Production. It details the processes for optimizing the packing of glass, windows, and doors onto racks and boxes to save space, reduce sorting time, and"
-source_file: "AWProduction-PackingOptimization-GlassManufacturing-Doc-EN.md"
+description: "A+W Packing Optimization"
 ---
+
 
 
 title: "EN_AWProduction_PMO_2.00"

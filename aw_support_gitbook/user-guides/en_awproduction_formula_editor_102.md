@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Formula Editor 1.02"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Formula_Editor_1.02"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Formula Editor              R                                  English                      A+W Production                  Introduction                                                                                Introduction                                             Introduction                                         In this part of the documentation you can find editorial notices.                                           Revision Overview                                         Part"
-source_file: "EN_AWProduction_Formula_Editor_1.02.pdf"
+description: "EN AWProduction Formula Editor 1.02"
 ---
+
 
 
 # EN AWProduction Formula Editor 1.02

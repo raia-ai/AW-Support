@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW Business Production Manager 4"
-source: "EN-INST-AW_Business_Production_Manager_4.pdf"
-tags: ["A+W Software", "iCut", "SQL Server", "Installation Guide", "Software Configuration", "License Management", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation and configuration instructions for the A+W iCut software, a component of the A+W Business Production Manager suite. It covers prerequisites, SQL Server setup, license server installation, and software activation."
-long_description: "This is a technical installation manual for A+W iCut, a specialized software solution for the glass and window industry. The guide walks administrators and technicians through the entire setup process, starting with system prerequisites like Windows 10/Server 2019 and .NET Framework 3.5. It details the steps for installing and configuring SQL Server Express, including creating a database instance, setting authentication modes, and restoring the A+W iCut database from a backup. The manual also covers the A+W licensing system, explaining how to create a machine fingerprint for a soft lock, install the license server, and apply the license file. Subsequent sections describe the installation of the A+W iCut software itself using the A+W Setup Launcher, including component selection and configuration of services like the A+W Commercial Exchange Windows Service. Finally, it outlines post-installation activation and the limited functionalities of the iCut edition compared to the full A+W Business suite, focusing on features relevant to production management on the cutting table."
+description: "EN-INST-AW Business Production Manager 4"
 ---
+
 
 ---
 ## 7 Uninstalling

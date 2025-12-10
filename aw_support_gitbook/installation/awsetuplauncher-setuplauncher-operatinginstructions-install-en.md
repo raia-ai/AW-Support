@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_SetupLauncher"
-source: "EN-INST-AW_SetupLauncher.pdf"
-tags: ["A+W", "Setup Launcher", "Installation Guide", "Software", "Operating Instructions", "Windows Server", "AutoUpdate", "Technical Manual", "Software Deployment"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides operating instructions for the A+W Setup Launcher, a tool for installing and managing A+W software for glass and windows. It covers new installations, updates, automated setups, and server preparation."
-long_description: "This is a comprehensive technical manual detailing the operating instructions for the A+W Setup Launcher. The document serves as a guide for system administrators and technicians responsible for deploying and maintaining the A+W software suite. It begins with a detailed change history, tracking versions from 1.0.1000 to 13.5. The core of the manual is divided into major sections covering new installations, updates, and server preparation. The 'New Installation' section provides a step-by-step procedure, including creating an installation directory, understanding prerequisites (hardware, software, network), and the time required. It walks the user through the setup wizard with screenshots, explaining how to select disksets, choose installation locations, and manage components. The guide also explains the 'AutoUpdate' feature, which allows for synchronizing setup packages from an A+W FTP server and running updates automatically. It details the configuration of FTP access, email notifications, and scheduled tasks. Furthermore, the document covers advanced topics like command-line options for silent or automated installations and the process for preparing a Windows Server 2012 environment, specifying the necessary roles, role services, and features required for the A+W software to function correctly."
+description: "EN-INST-AW_SetupLauncher"
 ---
+
 
 # Operating instructions: A+W Setup Launcher
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Rough_Scheduling_2.50"
-source: "EN_AWProduction_Rough_Scheduling_2.50.pdf"
-tags: ["A+W Production", "Rough Scheduling", "ERP", "Glass Manufacturing", "Window Manufacturing", "Door Manufacturing", "Production Planning", "Batch Creation", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Rough Scheduling module within the A+W Production software suite. It serves as both a tutorial and a software reference for users responsible for production preparation, batch creation, and optimizing the production process for glass, windows, and doors. The guide details how to manage orders, create and configure views, and utilize features like buckets and batches to streamline workflow from the ERP system to final production."
-long_description: "This is a detailed guide for the 'A+W Rough Scheduling' module, a component of the 'A+W Production' software, which is designed for the glass, window, and door manufacturing industries. The document is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section is aimed at persons in charge of production preparation, guiding them through the entire rough scheduling process, from understanding the production preparation workflow to creating and managing batches using various strategies. It covers configuring different views (tabs, columns, filters), managing orders in the 'Pool,' using 'Buckets' for intermediate storage, and implementing different 'Batch' strategies for optimal production. The Software Reference section provides an in-depth, dialog-by-dialog description of all features, components, and context menus within the Rough Scheduling module. This includes detailed explanations of dialogs for managing Orders, Buckets, Batches, Items, Processings, Glass Types, and more. It also covers overlapping dialogs and general UI components like context menus, filter definitions, and properties tabs. The manual is intended to help users leverage the full capabilities of the software to optimize production capacity, manage order data effectively, and streamline the transition of orders from the ERP system into schedulable production units."
+description: "EN_AWProduction_Rough_Scheduling_2.50"
 ---
+
 
 # A+W Rough Scheduling
 

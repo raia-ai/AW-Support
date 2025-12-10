@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Detailed Scheduling 3.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Detailed_Scheduling_3.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Detailed Scheduling        D                                 English                     A+W Production                                                                                                              Introduction                                             Introduction                                         In this part of the documentation you can find editorial notices.                                           Revision Overview                                         Part"
-source_file: "EN_AWProduction_Detailed_Scheduling_3.00.pdf"
+description: "EN AWProduction Detailed Scheduling 3.00"
 ---
+
 
 
 # EN AWProduction Detailed Scheduling 3.00

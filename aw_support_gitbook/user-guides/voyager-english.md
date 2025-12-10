@@ -1,15 +1,7 @@
 ---
-title: "Voyager   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Voyager ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Voyager 1202g Wireless Single-Line Laser Scanner Honeywell’s Voyager™ 1202g single-line laser scanner incorporates the freedom of Bluetooth® wireless technology and offers a field-replaceable battery that can be quickly and easily exchanged. The new 1202g delivers the aggressive linear bar code scanning that users have come to expect from the world-renowned Voyager family of scanners.  Voyager 1202g incorporates a Bluetooth® Class 2, v2.1 radio, enabling unrestricted movement up to 10 meters (33"
-source_file: "Voyager - English.pdf"
+description: "Voyager   English"
 ---
+
 
 
 # Voyager   English

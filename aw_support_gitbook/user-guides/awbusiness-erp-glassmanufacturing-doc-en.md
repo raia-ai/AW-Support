@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_1-1"
-source: "EN_AWBusiness_Production_1-1.pdf"
-tags: ["A+W Business", "A+W Production", "ERP", "Glass Manufacturing", "Window Manufacturing", "Production Management", "Software Manual", "Tutorial", "Logistics", "Dispatch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual and tutorial for the A+W Business Production module. It covers the core functionalities of transferring orders to production, managing dispatch and logistics, and utilizing various reporting and overview features."
-long_description: "This document serves as a comprehensive guide and tutorial for the A+W Business Production module, a software solution designed for the glass, window, and door manufacturing industries. The manual is divided into several key sections, including an introduction with revision history, a detailed tutorial, and a software reference. The tutorial section provides step-by-step instructions on fundamental processes such as transferring orders to production with and without capacity planning, handling reports from production, managing logistics and dispatch, and using overview features for dates and capacity. It explains different process variations, including manual transfers, workflow-based automation, and special cases like quotation optimization. The document details schematic processes, settings for workflow tasks, and basic concepts of production and dispatch organization within the A+W Business ecosystem. It is intended for end-users who are responsible for organizing production and shipping, assuming familiarity with the software's master data and order entry concepts."
+description: "EN_AWBusiness_Production_1-1"
 ---
+
 
 # A+W Production
 ---

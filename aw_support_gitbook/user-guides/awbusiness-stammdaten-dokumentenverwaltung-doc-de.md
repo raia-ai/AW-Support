@@ -1,19 +1,7 @@
 ---
-title: "D-AWBusiness-HB_6"
-source: "D-AWBusiness-HB_6.pdf"
-tags: ["A+W Business", "Stammdaten", "Dokumentenverwaltung", "Statusvergabe", "Sperrkennzeichen", "Nummernkreise", "Rundungen", "Faktura", "Formulardruck", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical tutorial (Tutorial 2) for the A+W Business software, covering document status management, lock indicators, number ranges, rounding rules, and invoice settings in the master data module."
-long_description: "This document is a technical tutorial (Tutorial 2) for the A+W Business software, focusing on master data management for documents. It covers several key areas:
-- **Status Management**: How to control document workflows using status points, including automatic, manual, and lock statuses. It details the process of status assignment and the use of lock indicators to prevent certain actions.
-- **Lock Indicators (Sperrkennzeichen)**: Explains how to use lock indicators to block documents for specific processes (like invoicing for partial deliveries) and redirect them to different workflow steps.
-- **Number Ranges (Nummernkreise)**: Describes the setup and function of number ranges for various document types (offers, orders, invoices) to ensure unique identification. It covers assigning ranges per client, business area, or even employee.
-- **Rounding Rules (Rundungen)**: Details the configuration of rounding for prices, taxes, and other values. It explains rounding points (what is rounded), rounding methods (commercial, up, down), and how to create specific rounding rules for different market partners or product groups.
-- **Invoice Settings (Einstellungen zur Faktura)**: Covers the financial data required for invoicing, such as tax rates, currencies, and payment terms.
-- **Text and Document Printing**: Explains how to manage standardized texts, use variables and formulas in documents, and configure form printing, including direct printing and print jobs.
-The tutorial provides step-by-step instructions, examples, and screenshots to guide the user through configuring these settings in the A+W Business Stammdaten module."
+description: "D-AWBusiness-HB_6"
 ---
+
 
 ---
 ## Tutorial 2: Dokumente

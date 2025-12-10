@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Business"
-category: "configuration"
-product: "A+W Business"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Business"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Business v6                               english                         -INTERNAL- Change history  Date        Edited by      Comments                                                     Version 2017-03-02 A.Noll          Reporting Service with Crystal Reports (Beta)3.10.           13.02.0122                             Transferring stock items with quantity specification Range   13.02.0130 2017-03-09 S.Weil                            of numbers for stock movements7.10"
-source_file: "EN-CONFIG-A+W Business.pdf"
+description: "EN CONFIG A+W Business"
 ---
+
 
 
 # EN CONFIG A+W Business

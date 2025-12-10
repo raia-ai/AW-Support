@@ -1,12 +1,7 @@
 ---
-title: "US_AWEnterprise_DispatchControl_HelpCards"
-source: "US_AWEnterprise_DispatchControl_HelpCards.pdf"
-tags: ["A+W Enterprise", "Dispatch Control", "Software Help Guide", "Logistics Management", "Route Planning", "Dispatch Explorer", "Order Management", "Glass Manufacturing", "Window Manufacturing", "Door Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user guide for the A+W Enterprise Dispatch Control module, providing step-by-step instructions (Help Cards) for tasks like managing routes, editing orders, preparing dispatch, and using the Dispatch Explorer."
-long_description: "This document is a collection of 'Help Cards' from A+W, a software provider for the glass, windows, and doors industry. It details procedures for the Dispatch Control module in A+W Enterprise version 6. The guide is designed to assist users in performing key logistical functions, covering topics such as searching for deliveries, working with and without the Dispatch Explorer, and editing routes, orders, and individual items. It also provides workflows for preparing dispatch, which includes managing missing quantities, correcting packed quantities, changing delivery addresses, creating delivery notes, and editing loading sequences. Additional functions like displaying route graphics and viewing detailed order information are also explained. The document serves as a practical, task-oriented reference for dispatch planners and logistics personnel, with each help card outlining the objective, prerequisites, and a clear, step-by-step workflow."
+description: "US_AWEnterprise_DispatchControl_HelpCards"
 ---
+
 
 # A+W Enterprise: Dispatch Control Help Cards
 

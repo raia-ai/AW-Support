@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_ERP_Web_Service"
-source: "EN-INST-AW_ERP_Web_Service.pdf"
-tags: ["A+W ERP Web Service", "Installation Guide", "IIS Configuration", "HTTPS", "A+W Business 6", "A+W Enterprise 6", "Software Installation", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation instructions for the A+W ERP Web Service. It covers system requirements, step-by-step procedures for both A+W Business 6 and Enterprise 6, HTTPS/SSL configuration in IIS, and post-installation verification and troubleshooting."
-long_description: "This is a detailed technical guide for installing and configuring the A+W ERP Web Service. Intended for system administrators and technical personnel, the instructions cover the complete installation lifecycle. It begins with pre-installation checks, system requirements (hardware, network, software), and time estimates. The core of the document provides a step-by-step procedure for setting up the web service using the A+W Setup Launcher, with specific configuration paths for A+W Business 6 and A+W Enterprise 6 systems, including database connections and user account permissions. A significant section is dedicated to securing the web service by configuring HTTPS and SSL certificates within the Internet Information Services (IIS) Manager. The guide also thoroughly documents all necessary settings within the A+W CommonBase, provides troubleshooting tips, addresses frequently asked questions, details known errors, and explains how to verify a successful installation and properly uninstall the service."
+description: "EN-INST-AW_ERP_Web_Service"
 ---
+
 
 # Installation Instructions: A+W ERP Web Service
 

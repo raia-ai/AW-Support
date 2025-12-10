@@ -1,12 +1,7 @@
 ---
-title: "AW_Sales_Tool_2025_2"
-source: "AW_Sales_Tool_2025_2.pdf"
-tags: ["A+W", "glass manufacturing", "ERP", "logistics", "production planning", "optimization", "smart factory", "barcode management", "mobile applications", "software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document outlines the suite of software solutions offered by A+W for the glass manufacturing and processing industry. It details various optimizer modules, management tools, and mobile applications designed to enhance production efficiency, logistics, and overall factory automation."
-long_description: "This presentation serves as a comprehensive overview of the A+W software portfolio, a suite of integrated solutions designed to create a 'Smart Factory' for the glass industry. The document is structured as a sales and marketing tool, showcasing a wide range of products that cover the entire production and logistics chain. It begins by detailing production-focused optimizers such as the Defect Optimizer, Continuous Cutting, Furnace Optimizer, and Rack Optimizer, which aim to reduce costs, improve quality, and maximize resource utilization. It also covers management tools like Residual Stock Management and Barcode Manager for enhanced tracking and control. The presentation introduces the A+W Smart Factory concept, a system for automated, just-in-time production planning. A significant portion is dedicated to A+W Logistic Solutions, including Smart Delivery Maps, Logistic Optimizer, Freight Optimizer, and the GDC mobile app, which streamline route planning, truck loading, and delivery tracking. The document also highlights mobile applications, such as the A+W Smart Companion for on-the-spot data acquisition and the A+W iShape for digital templating. Finally, a 'Shop Floor' diagram visually integrates all these modules, illustrating how they function together in a real-world production environment."
+description: "AW_Sales_Tool_2025_2"
 ---
+
 
 ---
 ## A+W Defect Optimizer

@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_36"
-source: "D-AWBusiness-HB_36.pdf"
-tags: ["logistics software", "A+W Business Logistics Optimizer", "tour planning", "fleet management", "route optimization", "software tutorial", "software reference", "database configuration", "reporting", "user administration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial and software reference for the A+W Business Logistics Optimizer. It covers key functionalities such as planning, executing, and monitoring delivery tours, managing system data, and generating reports."
-long_description: "This document serves as a detailed guide for users of the A+W Business Logistics Optimizer software. It is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section provides step-by-step instructions on how to perform common tasks, including driving and monitoring tours, using the logbook, managing documents, and performing various queries. It explains how to interpret status colors, work with logbook entries, and generate delivery lists. The Software Reference section offers an exhaustive description of every menu, dialog, and parameter within the application. This includes detailed guidance on system configuration (database connections, application parameters), administration (managing users, statuses, customers, vehicles, drivers, and reports), and the planning module (creating, copying, editing, and deleting tours). It is a crucial resource for both new users seeking to learn the software and experienced users needing detailed information on specific features and settings for route optimization and fleet management."
+description: "D-AWBusiness-HB_36"
 ---
+
 ## Touren fahren und überwachen
 
 ### Register Stationen

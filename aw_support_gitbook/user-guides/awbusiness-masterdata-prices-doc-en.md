@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_7-4"
-source: "EN_AWBusiness_Master_Data_9_7-4.pdf"
-tags: ["A+W Business", "Master Data", "Prices", "Exchange Surcharges", "Group Surcharges", "Price Groups", "Shape Processing", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Master Data software, focusing on the 'Prices' module. It details procedures for copying, changing, and deleting exchange prices, exchange surcharges, and group surcharges, as well as managing price groups and shape processing surcharges."
-long_description: "This document is a comprehensive software reference for the 'Prices' section within the A+W Business Master Data application. It provides detailed, step-by-step instructions for managing various pricing components. The guide covers several key functions: 'Copy Exchange Prices,' which allows users to duplicate or modify surcharges between tables; 'Copy Prices per Exchange Product,' for handling surcharges for specific items; and 'Delete/Change Exchange Prices' for bulk modifications. It also explains the configuration of 'Price Groups' to streamline pricing for patterned glass and exchange surcharges, and the 'Price Group Allocation' process. Furthermore, the document details how to manage 'Group Surcharges' based on glass thickness and 'Shape Processing Surcharges' for custom shapes. Finally, it touches upon 'Mixed Price Calculation' for special glass structures and the system-level configuration of 'Price and Quantity Units.' Each section includes navigation paths, descriptions of dialog boxes and fields, and references to related tutorials."
+description: "EN_AWBusiness_Master_Data_9_7-4"
 ---
+
 
 # Prices
 

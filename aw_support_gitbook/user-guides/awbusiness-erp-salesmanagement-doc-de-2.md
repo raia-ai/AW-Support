@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Verkauf Software Reference (C-601 to C-700)"
-source: "DE_AWBusiness_Verkauf_4_7.pdf"
-tags: ["A+W Business Verkauf", "Software Reference", "ERP", "Sales Management", "Order Processing", "Pricing", "Item Management", "Bill of Materials", "Invoicing", "German Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference guide for the A+W Business Verkauf application, covering sections C-601 to C-700. This document outlines functionalities related to overviews and references for sales positions, including price/condition information, item details, macros, number range management, printing, order handovers, and object billing."
-long_description: "This document is a comprehensive excerpt from the A+W Business Verkauf software reference manual, specifically pages C-601 through C-700. It provides a technical deep-dive into the various functions available for managing sales positions and related documents. The guide begins with instructions on accessing and interpreting price and condition information, such as automatic surcharges and customer-specific data. It then details the 'Artikel-Informationen' (Item Information) dialog, which allows users to view product details, pricing, stock levels, and attachments without navigating to master data. Subsequent sections cover advanced functionalities like 'Zusatz Stückliste' (BOM Additions), the 'Preisrecorder' for tracking price history, and 'Artikel fixieren' for creating customer-specific items. The manual also explains how to manage macros for recurring product configurations, handle partial deliveries ('Teillieferungen'), and utilize the 'Nummernverwalter' (Number Range Manager) for organizing various document types like orders, quotes, and invoices. Extensive guidance is provided on the printing module ('Druck'), covering the generation of forms, labels, dimensioned sketches, and the setup of print jobs. The 'Übergabe Bestellungen' (Order Handover) process is thoroughly documented, explaining how to transfer order items to purchasing, manage supplier data, and compare prices. Finally, the guide covers data exchange with other systems, including FiBu (financial accounting) transfers, archiving, data import/export, and the specialized 'Objektabrechnung' (Object Billing) module for project-based accounting."
+description: "A+W Business Verkauf Software Reference (C-601 to C-700)"
 ---
+
 
 # Übersichten und Referenzen zu Positionen
 

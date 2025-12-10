@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Production Pattern Viewer"
-category: "installation"
-product: "A+W Production Pattern Viewer"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Production Pattern Viewer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions   A+W Production Pattern Viewer    Change history:      Date            Edited by               Remarks                                   Version      2019-06-04      DLA                     Original version                          1.0          The installation instructions will assist the planner with the installation and      configuration process for the software named. Please proceed in the following      sequence:        1.      Check the installation requirement"
-source_file: "EN-INST-A+W Production Pattern Viewer.pdf"
+description: "EN INST A+W Production Pattern Viewer"
 ---
+
 
 
 # EN INST A+W Production Pattern Viewer

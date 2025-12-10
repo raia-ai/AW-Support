@@ -1,15 +1,7 @@
 ---
-title: "BQR Changes 2025 FAQ"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["BQR Changes 2025 FAQ"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Change in BQR Bonus  TL;DR: The “Performance Factor Target” is being discontinued and replaced by the “Personal Factor,” simplifying the bonus calculation without affecting the payout, effective from 2025.   Q: What is being changed? A: The “Performance Factor Target” will be discontinued. The previous “Personal Target Bonus in %” will be converted into the “Personal Factor.”  Old:     New:     Q: Why is the change being made? A:    • The BQR Bonus considers EBITA (profit) and NRG (growth) in th"
-source_file: "BQR Changes 2025 FAQ.pdf"
+description: "BQR Changes 2025 FAQ"
 ---
+
 
 
 # BQR Changes 2025 FAQ

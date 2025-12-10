@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Intrastat_XML_Connector"
-source: "EN-CONFIG-AW_Enterprise_Intrastat_XML_Connector.pdf"
-tags: ["A+W Enterprise", "Intrastat", "XML Connector", "Configuration", "ERP", "Trade Statistics", "German Federal Statistics Office", "AWE FinAc", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a configuration guide for the A+W Enterprise Intrastat XML Connector. It details the setup and processes required to generate Intrastat reports for trade between EU member states, specifically for submission to the German Federal Statistics Office. The guide covers master data maintenance, process flows for orders and purchase orders, and the data export mechanism."
-long_description: "This internal A+W document provides comprehensive configuration instructions for the 'A+W Enterprise Intrastat XML Connector'. The purpose of this module is to facilitate the collection and reporting of trade statistics (Intrastat) between Germany and other European Union member states, as required by the German Federal Statistics Office. The data is used for analyzing European competitive ability. The guide outlines the necessary requirements and configuration steps within the A+W Enterprise (AWE) software. It covers the maintenance of essential master data, including country codes, regions, business types, and product codes. It explains the role of environment variables like INTRASTAT_NEU for activating updated logic. The document details the process for generating Intrastat bookings from sales orders (SA) and purchase orders (PO), which occurs after invoicing. It describes how to manage market partner and article master data to ensure correct Intrastat code assignment. The guide also explains how data is booked into the 'intrastat' table, including handling partial invoices, and describes the fields within the Intrastat booking views. Finally, it touches upon the export of this data into an XML format using the AWE FinAc Service and the printing of Intrastat lists."
+description: "EN-CONFIG-AW_Enterprise_Intrastat_XML_Connector"
 ---
+
 
 # A+W Configuration: A+W Enterprise Intrastat XML Connector
 

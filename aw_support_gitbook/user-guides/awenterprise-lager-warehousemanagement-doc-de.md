@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Lager_1.01"
-source: "DE_AWEnterprise_Lager_1.01.pdf"
-tags: ["A+W Enterprise", "Lager", "Warehouse Management", "Inventory", "ERP", "Glass Software", "Window Software", "Door Software", "Technical Manual", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the software reference manual for the A+W Enterprise 'Lager' (Warehouse) module, version 1.01. It provides a comprehensive guide for end-users on managing warehouse operations, including goods receipt, goods issue, inventory management, stock valuation, and system administration."
-long_description: "This is the detailed software reference guide for the 'Lager' (Warehouse) module of the A+W Enterprise ERP system, specifically for version 1.01 dated January 2017. The document is intended for end-users and provides an exhaustive overview of all functions related to warehouse management for glass, windows, and doors. It covers core processes such as goods receipt (`Lagereingang`), goods issue (`Lagerausgang`), and various specialized storage types like crate (`Kistenlager`), bin (`Fachlager`), stack (`Stapellager`), and rack (`Gestelllager`) management. The manual details the procedures for performing inventory (`Inventur`) and stock valuation (`Bestandsbewertung`) across these different storage types. It also explains the use of the extensive information system (`Infosystem`) for searching and reporting on articles, variants, stock levels, and historical data. Furthermore, it outlines system administration tasks, printing functions, and service utilities. The guide uses screenshots and step-by-step descriptions to explain the user interface, dialogs, and menu structures, making it an essential resource for operating the A+W warehouse module effectively."
+description: "DE_AWEnterprise_Lager_1.01"
 ---
+
 
 # A+W Lager
 **A+W Enterprise**

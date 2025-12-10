@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kapazitaetsplanung_4_4"
-source: "DE_AWBusiness_Kapazitaetsplanung_4_4.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Produktionsmeldungen", "Leitstand", "Fertigungssteuerung", "ERP", "Software-Referenz", "Betriebsdatenerfassung", "BDE"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Pro Capacity Planning module. It provides detailed instructions on how to use the production feedback and control station (Leitstand) functionalities, including manual completion reports, scrap reports, and production list management. It is intended for administrators and production staff."
-long_description: "This comprehensive software reference guide details the functionalities of the A+W Business Pro Capacity Planning module, focusing on production feedback (`Produktionsmeldungen`) and the control station (`Leitstand`). It explains how to integrate the current production status into capacity planning to generate overviews, production lists, and graphical representations of the manufacturing progress. The manual covers procedures for users who do not work with feedback from a Manufacturing Execution System (MES/BDE), enabling them to manually report the completion of runs, orders, or order items at various production stations. It describes how to report both completions and scrap, manage user rights for reporting, and navigate the various dialogs. Key topics include reporting by date, run, and manual entry; viewing production lists; understanding the production status of an order; and changing production times. The 'Leitstand' section provides a deep dive into checking and correcting the entire production schedule, including machine utilization, manual rescheduling of orders, and managing various production views (by area, aggregate, order, etc.). It serves as an essential guide for administrators and production personnel to effectively manage and monitor the production workflow within A+W Business Pro."
+description: "DE_AWBusiness_Kapazitaetsplanung_4_4"
 ---
+
 
 # Produktionsmeldungen
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerShapes_11"
-source: "EN-UM-AWCADDesignerShapes_11.pdf"
-tags: ["A+W CAD Designer", "Shapes", "User Manual", "CAD Software", "Technical Documentation", "CNC", "DXF", "CAMXML", "Data Export"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed user manual for A+W CAD Designer (Shapes), covering tools, file interactions, data export formats (CNC, DXF, CAMXML), and display settings. It includes step-by-step 'Help Cards' for creating and manipulating various geometric shapes and processings like cut-outs and drill holes."
-long_description: "This document serves as a comprehensive overview and user guide for the A+W CAD Designer (Shapes) software. It is divided into several key sections. The 'Tools' and 'Fixed Questions' section details interactions with A+W Production, explaining how to manage variables, create automatic variables, and handle different file formats like SN, CNC, DXF, and CAMXML for data exchange with machinery. It provides guidelines for creating compatible DXF files and explains the advantages of the extended CAMDXF format. The manual also covers various data export options, including standard formats, special machinery formats, and exporting parts of a Bill of Materials (BOM). Another major section focuses on customizing the drawing display, such as changing measurement units (mm, inches), showing critical points, measuring points, and using a grid. The document concludes with a series of practical 'Help Cards' that provide step-by-step tutorials on creating geometries (e.g., rectangles with cut-offs, arrows, parallelograms), handling processings (e.g., cut-outs, drill holes), and using macros and templates. These cards include visual aids and list the required tools for each task, making it a valuable resource for both new and experienced users of the software."
+description: "EN-UM-AWCADDesignerShapes_11"
 ---
+
 
 ---
 ## Tools & Fixed Questions

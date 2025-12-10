@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Inventory_Management_6_1-1"
-source: "EN_AWBusiness_Inventory_Management_6_1-1.pdf"
-tags: ["Inventory Management", "A+W Business", "Software Tutorial", "Stock Management", "Master Data", "ERP", "Glass Manufacturing", "Windows and Doors", "Stock Control", "Purchasing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the Inventory Management module of A+W Business, a software solution for the glass, windows, and doors industry. It covers the fundamentals of stock management, from setting up master data to performing daily operations like booking movements and conducting inventory counts."
-long_description: "This comprehensive tutorial guides users through the Inventory Management module in A+W Business software. It begins with an introduction that includes a revision history and editorial notes. The main tutorial section provides an overview of stock management basics, including processes for orders, purchasing, and inventory updates. It details how to set up essential master data, such as defining stock levels, storage locations, stock categories, and pricing. The document explains different stock management modes (area-based, piece-based, and combined) and their implications. The tutorial provides step-by-step instructions for key functions like creating stock articles, booking stock movements, handling purchase orders (P.O.), querying stock information, and performing periodical and initial inventories. It is intended for end-users who manage stock and are familiar with the master data, sales, and purchasing concepts within A+W Business."
+description: "EN_AWBusiness_Inventory_Management_6_1-1"
 ---
+
 
 # A+W Inventory Management: A+W Business
 

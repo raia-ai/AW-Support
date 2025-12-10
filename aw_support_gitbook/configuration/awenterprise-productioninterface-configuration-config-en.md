@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Production_Interface"
-source: "EN-CONFIG-AW_Enterprise_Production_Interface.pdf"
-tags: ["A+W Enterprise", "Production Interface", "Configuration", "OrderXML", "ALCIB", "AWP", "Software for Glass", "ERP", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Enterprise 6 Production Interface. It details the process of transferring order and quotation data from A+W Enterprise (ALCIB) to a production system like A+W Production (AWP/ALCIM) using the OrderXML format. It is an internal technical manual intended for project engineers, covering installation, configuration, environment variables, and troubleshooting."
-long_description: "This is a comprehensive internal configuration manual for the A+W Enterprise 6 Production Interface. It describes the technical processes for integrating A+W Enterprise (ALCIB), an ERP system for the glass industry, with A+W Production (AWP/ALCIM), a production management system. The primary mechanism for this integration is the OrderXML interface, which facilitates the transfer of order, quotation, and production data. The document is intended for A+W project engineers and requires in-depth knowledge of the internal data structures and processes of ALCIB. It covers a wide range of topics including system architecture, process overviews, installation and configuration of the OrderXML Windows service, management of environment variables, and detailed explanations of the OrderXML file structure and content. The manual also includes extensive change history, troubleshooting guides, and specific instructions for handling various data types such as spacers, muntins, and processing steps. Additionally, it details the connection to AWP, including functions for cost calculation, stock forecasting, and status feedback."
+description: "EN-CONFIG-AW_Enterprise_Production_Interface"
 ---
+
 
 # A+W Configuration Instructions
 # A+W Enterprise 6 Production Interface

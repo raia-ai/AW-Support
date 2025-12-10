@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Capacity_Planning_4_5"
-source: "EN_AWProduction_Capacity_Planning_4_5.pdf"
-tags: ["capacity planning", "software reference", "A+W Production", "time master data", "shift planning", "formula editor", "machinery costs", "load distribution", "transition times", "technical manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Production Capacity Planning module. It provides detailed instructions on configuring time master data, managing work shifts, setting up transition times between machines, calculating machinery costs, and distributing loads. The guide covers all relevant dialogs, fields, and settings for administrators and advanced users."
-long_description: "This technical reference manual provides an in-depth guide to the A+W Production Capacity Planning software module. It is designed for system administrators and advanced users responsible for configuring and maintaining production planning parameters. The document systematically explains how to manage master data to optimize production scheduling and resource allocation.
+description: "EN_AWProduction_Capacity_Planning_4_5"
 ---
+
 
 Key sections include:
 - **Time Master Data**: Detailed instructions on creating and managing default time formulas for production processes. This covers the calculation sequence, the use of vectors for variable time allowances, and the creation of custom formulas using the integrated formula editor. It explains how to test and validate these formulas to ensure accurate time calculation.

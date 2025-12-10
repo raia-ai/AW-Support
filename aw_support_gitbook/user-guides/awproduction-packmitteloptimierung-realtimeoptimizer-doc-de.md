@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_12"
-source: "D-AWProduction-HB_12.pdf"
-tags: ["A+W Production", "Packmitteloptimierung", "Realtime Optimizer", "Software Reference", "Tutorial", "Glass Cutting", "Optimization", "Zuschnitt", "PackView", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for A+W's production software, detailing the Packmitteloptimierung (Packaging Optimization) module in PackView and the A+W Realtime Optimizer for cutting optimization. It includes software references and tutorials."
-long_description: "This document serves as a comprehensive technical guide for two key components of the A+W Production software suite: Packmitteloptimierung and A+W Realtime Optimizer. The first section is a software reference for the 'Packmitteloptimierung' (Packaging Optimization) module, accessible through PackView. It details the various menu functions, buttons, and views for manipulating and organizing packaging units (scheiben) on racks (gestelle). This includes functions for rotation, alignment, viewing properties, and managing racks and crates. The second, more extensive part of the document focuses on the A+W Realtime Optimizer, a powerful tool for optimizing glass cutting processes. This section is divided into a tutorial and a software reference. The tutorial covers fundamental concepts, data transfer from upstream systems, manual data entry for urgent or broken items, creating and managing cutting optimizations (Tischoptimierungen), and controlling the cutting table (Zuschnitt). It also explains how the Realtime Optimizer interacts with other A+W modules like Pattern Viewer, Residual Stock Manager, and PlanEditor to create a seamless production workflow. The software reference provides an exhaustive description of every dialog, menu, button, and parameter within the Realtime Optimizer, making it an essential resource for operators and system administrators."
+description: "D-AWProduction-HB_12"
 ---
+
 
 # A+W Production Packmitteloptimierung
 

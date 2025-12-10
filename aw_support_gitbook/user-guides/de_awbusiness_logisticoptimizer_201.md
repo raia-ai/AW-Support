@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness LogisticOptimizer 2.01"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_LogisticOptimizer_2.01"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Logistic Optimizer              I                                   Deutsch                          A+W Business                                                                                                            Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part"
-source_file: "DE_AWBusiness_LogisticOptimizer_2.01.pdf"
+description: "DE AWBusiness LogisticOptimizer 2.01"
 ---
+
 
 
 # DE AWBusiness LogisticOptimizer 2.01

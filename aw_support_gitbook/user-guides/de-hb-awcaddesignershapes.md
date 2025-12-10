@@ -1,15 +1,7 @@
 ---
-title: "DE HB AWCADDesignerShapes"
-category: "user_manuals"
-product: "AWCADDesignerShapes"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWCADDesignerShapes"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W CAD Designer (Shapes)  Handbuch     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              10-2024     Gesamthandbuch für PDF und HTML5-Format aktualisiert.               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W CAD De-             signer (Shapes) gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz             vergeben und darf nur gemäß dieser Lize"
-source_file: "DE-HB-AWCADDesignerShapes.pdf"
+description: "DE HB AWCADDesignerShapes"
 ---
+
 
 
 # DE HB AWCADDesignerShapes

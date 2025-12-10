@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction DynOpt"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_DynOpt"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W DynOpt   N                  english                                                                                                    Introduction                                   Introduction                               This section of the documentation contains editorial notes.                                 Revision overview                               Version / Date             Description                                1.00 / 03-2016             Original version"
-source_file: "EN_AWProduction_DynOpt.pdf"
+description: "EN AWProduction DynOpt"
 ---
+
 
 
 # EN AWProduction DynOpt

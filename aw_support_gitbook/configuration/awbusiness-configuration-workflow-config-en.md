@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-11"
-source: "EN-CONFIG-AW_Business-11.pdf"
-tags: ["A+W Business", "Configuration", "Workflow", "Formulas", "Customizing", "Tax Calculation", "ALCIM", "Reporting Service", "Brazil Tax", "Order Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides advanced configuration details for A+W Business software, focusing on custom formulas, workflow automation, and specific regional settings like Brazilian tax calculation. It covers topics such as data containers, reporting services, and integration with ALCIM for production planning."
-long_description: "This is a comprehensive technical guide for configuring A+W Business software. It delves into the creation and application of custom formulas to handle complex business logic, particularly for tax calculations (with a detailed section on Brazilian tax laws like ICMS, PIS, etc.), cash discount calculations, and user-defined data fields. A significant portion of the document is dedicated to workflow automation using the ALFAK Interface Service (AIS). It explains how to set up, manage, and sequence workflow tasks for various processes, including order transfer to ALCIM Capacity Planning, production release, status updates, and document printing. The guide provides numerous code examples, function parameters, and screenshots to illustrate the customization of data containers, number managers, and reporting services. It also covers procedures for handling payment information, sending declarations of performance, and managing changes to orders after they have been released to production."
+description: "EN-CONFIG-AW_Business-11"
 ---
+
 
 At document entry, tax calculation has to be triggered when fields are changed. This requires menu customizing. Save the field contents in the order structure and open tax calculation and display of fields.
 

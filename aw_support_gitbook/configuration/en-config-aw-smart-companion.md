@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Smart Companion"
-category: "configuration"
-product: "A+W Smart Companion"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Smart Companion"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Smart Companion                                   english                           - -INTERNAL- Change history          Date      Author   Remarks                                             Version         2019-05-09 PK      Beta release                                        0.1         2019-11-27 PK      Installation via AppStore or PlayStore              1.0         2022-07-22 ABE     Content split into configuration and installation   2.0"
-source_file: "EN-CONFIG-A+W Smart Companion.pdf"
+description: "EN CONFIG A+W Smart Companion"
 ---
+
 
 
 # EN CONFIG A+W Smart Companion

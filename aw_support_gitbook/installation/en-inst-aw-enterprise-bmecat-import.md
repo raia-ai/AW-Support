@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise BMECat Import"
-category: "installation"
-product: "A+W Enterprise BMECat Import"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise BMECat Import"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 BMECat Import    Change history:     Date          Edited by                Remarks                                     Version     16.04.22      MP                       New creation                                1.0     16.12.13      MP                       AutoUpdate                                  1.1          The installation instructions will assist the planner with the installation and      configuration process for the softwa"
-source_file: "EN-INST-A+W Enterprise BMECat Import.pdf"
+description: "EN INST A+W Enterprise BMECat Import"
 ---
+
 
 
 # EN INST A+W Enterprise BMECat Import

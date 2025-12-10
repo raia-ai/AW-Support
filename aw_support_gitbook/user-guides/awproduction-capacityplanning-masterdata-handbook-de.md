@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_6"
-source: "DE_HB_AWProduction_6.pdf"
-tags: ["capacity planning", "A+W Production", "master data", "shift planning", "reservations", "production scheduling", "cost calculation", "Vorgabezeiten", "Schichtpläne", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial and software reference for the A+W Production Capacity Planning module. This document provides step-by-step instructions for managing reservations, process generation, and configuring essential master data such as shifts, costs, and machine parameters."
-long_description: "This document serves as a detailed guide for the A+W Production Capacity Planning (Kapazitätsplanung) software. It is divided into a tutorial section and a software reference section. The tutorial provides practical exercises and instructions on key functionalities, including creating and managing reservations for customers and objects, generating production processes for scheduling, and handling various master data configurations. Key master data topics covered in-depth are: creating and managing shifts and shift plans (Schichten), defining cost calculations (Kostenkalkulation) for labor and machines, setting up transition times (Übergangszeiten) between production steps, configuring default processing times (Vorgabezeiten) using complex formulas, organizing machine groups (Maschinengruppen), and managing load distribution (Lastverteilung) for bottleneck resources. The software reference section provides a systematic overview of the user interface, detailing dialogs, fields, and functions for production monitoring, scheduling, and master data maintenance. The document is intended for administrators and advanced users responsible for setting up and maintaining the capacity planning environment in A+W Production."
+description: "DE_HB_AWProduction_6"
 ---
+
 
 # Tutorial: Planung und Einlastung
 

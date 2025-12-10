@@ -1,12 +1,7 @@
 ---
-title: "AW_Sales_Tool_2025_1-3"
-source: "AW_Sales_Tool_2025_1-3.pdf"
-tags: ["A+W Business", "A+W Production", "ERP", "CAD Designer", "Glass Manufacturing", "Software", "Add-ons", "Modules", "A+W iCut", "A+W Business Pro"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A sales and technical presentation for A+W's software solutions for the glass and window industry. This document covers the A+W Business, Business Pro, iCut, and Production software suites, detailing their respective modules, features, and available add-ons."
-long_description: "This document provides a comprehensive overview of the A+W software ecosystem, designed for businesses in the glass and window manufacturing sector. It is structured as a presentation, starting with an introduction to A+W Business and its various add-ons like CAD Designer, EDI Import & Export, and connectors for fittings and document management. It then delves into more advanced solutions such as A+W Business Pro, detailing its integrated modules for sales, production management, capacity planning, and more. The presentation also covers A+W iCut for cutting optimization and A+W Production for detailed scheduling and machinery management. Each section highlights key features, specifications, and benefits, often accompanied by screenshots of the software interface. The document is intended for potential customers to understand the capabilities and modular nature of A+W's ERP and production software."
+description: "AW_Sales_Tool_2025_1-3"
 ---
+
 
 # A+W Business
 

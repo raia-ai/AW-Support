@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Enterprise Multisite"
-category: "functional_descriptions"
-product: "A+W Enterprise Multisite"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Enterprise Multisite"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Enterprise – Internal Multi-Site Logic                                       english 1. Content 1.   Content                                                               3 2.   Notes on this Document                                                4      2.1. Trademarks                                                       4      2.2. Copyrights                                                       4      2.3. Exclusion of liability"
-source_file: "EN-FUNC-A+W Enterprise Multisite.pdf"
+description: "EN FUNC A+W Enterprise Multisite"
 ---
+
 
 
 # EN FUNC A+W Enterprise Multisite

@@ -1,15 +1,7 @@
 ---
-title: "EN UM AWEnterprise"
-category: "user_manuals"
-product: "AWEnterprise"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWEnterprise"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Enterprise   Manual     English Editorial                 Editorial             Revision overview of the documentation              04-2024      Update of manual for HTML5 format.              09-2021      Complete manual entered              08-2021      Complete revision of part Master data.              05-2020      Part Prices and conditions.              08-2020      Complete revision of part Purchasing.              08-2019      Complete revision of part Sales.              08-2019"
-source_file: "EN-UM-AWEnterprise.pdf"
+description: "EN UM AWEnterprise"
 ---
+
 
 
 # EN UM AWEnterprise

@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Statistik_4.01"
-source: "DE_AWBusiness_Statistik_4.01.pdf"
-tags: ["A+W Business", "Statistics", "Sales Analysis", "Purchasing Analysis", "Software Manual", "ERP", "Reporting", "German", "Business Intelligence"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the statistics and reporting module of the A+W Business software, a solution for the glass, windows, and doors industry. It covers functionalities for sales, purchasing, and commission statistics."
-long_description: "This manual provides a comprehensive guide to the statistics and reporting features available in A+W Business software. It is intended for end-users and details how to generate various analyses and reports. The document begins with an editorial section containing revision history, copyright information, and contact details. The main part, 'Softwarereferenz,' delves into the different statistical evaluations. The 'Verkaufsstatistiken' (Sales Statistics) section explains how to analyze order information, sales revenue, sales complaints, and structure-based statistics. It covers various registers for filtering, sorting, and displaying data in tables and graphs, including options for 'Superstatistik' for multi-site reporting. The 'Einkaufsstatistiken' (Purchasing Statistics) section details the analysis of purchasing revenue, purchasing complaints, delivery reliability, and material consumption. Finally, the manual explains how to generate 'Provisionsstatistik' (Commission Statistics) and 'Intrastat Meldung' (Intrastat Reports). An index is provided at the end for quick reference to specific topics."
+description: "DE_AWBusiness_Statistik_4.01"
 ---
+
 
 # A+W Statistik
 

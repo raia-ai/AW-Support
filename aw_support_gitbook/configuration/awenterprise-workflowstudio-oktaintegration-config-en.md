@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_iQuote_3"
-source: "EN-CONFIG-AW_Enterprise_iQuote_3.pdf"
-tags: ["A+W iQuote", "Workflow Studio", "Okta Integration", "Software Configuration", "Technical Manual", "Enterprise Software", "License Server", "Troubleshooting", "A+W Enterprise", "Workflow Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration manual for A+W Enterprise iQuote. It details the setup and customization of various features, including workflow management, stock inventory display, item reference text, and product imagery. A significant section is dedicated to integrating Okta for user authentication, along with a comprehensive troubleshooting guide for common issues."
-long_description: "This comprehensive technical manual provides detailed instructions for configuring and customizing the A+W Enterprise iQuote system. The document begins by explaining how to modify workflows using the Workflow Studio, such as adding the 'Projects' activity to the Check-in process. It covers advanced features like displaying stock inventory from multiple clients by implementing a specific backend procedure and enabling a workflow switch. The guide also details how to show item reference texts in the shopping cart and manage product and product group images within the A+W Enterprise environment, including adjusting content paths in the workflow. A major part of the manual is dedicated to the integration of the Okta login page for secure user authentication. This includes a step-by-step guide for installation, configuration using Terraform to manage the Okta tenant, and the setup of applications, groups, and users within Okta. The document also addresses the configuration of product variations, such as colors and sizes, explaining the necessary master data setup and workflow adjustments using widgets like 'ValidatorColors'. Further sections cover system processes like order release, handling orders in the call center, and understanding system status messages. The manual concludes with an extensive troubleshooting section that addresses potential problems with the license server, workflow errors, missing images, database connectivity, performance issues, and service startup failures, providing clear solutions and diagnostic steps."
+description: "EN-CONFIG-AW_Enterprise_iQuote_3"
 ---
+
 
 ---
 ## Projects Workflow Activity

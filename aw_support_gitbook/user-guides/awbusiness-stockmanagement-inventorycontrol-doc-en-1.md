@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Box_Management_1_1-4"
-source: "EN_AWBusiness_Box_Management_1_1-4.pdf"
-tags: ["stock management", "inventory control", "software reference", "A+W Business", "purchase orders", "stock movement", "inventory audit", "pricing", "average purchase price", "Kistenmanagement"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the Stock Management module within the A+W Business Kistenmanagement system. It details functionalities for tracking stock levels, managing prices, handling stock movements, and generating purchase orders."
-long_description: "This document serves as a comprehensive software reference for the Stock Management features in A+W Business Kistenmanagement. It provides detailed explanations of various functions, dialogs, and tabs available to users. Key topics covered include defining search criteria for stock articles (e.g., stock levels, minimum stock), managing inventory on a per-location basis, and understanding the system's logic for automatic purchase order suggestions. The guide also delves into the 'Prices' tab for viewing and calculating purchase prices, including the average purchase price (PP). It explains the process of handling stock movements such as dispatches, additions, transfers, correcting sheet counts, and opening boxes. Furthermore, the document covers the 'Search' functionality for retrieving stock information and analyzing future stock availability. Finally, it details the 'Stock P.O.' (Purchase Order) process, including the order pool, menu options, and the creation of purchase orders based on stock levels falling below minimums. This guide is intended for users who manage inventory and procurement within the A+W Business software."
+description: "EN_AWBusiness_Box_Management_1_1-4"
 ---
+
 
 ---
 ## Stock Management

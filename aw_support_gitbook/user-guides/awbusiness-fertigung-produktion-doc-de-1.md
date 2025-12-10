@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Fertigung_5_1"
-source: "DE_AWBusiness_Fertigung_5_1.pdf"
-tags: ["A+W Business", "Fertigung", "Produktion", "ERP-Software", "Glasindustrie", "Fensterbau", "Türenfertigung", "Kapazitätsplanung", "Tourenplanung", "Workflow-Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the 'Fertigung' (Production) module of the A+W Business software. It covers the fundamentals of production handover, shipping, and related processes for users in the glass, windows, and doors industries. The guide details various handover methods, including with and without capacity planning, and explains how to manage production data, handle feedback, and organize logistics."
-long_description: "This is a detailed user manual and tutorial for the 'Fertigung' (Production) module within the A+W Business enterprise resource planning (ERP) system, a specialized software solution for the glass, windows, and doors manufacturing sectors. The document, version 5.11, provides comprehensive guidance on managing the entire production and shipping lifecycle. It begins with an overview of the module's core concepts, explaining the flow of data from order entry to production handover and final shipment. Key topics include multiple variants of production handover, such as direct handover, handover integrated with A+W Business Capacity Planning, and handover using the A+W Production Capacity Planner. The tutorial provides step-by-step instructions, illustrated with screenshots and flowcharts, for configuring system settings, managing workflow tasks, handling order changes, and processing cancellations. It also covers related functions like production feedback, delivery management (Lieferwesen), status reporting, and using various overview dashboards for capacity and deadlines. The document is structured into a tutorial, a software reference section, and an appendix, making it suitable for both new users learning the system and experienced users seeking detailed reference information."
+description: "DE_AWBusiness_Fertigung_5_1"
 ---
+
 
 # A+W Fertigung
 

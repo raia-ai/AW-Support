@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_2-1"
-source: "EN_AWBusiness_Purchasing_3_30_2-1.pdf"
-tags: ["Purchase Orders", "A+W Business", "ERP", "Inventory Management", "Supplier Management", "Order Processing", "Delivery Dates", "Inquiry", "Technical Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical tutorial on managing purchase orders within the A+W Business Purchasing module. It covers checking and changing delivery dates, handling postponements, creating inquiries for P.O. items, and converting inquiries into purchase orders."
-long_description: "This document provides a detailed, step-by-step tutorial for the A+W Business Purchasing module. It is designed to guide users through various purchasing-related tasks. The first major section focuses on managing purchase orders, specifically how to check and adjust delivery dates. This includes instructions for searching for orders, restricting views by date, and updating delivery schedules for customers. The tutorial explains how to handle postponed deliveries and notify customers of changes. It then moves on to a more advanced feature: checking and changing all dates collectively using the 'Document data' dialog. This allows for bulk updates to multiple orders and purchase orders simultaneously. The second major section details the process of creating and managing inquiries. It explains the benefits of using inquiries to agree on dates and capacities with suppliers before committing to a purchase. The tutorial outlines how to create an inquiry from a customer order (for a P.O. item), and how to convert an accepted inquiry back into a formal purchase order, both from a referenced order and as an independent inquiry. The document includes screenshots of the user interface with labeled components to guide the user through the software's dialogs and menus. The final part includes exercises and references to related topics like receipt of goods, stock management, and master data setup."
+description: "EN_AWBusiness_Purchasing_3_30_2-1"
 ---
+
 
 # Tutorial: Purchase orders
 

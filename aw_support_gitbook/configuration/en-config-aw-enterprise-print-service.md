@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Print Service"
-category: "configuration"
-product: "A+W Enterprise Print Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Print Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise Print Service                                           english                                   - -INTERNAL- Change history   Date          Author                  Comments                                   Version 2018-04-26 MP                         Document created                           1.0 2019-04-26 MP                         Organization                               1.1 20.02.17      ALW                     2.2. Form parameter – Fi"
-source_file: "EN-CONFIG-A+W Enterprise Print Service.pdf"
+description: "EN CONFIG A+W Enterprise Print Service"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Print Service

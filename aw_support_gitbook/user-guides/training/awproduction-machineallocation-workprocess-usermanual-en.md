@@ -1,15 +1,7 @@
 ---
-title: "AWProduction MachineAllocation WorkProcess UserManual EN"
-category: "training"
-product: "AWProduction"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWProduction", "MachineAllocation", "WorkProcess", "UserManual"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_UM_AWProduction_9" source: "EN_UM_AWProduction_9.pdf" tags: ["Machine Allocation", "Work Process", "A+W Production", "Logical Machines", "Manufacturing Software", "Production Planning", "Formulas", "Conditions", "Restrictions", "Glass Manufacturing"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is a comprehensive user manual for the Machinery Allocation (MA) module of the A+W Production software. It serves as both a tutorial and a software reference, gui"
-source_file: "AWProduction-MachineAllocation-WorkProcess-UserManual-EN.md"
+description: "AWProduction MachineAllocation WorkProcess UserManual EN"
 ---
+
 
 
 title: "EN_UM_AWProduction_9"

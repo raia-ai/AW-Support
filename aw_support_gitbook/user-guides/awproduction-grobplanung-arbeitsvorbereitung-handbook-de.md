@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_2"
-source: "DE_HB_AWProduction_2.pdf"
-tags: ["A+W Production", "Grobplanung", "Arbeitsvorbereitung", "Läufe", "Töpfe", "Kapazitätsplanung", "Software-Dokumentation", "Benutzerhandbuch", "Tutorial", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Benutzerhandbuch für das Modul 'Grobplanung' der Software A+W Production. Es enthält sowohl ein Tutorial zur Einführung in die Prozesse der Arbeitsvorbereitung als auch eine detaillierte Softwarereferenz für alle Dialoge und Funktionen."
-long_description: "Dieses Handbuch behandelt das Modul 'Grobplanung' innerhalb der A+W Production Software, die für die Glas-, Fenster- und Türenindustrie entwickelt wurde. Das Dokument ist in zwei Hauptteile gegliedert: ein Tutorial und eine Softwarereferenz. Der Tutorial-Teil (Kapitel C) führt den Benutzer schrittweise durch den Prozess der Grobplanung. Er erklärt, wie man mit Ansichten arbeitet, diese konfiguriert (Register, Spalten, Filter), Aufträge verwaltet, 'Töpfe' (Sammelbehälter für Aufträge) und 'Läufe' (Produktionschargen) erstellt und verschiedene Laufstrategien anwendet. Ziel ist es, den Verantwortlichen in der Arbeitsvorbereitung zu ermöglichen, eine optimale Produktion durch strategische Lauf-Bildung zu planen. Der zweite Teil, die Softwarereferenz, dient als Nachschlagewerk. Er bietet detaillierte Beschreibungen aller Dialogfenster, Kontextmenüs, Felder und Schaltflächen, die in der Grobplanung verwendet werden. Themen wie Aufträge, Töpfe, Läufe, Positionen, Bearbeitungen und übergreifende Dialoge werden systematisch erklärt. Das Dokument richtet sich an Anwender, die für die Arbeitsvorbereitung und die Optimierung des Produktionsablaufs zuständig sind und setzt Kenntnisse des Stammdatenkonzepts von A+W Production voraus."
+description: "DE_HB_AWProduction_2"
 ---
+
 
 # Dokumentation
 

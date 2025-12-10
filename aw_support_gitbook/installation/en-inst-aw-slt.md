@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W SLT"
-category: "installation"
-product: "A+W SLT"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W SLT"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W SLT    Change history:     Date           Edited by               Remarks                                     Version     13.11.07       MP                      Original version                            0.9     15.06.17       MP                      Information regarding Windows environment   1.0     16.04.25       MP                      Update                                      1.1          The installation instructions will assist the pla"
-source_file: "EN-INST-A+W SLT.pdf"
+description: "EN INST A+W SLT"
 ---
+
 
 
 # EN INST A+W SLT

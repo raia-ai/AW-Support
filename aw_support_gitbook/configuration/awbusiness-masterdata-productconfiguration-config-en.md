@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_7-3"
-source: "EN_AWBusiness_Master_Data_9_7-3.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "Product Configuration", "Pricing", "Surcharges", "Glass Processing", "ERP", "iTOE Rules", "Fitting Allocation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Master Data, focusing on the Products and Prices modules. It details how to configure product attributes, processing restrictions, patterns, edge qualities, and fitting allocations. The guide also covers the setup of pricing structures, including price lists, keys, rates, and various types of surcharges like miscellaneous and exchange surcharges."
-long_description: "This comprehensive software reference manual provides detailed instructions for managing master data within the A+W Business software, specifically for the Products and Prices sections. The 'Products' section explains how to define and adapt various product-related fields and parameters. This includes technical specifications like Ug value (thermal transmission), g value (total energy transmission), and b factor (average transmission factor). It covers setting up processing restrictions for different product classes and thicknesses, defining patterns for coatings and silk screens, assigning specific edge qualities to various shapes, and allocating fittings (hardware) with their required processings. It also introduces iTOE (Technical Order Entry) Rules for importing processing data from A+W CAD Designer. The 'Prices' section provides a thorough guide to configuring the pricing system. It explains the creation and management of Price Lists, Price Keys, and Rates, which are combinations of lists and keys. The manual details how to set up Miscellaneous Surcharges based on size, weight, or other limits, and Exchange Surcharges for when one product is substituted for another. It also covers customer-specific pricing, copying and managing surcharge rules, and defining parameters for cost calculations."
+description: "EN_AWBusiness_Master_Data_9_7-3"
 ---
+
 
 # Software Reference
 

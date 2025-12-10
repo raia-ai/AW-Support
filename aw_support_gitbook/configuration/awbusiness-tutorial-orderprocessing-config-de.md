@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_14"
-source: "D-AWBusiness-HB_14.pdf"
-tags: ["A+W Business Verkauf", "Tutorial", "Order Processing", "Invoicing", "Mullion Configuration", "Product Models", "Macros", "Price Management", "ERP Software", "Document Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial for the A+W Business sales module, guiding users through the complete process of document creation from order entry to invoicing. It covers creating positions, managing special items like crates, and using advanced features for efficiency."
-long_description: "This tutorial provides detailed, step-by-step instructions for using the A+W Business sales software, focusing on the complete workflow from document creation to invoicing. The guide begins with basic position entry, including how to handle special cases like crates. It then introduces efficiency features such as quick entry (Schnellerfassung) and quick inquiries (Schnellanfrage), allowing users to rapidly enter data and respond to customer queries. A significant portion of the manual is dedicated to complex product configurations. This includes checking product availability, configuring standard and irregular mullion constructions (Sprossen), and defining custom product models and processing steps (Bearbeitungen). The document also explains how to create and use motifs (Motive) with or without screen numbers for surface treatments. To streamline repetitive tasks, the tutorial covers creating, saving, and applying macros for frequently used product assemblies and prices. The pricing section details how to view, manually change, and fix prices, manage surcharges, and use the price recorder. It also covers document organization through 'Nummernverwalter' (number administrators) and the final step of printing various documents like order confirmations, delivery notes, and invoices. The manual is rich with screenshots, labeled diagrams, and practical exercises to reinforce learning."
+description: "D-AWBusiness-HB_14"
 ---
+
 
 # Tutorial: Kompletterfassung von Dokumenten bis Faktura
 

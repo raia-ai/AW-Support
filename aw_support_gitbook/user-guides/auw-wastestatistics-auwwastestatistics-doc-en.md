@@ -1,22 +1,7 @@
 ---
-title: "AUW_Description_WasteStatistics"
-source: "AUW_Description_WasteStatistics.docx"
-tags: ["A+W Production", "Waste Statistics", "AUW_WasteStatistics", "Jumbo", "Lot", "JumboSize", "DYNOPT", "A+W Realtime Optimizer"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document describes the standard A+W Production waste statistics reports AUW_WasteStatistics_Lot, AUW_WasteStatistics_Jumbo, and AUW_WasteStatistics_JumboSize. It explains where the Crystal Reports files are located, how to integrate them, and the parameters that drive each report, including optional grouping, table-specific filtering, and top-N glass type selection. It details the AUW_WasteStatistics_Lot evaluation methods, the data sources and views used, and A+W Realtime Optimizer and DYNOPT interactions. Guidance is provided for configuration (e.g., MINRESTBLATT and WriteStockPlateStatistic), version prerequisites, and for understanding key metrics such as surface, rejects, lites, and yield."
-long_description: "This document provides a comprehensive description of the A+W Production waste statistics, covering three standard Crystal Reports: AUW_WasteStatistics_Lot.rpt, AUW_WasteStatistics_Jumbo.rpt, and AUW_WasteStatistics_JumboSize.rpt. It begins with version history and then clarifies where the reports are installed (P:\Reports\) and how they are typically integrated into A+W Production. Because AUW-delivered report files are overwritten during setup, any customer-specific adaptations must be saved under a different name that replaces the “AUW” prefix with a customer-specific tag.
-
-The document outlines the runtime parameters common to the statistics: the evaluation period, grouping mode, optional cutting table filtering, and limiting the number of glass types per group to a top-N subset ranked by area. For AUW_WasteStatistics_Lot specifically, an additional evaluation method parameter is supported. Two distinct approaches are described: “Planned yield,” which reflects the detailed scheduling lots as assigned to cutting tables (including manual cutting, with special handling for lots without a table or those spanning multiple tables), and “Closest true yield,” which attempts to mirror actual production by including what was cut through A+W Realtime Optimizer and assuming remaining lots were cut elsewhere. Important caveats are called out for table optimization, table 9 logic, and differing optimizer parameters that complicate direct comparisons between the two methods.
-
-Data lineage is explained for each report. AUW_WasteStatistics_Lot is driven by table XOPT_STATISTIK via the pre-compressing view AUW_WasteStatistics_Lot. It records one row per cutting lot (optimized, manual, or table optimization). Detailed scheduling writes the initial results; A+W Realtime Optimizer then updates records during cutting with timestamps and events (e.g., breakage, rush orders), while the original scheduling results remain available. Because DYNOPT marks lots as resolved without writing its detailed results to XOPT_STATISTIK, this report is not suitable when DYNOPT is in use.
-
-AUW_WasteStatistics_Jumbo focuses on stock plates. Up to version 5.4 it included only A+W Realtime Optimizer data; from version 5.5 onward, detailed scheduling also populates the statistics. Residual plates cut via a remaster (connected to A+W Realtime Optimizer) are excluded from the remainder. Residual plates not cut via a remaster are split into “Loss” (smaller than a configurable minimum length) and “Potentially usable” (greater than or equal to the minimum). The minimum length is controlled by the MINRESTBLATT parameter (in micrometers, default 1,200,000) in AUW_SETTINGS, which must be defined for the report to return data. The report also indicates the proportion of DYNOPT for each glass type in a gray line. For A+W Realtime Optimizer, the XOPTON.CFG setting WriteStockPlateStatistic determines when entries are written to XOPT_STATISTIK_JUMBO (modes 0–3).
-
-AUW_WasteStatistics_JumboSize provides the same statistics as Jumbo but grouped by stock plate size. Residual plates are summarized per glass type and can be optionally hidden; to align comparisons with the Jumbo report, residual plates should be shown. Data collection uses the AUW_WasteStatistics_JumboSize view, and DYNOPT results are not shown separately. This report is available from version 5.5.
-
-Finally, the document explains how to interpret key measures: Surface (including residual plate losses), Rejects, Manual Entry, Lites, and Yield, and clarifies how gray versus black lines represent DYNOPT-only versus total results, respectively."
+description: "AUW_Description_WasteStatistics"
 ---
+
 
 # Description Waste Statistics
 

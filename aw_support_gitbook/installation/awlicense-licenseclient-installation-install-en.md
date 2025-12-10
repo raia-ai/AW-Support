@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_License_Client"
-source: "EN-INST-AW_License_Client.pdf"
-tags: ["A+W", "License Client", "Installation", "Configuration", "Software", "Windows", "SetupLauncher", "Technical Documentation", "System Requirements"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation and configuration instructions for the A+W License Client software. It covers system requirements, step-by-step procedures using the SetupLauncher, and detailed expert settings for both machine-wide and user-specific configurations."
-long_description: "This is an official installation guide for the A+W License Client, a critical component of the A+W software suite designed for the glass and windows manufacturing industry. The document provides detailed instructions for system planners and administrators to perform a new installation of Version 5 SP4. It begins by outlining prerequisites, such as local administrator rights and network connectivity to an A+W license server. The core of the document is a step-by-step walkthrough of the installation process using the A+W SetupLauncher, guiding the user from starting the installer and selecting the correct software modules to configuring the connection to the license server. It includes screenshots of each dialog box in the installation wizard. The guide also covers important post-installation topics, including how to configure protocol and logging settings, how to uninstall the client via the Windows Control Panel, and how to perform an update. A detailed appendix is provided for experts and special users, offering in-depth explanations of advanced configuration options. This includes the 'ConfigTool' for both computer-wide (machine) and user-specific settings, which is essential for environments like terminal servers. The appendix thoroughly documents various connection types (PIPE, TCP, .net-Remoting) and legacy support, complete with tables that explain each configuration parameter, its possible values, and its function."
+description: "EN-INST-AW_License_Client"
 ---
+
 
 # Installation Instructions: A+W License Client
 

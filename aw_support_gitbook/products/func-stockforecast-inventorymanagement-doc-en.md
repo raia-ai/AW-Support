@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Clarity_Experience_Stock_Forecast"
-source: "EN-FUNC-AW_Clarity_Experience_Stock_Forecast.pdf"
-tags: ["A+W Clarity Experience", "Stock Forecast", "Inventory Management", "Software Functional Description", "ERP", "Glass Industry", "A+W Enterprise", "Inventory Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Clarity Experience - Stock Forecast module. It details the module's purpose, features, prerequisites, and restrictions for optimizing inventory control and reducing operating costs in the glass industry."
-long_description: "This functional description provides a comprehensive overview of the A+W Clarity Experience - Stock Forecast module, identified by article numbers 200041 and 200042. The module is an extension for the A+W Enterprise ERP system, designed to help businesses monitor stock inventories, forecast future trends, optimize inventory management, and ultimately reduce operational costs. The document outlines the module's core functionality, which includes displaying stock-critical items, visualizing future stock development by considering backorders, expected receipts, and consumptions. It details the system prerequisites, such as the required A+W Enterprise version, AWSOA-Infrastructure, and correctly maintained warehouse master data. A full list of functions is provided, covering features like stock history visualization, advanced filtering options, drill-down capabilities, and data export to CSV. The document also clearly states the module's limitations and restrictions, such as variable loading times and specific handling for multisite installations."
+description: "EN-FUNC-AW_Clarity_Experience_Stock_Forecast"
 ---
+
 
 # A+W Functional Description: A+W Clarity Experience - Stock Forecast
 

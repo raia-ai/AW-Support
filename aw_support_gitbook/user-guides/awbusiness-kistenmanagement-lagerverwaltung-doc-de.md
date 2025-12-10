@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kistenmanagement_1_1"
-source: "DE_AWBusiness_Kistenmanagement_1_1.pdf"
-tags: ["A+W Business", "Kistenmanagement", "Lagerverwaltung", "Glasindustrie", "Software-Dokumentation", "Tutorial", "Stammdaten", "Auftragsverwaltung", "Produktionsaufträge", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the 'A+W Kistenmanagement' (Crate Management) module within the A+W Business software. It provides a detailed tutorial and software reference for managing crates used in the glass, windows, and doors industry. The manual covers master data setup, basic settings, order processing, and warehouse management functionalities related to crates."
-long_description: "This is a comprehensive guide to the A+W Kistenmanagement module, a component of the A+W Business ERP software designed for the flat glass and construction element industries. The document is structured into a preface, a detailed tutorial, a software reference, and an index. The preface includes revision history and editorial notes. The tutorial section guides users through the fundamental concepts and practical steps for managing crates, from initial setup to daily operations. Key topics covered include basic warehouse concepts, price and company data configuration, master data for simple and complex crates (with bills of materials), creating sales and production orders, and detailed warehouse management processes like goods receipt via barcode, manual stock movements, and breaking down crates. The software reference section provides a detailed breakdown of menus, dialogs, and functions within the module. This manual is intended for end-users of A+W Business who are responsible for warehouse management, purchasing, and production planning involving glass crates."
+description: "DE_AWBusiness_Kistenmanagement_1_1"
 ---
+
 
 # A+W Kistenmanagement
 

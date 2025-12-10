@@ -1,15 +1,7 @@
 ---
-title: "Product Management – Price/Surcharge"
-category: "training"
-product: "AWBusiness"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWBusiness", "ProductManagement", "MasterData", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWBusiness_Master_Data_9_7-1" source: "EN_AWBusiness_Master_Data_9_7-1.pdf" tags: ["A+W Business", "Product Management", "Master Data", "ERP", "Software Reference", "Price Surcharge", "Stock Management", "BOM", "Shapes Processing"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical reference guide for the Product Management module in A+W Business software. This document details the configuration of products, including pricing, surcharges, stock, purchasing, bill"
-source_file: "AWBusiness-ProductManagement-MasterData-Doc-EN.md"
+description: "Product Management – Price/Surcharge"
 ---
+
 
 
 title: "EN_AWBusiness_Master_Data_9_7-1"

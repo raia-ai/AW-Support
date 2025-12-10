@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Plan Editor"
-category: "installation"
-product: "A+W Plan Editor"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Plan Editor"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Plan Editor    Change history:     Date         Edited by              Comments                   Version     2014-07-23   Michael Hartmann       Release 5.4                5.4     19.02.2021                          EN-INST-A+W Plan Editor.docx     1 Contents     Installation Instructions ..................................................................... 1     A+W Plan Editor ....................................................................."
-source_file: "EN-INST-A+W Plan Editor.pdf"
+description: "EN INST A+W Plan Editor"
 ---
+
 
 
 # EN INST A+W Plan Editor

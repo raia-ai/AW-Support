@@ -1,12 +1,7 @@
 ---
-title: "A+W Functional Description - A+W Clarity Experience Dispatch"
-source: "EN-FUNC-AW_Clarity_Experience_Dispatch.pdf"
-tags: ["A+W", "Clarity Experience", "Dispatch", "Software", "Glass Industry", "ERP", "Logistics", "Functional Description", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Clarity Experience Dispatch module. It details the software's purpose, features, and prerequisites for planning and processing dispatch workflows within the A+W Enterprise environment for the glass industry."
-long_description: "This functional description outlines the A+W Clarity Experience Dispatch module, a software solution designed by A+W for the glass industry. The module is an evolution of the existing A+W Enterprise system, developed with an agile approach to create a modern and flexible user interface. It is incorporated into the A+W Enterprise 6 software environment to assist with the planning and processing of dispatch workflows. The document covers the module's key data, including product name and module number. It details the system's prerequisites, which include A+W Enterprise Version 6 and other related A+W modules like Production and Barcode Manager. The core of the document is a comprehensive list of functions, tailored for the roles of 'Dispatcher' and 'Picker'. For the Dispatcher, features include calendar-based route planning, order visualization with KPIs, and the ability to shift orders. For the Picker, the system provides tools to check goods for completeness, access production data online, and manage missing parts. The document also describes additional features like advanced search, report printing, integration with the A+W Logistics Optimizer, and various UI/UX enhancements like colored status symbols and progress bars. Finally, it notes current restrictions and legal information regarding copyrights and liability."
+description: "A+W Functional Description - A+W Clarity Experience Dispatch"
 ---
+
 
 # A+W Functional Description: A+W Clarity Experience Dispatch
 

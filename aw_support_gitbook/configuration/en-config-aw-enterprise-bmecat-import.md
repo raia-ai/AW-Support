@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise BMECat Import"
-category: "configuration"
-product: "A+W Enterprise BMECat Import"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise BMECat Import"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise BMECat Import                                                                           english        A+W Software GmbH                                          - -INTERNAL-                        EN-CONFIG-A+W Enterprise BMECat Import.docx    1 Change history             Date          Author                 Remarks                                  Version           2019-02-06    Original version       Transfer from Dokuware document"
-source_file: "EN-CONFIG-A+W Enterprise BMECat Import.pdf"
+description: "EN CONFIG A+W Enterprise BMECat Import"
 ---
+
 
 
 # EN CONFIG A+W Enterprise BMECat Import

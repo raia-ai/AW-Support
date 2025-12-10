@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_3-4"
-source: "EN_AWBusiness_Production_3-4.pdf"
-tags: ["A+W Business Production", "Software Reference", "Production Management", "Date Overview", "Customs Management", "Shipping Control", "Production Preview", "Order Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Production software, covering modules like Date Overview, Production Preview, Customs Management, and Shipping Control. It details functionalities for managing product groups, order status, delivery dates, and generating various lists and reports."
-long_description: "This document serves as a detailed software reference for the A+W Business Production system. It provides comprehensive instructions and descriptions for several key modules. The 'Date Overview' section explains how to filter and evaluate product groups, bills of material (BOM), and order statuses based on delivery dates. The 'Production Preview' section details how to view summaries of glass surfaces and product types, configure display columns, and exclude specific business types from previews. The 'Customs Management' section provides a guide for creating customs lists for goods export, including managing loading lists, resetting list numbers, and exporting data for customs programs. Finally, the 'Shipping Control' module is explained, covering the organization of shipping, allocation of orders to forwarders, creation of shipping documents, and management of packing lists, partial deliveries, and surcharges. The document uses a structured approach with clear navigation paths, dialog box descriptions, and field explanations for each function."
+description: "EN_AWBusiness_Production_3-4"
 ---
+
 
 ---
 ## Date Overview

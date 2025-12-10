@@ -1,12 +1,7 @@
 ---
-title: "A+W Production Barcode Manager and Formula Editor"
-source: "D-AWProduction-HB_10.pdf"
-tags: ["A+W Production", "Barcode Manager", "ERP", "PPS", "Betriebsdatenerfassung", "BDE", "Glass Manufacturing", "Software Manual", "Tutorial", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document serves as a comprehensive manual for the A+W Production Barcode Manager, a component of the A+W Production software suite. It includes a tutorial for end-users and a software reference for system administrators, covering topics like shop floor data collection (BDE), master data management, scanning procedures, and reporting functionalities."
-long_description: "This is a detailed user and reference guide for the A+W Production Barcode Manager, a system designed for shop floor data collection (Betriebsdatenerfassung - BDE) in the glass, window, and door manufacturing industry. The document is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section is aimed at end-users who work at various production stations. It provides a step-by-step guide on the fundamental concepts, booking elements (products, locations, personnel), data capture processes using scanners, and how to handle specific scenarios like breakages and shipping. It also covers the use of Production Terminals and the system's reporting and monitoring tools, including BDE-Reporting, A+W Dashboard, and A+W Discovery. The Software Reference section is intended for system administrators and provides in-depth details on master data configuration. This includes setting up barcode options, types, registration points (Erfassungsstellen), racks (Gestelle), statuses, and personnel. It explains the function of each dialog and field within the master data management interface, highlighting system-critical data that should be handled with care. The document outlines revision history, copyright information, and formatting conventions to guide the reader."
+description: "A+W Production Barcode Manager and Formula Editor"
 ---
+
 
 # Vorspann
 

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise B2B Service"
-category: "configuration"
-product: "A+W Enterprise B2B Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise B2B Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise B2B Service                                                                           english        A+W Software GmbH                                          - -INTERNAL-                        EN-CONFIG-A+W Enterprise B2B Service.docx      1 Change history             Date         Author                Remarks                                 Version           2019-02-05   Original version      Transfer from Dokuware document         1.0"
-source_file: "EN-CONFIG-A+W Enterprise B2B Service.pdf"
+description: "EN CONFIG A+W Enterprise B2B Service"
 ---
+
 
 
 # EN CONFIG A+W Enterprise B2B Service

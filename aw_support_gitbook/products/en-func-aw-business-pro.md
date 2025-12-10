@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Business Pro"
-category: "functional_descriptions"
-product: "A+W Business Pro"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Business Pro"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Business Pro 6                                   english 1. Content 1.   Content                                                                         3 2.   Notes on this Document                                                          4      2.1. Trademarks                                                                 4      2.2. Copyrights                                                                 4      2.3. Disclaimer of liability"
-source_file: "EN-FUNC-A+W Business Pro.pdf"
+description: "EN FUNC A+W Business Pro"
 ---
+
 
 
 # EN FUNC A+W Business Pro

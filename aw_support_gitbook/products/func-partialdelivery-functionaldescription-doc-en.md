@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Generation_of_Partial_Delivery"
-source: "EN-FUNC-AW_Generation_of_Partial_Delivery.pdf"
-tags: ["A+W Business", "Partial Delivery", "Software for Glass", "Functional Description", "ERP", "Production Management", "Order Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the 'A+W Business (PRO) - Generation of Partial Delivery' module. It details how the software enables the automatic creation of partial deliveries based on items reported as ready from production or assigned to specific racks. The module integrates with A+W Production and A+W Business Pro to streamline order fulfillment processes."
-long_description: "This functional description outlines the capabilities of the 'Generation of Partial Delivery' module for the A+W Business (PRO) software, specifically for versions v5.5 / v6.0 and later. The document explains that this module facilitates the easy and automatic creation of partial deliveries for customer orders. It can generate these deliveries based on two primary triggers: items being reported as ready from production (either via A+W Production software or manual entry) and items being assigned to a specific rack. The document details the data requirements, such as the core A+W Business module and integration with A+W Production for feedback. It lists key functions, including color-coding of orders, progress indicators, direct printing of delivery notes, and the ability to overwrite order header data like delivery date and route. Limitations are also noted, such as the inability to partially deliver service items and the restriction that one order generates one partial delivery. The document also includes legal notices, copyrights, and contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Generation_of_Partial_Delivery"
 ---
+
 
 # A+W Functional Description: A+W Business (PRO) - Generation of Partial Delivery
 

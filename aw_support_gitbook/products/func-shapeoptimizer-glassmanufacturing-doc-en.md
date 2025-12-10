@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Shape_Optimizer"
-source: "EN-FUNC-AW_Shape_Optimizer.pdf"
-tags: ["A+W", "Shape Optimizer", "Glass Manufacturing", "Software", "Functional Description", "Nesting", "Optimization", "Production", "Glass Cutting"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Shape Optimizer, an add-on module for A+W's glass manufacturing software suite. It details how the software combines standard shapes to minimize waste and improve glass usage. The document covers its performance, requirements, functions, limitations, and provides contact information for A+W Software GmbH."
-long_description: "This is a comprehensive functional description of the A+W Shape Optimizer, a software module designed to enhance glass cutting and production processes. The document is intended for users of A+W's software suite, including A+W Business Pro, A+W Production, A+W Realtime Optimizer, and A+W Standard Optimizer. It explains that the Shape Optimizer is an add-on module that intelligently combines two standard shapes into the smallest possible surrounding rectangle, improving material yield. The description outlines the technical requirements for implementation, such as specific parameter settings in the A+W Optimization configuration. It lists key functions, including automatic setting of trims and auxiliary cuts, placement of triangles, and pre-selection of the best results to save optimization time. The document also clearly states the limitations of the software, such as only combining two convex shapes at a time, not supporting shapes with circular arcs, and other specific restrictions. An example is provided to illustrate the efficiency gains, showing how the optimizer can fit more shapes onto a stock plate compared to previous methods. Finally, the document includes legal disclaimers, copyright information, and contact details for A+W Software GmbH."
+description: "EN-FUNC-AW_Shape_Optimizer"
 ---
+
 
 # A+W Functional Description: A+W Shape Optimizer
 

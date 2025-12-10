@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Export Service"
-category: "configuration"
-product: "A+W Enterprise Export Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Export Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise Export Service                                                                            english        A+W Software GmbH                                           - -INTERNAL-                        EN-CONFIG-A+W Enterprise Export Service.docx    1 Change history             Date          Author                  Remarks                              Version                                                 Copy of DE-           2017-05-08    SVH"
-source_file: "EN-CONFIG-A+W Enterprise Export Service.pdf"
+description: "EN CONFIG A+W Enterprise Export Service"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Export Service

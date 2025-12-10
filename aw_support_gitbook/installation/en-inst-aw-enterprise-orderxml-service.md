@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise OrderXML Service"
-category: "installation"
-product: "A+W Enterprise OrderXML Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise OrderXML Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 OrderXML Service    Change history:     Date          Edited by                Remarks                                     Version     16.04.19      MP                       New creation                                1.0     16.12.13      MP                       AutoUpdate                                  1.1     17.11.28      MP                       Client number                               1.2          The installation instructio"
-source_file: "EN-INST-A+W Enterprise OrderXML Service.pdf"
+description: "EN INST A+W Enterprise OrderXML Service"
 ---
+
 
 
 # EN INST A+W Enterprise OrderXML Service

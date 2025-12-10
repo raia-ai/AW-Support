@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_37"
-source: "D-AWBusiness-HB_37.pdf"
-tags: ["Software Reference", "Logistics", "Tour Planning", "A+W Business", "German Manual", "Export", "Statistics", "User Guide", "Reporting", "Index"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Logistics Optimizer, providing detailed explanations of various features within the 'Abfrage' (Query) menu. It covers functionalities such as data export, status management, history tracking, reporting, and statistical analysis."
-long_description: "This is a comprehensive German-language software reference manual for the A+W Business Logistics Optimizer, version 2.01/01-2017. The document focuses on the functionalities available under the 'Abfrage' (Query) menu. It provides step-by-step instructions and explanations for various dialogs and features. Key topics include exporting tour data in different formats (ITN, GPX), managing and manually changing the status of tours, viewing tour and document history, and generating detailed reports like confirmation and delivery lists. The manual also details the powerful statistics module, which allows users to create and view global statistics on tours, vehicles, drivers, departments, and customers in both tabular and graphical formats. Additional features like the calendar for managing driver/vehicle assignments and the function for attaching digital documents to tours are also explained. The document concludes with a highly detailed, comprehensive alphabetical index ('Gesamtindex') that covers the entire A+W Business software suite, making it a crucial reference for finding specific features and functions."
+description: "D-AWBusiness-HB_37"
 ---
+
 
 # Softwarereferenz
 

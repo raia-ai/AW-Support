@@ -1,15 +1,7 @@
 ---
-title: "US AWEnterprise StockManagement HelpCards"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["US_AWEnterprise_StockManagement_HelpCards"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Stock                E                Help Cards             A+W Enterprise                  Help Cards                                                                                             Stock                      Stock                  The depictions in the Help Cards are based on delivery version A+W Enterprise 2015. Individual steps                  in the workflows can differ depending on the configuration.                   Master data management                   Help Card"
-source_file: "US_AWEnterprise_StockManagement_HelpCards.pdf"
+description: "US AWEnterprise StockManagement HelpCards"
 ---
+
 
 
 # US AWEnterprise StockManagement HelpCards

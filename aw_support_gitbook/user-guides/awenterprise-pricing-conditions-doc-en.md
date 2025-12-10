@@ -1,12 +1,7 @@
 ---
-title: "EN_AWEnterprise_Prises_Conditions_2.20"
-source: "EN_AWEnterprise_Prises_Conditions_2.20.pdf"
-tags: ["A+W Enterprise", "Software Documentation", "Pricing", "Conditions", "Glass Industry", "Windows", "Doors", "ERP", "Cost Calculation", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for A+W Enterprise software, focusing on the 'Prices and Conditions' module. It details the configuration of pricing structures, conditions, surcharges, and discounts for products in the glass, window, and door industries. The document serves as both a tutorial and a software reference guide."
-long_description: "This document, 'A+W Prices and Conditions,' is a comprehensive guide for the A+W Enterprise software suite, specifically tailored for users in the glass, windows, and doors manufacturing sectors. It is divided into a Tutorial and a Software Reference section. The Tutorial provides a step-by-step introduction to the fundamental concepts of price determination, including the setup of price keys (PLCD, PCd), matrices, vectors, and lists. It explains how to create and manage base prices, exchange prices, surcharges, and special conditions for various products like IG lites, LAMI lites, and patterned glass. The tutorial also covers complex topics such as cost calculation and the hierarchical evaluation of conditions. The Software Reference section offers a detailed breakdown of every menu, dialog, and field within the 'Prices and Conditions' module. It serves as an exhaustive reference for system administrators and power users, providing technical information on functionalities like global price maintenance, price exports, and the configuration of specific pricing rules for different market partners and product groups. The document concludes with a comprehensive index for quick navigation."
+description: "EN_AWEnterprise_Prises_Conditions_2.20"
 ---
+
 
 # A+W Prices and Conditions
 

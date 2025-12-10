@@ -1,12 +1,7 @@
 ---
-title: "DE-CAD_Designer_Bars_HC"
-source: "DE-CAD_Designer_Bars_HC.pdf"
-tags: ["A+W", "CAD Designer", "Bars", "Muntins", "Glass", "Windows", "Software", "Help Guide", "German"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "A collection of 'Help Cards' for the A+W CAD Designer (Bars) software, version 2014. This German-language guide provides step-by-step instructions for master data management, creating and placing bars (muntins), and working with special patterns and macros."
-long_description: "This document is a comprehensive help guide for the A+W CAD Designer (Bars) software, specifically based on the 2014 version. Presented as a series of 'Help Cards,' it offers concise, task-oriented instructions for users. The guide is structured into three main sections: Master Data (`Stammdaten`), Bars/Muntins (`Sprossen`), and Special Patterns (`Spezialmuster`). The Master Data section covers fundamental concepts like tools, snap points, creating bar articles, and protecting data with a password. The Bars section details how to define pane properties, place simple and value-based bar patterns, apply bars to models, and perform free-form constructions. The Special Patterns section explains how to create façade systems, and how to load, modify, save, and create custom macros. Each help card clearly states its objective (`Ziel der Handlung`), prerequisites (`Voraussetzungen`), and provides a detailed, numbered workflow to guide the user through the process. The document is intended for users of the A+W software for glass, windows, and doors."
+description: "DE-CAD_Designer_Bars_HC"
 ---
+
 
 # A+W CAD Designer (Bars) - Help Cards
 

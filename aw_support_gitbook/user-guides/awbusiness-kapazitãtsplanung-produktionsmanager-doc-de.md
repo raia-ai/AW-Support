@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_33"
-source: "D-AWBusiness-HB_33.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Produktionsmanager", "Leitstand", "Software-Referenz", "Fertigungsplanung", "Optimierungsmanager", "ERP", "Glasfertigung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive software reference manual for A+W Business Pro, focusing on the Kapazitätsplanung (Capacity Planning) and Produktionsmanager (Production Manager) modules. It details the functionalities of the Leitstand (Control Center) for managing work types, shifts, and orders, and provides a tutorial for the Production Manager, covering both standard and expert modes for run creation, optimization, and remake management."
-long_description: "This document serves as a detailed technical reference and tutorial for two key modules of the A+W Business Pro software suite: Kapazitätsplanung (Capacity Planning) and Produktionsmanager (Production Manager). The first section is a software reference for the \"Leitstand\" (Control Center), a central component for visualizing and managing production capacity. It explains how to navigate and manage various registers, including Arbeitsarten (Work Types), Details, Schichten (Shifts), Vorprozesse (Pre-processes), and Bestellteile (Purchased Parts). Users learn how to view machine utilization, reschedule orders, and manage production data. The second major section is a tutorial for the \"Produktionsmanager\". It begins with foundational concepts and guides users through the entire production preparation process, from order selection to creating production runs (\"Laufbildung\"), fine-planning, and optimization. It covers both a wizard-driven \"Standardmodus\" for streamlined processing and a manual \"Expertenmodus\" for detailed control over each step. Key topics include managing production runs, handling remakes for broken panes (\"Bruchscheiben\"), and generating outputs like cutting plans and machine control data. The manual is intended for production planners and technical users responsible for managing and optimizing manufacturing workflows in a glass, window, or door production environment."
+description: "D-AWBusiness-HB_33"
 ---
+
 
 # Softwarereferenz
 

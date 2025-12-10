@@ -1,15 +1,7 @@
 ---
-title: "A+W Formula Editor"
-category: "training"
-product: "AWProduction"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWProduction", "FormulaEditor", "GlassManufacturing", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWProduction_Formula_Editor_1.02" source: "EN_AWProduction_Formula_Editor_1.02.pdf" tags: ["A+W Production", "Formula Editor", "Software Manual", "Glass Manufacturing", "Window Production", "Conditions", "Formulas", "Allocation", "Technical Documentation", "ERP"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical manual for the A+W Formula Editor, a component of the A+W Production software. This guide details the functional principles, operational steps, and sof"
-source_file: "AWProduction-FormulaEditor-GlassManufacturing-Doc-EN.md"
+description: "A+W Formula Editor"
 ---
+
 
 
 title: "EN_AWProduction_Formula_Editor_1.02"

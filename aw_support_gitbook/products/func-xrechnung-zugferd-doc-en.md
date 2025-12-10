@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_Order_Invoice_to_XML"
-source: "EN-FUNC-AW_Enterprise_Order_Invoice_to_XML.pdf"
-tags: ["XRechnung", "ZUGFeRD", "e-invoicing", "A+W Enterprise", "invoice export", "XML", "German legislation", "B2B invoicing", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description for the A+W Enterprise software module that enables the export of invoices in the XRechnung and ZUGFeRD formats. This document outlines the module's features, requirements, and limitations for compliance with German and EU e-invoicing standards."
-long_description: "This document provides a detailed functional description of the A+W Enterprise module for 'Order Invoice to XML (XRechnung)'. It details the software's capability to generate and export electronic invoices in the XRechnung and ZUGFeRD formats, which are essential for complying with German and EU e-invoicing regulations. The description covers the context of mandatory B2B e-invoicing in Germany starting from 2025, outlining the phased rollout and legal requirements. Key sections include a performance description with data specifications, a detailed explanation of the XRechnung and ZUGFeRD standards, system requirements (such as specific A+W Enterprise versions and Crystal Reports), a comprehensive list of functions for master data configuration and invoice generation, and a clear outline of the module's limitations. It serves as a guide for customers of A+W Software for Glass to understand and implement the e-invoicing solution."
+description: "EN-FUNC-AW_Enterprise_Order_Invoice_to_XML"
 ---
+
 
 # A+W Functional Description: Export of invoices in the XRechnung/ZUGFeRD format
 

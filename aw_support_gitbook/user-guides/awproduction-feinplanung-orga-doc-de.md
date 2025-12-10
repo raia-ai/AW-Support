@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Feinplanung_3_3"
-source: "DE_AWProduction_Feinplanung_3_3.pdf"
-tags: ["A+W Production", "Feinplanung", "Orga", "Abstellplatz", "Produktionsreihenfolge", "Software-Tutorial", "Technical Manual", "Glass Production", "ERP", "MES"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical tutorial and software reference guide for the 'Orgas' (Organizations) module within the A+W Production Feinplanung (Fine Planning) software. It details the configuration of production sequences, storage locations, and organizational groups for optimizing glass manufacturing processes."
-long_description: "This comprehensive document serves as both a tutorial and a software reference manual for the A+W Production Feinplanung (Fine Planning) system, focusing specifically on the configuration of 'Orgas' (Organizations). The document is divided into two main sections. The first section is a tutorial that provides practical, step-by-step guidance on setting up various organizational structures, such as 'A-Böcke Versand' (A-Racks for Shipping) and 'Fächerwagen' (Harp Racks). It explains key concepts including size classifications for glass panes, defining production sequences, grouping and sorting criteria, and managing number ranges for different storage types. This section includes illustrative screenshots of the software's user interface and practical exercises to guide the user. The second section is a detailed software reference that systematically describes all dialogs, fields, and settings available in the Feinplanung module. It covers the creation and management of Master-Orgas, Production Sequences, Check Sequences (Prüfreihenfolge), Storage Locations (Abstellplätze), and the rules for Grouping and Sorting. This reference part is intended for administrators and advanced users who need a deep understanding of the system's capabilities to configure and optimize production logistics, material flow, and resource utilization in a glass processing environment."
+description: "DE_AWProduction_Feinplanung_3_3"
 ---
+
 
 # Tutorial
 

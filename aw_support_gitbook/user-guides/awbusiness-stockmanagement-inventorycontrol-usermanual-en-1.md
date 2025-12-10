@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_28"
-source: "EN-UM-AWBusiness_28.pdf"
-tags: ["Stock Management", "Inventory Control", "A+W Business", "Purchase Orders", "Stocktaking", "Production Orders", "Software Tutorial", "Software Reference", "ERP", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive guide to the Stock Management module in A+W Business software. It includes both a tutorial and a software reference section, covering topics such as searching for stock articles, managing purchase orders, handling production orders, and conducting inventory procedures like periodical and initial stocktaking."
-long_description: "This document serves as a detailed manual for the Stock Management features within the A+W Business software, designed for users in the glass, windows, and doors industry. The guide is divided into two primary sections: a Tutorial and a Software Reference. The Tutorial section provides step-by-step instructions for common tasks. It covers how to search for stock articles within documents, check availability, and manage stock purchase orders (P.O.s), including both manual entry and automated proposals. It also details the process for creating and managing production orders to replenish stock. A significant part of the tutorial is dedicated to inventory management, explaining the procedures for periodical inventory (stocktaking) and the specialized process of conducting an initial inventory to set up the system. The Software Reference section acts as an in-depth appendix, offering detailed descriptions of every dialog box, menu option, and field within the Stock Management module. It systematically breaks down functions like Inventory Lists, Target Quantity determination, Inventory Management, Stock Movement bookings (dispatches, additions, transfers), and various queries such as the Booking Journal and Stock History. This reference is crucial for understanding the specific parameters and settings that control stock valuation (FIFO/LIFO), reservations, and statistical analysis."
+description: "EN-UM-AWBusiness_28"
 ---
+
 
 # Tutorial
 

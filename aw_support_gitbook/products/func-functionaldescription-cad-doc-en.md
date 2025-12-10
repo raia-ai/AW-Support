@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_iShape"
-source: "EN-FUNC-AW_iShape.pdf"
-tags: ["A+W iShape", "Functional Description", "Software for Glass", "CAD", "Digitization", "Shape Scanning", "A+W Software GmbH", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description for A+W iShape, an add-on module for A+W CAD Designer (Shapes). This document outlines the product's purpose, which is to digitize non-rectangular glass sheets using a mobile phone camera. It covers the required hardware (high-end phones, L-shaped rulers), software prerequisites, functionalities, and performance limitations."
-long_description: "This document provides a detailed functional description of A+W iShape, a software solution by A+W Software GmbH designed for the glass industry. A+W iShape is an add-on for the A+W CAD Designer (Shapes) software that enables the digitization of shaped (non-rectangular) glass sheets. The process involves using a high-resolution camera, typically from a mobile phone (e.g., iPhone, Huawei), to capture an image of the shape along with precisely printed L-shaped reference objects. These objects allow for automatic calibration to correct camera distortions. The resulting point cloud data is then imported into A+W CAD Designer for further refinement. The document details the system requirements, including the necessary A+W software modules, cloud services, and the physical reference objects. It also discusses the factors affecting precision, such as camera resolution and lighting, and provides an estimate of achievable accuracy (approx. 1 mm/m). The document serves as a technical overview for customers and partners, outlining the capabilities, limitations, and operational workflow of the A+W iShape solution as of March 2021."
+description: "EN-FUNC-AW_iShape"
 ---
+
 
 # A+W iShape Functional Description
 

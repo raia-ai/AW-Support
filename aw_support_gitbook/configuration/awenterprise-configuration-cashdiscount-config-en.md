@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_11"
-source: "EN-CONFIG-AW_Enterprise_11.pdf"
-tags: ["A+W Enterprise", "Configuration", "Cash Discount", "VAT", "Data Warehouse", "Database Structure", "File Management", "Intrastat", "Via Plant", "SQL Scripts"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document details advanced configuration options for A+W Enterprise, focusing on cash discount calculations, VAT handling, data warehouse setup, and file management protocols. It provides technical guidance on setting up payment terms, managing following conditions, and configuring system variables for different business scenarios."
-long_description: "This technical configuration guide for A+W Enterprise covers several key modules and functionalities. It begins with an in-depth explanation of cash discount configurations, presenting two alternative methods for setting up payment terms and following conditions within the market partner master data. This includes examples and a table illustrating the calculation logic for due dates. The document then moves on to the database structure, identifying the relevant tables (xxskonto, rechfuss, zahlplan) for cash discount data. It also outlines the process for converting customer data to new logic. A significant portion is dedicated to the calculation of cash discounts either before or after VAT, controlled by environment variables like SKONTO_VOR_MWST, MWST_SPECIAL, and SKONTO_MWST_LOGIK, detailing the formulas for each variant. Subsequent sections cover other functionalities such as the selection of Windows files via the 'File open' dialog, specifying permitted characters for filenames used in A+W CAD Designer. It also briefly introduces the ViaPlant/via Plant feature for multi-site shipment, Intrastat reporting, and the internal 'Subscriber' tool for correcting financial bookings. Finally, the document provides a comprehensive guide to configuring the Data Warehouse module, including required SQL scripts for table creation (dwTabellen.sql, dwIndex.sql), master data transfer (fillBran.sql, etc.), and transaction data booking via stored procedures (dwSendProcess.sql). It concludes with a detailed mapping of the `dwo_head` data warehouse table fields to their corresponding A+W Enterprise database fields."
+description: "EN-CONFIG-AW_Enterprise_11"
 ---
+
 
 | | **401** | **301** | **201** | **101** |
 | :--- | :--- | :--- | :--- | :--- |

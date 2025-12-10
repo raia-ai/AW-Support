@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_4"
-source: "DE_HB_AWProduction_4.pdf"
-tags: ["A+W Production", "Feinplanung", "Abstellplätze", "Optimierungsmodi", "Orgas", "Gestellverwaltung", "Produktionsplanung", "Software-Tutorial", "Stammdaten", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for the A+W Production Feinplanung module, focusing on setting up and managing storage locations (Abstellplätze), optimization modes (Optimierungsmodi), and organizational structures (Orgas). It provides step-by-step instructions, exercises, and definitions for configuring A-racks, harp racks, and fixed storage locations, as well as detailing different optimization strategies for production sequencing and material yield."
-long_description: "This document serves as a comprehensive guide for the A+W Production 'Feinplanung' (Detailed Planning) software. It is structured into tutorials and a software reference section. The 'Abstellplätze und -modi' section details how to configure various types of storage locations such as A-racks (A-Böcke), harp racks (Fächerwagen), and fixed storage spots, including parameters like dimensions, capacity, and robot loading. The 'Optimierungsmodi' section explains the different optimization strategies available in the software, balancing factors like material yield (Ausbeute), production sequence (Reihenfolge), and flexibility. It describes modes like 6.2 (Feste Reihenfolge), 6.1 (Kunden zusammenhalten), 5.2 (Standard), and 5.1 (ISO auf Fächerwagen), illustrating their use cases and impact on production flow. The 'Orgas' (Organizations) section covers the creation and management of organizational structures that define production rules, sequences, and storage logic. It explains the hierarchy of Master-Orgas, Orga-Groups, and rack types, and how they interact to control the assignment of glass lites to racks. The document includes practical exercises, demos, and detailed explanations of settings within the software's user interface, making it an essential resource for production planners and system administrators using A+W Production."
+description: "DE_HB_AWProduction_4"
 ---
+
 
 # Tutorial: Abstellplätze und -modi
 

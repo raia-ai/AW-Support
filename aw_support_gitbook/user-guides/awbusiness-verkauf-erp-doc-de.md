@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_8"
-source: "DE_AWBusiness_Verkauf_4_8.pdf"
-tags: ["A+W Business", "Software Reference", "Verkauf", "ERP", "German", "Order Management", "Invoicing", "Reporting", "User Manual", "Object Billing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This is a software reference manual for the A+W Business Verkauf (Sales) module, version 4.00. It details functionalities such as object billing, reporting, internal controls, document management, and inventory search for users of the A+W software."
-long_description: "This document is the 'Softwarereferenz' for the 'A+W Business Verkauf' module, version 4.00 from April 2020. It provides a comprehensive guide to various functionalities within the sales process of the A+W software. The manual details procedures for object billing ('Objektabrechnung'), including managing documents, labor claims ('Stundenforderung'), and purchase claims ('Einkaufsforderung'). It explains how to generate various evaluations and reports ('Auswertungen'), such as price change reports, zero-price reports, and contribution margin analysis ('Deckungsbeitrags-Analyse'). The guide also covers internal control features ('Interne Kontrolle') for monitoring credit notes, customer data changes, and delivery statuses. Further sections explain the management of different document types like credit notes ('Gutschrift'), journals ('Journal'), and master lists ('Bestandslisten'). The manual also details the dunning process ('Mahnwesen'), document data management, and inventory search ('Lagersuche'). It is intended for users and administrators of the A+W Business software to understand and correctly use the sales-related functions. The document uses screenshots and step-by-step navigation paths to guide the user through the software's interface. The end of the manual includes a detailed 'Partindex' and a full subject index ('Index Verkauf') for quick reference."
+description: "DE_AWBusiness_Verkauf_4_8"
 ---
+
 
 ---
 ## Objektabrechnung

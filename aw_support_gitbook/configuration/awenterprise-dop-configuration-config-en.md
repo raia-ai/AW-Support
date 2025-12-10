@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_DOP"
-source: "EN-CONFIG-AW_Enterprise_DOP.pdf"
-tags: ["A+W Enterprise", "DOP", "Configuration", "Construction Products Regulation", "Software", "Glass Industry", "Technical Documentation", "ERP", "CE Marking"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a configuration guide for the A+W Enterprise Declaration of Performance (DOP) module. It details the setup and management processes required to comply with the European Construction Products Regulation (CPR) for glass products. The guide covers legal background, master data configuration, order entry procedures, document generation, and system settings."
-long_description: "This internal technical document provides comprehensive instructions for configuring and using the A+W Enterprise Declaration of Performance (DOP) module. It is designed for system administrators and technical staff responsible for implementing software solutions in the glass manufacturing industry. The guide is structured to walk users through the necessary steps to comply with the European Construction Products Regulation (EU) 305/2011, which mandates the creation and management of DOPs for construction products. The document is divided into several key sections. It begins with the legal motivation behind the CPR and the role of the DOP. It then details the 'Level 1' configuration, which includes defining document types, setting up master data for articles, establishing rules for product encoding, and managing the application during order entry. It explains how to register, assign, and output DOPs on various forms. The guide also covers the 'Level 2' extension, which involves integration with external calculation programs (like A+W SLT or SommerGlobal) for determining technical values. This section describes the configuration of environment variables, master data setup for new product codes and ID assignments, and the process for creating and managing DOP documents, including reports and emails. Furthermore, it addresses the expansion of the functionality to include central components for multi-site organizations, allowing for centralized management of DOPs. Data structures are extensively documented, with detailed descriptions of relevant database tables and fields, such as `xledesc`, `kprodkeylezu`, and `xdokutype`. Finally, the document covers procedures for handling specific scenarios like setting a DOP to 'invalid' and lists the key environment variables that control the module's behavior."
+description: "EN-CONFIG-AW_Enterprise_DOP"
 ---
+
 
 # A+W Configuration: A+W Enterprise DOP
 

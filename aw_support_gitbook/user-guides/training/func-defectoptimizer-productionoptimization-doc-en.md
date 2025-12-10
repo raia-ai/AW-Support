@@ -1,15 +1,7 @@
 ---
-title: "A+W Functional Description"
-category: "training"
-product: "Unknown"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "DefectOptimizer", "ProductionOptimization", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-FUNC-AW_Defect_Optimizer" source: "EN-FUNC-AW_Defect_Optimizer.pdf" tags: ["A+W", "Defect Optimizer", "Software for Glass", "Production Optimization", "Cutting Plan", "Realtime Optimizer", "Viprotron", "Glass Manufacturing"] version: "1.0" last_updated: "2025-10-03" short_description: "Functional description for the A+W Defect Optimizer, a software module for glass production. It details how the software identifies, visualizes, and optimizes cutting plans to avoid defects on glass sto"
-source_file: "FUNC-DefectOptimizer-ProductionOptimization-Doc-EN.md"
+description: "A+W Functional Description"
 ---
+
 
 
 title: "EN-FUNC-AW_Defect_Optimizer"

@@ -1,15 +1,7 @@
 ---
-title: "Installation Instructions A+W Production 6"
-category: "training"
-product: "AWProduction"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWProduction", "GlassIndustry", "WindowsManufacturing", "Install"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-INST-AW_Production" source: "EN-INST-AW_Production.pdf" tags: ["A+W Production", "installation guide", "software setup", "glass industry", "windows manufacturing", "database configuration", "licensing", "troubleshooting"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical manual providing step-by-step installation and configuration instructions for the A+W Production 6 software, designed for the glass and windows industry. It covers system prerequisites, setup p"
-source_file: "AWProduction-GlassIndustry-WindowsManufacturing-Install-EN.md"
+description: "Installation Instructions A+W Production 6"
 ---
+
 
 
 title: "EN-INST-AW_Production"

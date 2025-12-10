@@ -1,12 +1,7 @@
 ---
-title: "PowerScan PD9531"
-source: "PowerScan_PD9531_-_English.pdf"
-tags: ["Datalogic", "PowerScan", "PD9531", "barcode scanner", "area imager", "handheld scanner", "logistics", "manufacturing", "technical specifications"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A product datasheet for the Datalogic PowerScan PD9531, a rugged handheld area imager. It details the scanner's features, including its omnidirectional reading, ergonomic design, and durability for industrial environments."
-long_description: "This document provides a comprehensive overview of the Datalogic PowerScan™ PD9531 handheld area imager. It outlines the product's key selling points, such as its intuitive 'Aim, Trigger, Decode' functionality, user-centric ergonomic design with soft-pulsed white illumination, and rugged construction built for harsh industrial conditions (IP65 rating). The datasheet lists key features like omnidirectional reading up to 1.0 m / 3.3 ft, Datalogic's 3GL™ feedback system, and Motionix™ motion-sensing technology. It also details target industries and applications, including manufacturing shop floors and warehouse/logistic centers. The second page provides detailed technical specifications covering decoding capabilities (1D, 2D, postal, stacked codes), electrical requirements, environmental tolerances (drop resistance, IP rating), physical characteristics, and reading performance metrics (imager sensor, resolution, reading ranges). Finally, it lists available accessories like holsters and stands."
+description: "PowerScan PD9531"
 ---
+
 
 # POWERSCAN™ PD9531
 

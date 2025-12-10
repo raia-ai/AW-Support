@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Residual_Stock_Manager"
-source: "EN-FUNC-AW_Residual_Stock_Manager.pdf"
-tags: ["A+W", "Residual Stock Manager", "Glass Software", "Realtime Optimizer", "Stock Management", "Functional Description", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Residual Stock Manager module. This document outlines the module's purpose, which is to enable the reuse of residual glass plates in upcoming cutting batches. It covers the module's data, requirements, functions, and limitations, explaining how it integrates with the A+W Realtime Optimizer to improve material yield."
-long_description: "This document provides a detailed functional description of the A+W Residual Stock Manager, a software module designed for the glass processing industry. The module's primary function is to manage and reuse residual glass plates, thereby optimizing material usage and reducing waste. It integrates with the A+W Realtime Optimizer and can be accessed via a web interface, allowing users to save, process, and track residual plates without direct machine assistance. The documentation outlines the technical requirements, including compatibility with the MCStockMasterControl interface used by third-party storage systems like Hegla or Bystronic. It details the core functionalities, such as manually creating and editing residual plates, changing their dimensions or storage locations, and selecting specific plates for optimization in cutting batches. The document also highlights current limitations, for instance, that scheduling is only for end pieces of a stock plate and that full stock plate management requires additional logic. The guide is intended for users and system administrators to understand the module's capabilities and integration points within the A+W software ecosystem."
+description: "EN-FUNC-AW_Residual_Stock_Manager"
 ---
+
 
 # A+W Functional Description: A+W Residual Stock Manager
 

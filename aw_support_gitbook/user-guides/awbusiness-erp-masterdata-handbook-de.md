@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_2"
-source: "D-HB-AWBusiness_2.pdf"
-tags: ["A+W Business", "ERP", "Master Data", "Customer Data", "Supplier Data", "Product Data", "Software Tutorial", "German", "Finance", "Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial for the A+W Business software, focusing on the management of master data. It provides step-by-step instructions for creating and maintaining customer, supplier, and product data, as well as related financial and production settings."
-long_description: "This tutorial (Tutorial 1) from the A+W Business handbook series provides an in-depth guide to managing core master data (Stammdaten). The document is structured into several key sections, starting with 'Address Data' (Adressdaten), which covers the creation of partner data, customer groups, tours, and delivery conditions. It then moves to 'Order and Customer Invoicing' (Auftrag und Kundenrechnung), detailing how to set order priorities and configure settings for various invoice types like collective and partial invoices. The 'Employees and Branches' (Mitarbeiter und Filialen) section explains how to manage additional delivery addresses and contact persons. A significant portion is dedicated to 'Finances and Balance' (Finanzen und Saldo), which discusses payment conditions, credit limits, calendar settings for payment schedules, and currency management. The tutorial also covers 'Production' (Produktion), outlining how to set customer-specific production defaults for items like glazing bars and spacers. Finally, it addresses 'Supplementary Data for Partners' (Ergänzende Daten für Partner) and 'Supplier Data' (Lieferantendaten), showing how to manage delivery times, rounding rules, and specific project (object) data. The document is highly practical, featuring numerous screenshots, step-by-step instructions, and explanations of key concepts to guide users through the A+W Business software interface."
+description: "D-HB-AWBusiness_2"
 ---
+
 # Tutorial 1: Kundendaten
 
 ---

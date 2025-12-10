@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Machinery Allocation 2.10"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Machinery Allocation_2.10"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Machine Allocation         D                                 english                     A+W Production                                                                                                                 Introduction                                             Introduction                                         This part of the documentation contains editorial notes.                                           Revision Overview                                         Machine Allocat"
-source_file: "EN_AWProduction_Machinery Allocation_2.10.pdf"
+description: "EN AWProduction Machinery Allocation 2.10"
 ---
+
 
 
 # EN AWProduction Machinery Allocation 2.10

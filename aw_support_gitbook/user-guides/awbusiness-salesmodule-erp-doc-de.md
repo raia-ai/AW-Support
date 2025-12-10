@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_19"
-source: "D-AWBusiness-HB_19.pdf"
-tags: ["A+W Business", "Software Reference", "Sales Module", "ERP", "Order Management", "Item Positions", "Pricing", "Macros", "Bill of Materials", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the \"A+W Business Verkauf\" (Sales) module, specifically focusing on overviews and references related to item positions within an order. It covers functionalities for product selection, handling inquiries, managing prices, and processing orders."
-long_description: "This document is a comprehensive section from the A+W Business software reference manual, detailing features under \"Übersichten und Referenzen zu Positionen\" (Overviews and References for Items). It provides step-by-step guidance and explanations for various dialogs and functions within the sales and order processing workflow. Key topics include selecting products using different criteria like technical parameters and classifiers, handling quick inquiries (\"Schnellanfrage\"), replacing parameters in product descriptions, and performing product comparisons with CAD data (\"Produktabgleich\"). The guide also covers managing reclamations, setting cutback dimensions (\"Rückschnitt\"), selecting color variants, and applying fixed prices. Advanced features such as creating and managing macros, copying item positions, and detailed cost/surcharge calculations are explained. Furthermore, it details the processes for handling partial deliveries (\"Teillieferungen\"), managing production-related bills of materials, and interfacing with financial accounting (FiBu) through data export. The document is intended for users and administrators of the A+W Business software to understand and effectively utilize the extensive features related to managing order items from creation to final delivery and invoicing."
+description: "D-AWBusiness-HB_19"
 ---
+
 
 # Übersichten und Referenzen zu Positionen
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Box_Management_1_1-1"
-source: "EN_AWBusiness_Box_Management_1_1-1.pdf"
-tags: ["A+W Business", "Box Management", "Software Tutorial", "Stock Management", "Inventory Management", "Glass Manufacturing", "ERP", "Master Data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical user guide for the A+W Business Box Management module. This document provides a tutorial on managing boxes of cut glass, including configuration of basic settings, master data, stock principles, and order processing."
-long_description: "This document is a comprehensive tutorial for the 'Box Management' module within the A+W Business software, a system designed for the glass, windows, and doors industry. It details the processes for managing boxes of cut glass from stock entry to dispatch. The guide begins with an introduction covering revision history and editorial notes. The core of the document is a tutorial that explains the basic principles of stock management, including stock control, reservations, and BOM consumption. It provides step-by-step instructions for configuring essential 'Basic Settings' such as prices, company data parameters for stock, and status changes. The manual also covers the creation and management of 'Master Data for Boxes,' detailing how to define stock sizes, stock articles, and handle boxes with a Bill of Materials (BOM). The tutorial is intended for end-users familiar with the general concepts of A+W Business and guides them through the specific functions and dialogs required for effective box management."
+description: "EN_AWBusiness_Box_Management_1_1-1"
 ---
+
 
 # A+W Box Management
 **A+W Business**

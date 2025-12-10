@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_1-4"
-source: "EN_AWBusiness_Production_1-4.pdf"
-tags: ["A+W Business", "Production Management", "Logistics", "Route Planning", "Status Reporting", "Interface Service", "Surplus Management", "ERP", "Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial excerpt from the A+W Business Production manual, focusing on production reporting, logistics management, route planning, and status updates. It details how to handle surplus, configure the A+W Business Interface Service, plan and manage delivery routes, and report order status changes manually or via scanning."
-long_description: "This document is a detailed tutorial section from the A+W Business Production software manual, version 5.20. It provides step-by-step instructions for key functions related to production reporting and logistics. The first part covers \"Reports from Production,\" explaining how to manage surplus from customer orders using file-less reports and how to configure the A+W Business Interface Service for data exchange with other programs. The second, more extensive part focuses on \"Logistics.\" It guides users through organizing deliveries and dispatch, covering modules like \"Route Planning,\" \"Status Report,\" and \"Picking.\" It details how to define, change, and lock delivery routes; plan shipments using the Route List dialog; change delivery dates; and print route lists. The \"Status Report\" section explains how to manage and update order statuses, both for entire orders and individual items, either manually through the user interface or by using a barcode scanner to simulate production floor feedback. The guide is intended for users responsible for production planning, dispatch, and logistics within the A+W Business environment."
+description: "EN_AWBusiness_Production_1-4"
 ---
+
 
 # Reports from Production
 

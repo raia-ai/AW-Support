@@ -1,12 +1,7 @@
 ---
-title: "AW_Pattern_Viewer_-_REMOVEADDITIONALTEXT"
-source: "AW_Pattern_Viewer_-_REMOVEADDITIONALTEXT.docx"
-tags: ["AW Pattern Viewer", "pattern viewer", "user guide", "ADDITIONAL TEXT EXAMPLE", "A+W PATTERN VIEWER WORKFLOW STUDIO CUSTOMISING", "ADDITIONAL TEXT TESTING", "workflow", "pattern", "viewer", "number"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a structured guide to the AW Pattern Viewer, detailing its features, workflows, and configuration options. It organizes the original content into clear sections with headings, bullet lists, and tables for quick reference. The guide preserves all instructions, parameters, and notes from the source while correcting formatting and encoding issues. It is intended for users and implementers who need to understand how to navigate the interface, interpret outputs, and perform common tasks in the Pattern Viewer environment."
-long_description: "This document is a comprehensive, cleaned, and semantically structured Markdown conversion of the original AW Pattern Viewer source file. It preserves the complete content—headings, step-by-step procedures, bullet lists, and tabular data—while normalizing typography and fixing any encoding artifacts. Sections are organized to reflect the application's conceptual model: overview, prerequisites, setup or configuration, navigation patterns, pattern definitions, and operational workflows. Where the original layout implied hierarchy or emphasis, this version applies consistent Markdown headers and bolded callouts to improve readability. Tables are rendered in GitHub Flavored Markdown to retain parameter names, options, and results side by side. The document is well-suited for search and retrieval in a vector store: headings form strong anchors, and each subsection keeps related terms together for high-quality embeddings. Readers can use this as a definitive reference during deployment and day-to-day operation of the AW Pattern Viewer, including troubleshooting tips and contextual notes captured from the source. No content has been invented; the reformatting simply clarifies and stabilizes the original information for technical enablement and training purposes."
+description: "AW_Pattern_Viewer_-_REMOVEADDITIONALTEXT"
 ---
+
 **A+W ****PATTERN VIEWER ****-**** WORKFLOW STUDIO ****REMOVE ****ADDITIONAL TEXT **
 
 In the document below we are going to show how to customise the Additional Text show on the Pattern Viewer on each glass cut on the stockplate view.

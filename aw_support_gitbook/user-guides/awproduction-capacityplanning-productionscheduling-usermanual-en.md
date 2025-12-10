@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_6"
-source: "EN_UM_AWProduction_6.pdf"
-tags: ["capacity planning", "production scheduling", "A+W Production", "shift management", "cost calculation", "master data", "transition times", "default times", "machinery groups", "load distribution"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for A+W Production Capacity Planning. It details the configuration of master data, including shifts, calendars, cost calculations, transition times, default times, machinery groups, and load distribution to enable effective production scheduling."
-long_description: "This document serves as a comprehensive guide for the A+W Production Capacity Planning software. It is structured into two main parts: a tutorial and a software reference. The tutorial section provides step-by-step instructions on how to set up and manage the essential master data required for capacity planning. Key topics covered include defining shifts, work calendars, and non-working days; creating and managing shift plans, rules, and groups; performing cost calculations by defining labor, machine, and other costs for logical machines; setting up transition times between different production processes, including normal, rush, and minimal transitions; and configuring default processing times using a powerful formula editor with elements, vectors, and conditions. The tutorial also explains how to organize machines into machinery groups to manage capacity collectively and how to implement load distribution for bottleneck machines. The second part of the document is a detailed software reference, providing an organized overview of the application's dialogs, functions, and settings related to scheduling, such as the Production Monitor, filter options, machine properties, and more."
+description: "EN_UM_AWProduction_6"
 ---
+
 
 # Tutorial: Master Data of Capacity Planning
 

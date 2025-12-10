@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Analytics"
-source: "EN-CONFIG-AW_Analytics.pdf"
-tags: ["A+W Analytics", "Qlik Sense", "Configuration", "Implementation", "Data Loading", "Software for Glass", "ERP", "PPS", "Data Architecture", "Customizing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is an internal configuration guide for A+W Analytics, a business intelligence solution powered by Qlik Sense. It details the steps for implementation, customization, data loading architecture, and usage of various analytical applications (APPs) designed for the glass industry."
-long_description: "This is a comprehensive internal guide for configuring and implementing A+W Analytics, which leverages the Qlik Sense platform to provide powerful data analysis for the glass manufacturing industry. The document serves as a technical manual for A+W project teams and customers' IT departments. It begins with a detailed implementation checklist, covering server setup, port configuration, licensing, and user management. It then explains how to configure the core `CU_CONFIG.XLSX` file, which manages client lists, database connections, languages, and specific A+W parameters. The guide outlines the multi-layered data loading architecture, which includes extract, union, and compaction layers, explaining how data is collected from A+W databases (like A+W Business, Production, and Cantor), processed into QVD files, and prepared for visualization. It also covers customizing the solution, such as extending the data model and using Qlik Sense extensions. Finally, the document provides an overview of the various standard analytical applications (APPs) available, including those for turnover, customer receivables, stock forecasting, delivery reliability, and production statistics, explaining their purpose and requirements."
+description: "EN-CONFIG-AW_Analytics"
 ---
+
 
 # A+W Configuration: A+W Analytics powered by QLIK Sense
 

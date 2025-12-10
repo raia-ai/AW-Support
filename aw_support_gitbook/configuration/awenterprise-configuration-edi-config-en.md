@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_1"
-source: "EN-CONFIG-AW_Enterprise_1.pdf"
-tags: ["A+W Enterprise", "Configuration", "Software for Glass", "EDI", "BOM", "Article Master Data", "iQuote", "ERP", "Technical Manual", "System Setup"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for the A+W Enterprise software, a comprehensive solution for the glass industry. It covers key concepts, article master data setup, exchange/additional rules, and various system modules."
-long_description: "This is a comprehensive configuration manual for the A+W Enterprise software system, designed for internal use. The document details the setup and configuration of various modules and functionalities within the A+W ecosystem, which is a leading software solution for the glass processing industry. It begins with a change history, tracking updates from 2018 to 2025. The core of the manual is a detailed table of contents followed by in-depth chapters on system keys (languages, product keys), article master data (article types, bill of materials, IG units, spacers), and the application of exchange and additional rules (E/A rules). It explains how to configure elements like IG units, spacers, sealants, and muntins, and discusses the differences between fixed products and product sets. The guide also covers article dimensioning, stock management, supplier allocation, and the use of private fields and article remarks. This manual is essential for system administrators and technical consultants responsible for implementing and maintaining the A+W Enterprise system, ensuring correct data flow and process automation from order entry to production."
+description: "EN-CONFIG-AW_Enterprise_1"
 ---
+
 
 # A+W Configuration Instructions
 ---

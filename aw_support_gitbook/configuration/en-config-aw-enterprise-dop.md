@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise DOP"
-category: "configuration"
-product: "A+W Enterprise DOP"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise DOP"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise DOP                                                                        deutsch        A+W Software GmbH   EN-CONFIG-A+W Enterprise DOP.docx   - -INTERNAL-                                                                     1 Change history   Date               Author             Comments                                         Version 2019-02-05         Initial version/EB Transfer from different documents                1.0     Contents 1.   Legal Bac"
-source_file: "EN-CONFIG-A+W Enterprise DOP.pdf"
+description: "EN CONFIG A+W Enterprise DOP"
 ---
+
 
 
 # EN CONFIG A+W Enterprise DOP

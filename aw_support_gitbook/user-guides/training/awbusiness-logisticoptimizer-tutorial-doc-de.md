@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_LogisticOptimizer_2_3"
-source: "DE_AWBusiness_LogisticOptimizer_2_3.pdf"
-tags: ["A+W Business", "Logistic Optimizer", "Tutorial", "Software Reference", "Tour Planning", "GPS Tracking", "Delivery Management", "Route Optimization", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Business Logistic Optimizer software, provided in German. It is split into two main parts: a step-by-step tutorial and a detailed software reference guide. The tutorial covers practical workflows such as driving and monitoring tours, using the mobile app, and generating queries and reports. The reference section provides in-depth explanations of configuration settings, administrative functions, and system parameters."
-long_description: "This document serves as a complete guide for the A+W Business Logistic Optimizer, a software designed for tour and delivery management. It is written in German and structured into a 'Tutorial' and a 'Softwarereferenz' (Software Reference). The Tutorial section guides users through the entire lifecycle of a tour, from preparation (setting tour status, uploading documents to the cloud) and execution (using the GDC mobile app, booking data, capturing signatures) to monitoring (live tracking of vehicles and delivery status). It also details how to generate various queries and reports, including tour histories, delivery lists, and statistical analyses. The Software Reference section acts as a technical dictionary for the application. It meticulously explains all configuration options (database connections, system parameters like routing behavior and cost factors), administrative tasks (user management, status definitions, vehicle and driver setup), and data import/export functionalities. This part is essential for administrators and advanced users who need to customize and maintain the system. Overall, the manual is designed to enable both new users to learn the software's core functionalities and experienced users to master its advanced features and settings."
+description: "DE_AWBusiness_LogisticOptimizer_2_3"
 ---
+
 
 # Tutorial
 

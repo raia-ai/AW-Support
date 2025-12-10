@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Kapazitaetsplanung_4_3"
-source: "DE_AWProduction_Kapazitaetsplanung_4_3.pdf"
-tags: ["A+W Production", "Kapazitätsplanung", "Stammdaten", "Übergangszeiten", "Vorgabezeiten", "Maschinengruppen", "Lastverteilung", "Software-Tutorial", "Produktionsplanung", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for setting up master data for capacity planning in the A+W Production software. It covers defining transition times, processing times (Vorgabezeiten), machine groups, and load distribution to accurately model the production environment."
-long_description: "This document is a comprehensive tutorial from the A+W Production software suite, specifically focusing on the 'Stammdaten der Kapazitätsplanung' (Master Data for Capacity Planning). It guides users through the necessary steps to configure the foundational data required for effective production planning and scheduling. The tutorial is divided into several key sections. It begins with 'Übergangszeiten' (Transition Times), explaining how to define the time it takes for a product to move between different logical machines. Next, it covers 'Vorgabezeiten' (Processing Times), detailing how to create complex formulas (Vorgabezeitformeln) to calculate the duration of work steps based on various factors like glass thickness, area, or model type. The document also explains how to manage 'Maschinengruppen' (Machine Groups) to bundle similar machines and control their collective capacity. Finally, it addresses 'Lastverteilung' (Load Distribution), showing how to allocate capacity shares for specific tasks on a single physical machine. The tutorial includes step-by-step instructions, screenshots, and practical examples to help users correctly set up their production environment for accurate capacity planning. It also contains a software reference section for more detailed dialog descriptions."
+description: "DE_AWProduction_Kapazitaetsplanung_4_3"
 ---
+
 
 # Tutorial: Stammdaten der Kapazitätsplanung
 

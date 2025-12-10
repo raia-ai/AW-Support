@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_8"
-source: "EN_UM_AWProduction_8.pdf"
-tags: ["A+W Production", "Formula Editor", "Machinery Allocation", "Tutorial", "Software Reference", "Conditions", "Quantities", "Formulas", "Syntax", "Production Scheduling"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive guide to the A+W Production Formula Editor and Machinery Allocation modules. This document serves as both a tutorial for new users and a software reference for experienced professionals, covering the creation and management of formulas, conditions, quantities, and allocations for production scheduling and control."
-long_description: "This document provides a detailed tutorial and software reference for the A+W Production Formula Editor and Machinery Allocation modules. It is designed for production scheduling personnel responsible for optimizing production processes. The first part, the Formula Editor tutorial, explains how to define, manage, and link various components like comparisons, conditions, quantities, and allocations. It covers the syntax and function of the Notation Formula.dll and provides practical examples for setting up conditions for racks, organization groups, and production sections. The second part delves into Machinery Allocation, explaining how to represent physical machinery, logical machines, and work processes within the A+W Production software. It details the management of machine properties, restrictions (e.g., size, thickness, shape), and the allocation of work processes to specific machines. The document includes step-by-step instructions, screenshots, and exercises to help users understand and apply these concepts effectively for production control, capacity planning, and cost calculation. The goal is to enable users to accurately model their factory's production capabilities and constraints to ensure optimal scheduling and resource utilization."
+description: "EN_UM_AWProduction_8"
 ---
+
 
 # Tutorial: Formula Editor
 

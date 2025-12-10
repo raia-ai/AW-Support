@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_SOA_Dependencies"
-source: "EN-INST-AW_SOA_Dependencies.pdf"
-tags: ["A+W", "AWSOA", "Software", "Dependencies", "SOA", "Technical Documentation", "Glass Industry", "Module Dependencies", "Database Access"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical document from A+W Software GmbH, detailing the dependencies for the A+W Service-Oriented Architecture (AWSOA). It outlines required setup dependencies for various modules, provides short descriptions of services, and specifies database and table access for different components as of October 2023."
-long_description: "This document, titled \"A+W AWSOA Dependencies (as of 10/2023),\" is a comprehensive technical guide from A+W Software GmbH, a company specializing in software for the glass industry. It is designed for system administrators, developers, and technical consultants involved in the installation, configuration, and maintenance of the A+W Service-Oriented Architecture (AWSOA). The document begins with a table of contents and then delves into the core technical details. The main section, \"Module Dependencies,\" presents a detailed table listing various A+W modules (like CIM.Web, Corporate.Web, AWB/AWE - iQuote) and the specific AWSOA services they require to function correctly. This is crucial for ensuring a stable and operational system setup. Following this, the \"Services Short Description\" section provides a brief overview of the purpose of each service, categorized into domains such as Infrastructure, Facility, CAD, CIM, Corporate, Commercial, Planning, and Web. This helps users understand the function of each component within the larger architecture. A significant portion of the document, \"Access to databases and tables,\" provides explicit listings of the databases (e.g., AWSOA, AWProduction) and specific tables that each SOA service interacts with. This information is vital for database administration, troubleshooting, and understanding data flow. Finally, the \"Domain Overview\" section includes diagrams that visually represent the various service domains (Infrastructure, Corporate, CAD, Facility, Web, Commercial, Planning, CIM) and the services within them, offering a high-level architectural view. The document concludes with the contact information for A+W Software GmbH."
+description: "EN-INST-AW_SOA_Dependencies"
 ---
+
 
 # A+W AWSOA Dependencies (as of 10/2023)
 

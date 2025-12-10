@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_10"
-source: "EN-UM-AWBusiness_10.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "Customer Management", "Supplier Management", "Production", "Order Management", "Financial Data", "ERP", "Invoicing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Master Data, detailing the configuration and management of core business entities. It covers customer and supplier data, project management, shipping logistics, production settings, order processing, and financial data setup."
-long_description: "This comprehensive software reference manual provides detailed instructions and descriptions for managing master data within the A+W Business system. It is designed for system administrators and advanced users responsible for configuring and maintaining the foundational data that drives the software's operations. The document is divided into several key sections: Customer, Supplier, Shipping, Production, Order, and Financial Data. Each section explains the various dialogs, fields, and parameters available. Key topics include setting up customer-specific order parameters, managing individual and customized products, defining delivery times and routes, and handling complex project invoicing. The guide also covers production-related settings such as optimization keys, cutting table configurations, and registration points for tracking. Additionally, it details the setup for order management, including number ranges, status management, and document types, as well as the configuration of financial data like taxes, payment conditions, and proceeds accounts. With screenshots, field-level explanations, and cross-references, this manual serves as an essential tool for ensuring the A+W Business system is correctly configured to meet specific business requirements."
+description: "EN-UM-AWBusiness_10"
 ---
+
 
 # Software Reference
 

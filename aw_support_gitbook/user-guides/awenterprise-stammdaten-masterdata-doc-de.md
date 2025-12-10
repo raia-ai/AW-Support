@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Stammdaten_3.00"
-source: "DE_AWEnterprise_Stammdaten_3.00.pdf"
-tags: ["A+W Enterprise", "Stammdaten", "master data", "ERP", "glass industry", "windows", "doors", "software manual", "technical documentation", "Marktpartner"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the Master Data (Stammdaten) module of the A+W Enterprise software, version 3.0. It provides detailed descriptions of the various dialogs, functions, and data fields for managing core business data within the system."
-long_description: "This technical documentation serves as a complete software reference guide for the 'Stammdaten' (Master Data) module of the A+W Enterprise software, a specialized ERP solution for the glass, windows, and doors industry. The manual is intended for end-users and administrators responsible for maintaining the foundational data that underpins the entire system. It covers the creation, management, and configuration of key data entities, including Market Partners (customers, suppliers), Articles (products), Employees, and various system-wide keys and parameters. The document is structured to follow the software's menu layout, providing detailed explanations for each section, such as Marktpartner (Market Partners), Artikel (Articles), Stückliste (Bill of Materials), and Warengruppen (Product Groups). It includes step-by-step guidance on navigating dialogs, context menus, and registers (tabs), explaining the purpose and technical details of each field. Special attention is given to configurations, pricing, conditions, and the interdependencies between different data sets. This manual is an essential tool for ensuring data integrity and leveraging the full functionality of the A+W Enterprise system."
+description: "DE_AWEnterprise_Stammdaten_3.00"
 ---
+
 
 # A+W Stammdaten B
 

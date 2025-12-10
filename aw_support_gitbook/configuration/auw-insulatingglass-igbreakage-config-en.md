@@ -1,16 +1,7 @@
 ---
-title: "AUW_Description_IG_Breakage"
-source: "AUW_Description_IG_Breakage.docx"
-tags: ["A+W Production", "Insulating Glass", "IG Breakage", "Laminated Glass", "Process-Manager", "AlcimBooking", "Manufacturing Reports", "Production Terminals", "Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document explains a reporting-based solution to reliably trigger postproduction for insulating glass (IG) and laminated glass (LG) breakages when subcomponents are not assembled via A+W Production Terminals. It outlines the problem context, goals, system preconditions, installation requirements, and configuration parameters to ensure the correct subcomponents are reproduced and relevant teams are notified."
-long_description: "When insulating glass (IG) or laminated glass (LG) units are not produced through A+W Production Terminals on the respective lines, the system lacks a definitive link between the finished unit and its subcomponents. Because each part is tracked individually with its own barcode in the bill of materials, breakage bookings without assembly information do not automatically trigger the correct remakes. This leads to operational blind spots: the employee booking the breakage may assume a remake is started, while cutting, spacer bending, Georgian bar production, or purchasing teams receive no instruction to reproduce or reorder parts. The same issue arises for LG if production is not booked correctly via A+W Production Terminals LG.
-
-This document describes a solution that leverages the Process-Manager to trigger targeted reports whenever a breakage booking for IG or LG is received from scanners or Production Terminals. AlcimBooking writes a process entry (including report name, printer name, and the BARCODE parameter), and the Process-Manager executes reporting. Reports are designed to produce output only when no subcomponents have been assembled, avoiding unnecessary prints for standard cases. Multiple specialized reports can be configured to support specific production areas—cutting tables, purchased parts, spacer benders, and Georgian bar production—so the right stakeholders receive clear instructions.
-
-The paper details preconditions (minimum AWProduction release, printer setup for the awservices account, and email/PDF considerations), the required module installation on the process server (AlcimBooking, Process-Manager, and optional eDocPrinter), and the configuration parameters that distinguish IG versus LG scenarios. It specifies typical filters such as object types, procurement type, part type (TTYP), and status for breakage events, enabling precise triggering of the appropriate report routes. Overall, the approach closes the functional gap by making postproduction initiation explicit and reliable even when physical constraints or urgent remakes prevent assembly booking on the line."
+description: "AUW_Description_IG_Breakage"
 ---
+
 
 # IG-Breakage in case of not assembled subcomponents (concept)
 

@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W ERP Web Service"
-category: "installation"
-product: "A+W ERP Web Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W ERP Web Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W ERP Web Service    Change history:      Date            Edited by              Remarks      2012-01-16      André Münch            Original version      2014-03-25      Alexander Weil         CI adjustment      2015-12-01      André Münch            Version 6      2016-03-16      Ralf Imhof             General adjustments Version 6      2017-01-27      M.Pitz                 maxRequestLength      2020-11-04      D.Langsdorf            HTTPS Installa"
-source_file: "EN-INST-A+W ERP Web Service.pdf"
+description: "EN INST A+W ERP Web Service"
 ---
+
 
 
 # EN INST A+W ERP Web Service

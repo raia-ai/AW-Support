@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Business"
-category: "installation"
-product: "A+W Business"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Business"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Business 6     Change history:       Date            Edited by            Remarks      2012-01-13      André Münch          Original version      2014-03-25      Alexander Weil       CI adjustment      2014-07-09      André Münch          Adjustment SP4      2015-01-12      André Münch          Adjustment of SQL Server authentication (1.7.4)      2015-01-12      Sebastian Weil       Adjustment of eDocPrinter installation      2015-07-17      Dirk la"
-source_file: "EN-INST-A+W Business.pdf"
+description: "EN INST A+W Business"
 ---
+
 
 
 # EN INST A+W Business

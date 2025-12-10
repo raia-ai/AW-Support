@@ -1,15 +1,7 @@
 ---
-title: "EN CapaView"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_CapaView"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Capa View                            English                 A+W Capa View                  Introduction                                     Introduction                                 This part of the documentation contains editorial notes.                                   Revision overview                                 A+W Capa View              Description                                 Version / Date                                  1.00 / 05-2015             Original version"
-source_file: "EN_CapaView.pdf"
+description: "EN CapaView"
 ---
+
 
 
 # EN CapaView

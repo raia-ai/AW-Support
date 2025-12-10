@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Inventory_Management_6_2-2"
-source: "EN_AWBusiness_Inventory_Management_6_2-2.pdf"
-tags: ["Inventory Management", "A+W Business", "Production Orders", "Stocktaking", "Periodical Inventory", "ERP", "Tutorial", "Stock Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W Business Inventory Management software. This guide details the process of creating and managing production orders to replenish stock and conducting periodical inventory and stocktaking to ensure data accuracy."
-long_description: "This document is a comprehensive tutorial for the A+W Business Inventory Management system, focusing on two core areas: Production Orders and Inventory. The first section on Production Orders explains their purpose in replenishing stock on hand. It covers the objectives, benefits, and detailed settings for manual and automatic creation of work orders, including procurement types, booking types, and supplier file configurations. The process flow from detecting a stock shortage to creating a purchase order proposal or a production order is illustrated. The second major section covers Inventory management, detailing how to perform a periodical inventory and stocktaking. It provides a step-by-step guide on creating inventory lists, determining target inventory, entering counted values, and finalizing the inventory to update stock levels. The tutorial includes screenshots of the software's user interface, example calculations, and process flowcharts to guide users through each procedure effectively."
+description: "EN_AWBusiness_Inventory_Management_6_2-2"
 ---
+
 
 # Stock Articles in Documents
 

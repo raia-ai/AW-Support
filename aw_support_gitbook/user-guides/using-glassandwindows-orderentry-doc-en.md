@@ -1,12 +1,7 @@
 ---
-title: "Using AWB alternatives function for order entry"
-source: "Using_AWB_alternatives_function_for_order_entry.pdf"
-tags: ["A+W Software", "Glass and Windows", "Order Entry", "Alternatives Function", "User Guide", "Processing", "Article Exchange", "Price Change"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user guide for the 'Using alternatives function' in A+W Software for Glass and Windows. This document provides step-by-step instructions on how to use the alternatives function for processing orders, exchanging articles, and changing prices within the A+W Business application."
-long_description: "This technical document serves as a comprehensive user guide for the 'alternatives function' within the A+W Software for Glass and Windows. It is designed to walk users through three primary use cases for modifying orders in the A+W Business application. The first section covers how to use alternative functions to add processing, such as polishing, to existing order items. The second section details the process of exchanging articles, for example, swapping one type of glass (e.g., float 5mm) for another (e.g., float 10mm) in an order. The final section explains how to use the alternatives function to apply price and discount changes across multiple order items efficiently. Each procedure is broken down into clear, numbered steps, accompanied by descriptions that reference specific UI elements and actions, like pressing [Execute] or navigating to particular tabs. This guide is essential for order managers, sales staff, and production planners who use A+W software to manage and modify glass and window orders."
+description: "Using AWB alternatives function for order entry"
 ---
+
 
 # Software for Glass and Windows: Using alternatives function
 

@@ -1,15 +1,7 @@
 ---
-title: "PowerScan PD9500   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["PowerScan PD9500 ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "POWERSCAN™ PD9500   AIM, TRIGGER, DECODE: IT’S THAT SIMPLE! An intuitive and effortless scanning experience is the target of the PowerScan™ 9500 family. It combines omnidirectional reading capabilities, which is typical in all area imaging scanners, with outstanding optical characteristics. The result is a scanner that is able to read any kind of bar code, regardless of the orientation, from contact to over 1.0 m / 3.3 ft, depending on the bar code resolution. In addition, the PowerScan PD9500 a"
-source_file: "PowerScan PD9500 - English.pdf"
+description: "PowerScan PD9500   English"
 ---
+
 
 
 # PowerScan PD9500   English

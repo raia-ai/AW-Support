@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_LogisticOptimizer_2_2"
-source: "DE_AWBusiness_LogisticOptimizer_2_2.pdf"
-tags: ["logistics", "tour planning", "A+W Business Logistic Optimizer", "software tutorial", "route optimization", "administration", "data import", "driver management", "cost calculation", "user guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business Logistic Optimizer software. It provides step-by-step instructions on administrative tasks and the entire tour planning process. Key topics include managing master data such as drivers, reports, and packaging materials, as well as importing data via CSV. The guide details how to create, edit, optimize, and finalize delivery tours."
-long_description: "This is a comprehensive user guide and tutorial for the A+W Business Logistic Optimizer, a software designed for route and tour management. The document is divided into several major sections, beginning with 'Administration'. This section covers the management of core data, including creating, editing, and deleting drivers, managing SAP Crystal Reports-based reports, defining and tracking packaging material types (like racks and boxes), and importing master data for customers, departments, drivers, and vehicles using a CSV format. The second major section, 'Touren planen' (Plan Tours), walks the user through the entire process of tour creation. It explains the two main operating modes: one using pre-defined routes from A+W Business and a dynamic mode where the optimizer groups destinations automatically. It covers importing tour data, understanding the planning interface with its map and tabular views, and working with tours and destinations. Detailed instructions are provided for creating new tours, setting parameters like delivery times and vehicles, geolocating addresses, and merging multiple tours. The guide also delves into cost management, explaining how to handle variable, fixed, and total tour costs. The 'Touren optimieren' (Optimize Tours) section focuses on the route optimization features, showing how to achieve the most efficient sequence of waypoints based on various factors. It explains how to interpret the optimization results, manually adjust routes via drag-and-drop, assign priorities to destinations, and change optimization factors. Finally, the 'Ergebnisse prüfen' (Check Results) section covers the final steps, including reviewing the optimized tour, changing the tour status (e.g., to 'released'), and, crucially, entering the actual tour costs after a tour is completed to refine future planning."
+description: "DE_AWBusiness_LogisticOptimizer_2_2"
 ---
+
 
 ---
 ## Tutorial: Administration

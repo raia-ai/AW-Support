@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Softlock"
-source: "EN-INST-AW_Softlock.pdf"
-tags: ["A+W", "Softlock", "License Management", "Software Licensing", "Gemalto Sentinel", "License Server", "Rehosting", "Dongle", "Technical Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical presentation by Jürgen Makowka from A+W, dated January 19, 2018, introducing 'Dongle News' and the A+W Softlock system. It covers the basics, advantages, disadvantages, and workflows for initial installation, updates, and moving (rehosting) the software-based license."
-long_description: "This document is a presentation titled 'Dongle News' by Jürgen Makowka of A+W, dated January 19, 2018. It details the transition to and implementation of the A+W Softlock system, a software-based licensing solution powered by Gemalto Sentinel. The presentation contrasts this new system with traditional hardware dongles, outlining the pros and cons. Key topics include the introduction of 'Softlocks', improved license file request processes via a new website, and new administration tools. It provides detailed workflows for the first installation, license updates, and moving a license to a new machine (rehosting). The document explains critical concepts such as machine 'fingerprinting', the non-recyclable nature of softlocks, and the precise order required for license updates. It also specifies which system changes (e.g., renaming a computer) might invalidate a softlock and which are non-critical. The presentation is aimed at installation personnel (IP) and internal sales, providing step-by-step instructions, file paths for necessary tools, and links to the license provider portal."
+description: "EN-INST-AW_Softlock"
 ---
+
 
 # Dongle News
 **Jürgen Makowka**

@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Fertigung Software Reference Manual"
-source: "DE_AWBusiness_Fertigung_5_6.pdf"
-tags: ["A+W Business", "Software Reference", "ERP", "Manufacturing", "Production Management", "Rack Management", "Shipping Control", "Customs Management", "Scheduling", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for A+W Business Fertigung, a comprehensive ERP solution for manufacturing. It details the functionalities of key modules, including rack management (Gestellverwaltung), scheduling (Terminübersicht), customs processing (Zollverwaltung), and shipping control (Versandsteuerung). It provides step-by-step instructions, field descriptions, and configuration options for managing production-related assets, planning capacities, generating export documents, and organizing logistics."
-long_description: "This detailed software reference guide provides an in-depth look at several modules within the A+W Business Fertigung (Manufacturing) software suite. It is intended for system administrators and advanced users responsible for configuring and operating the software. The manual covers four primary areas: Gestellverwaltung (Rack Management), Terminübersicht (Schedule Overview), Zollverwaltung (Customs Management), and Versandsteuerung (Shipping Control). The 'Gestellverwaltung' section explains how to manage racks used for transporting products, including tracking their status, location, dunning for overdue racks, and assigning them to orders. The 'Terminübersicht' section details tools for production and capacity planning, allowing users to view production requirements over specific timeframes, analyze material needs, and export data for further analysis. The 'Zollverwaltung' section provides instructions for creating and managing documentation required for customs and exporting goods, including generating loading lists and interfacing with customs software. Finally, the 'Versandsteuerung' section covers the organization of shipping and logistics, particularly for third-party freight forwarders. It describes how to group orders for shipping, create loading lists, packing lists, and manage partial deliveries. Each section includes descriptions of user interface dialogs, menu functions, and specific field functionalities, often accompanied by illustrative screenshots and navigation paths within the software."
+description: "A+W Business Fertigung Software Reference Manual"
 ---
+
 
 ---
 ## Softwarereferenz Gestelle

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_3"
-source: "EN-UM-AW_Enterprise-Sales_4_3.pdf"
-tags: ["A+W Enterprise Sales", "Order Entry", "Software Reference", "Document Management", "Sales Module", "ERP", "Quotation Management", "Discount Management", "Pricing", "Shipping"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference guide for the A+W Enterprise Sales module. This document focuses on the Order Entry functionality, covering miscellaneous settings, totals, discounts, item management, and various related dialogs and configurations."
-long_description: "This document serves as a comprehensive software reference manual for the A+W Enterprise Sales application, version 4.00. It provides in-depth explanations of the user interface and functionalities within the 'Order Entry' module. The guide is structured to walk a user through various tabs and dialogs, including 'Miscellaneous,' 'Totals,' 'Detailed View Discounts,' and the multi-faceted 'Items' area (General, Properties, Prices, Status, Costs). It details how to manage complaint information, payment options, shipping details, private fields, and additional order parameters. The manual also covers the configuration and application of discounts, rebates, and surcharges. Furthermore, it explains how to enter and edit order items, manage Bill of Materials (BOM), handle technical specifications like wind load and glass thickness, and configure shipping and delivery addresses. Each field description is supplemented with technical information, such as database field names, to aid developers and system administrators."
+description: "EN-UM-AW_Enterprise-Sales_4_3"
 ---
+
 
 ---
 ## Order Entry – Miscellaneous

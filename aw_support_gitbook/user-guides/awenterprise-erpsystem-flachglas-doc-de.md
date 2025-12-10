@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Ueberblick"
-source: "DE_AWEnterprise_Ueberblick.pdf"
-tags: ["A+W Enterprise", "ERP-System", "Flachglas", "Software", "Benutzerhandbuch", "Glasindustrie", "Fenster", "Türen", "Stammdaten", "Unternehmensprozesse"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a comprehensive overview of the A+W Enterprise ERP system, a software solution designed for the flat glass processing industry. It covers the system's architecture, key features, and modular structure, tailored for businesses ranging from glass traders to large corporate enterprises."
-long_description: "This document, titled \"A+W Enterprise Überblick,\" serves as a detailed guide and tutorial for the A+W Enterprise software. A+W Enterprise is a fully integrated, multi-client capable ERP system for corporations and large medium-sized companies in the flat glass processing industry. The guide begins with an editorial section, revision history, and contact information. It then transitions into a detailed tutorial covering the system's core functionalities, including an introduction to the product, its benefits compared to A+W Business, and its specific applications for glass trading, glassworks, ISO/ESG/VSG manufacturers, and corporate structures. The document provides fundamental knowledge for working with the software, detailing user interface operations, dialogs, master data management (for market partners, articles, bills of materials), and supported business processes like sales, purchasing, production, logistics, and management. It concludes with an overview of the system's modules and information on using the online help. The guide is intended for end-users to gain a thorough understanding of the system's architecture and capabilities."
+description: "DE_AWEnterprise_Ueberblick"
 ---
+
 
 # A+W Überblick
 

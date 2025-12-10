@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Planning Stock"
-category: "installation"
-product: "A+W Planning Stock"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Planning Stock"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Planning Stock    Change history:      Date            Edited by              Remarks                                    Version      2018.11.21      AKU                    Original version                           1.0          The installation instructions will assist the planner with the installation and      configuration of the software named. Please proceed in the following      sequence:        1.      Check the installation requirements."
-source_file: "EN-INST-A+W Planning Stock.pdf"
+description: "EN INST A+W Planning Stock"
 ---
+
 
 
 # EN INST A+W Planning Stock

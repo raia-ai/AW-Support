@@ -1,12 +1,7 @@
 ---
-title: "Zebra_TC22-TC27_-_Englisch"
-source: "Zebra_TC22-TC27_-_Englisch.pdf"
-tags: ["mobile computer", "Zebra", "TC22", "TC27", "Android", "barcode scanner", "logistics", "retail", "enterprise device", "Wi-Fi 6E"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Product specification sheet for the Zebra TC22/TC27 Mobile Computers. These devices are presented as cost-effective, smartphone-style tools for small to mid-size businesses, equipped with enterprise-grade features like a 6-inch display, 5G/Wi-Fi 6E connectivity, integrated 1D/2D barcode scanners, and a durable, drop-proof design."
-long_description: "This document provides a comprehensive overview and detailed technical specifications for the Zebra TC22 and TC27 mobile computers. It positions these devices as the third generation of the successful TC2x series, designed to provide small and mid-size businesses with enterprise-level capabilities at a competitive price point. The spec sheet highlights key features such as a large 6-inch FHD+ display, advanced wireless options including 5G, Wi-Fi 6E, private 5G, and CBRS, and high-performance scanning engines (SE4710 and SE55 Advanced Range). It also details the durable construction (IP68, drop-tested) and long-lasting removable batteries. The document covers the software ecosystem, emphasizing support through Android 16 and Zebra's Mobility DNA suite, which adds enterprise security, management, and data capture tools. Further functionalities are explored, including the ability to create mobile-driven POS workstations, RFID reading with compatible sleds, and push-to-talk (PTT) capabilities. The second half of the document is a detailed specifications table covering physical characteristics, performance, user environment tolerances, data capture methods, and extensive wireless communication protocols for both WAN and LAN. It concludes with information on certifications, warranty, recommended services, and environmental compliance."
+description: "Zebra_TC22-TC27_-_Englisch"
 ---
+
 
 # TC22/TC27 Mobile Computers
 **The ultimate cost-effective tool for small businesses — with big business features**

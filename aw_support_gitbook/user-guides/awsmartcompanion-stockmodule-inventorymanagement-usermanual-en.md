@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AW_SmartCompanion_1_2"
-source: "EN_UM_AW_SmartCompanion_1_2.pdf"
-tags: ["A+W Smart Companion", "Stock Module", "Inventory Management", "Goods Receipt", "Stock Movement", "Warehouse Management", "ERP", "Tutorial", "Stock Withdrawal"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the Stock module of the A+W Smart Companion application. It provides step-by-step instructions for core warehouse functions, including booking goods receipts, managing stock movements and withdrawals, conducting inventory counts, and handling administrative tasks like reprinting labels and editing box contents."
-long_description: "This tutorial provides a comprehensive guide to using the Stock module within the A+W Smart Companion mobile application, designed to integrate with A+W Enterprise and A+W Production systems. The document details the complete digitalization of warehouse processes. It begins with instructions on booking goods receipts, covering how to select purchase orders, handle quantity discrepancies, override stock locations, and assign registration points for production orders. It then explains how to perform stock movements between different storage locations. The guide also covers two types of stock withdrawals: with reference to a specific order and without an order for general stock corrections. A significant portion is dedicated to the Inventory feature, explaining how to start and conduct an inventory count, add to already counted quantities, and use the checklist to track progress with list and chart views. Finally, the tutorial covers administrative actions available on the Info page, such as managing missing prices, reprinting box labels, and editing the contents of a box for reasons like breakage or relocation. The document is structured with clear, step-by-step instructions, screenshots, and explanations of UI elements to facilitate user training."
+description: "EN_UM_AW_SmartCompanion_1_2"
 ---
+
 
 # Tutorial: A+W Smart Companion - Stock module
 

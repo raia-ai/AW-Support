@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_ProductionManager_2.21"
-source: "EN_AWBusiness_ProductionManager_2.21.pdf"
-tags: ["A+W Business Pro", "Production Manager", "Software Manual", "Glass Manufacturing", "Window Manufacturing", "Door Manufacturing", "ERP", "Production Planning", "Batch Management", "Optimization"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Production Manager, a module within the A+W Business Pro software suite. It provides a tutorial and software reference for production planning and management in the glass, window, and door manufacturing industries."
-long_description: "This is the official user guide for the A+W Production Manager module, an integral part of the A+W Business Pro software designed for the glass, window, and door industries. The manual serves as both a training tutorial and a detailed software reference. It is intended for end-users responsible for preparing and managing production orders. The document is structured into several key parts. The 'Introduction' provides version history and legal notices. The 'Tutorial' section offers a hands-on guide to using the Production Manager, split into a simplified 'Standard Mode' for quick, wizard-driven processes and an 'Expert Mode' for detailed, manual control over every step. Topics covered include order selection, batch creation, detailed scheduling, optimization, managing rejects, and generating output like reports and machine codes. The tutorial also explains the setup and use of 'Master Data' such as racks, criteria, and sorting keys, which are fundamental to the system's logic. The 'Software Reference' section acts as a detailed encyclopedia of every dialog, field, and function within the Production Manager, providing explicit descriptions for both Standard and Expert modes. It systematically breaks down UI elements, offering clarity on their purpose and usage. An 'Index' is included for quick look-ups of specific terms and features."
+description: "EN_AWBusiness_ProductionManager_2.21"
 ---
+
 
 # A+W Production Manager
 

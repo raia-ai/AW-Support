@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_5"
-source: "DE-HB-AWCADDesignerShapes_5.pdf"
-tags: ["A+W CAD Designer", "Shapes", "CAD Software", "Benutzerhandbuch", "Software-Referenz", "Konturerfassung", "Digitalisierung", "Vermaßung", "Werkzeuge"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W CAD Designer (Shapes). It details the functions available in the \"Ansichten\" (Views), \"Fenster\" (Window), and \"Hilfe\" (Help) menus, providing instructions on how to manipulate the display, manage dimensions, and access help resources. A significant portion of the manual is dedicated to the \"Werkzeuge\" (Tools) section, offering a comprehensive overview and detailed instructions for contour capturing, dimensioning, editing contours, and other specialized functions for glass, window, and door design."
-long_description: "This is a comprehensive software reference manual for the German-language version of A+W CAD Designer (Shapes), a specialized CAD program for the glass, window, and door industry. The document is structured into several key chapters. The \"Ansichten\" (Views) chapter explains how to alter the appearance of the design screen, manage the visibility of elements, and control dimensioning display options. The \"Fenster\" (Window) and \"Hilfe\" (Help) chapters cover window management for multiple open files and how to use the built-in help system. The largest and most detailed chapter, \"Werkzeuge\" (Tools), serves as a complete guide to all available tools. It is broken down into functional groups, including tools for contour capturing (via digitizing tables, virtual digitizing from photos, or importing files), creating and dimensioning sketches, smoothing and modifying contours, and specialized tools for corner processing, inner contours, surface treatments, and technology-specific settings (e.g., cutting paths). The manual provides step-by-step instructions, explains parameters in dialog boxes, and includes illustrations to clarify complex operations. It is intended for users who need to create, edit, and prepare complex shapes for production."
+description: "DE-HB-AWCADDesignerShapes_5"
 ---
+
 
 # Softwarereferenz
 

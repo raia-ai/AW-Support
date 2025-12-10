@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Discovery"
-source: "EN-INST-AW_Discovery.pdf"
-tags: ["A+W Discovery", "Config Tool", "SQL Server", "Installation Guide", "Technical Documentation", "Database Configuration", "SSIS", "Software Setup"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical guide for the A+W Discovery Config Tool. It details the process of installing, configuring, and managing A+W Discovery, which relies on a Microsoft SQL Server installation. The guide covers initial setup, connection settings, optional de-installation, and the configuration of global settings and individual import sites."
-long_description: "This comprehensive guide describes the working method of the A+W Discovery config tool and provides step-by-step instructions for a successful configuration. The document assumes that an appropriate Microsoft SQL Server is already installed on the target computer. It begins with an overview of the installation process handled by the A+W SetupLauncher, which prepares the necessary resources before launching the config tool. Key configuration steps include setting up the connection to the local SQL Server instance, validating administrative user credentials, and managing the installation or de-installation of A+W Discovery components. The guide explains how the tool configures SQL Server services, databases (DWH and Import), SSIS packages, and the Analysis Services cube. It details the setup of global parameters like date ranges and passwords, as well as the creation and configuration of individual data import sites (Business, Enterprise, Production). This includes defining database connections, import intervals, run levels for master data synchronization, and handling multi-house site constellations. The document concludes with a detailed list of all available parameters and instructions for error handling and SQL Server service configuration."
+description: "EN-INST-AW_Discovery"
 ---
+
 
 # Description of the Config Tool: A+W Discovery
 

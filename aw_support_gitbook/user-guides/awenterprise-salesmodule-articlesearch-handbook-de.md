@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_12"
-source: "DE-HB-AWEnterprise_12.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Sales Module", "Article Search", "Product Search", "Order Entry", "User Manual", "German", "Vorgangsverwaltung", "Suchfunktionen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Enterprise sales module, detailing various search functions and order management processes. It covers how to use the article search, product search by elements, and object search dialogs, explaining their respective input fields, tabs, and functionalities. Additionally, it provides a comprehensive guide to transaction management (Vorgangsverwaltung), including order entry, quote creation, and handling of positions, discounts, and addresses."
-long_description: "This document serves as a detailed technical reference guide for the 'Verkauf' (Sales) module within the A+W Enterprise software. It is intended for users who need to perform searches and manage sales transactions like quotes and orders. The first major section, 'Suchfunktionen' (Search Functions), provides in-depth explanations of the various search dialogs available. This includes the 'Artikel-Suche' (Article Search) for finding specific items, 'Produktsuche nach Elementen' (Product Search by Elements) for locating products based on their components (e.g., glass types in an ISO unit), and the 'Objekt-Suche' (Object Search) for finding project-specific data. Each search function's user interface is broken down, describing the header area for search criteria, the results tabs (e.g., 'Bezeichnungen', 'Artikelcodes', 'Details'), and the footer buttons for navigation and actions. The manual also covers specialized search dialogs like 'Werteingabe' for searching by commission or original order number. The second major section, 'Vorgangsverwaltung' (Transaction Management), focuses on the creation and processing of sales documents. It begins with a symbol key explaining the icons used for dialog modes and position statuses. It then details various order entry methods, including 'Schnellerfassung' (Quick Entry), 'Angebotserfassung' (Quote Entry), and the main 'Auftragserfassung' (Order Entry) dialog. The structure of the order entry screen is thoroughly documented, covering the header (customer/delivery data), position level (item details), and footer (totals/discounts). The guide explains all associated tabs, such as 'Anschriften' (Addresses), 'Eigenschaften' (Properties, including print/billing options), 'Verschiedenes' (Miscellaneous, including payment/complaint info), and the detailed breakdown of order positions in tabs for 'Allgemein', 'Preise', 'Status', and 'Kosten'. It also provides comprehensive instructions on handling discounts and surcharges in the 'Summen' and 'Detailansicht Rabatte' dialogs."
+description: "DE-HB-AWEnterprise_12"
 ---
+
 
 # Softwarereferenz
 

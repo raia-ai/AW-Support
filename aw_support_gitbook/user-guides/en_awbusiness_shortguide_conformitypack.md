@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness ShortGuide ConformityPack"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_ShortGuide_ConformityPack"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Implementation of the Conformity Pack in A+W Business                                            English     Editorial     Notes on this document     This document is intended for end users of A+W Business. This documentation and the software it describes are issued     only in connection with licences and must be used and copied only accordance with this licence. The contents of the     documentation are only informative and are subject to changes without prior notice. The text and illustratio"
-source_file: "EN_AWBusiness_ShortGuide_ConformityPack.pdf"
+description: "EN AWBusiness ShortGuide ConformityPack"
 ---
+
 
 
 # EN AWBusiness ShortGuide ConformityPack

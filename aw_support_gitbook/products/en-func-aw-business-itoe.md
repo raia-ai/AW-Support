@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Business iTOE"
-category: "functional_descriptions"
-product: "A+W Business iTOE"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Business iTOE"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Business - iTOE                                   english 1. Contents 1.   Contents                                                       3 2.   Notes on this document                                         4      2.1. Trademarks                                                4      2.2. Copyrights                                                4      2.3. Exclusion of liability                                    4 3.   Performance Description"
-source_file: "EN-FUNC-A+W Business iTOE.pdf"
+description: "EN FUNC A+W Business iTOE"
 ---
+
 
 
 # EN FUNC A+W Business iTOE

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_3"
-source: "DE-HB-AWEnterprise_3.pdf"
-tags: ["A+W Enterprise", "Stammdaten", "Marktpartnerschlüssel", "Software Referenz", "Mandantenkalender", "Rabattmethoden", "Systemschlüssel", "Produktschlüssel", "ERP", "Benutzerhandbuch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for A+W Enterprise, focusing on the 'Marktpartnerschlüssel' (Market Partner Keys) and 'Systemschlüssel' (System Keys) within the master data setup. It provides detailed instructions on configuring various system parameters, including client calendars, financial accounting clients (FIBU), country and region settings, quality scales, and discount methods."
-long_description: "This excerpt from the A+W Enterprise software reference guide provides an in-depth look at configuring master data related to market partners and system-wide settings. It covers a wide range of functionalities accessible through the 'Schlüssel' (Keys) menu. Key topics include: 'Mandantenkalender' for managing client-specific trading and production days in a multi-site environment; 'FIBU-Mandanten' for setting up financial accounting clients; and defining geographical data such as 'Länder' (Countries), 'Wirtschaftsräume' (Economic Areas), and 'Regionen/Bundesländer' (Regions/Federal States). The guide also details the setup of various 'Qualitätsskalen' (Quality Scales) for evaluating suppliers based on delivery times, prices, and quantities. A significant portion is dedicated to 'Reklamationen' (Complaints), explaining how to define reasons, locations, and types. Furthermore, it explains the intricate system of 'Rabattmethoden' (Discount Methods) and how to configure them with various criteria, sequences, and calculation rules. The document concludes with a comprehensive section on 'Systemschlüssel' and 'Produktschlüssel', which are foundational settings for positions, languages, units of measure, production areas, and much more. Each section includes screenshots, menu paths, and detailed explanations of every field, including technical database information. This guide is essential for system administrators and power users responsible for the initial setup and ongoing maintenance of the A+W Enterprise system."
+description: "DE-HB-AWEnterprise_3"
 ---
+
 
 # Marktpartnerschlüssel
 

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_1"
-source: "DE-HB-AWEnterprise_1.pdf"
-tags: ["A+W Enterprise", "ERP-System", "Glass Industry", "Windows and Doors", "Software Manual", "Stammdaten", "Verkauf", "Einkauf", "Lager", "Handbuch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the comprehensive German-language user manual ('Handbuch') for A+W Enterprise, an ERP software solution designed for the glass, windows, and doors industry. It covers master data management, sales, purchasing, inventory, and logistics processes."
-long_description: "This is the complete user manual ('Handbuch') for A+W Enterprise, a sophisticated ERP system by A+W Software GmbH, tailored for the flat glass processing industry, as well as window and door manufacturers. The manual provides a thorough overview of the software's architecture, modules, and functionalities. It begins with an introduction to the system, its modular structure, and the business processes it supports, from sales and purchasing to production and logistics. The document is divided into several major sections, each corresponding to a key module of the software: Overview (Überblick), Master Data (Stammdaten), Prices and Conditions (Preise und Konditionen), Sales (Verkauf), Purchasing (Einkauf), Inventory (Lager), and Shipping Control (Versandsteuerung). The 'Stammdaten' section is particularly detailed, explaining how to manage core data for market partners (customers, suppliers), articles, bills of materials (BOM), and system keys. Subsequent sections provide step-by-step tutorials and software reference guides for each functional area, including creating orders, managing pricing, handling purchasing processes, and controlling inventory. The manual is intended for end-users and administrators, offering both introductory tutorials and in-depth technical references. It details user interface conventions, search functions, and how to navigate the system's various dialogs and menus."
+description: "DE-HB-AWEnterprise_1"
 ---
+
 
 # A+W Enterprise Handbuch
 

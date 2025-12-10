@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W CAD Designer (Shapes)"
-category: "configuration"
-product: "A+W CAD Designer (Shapes)"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W CAD Designer (Shapes)"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W CAD Designer (Shapes)                                                                          english        A+W Software GmbH                                         - INTERNAL -                        EN-CONFIG-A+W CAD Designer (Shapes).docx      1 Change history           Date        Author            Remarks                     Version         2018-09-11 Dirk Langwald      Original version            1.0     A+W Software GmbH      EN-CONFIG-A+W CAD Designer (Sh"
-source_file: "EN-CONFIG-A+W CAD Designer (Shapes).pdf"
+description: "EN CONFIG A+W CAD Designer (Shapes)"
 ---
+
 
 
 # EN CONFIG A+W CAD Designer (Shapes)

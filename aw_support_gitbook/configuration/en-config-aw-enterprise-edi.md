@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise EDI"
-category: "configuration"
-product: "A+W Enterprise EDI"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise EDI"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise EDI                                          english                                  - -INTERNAL- Change history  Date        Author            Comments                               Version 2018-02-15 Ina Seifert        Initial version                        1.0                               6.8.19. Rabatte                               Wenn die Umgebungsvariable                               RABATTLOGIK_2005 aktiv ist, werden"
-source_file: "EN-CONFIG-A+W Enterprise EDI.pdf"
+description: "EN CONFIG A+W Enterprise EDI"
 ---
+
 
 
 # EN CONFIG A+W Enterprise EDI

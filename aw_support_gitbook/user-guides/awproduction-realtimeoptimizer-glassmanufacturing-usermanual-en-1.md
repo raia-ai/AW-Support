@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_13"
-source: "EN_UM_AWProduction_13.pdf"
-tags: ["A+W Production", "Realtime Optimizer", "glass manufacturing", "software reference", "cutting optimization", "table optimization", "batch processing", "residual stock", "DynOpt", "Production Terminals"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference manual for the A+W Production Realtime Optimizer and A+W Production Terminals. It details functionalities for optimizing glass cutting processes, including table optimization, batch management, reject handling, and settings configuration. The manual also covers the A+W Residual Stock Manager and provides step-by-step 'Help Cards' for common operational workflows."
-long_description: "This document serves as a detailed technical guide and user manual for the A+W Production software suite, primarily focusing on the Realtime Optimizer and Production Terminals. The first part of the manual is dedicated to the 'Realtime Optimizer,' covering the entire workflow from input to cutting. The 'Optimization' section explains how to create and manage table optimizations, select glass types, handle batches, and reset cutting jobs. It describes two main variants for table optimization: a default mode and a production date-driven mode. The 'Cutting' section outlines the process of selecting and cutting batches, managing rejects through a rejects pool, linking optimizations, and using the DynOpt editor for dynamic optimization. It also details how to handle residual plates and stock. The 'Settings' section provides instructions on configuring system parameters for tables and optimizations at runtime. A significant portion is also dedicated to the 'A+W Residual Stock Manager,' a web-based interface for managing residual plates, including the setup of warehouses, storage locations, and racks. The second half of the document consists of 'Help Cards,' which are concise, task-oriented tutorials for key operations like entering rush orders, creating optimizations, and managing the cutting process. Finally, the manual introduces the 'A+W Production Terminals,' explaining their role in the production workflow, their various types (e.g., Manual Cutting, IG-In, TG-Out), and their operational goals, such as providing graphical information to workers and enabling real-time process tracking."
+description: "EN_UM_AWProduction_13"
 ---
+
 
 # Software Reference
 

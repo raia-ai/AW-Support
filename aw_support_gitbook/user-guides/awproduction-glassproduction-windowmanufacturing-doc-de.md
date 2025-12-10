@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Terminal_1.50"
-source: "DE_AWProduction_Terminal_1.50.pdf"
-tags: ["A+W Production Terminal", "Software Manual", "Glass Production", "Window Manufacturing", "Door Manufacturing", "Production Control", "Technical Documentation", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the official user manual for A+W Production Terminal, a software solution for managing and controlling production processes in the glass, window, and door manufacturing industries. It provides a comprehensive guide, including a tutorial and a software reference section."
-long_description: "This is a comprehensive technical manual for the A+W Production Terminal software, version 1.50, dated January 2023. The document, written in German, serves as a complete guide for end-users working in production environments for glass, windows, and doors. It is divided into several key sections. The \"Vorspann\" (Preface) includes revision history and editorial notes. The \"Tutorial\" section offers a step-by-step introduction to the various modules of the Production Terminal, such as Terminal IG (Insulating Glass), Manual Cutting, Order, Processing, TG (Toughened Glass), and LG (Laminated Glass). It explains the user interface, workflows, and handling of common production scenarios. The \"Softwarereferenz\" (Software Reference) section provides a detailed A-Z reference for all software features, dialogs, UI elements, and functions, acting as a quick-lookup guide for experienced users. The manual is designed to help operators use the software efficiently, manage production workflows, handle exceptions like breakages, and ensure smooth operation."
+description: "DE_AWProduction_Terminal_1.50"
 ---
+
 
 # A+W Production Terminal
 A+W - Software for Glass, Windows and Doors

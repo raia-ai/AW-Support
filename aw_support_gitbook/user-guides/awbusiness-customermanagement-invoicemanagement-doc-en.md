@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_9-2"
-source: "EN_AWBusiness_Master_Data_9_9-2.pdf"
-tags: ["A+W Business Master Data", "Software Reference", "Customer Management", "Invoice Management", "Project Management", "Rounding", "Logo Position", "Credit Limit Analysis", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Master Data software, specifically detailing the 'Customer' module. It covers functionalities such as project and invoice management, handling of allocated orders and blanket orders, setting up customer-specific rounding rules, logo positioning on products, and financial analysis tools like credit limit and marginal income analysis."
-long_description: "This document is a comprehensive software reference for the A+W Business Master Data system, version 9.00. It focuses on the setup and management of customer-related master data. The guide provides detailed definitions and instructions for various modules and tabs associated with customer profiles. Key topics include managing customer projects with specific statuses (current, completed), defining terms like payment conditions and validity periods, and handling different types of invoicing, including those for allocated orders and blanket orders. It explains how to track project totals, estimated quantities, and view associated documents. The manual also covers advanced features such as setting up customer-specific rounding for pricing, defining logo positions on products, managing purchase hours and additional purchases for projects, and calculating claims. Financial management tools are also detailed, including credit limit analysis with snapshots, marginal income limit definitions, and handling of surplus/shortfall quantities. The document serves as a practical guide for users to configure and utilize the full range of customer data management features within the A+W software."
+description: "EN_AWBusiness_Master_Data_9_9-2"
 ---
+
 
 ---
 ## Customer

@@ -1,15 +1,7 @@
 ---
-title: "EN UM A+W SmartCompanion AWB"
-category: "user_manuals"
-product: "A+W"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W", "SmartCompanion", "AWB"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Smart Companion  Manual     English Editorial                 Editorial             Revision overview of the documentation              2024-06      Revision of part Overview              2021-03      Original version               Notes             This document is intended only for end users of A+W Smart Companion.             The documentation and software described are licenses that must be used or             copied only in accordance with the conditions of our license agreement. The"
-source_file: "EN-UM-A+W-SmartCompanion-AWB.pdf"
+description: "EN UM A+W SmartCompanion AWB"
 ---
+
 
 
 # EN UM A+W SmartCompanion AWB

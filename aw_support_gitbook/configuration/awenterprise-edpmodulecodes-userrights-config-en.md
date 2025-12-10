@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes"
-source: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes.pdf"
-tags: ["A+W Enterprise", "EDP Module Codes", "User Rights", "Access Control", "Software Configuration", "Technical Manual", "Glass Software", "Permissions", "Multi-site"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "A technical guide detailing the module codes used in the A+W Enterprise software. This document explains the general logic for managing user rights and access permissions, including multi-site capabilities, and provides a comprehensive reference for all individual module codes."
-long_description: "This document serves as a comprehensive technical manual for the A+W Enterprise – EDP Module Codes. It is designed for both internal and external users, such as system administrators and developers, to understand and manage user access rights and program behavior within the A+W Enterprise system, a specialized software solution for the glass industry. The guide begins with an overview of the general logic behind module codes, explaining how they control user permissions on a per-employee or per-group basis. It covers key concepts like multi-site capability, the hierarchy of user rights evaluation, data access restrictions, and access logging. The core of the document is a detailed, section-by-section breakdown of every module code. Each section corresponds to a specific program area, such as Barcode, Stock Management, Prices, and System Management. Within each section, tables and descriptions provide detailed information for each module code, including its designation, relevant menu items, possible rights allocations (read, write), a description of its function, and any dependencies. This structured reference is essential for correctly configuring user permissions, ensuring data security, and customizing program behavior to meet specific operational needs."
+description: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes"
 ---
+
 
 # A+W Enterprise – EDP Module Code
 

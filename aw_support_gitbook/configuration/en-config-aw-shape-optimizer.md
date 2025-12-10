@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Shape Optimizer"
-category: "configuration"
-product: "A+W Shape Optimizer"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Shape Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration                      +    A+W Shape Optimizer                                      english                              - INTERNAL - Change history             Date         Author               Remarks            Version           2021-04-07 JNI                    Original version   1.0     Content  1.   General Information                                             3 2.   Configuration via XOPT.CFG                                      4 3.   Adjustment of the behavior"
-source_file: "EN-CONFIG-A+W Shape Optimizer.pdf"
+description: "EN CONFIG A+W Shape Optimizer"
 ---
+
 
 
 # EN CONFIG A+W Shape Optimizer

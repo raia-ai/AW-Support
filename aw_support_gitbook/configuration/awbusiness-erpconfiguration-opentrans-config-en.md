@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-9"
-source: "EN-CONFIG-AW_Business-9.pdf"
-tags: ["A+W Business", "ERP Configuration", "openTrans", "Invoice Export", "Stock Management", "Logistics Optimizer", "FIFO", "LIFO", "Repurchasing", "A+W Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration and operational instructions for various modules within the A+W Business software, including openTrans integration, invoice and credit note exports, stock management, repurchasing processes, and logistics integration."
-long_description: "This technical manual is a configuration guide for the A+W Business ERP system. It covers a wide range of functionalities, detailing the necessary setup and operational procedures. Key topics include the integration of openTrans for electronic data interchange, with specific instructions for exporting dispatch notifications, invoices, and credit notes in openTrans 2.1 format. The guide explains how to manage overall surcharges and discounts, and configure automatic allocations based on supplier product reference numbers. It provides in-depth instructions for handling repurchases of broken or unusable parts from production, including notification workflows, generating repurchase orders, and messaging to the production system. A significant portion of the document is dedicated to stock management, covering configuration for stockkeeping of glass articles, automatic stock orders, handling goods in boxes with Bills of Materials (BOM), and stock evaluation using FIFO/LIFO methods. It also details the integration with Hegla warehouse systems and the A+W Logistics Optimizer for route optimization. The manual is intended for system administrators and technical users responsible for configuring and maintaining the A+W Business environment, featuring numerous screenshots, flowcharts, and step-by-step instructions."
+description: "EN-CONFIG-AW_Business-9"
 ---
+
 
 If a document's overall surcharge/discount is distributed to several purchase orders, the proportional amounts have to be maintained. Based on the surcharge basis, the program tries to find and offer sensible suggestions. These can be changed any time.
 

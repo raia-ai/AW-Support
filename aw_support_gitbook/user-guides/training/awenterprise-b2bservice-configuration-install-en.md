@@ -1,15 +1,7 @@
 ---
-title: "Installation Instructions: A+W Enterprise 6 B2B Service"
-category: "training"
-product: "AWEnterprise"
-doc_type: "Configuration"
-language: "EN"
-tags: ["AWEnterprise", "B2bService", "Configuration", "Install"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-INST-AW_Enterprise_B2B_Service" source: "EN-INST-AW_Enterprise_B2B_Service.pdf" tags: ["A+W Enterprise", "B2B Service", "Installation Guide", "Configuration", "Software", "Glass and Windows", "EDI", "openTRANS", "Technical Manual"] version: "1.0" last_updated: "2025-10-03" short_description: "This document provides installation and configuration instructions for the A+W Enterprise 6 B2B Service, a software component for business-to-business data exchange in the glass and windows indus"
-source_file: "AWEnterprise-B2bService-Configuration-Install-EN.md"
+description: "Installation Instructions: A+W Enterprise 6 B2B Service"
 ---
+
 
 
 title: "EN-INST-AW_Enterprise_B2B_Service"

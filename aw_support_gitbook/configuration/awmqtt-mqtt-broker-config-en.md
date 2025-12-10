@@ -1,12 +1,7 @@
 ---
-title: "A+W Configuration: MQTT Broker"
-source: "EN-CONFIG-AW_MQTT_Broker.pdf"
-tags: ["A+W", "MQTT", "Broker", "Configuration", "Mosquitto", "Software for Glass", "Authentication", "Port Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A brief guide on configuring the A+W MQTT Broker, which is based on the Eclipse Mosquitto Broker. It covers post-installation adjustments such as changing the default port and managing user authentication."
-long_description: "This document provides configuration instructions for the A+W MQTT Broker, a component used for MQTT communication within the A+W software ecosystem. The broker is based on the Eclipse Mosquitto Broker. The guide details post-installation procedures for system administrators. Key topics include locating and understanding the main configuration file (`mosquitto.conf`), changing the default communication port from 1883 to a custom port, and managing user authentication. It explains how to add new users to the password file (`passwd`) using the `mosquitto_passwd.exe` utility, including commands to add a single user or to replace the entire user list. This document is intended for users who have successfully installed the broker and need to customize its settings for their specific environment."
+description: "A+W Configuration: MQTT Broker"
 ---
+
 
 # A+W Configuration: MQTT Broker
 

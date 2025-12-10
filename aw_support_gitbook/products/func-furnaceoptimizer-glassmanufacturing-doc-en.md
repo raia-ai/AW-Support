@@ -1,12 +1,7 @@
 ---
-title: "A+W Furnace Optimizer Functional Description"
-source: "EN-FUNC-AW_Furnace_Optimizer.pdf"
-tags: ["A+W", "Furnace Optimizer", "Software", "Glass Manufacturing", "Tempering", "Production", "Functional Description", "TG/TLG"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description of the A+W Furnace Optimizer, a software module for optimizing the tempering process of glass lites. It details the module's data, purpose, prerequisites, functions, and limitations."
-long_description: "This document provides a detailed functional description for the A+W Furnace Optimizer, a software module designed for the glass manufacturing industry. The module, part of the A+W Production suite, aims to increase productivity by optimizing the use of furnace bed space during the tempering process of glass lites (TG/TLG). The document outlines the module's core data, including its product number (223023). It describes how the optimizer assists workers by suggesting the best possible assignment of lites to the furnace bed, taking into account available space and rack unloading sequences. The functional description also lists specific prerequisites for operation, such as the need for A+W Barcode Manager, labeled lites, barcode scanners, and the A+W Production Terminal. It then details the list of functions at each stage of the process: Plant Data Collection (PDC), furnace entrance, and furnace exit. Finally, the document specifies the software's limitations, such as its handling of shapes and the nature of its optimization algorithm, and provides contact information for A+W Software GmbH."
+description: "A+W Furnace Optimizer Functional Description"
 ---
+
 
 # A+W Furnace Optimizer: Functional Description
 

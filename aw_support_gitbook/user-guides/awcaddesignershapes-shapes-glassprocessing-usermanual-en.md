@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerShapes_1"
-source: "EN-UM-AWCADDesignerShapes_1.pdf"
-tags: ["A+W CAD Designer", "Shapes", "Software Manual", "Glass Processing", "Window Design", "Door Design", "CAD Software", "Technical Documentation", "User Guide", "Architectural Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "User manual for A+W CAD Designer (Shapes), a 2D CAD program for designing and managing free architectural or automotive glass shapes. This guide covers basic concepts, user interface, functions, and tutorials for creating and editing geometries."
-long_description: "This document is the official user manual for A+W CAD Designer (Shapes), a specialized 2D CAD software solution for the glass, window, and door industry. The manual is intended for end-users who produce shapes and processed sheets, including mirror manufacturers, automotive glass suppliers, and producers of architectural glass. It provides a comprehensive guide to the software's functionalities, from basic ideas and terminology to advanced operations. The manual is structured into several key sections: an overview, a detailed tutorial, a software reference, and a guide to the various tools. The tutorial section offers step-by-step instructions and exercises for creating and editing geometries, handling edge cut-outs, drill holes, and using macros and templates. It explains the software's user interface, the concept of different 'views' (e.g., Sketch, Geometry, Cutting, Grinding), and how to manage the entire production process from a single program. The document also covers the specific features for both architectural (AT) and automotive (ATM) glass production, detailing how to handle technical information, control machinery, and optimize production workflows. Legal notices, copyright information, and display conventions are also included."
+description: "EN-UM-AWCADDesignerShapes_1"
 ---
+
 
 # A+W CAD Designer (Shapes) Manual
 

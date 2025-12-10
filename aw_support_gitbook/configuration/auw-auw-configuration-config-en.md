@@ -1,12 +1,7 @@
 ---
-title: "AUW_Configuration_Combine_Strips_for_optimization"
-source: "AUW_Configuration_Combine_Strips_for_optimization.docx"
-tags: ["AUW", "configuration", "combine strips", "optimization", "manufacturing", "process", "setup", "guide", "best practices"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "CombineStripsforOptimization History Content Hintergrund Die Kanten kleinerRechteck-Scheiben können oft nicht maschinell bearbeitet werden. Durch ein Zusammenlegen der kleinen Scheiben zu einer größeren Rechteckscheibe können zumindest einige der Bearbeitungen maschinell durchgeführt werden. Die Außenkanten werden bearbeitet, danach wird die Scheibe in Streifen geschnitten und die Innenkanten können bearbeitet werden."
-long_description: "CombineStripsforOptimization History Content Hintergrund Die Kanten kleinerRechteck-Scheiben können oft nicht maschinell bearbeitet werden. Durch ein Zusammenlegen der kleinen Scheiben zu einer größeren Rechteckscheibe können zumindest einige der Bearbeitungen maschinell durchgeführt werden. Die Außenkanten werden bearbeitet, danach wird die Scheibe in Streifen geschnitten und die Innenkanten können bearbeitet werden. Mit dieser Funktion werden Scheiben zu einer einzigen großen Scheibe zusammengefasst. Das Schneiden in kleine Scheiben muss später erfolgen. Die Anforderung, dass Zwischenschnitte auch gleich geschnitten werden, aber erst nach dem polieren, z.B. hinter einemDoppelseiter, gebrochen werden, wird durch diese Funktion nicht unterstützt. Voraussetzung Es wird in Tabelle POOL_TEILE ein freies SONDERTEXT Feld (SONDERTEXT1, SONDERTEXT2, SONDERTEXT3. SONDERTEXT4 oder SONDERTEXT5) benötigt um das Zusammenlegen der Scheibe zu beschreiben. Für die Optimierung wird im Modellkatalog die**666.FRM**benötigt, auf diese bezieht sich die zusammengelegte Scheibe (FRM Datei wird im UnterverzeichnisC:\Program Files (x86)\A+W\Techsoft\Shapes\SpecialShapes\ mit ausgeliefert). DieseFunktion arbeitet mit dem A+W Modellkatalog und nur mit Rechtecken.Wenn auch Rechtecke eine SN Zeichnung haben, muss der Schalter[ALCIM_SHAPE / SNCUTASSTANDARDFRM] auf 1 gesetzt sein (indiesem Zusammenhang unabhängig von dieser Funktion evtl. auch [ALCIM_SHAPE / SNUPDATESTEP] setzen). Aktivieren der Funktion Die Funktion wird in der Feinplanung über den versteckten Schalter [FEIN_SPECIALS /TOGETHER666] aktiviert. Der Wert im Feld [TEXT] ist die Nummer der Spalte SONDERTEXT aus der Tabelle POOL_TEILE: 1,2,3,4 oder 5.Sobald das FeldamZuschnittsteilmit einem entsprechenden Wert gefüllt ist, wird die Funktion verwendet."
+description: "AUW_Configuration_Combine_Strips_for_optimization"
 ---
+
 CombineStripsforOptimization
 
 History

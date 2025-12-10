@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Dashboard"
-source: "EN-FUNC-AW_Dashboard.pdf"
-tags: ["A+W Dashboard", "Functional Description", "Software for Glass", "KPI Visualization", "Production Monitoring", "Barcoding Service", "Capa View", "Report View"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Dashboard, a web-based service for visualizing production Key Performance Indicators (KPIs). This document outlines the software's features, requirements, and various functional modules, including the core Dashboard, Barcoding Service Views, Capa View, and Report View."
-long_description: "This document provides a detailed functional description for the A+W Dashboard, a software solution by A+W designed for the glass industry. The A+W Dashboard is a browser-based application that offers real-time visualization of production data, helping to monitor output, machine capacity, and employee performance through graphical representations. The document covers the core idea behind the program, its key features like real-time monitoring and mobile accessibility, and the technical requirements for its implementation. It breaks down the main components and their functions: the core Dashboard (module 220040) with its Monitor, View, Page, and Control editors; the Barcoding Service Views (module 220041) for displaying booking, processing, and status-based data; the Capa View (module 220042) for capacity and utilization displays; and the Report View (module 220043) for generating PDF reports. Legal information, including trademarks, copyrights, and a disclaimer of liability, is also included."
+description: "EN-FUNC-AW_Dashboard"
 ---
+
 
 # A+W Dashboard: Functional Description
 *A+W - Software for Glass*

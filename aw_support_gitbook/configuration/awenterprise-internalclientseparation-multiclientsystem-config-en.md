@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Internal_Client_Separation"
-source: "EN-CONFIG-AW_Enterprise_Internal_Client_Separation.pdf"
-tags: ["A+W Enterprise", "Internal Client Separation", "Multi-client system", "System Configuration", "Master Data", "ViaPlant", "Call Center", "Software Configuration", "ERP", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An internal A+W configuration guide for setting up and managing the A+W Enterprise Internal Client Separation module. This document provides technical details for multi-client systems, allowing multiple internal clients to operate on a single database."
-long_description: "This document is an internal technical configuration manual for A+W's 'A+W Enterprise Internal Client Separation' module. It is intended for A+W planners and developers to configure a multi-client system where several clients can be managed on a single database. The guide details the advantages of this setup, such as shared master data, a centralized call center solution, and cross-client reporting capabilities. It provides a comprehensive checklist and step-by-step instructions for system configuration, covering servers, number ranges, configuration files, directory structures, and environment variables. The manual also addresses the management of master data, including companies, market partners, items, and employees, with a focus on client-specific data and rights. Specific modules and functionalities like Sales, Call Center, Purchase, PMS/AWP, and the 'Via Plant' dispatch logic are explained in the context of a multi-client environment. Additionally, it contains information on the 'Multilingual operation' beta feature, which allows different sites to operate in different languages. This document is marked as '-INTERNAL-' and is not a complete documentation of all variances but serves as an essential internal aid."
+description: "EN-CONFIG-AW_Enterprise_Internal_Client_Separation"
 ---
+
 
 ---
 ## Change history

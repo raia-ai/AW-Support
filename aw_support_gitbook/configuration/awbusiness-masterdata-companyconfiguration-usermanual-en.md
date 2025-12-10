@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_11"
-source: "EN-UM-AWBusiness_11.pdf"
-tags: ["A+W Business", "Software Reference", "Master Data", "Company Configuration", "ERP", "Financial Accounting", "Purchasing", "EDI", "Capacity Planning", "Document Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the 'Company' module within the A+W Business ERP system. It details the configuration of master data, including company details, financial settings, document management, pricing rules, and system parameters."
-long_description: "This comprehensive software reference manual provides detailed instructions for configuring the 'Company' master data in the A+W Business software. It serves as a guide for system administrators and power users to set up core company-wide parameters. The document is structured around the various sub-menus and tabs within the 'Company' module, such as 'Company Data,' 'Employee,' 'Banks,' and 'Subsidiaries.' Each section, like 'Company Data,' is further broken down into tabs including Client, Tax, Financial Accounting, Documents, Parameters, Price Calculation, Stock/Purchasing/EDI, Archives, and more. For each tab, the manual presents a user interface screenshot followed by a detailed explanation of every field and option. This includes settings for currency, tax calculation (including Avalara WebService integration), financial accounting interfaces, document output formats, pricing logic, inventory management, and production transfer settings. The guide is essential for ensuring the A+W Business system is correctly configured to match the company's specific operational and financial workflows."
+description: "EN-UM-AWBusiness_11"
 ---
+
 
 # Company
 

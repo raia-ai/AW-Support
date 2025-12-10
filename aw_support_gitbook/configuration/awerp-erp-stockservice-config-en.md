@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_ERP_Stock_Service"
-source: "EN-CONFIG-AW_ERP_Stock_Service.pdf"
-tags: ["A+W", "ERP", "Stock Service", "Configuration", "Bystronic", "Hegla", "Lisec", "Inventory Management", "Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Configuration instructions for the A+W ERP Stock Service module. This document details how to set up and manage the reconciliation of third-party stock systems (Bystronic, Hegla, Lisec) with A+W ERP stocks (A+W Business and A+W Enterprise). It covers general installation, system-specific configurations, master data setup, and operational logic for inventory management."
-long_description: "This is a comprehensive internal configuration guide for the A+W ERP Stock Service, a module designed to synchronize inventory data between A+W's ERP systems (A+W Business and A+W Enterprise) and external, third-party stock management systems, specifically those from Bystronic, Hegla, and Lisec. The document provides detailed step-by-step instructions for installation, configuration, and operation. It outlines the architectural differences in communication protocols for each third-party system, explaining the 1:n relationship for Bystronic and the 1:1 relationship for Hegla and Lisec. Key topics include setting up environment variables, configuring the Config Tool, managing master data (such as third-party item numbers and stock market partners), and the specific logic for goods receipt (GR) and purchase order (PO) processing. The guide also covers advanced features like cyclical stock reconciliation, special treatment of cover sheets and broken glass, and handling of various booking types. It concludes with extensive troubleshooting sections and FAQs to address common issues, error messages, and operational questions, making it an essential resource for technical staff responsible for implementing and maintaining the A+W ERP Stock Service."
+description: "EN-CONFIG-AW_ERP_Stock_Service"
 ---
+
 
 # A+W Configuration Instructions: A+W ERP Stock Service
 

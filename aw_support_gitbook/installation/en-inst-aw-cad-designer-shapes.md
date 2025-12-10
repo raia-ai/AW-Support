@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W CAD Designer Shapes"
-category: "installation"
-product: "A+W CAD Designer Shapes"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W CAD Designer Shapes"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions  A+W CAD Designer 6 (Shapes)     Change history:      Date             Edited by             Remarks                                     Version     11/2012          Bernd Hanewinkel      Version 2012                                1.0     05/2014          Bernd Hanewinkel      CI adjustment                               1.1     07/2014          Bernd Hanewinkel      Screen adjustment                           1.2     09/2016          Bernd Hanewinkel      Adjustments V"
-source_file: "EN-INST-A+W CAD Designer Shapes.pdf"
+description: "EN INST A+W CAD Designer Shapes"
 ---
+
 
 
 # EN INST A+W CAD Designer Shapes

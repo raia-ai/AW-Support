@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_5-3"
-source: "EN_AWBusiness_Master_Data_9_5-3.pdf"
-tags: ["A+W Business", "Master Data", "Tutorial", "Invoicing", "Rounding", "Taxes", "Currencies", "Document Printing", "Forms", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial chapter from the A+W Business Master Data guide, focusing on settings for rounding, invoicing, finance, and document printing. It provides step-by-step instructions, exercises, and reference information for configuring these master data elements."
-long_description: "This document is a detailed tutorial (Tutorial 2) for the A+W Business Master Data software. It guides users through various configuration settings essential for document processing and financial management. The first section details how to set up rounding rules for customers, specifically for VAT. The tutorial then transitions to \"Settings for Invoicing,\" outlining the necessary data for invoices, including company details, recipient information, and delivery specifics. A significant portion is dedicated to \"Finance,\" covering the setup of tax rates, handling multiple currencies, managing bank data, and defining payment terms. It explains how these elements are centrally maintained and applied to partners and products. The final major section, \"Printing of Text and Documents,\" describes how to create and manage standard text modules, variables, and formulas for automatic inclusion in documents like quotations and orders. It also covers \"Form Management,\" explaining how print points, forms, and print jobs are configured to control the output of documents in various formats (paper, PDF, email). The guide uses screenshots, numbered steps, and examples to illustrate the configuration processes."
+description: "EN_AWBusiness_Master_Data_9_5-3"
 ---
+
 
 # Tutorial 2: Documents
 

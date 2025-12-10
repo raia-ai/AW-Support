@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kurzanleitung_Bauproduktenverordnung"
-source: "DE_AWBusiness_Kurzanleitung_Bauproduktenverordnung.pdf"
-tags: ["A+W Business", "Bauproduktenverordnung", "Leistungserklärung", "CE-Kennzeichnung", "ERP", "Glasindustrie", "Software", "Anleitung", "Stammdaten", "Compliance"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A quick guide from A+W on implementing the EU Construction Products Regulation within the A+W Business ERP software. It details the creation, management, and assignment of Declarations of Performance (DoP/LE) and CE markings for construction products in the glass industry."
-long_description: "This document is a short guide ('Kurzanleitung') published by A+W for end-users of their A+W Business software. It explains the necessary steps to comply with the European Construction Products Regulation (Bauproduktenverordnung), which became mandatory on July 1, 2013. The guide covers the legal background, requiring manufacturers and distributors to provide a Declaration of Performance (Leistungserklärung, or LE) for their construction products. It provides detailed, step-by-step instructions on how to set up and manage the required master data within A+W Business. This includes registering LEs, configuring system utilities, updating company data, product data, market partner data, form management, and rights management. The document also explains the practical application in document management, form printing, and production hand-over. It concludes with best practices for registering and managing LEs and introduces an integrated solution with A+W SLT for generating LEs."
+description: "DE_AWBusiness_Kurzanleitung_Bauproduktenverordnung"
 ---
+
 
 # A+W Kurzanleitung: Umsetzung der Bauproduktenverordnung in A+W Business
 

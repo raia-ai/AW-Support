@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Fertigung_5_4"
-source: "DE_AWBusiness_Fertigung_5_4.pdf"
-tags: ["A+W Business", "Fertigung", "Produktion", "Lagerverwaltung", "Gestellverwaltung", "Warenausgang", "Barcode", "Software-Handbuch", "Tutorial", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language technical manual for the A+W Business production module. It provides a tutorial on additional functions like crate reservation and a software reference for production handover, rack management, barcode scanning, and production data entry."
-long_description: "This document is a comprehensive guide to the 'Fertigung' (Production) module of the A+W Business software. It is divided into two main parts: a 'Tutorial' and a 'Softwarereferenz' (Software Reference). The tutorial section walks users through practical examples, such as reserving items from inventory (Dummy-Kiste), assigning specific inventory items (crates with IDs) to an order, and booking the goods issue. It includes numerous screenshots to illustrate the user interface and data changes in the system. The software reference section provides detailed descriptions of various functions within the production module. Key topics covered include production handover (manual and automatic), rack management (Gestellverwaltung) for both internal and external racks, production preview (Fertigungsvorschau), barcode-based data transfer, and the management of production data for internal stock orders. The reference details menu paths, dialog box settings, and the purpose of each function, serving as an in-depth resource for system administrators and advanced users."
+description: "DE_AWBusiness_Fertigung_5_4"
 ---
+
 
 ---
 ## Tutorial: Zusatzfunktionen

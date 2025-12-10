@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_iShape"
-source: "EN-UM-AW_iShape.pdf"
-tags: ["software manual", "A+W iShape", "glass industry", "window manufacturing", "door manufacturing", "digitalization", "CAD", "template processing", "smartphone app", "XTREAM"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This manual provides comprehensive instructions for using A+W iShape, a software solution for digitalizing non-rectangular templates (lites) for the glass, window, and door industry. It details the process of photographing templates with a smartphone, processing the images in the app, and post-processing the resulting files in A+W CAD Designer."
-long_description: "This document is the official user manual for A+W iShape, a flexible and modern solution for generating digital data from physical shape templates. The system allows users to digitalize non-rectangular lites using a high-end smartphone camera, eliminating the need for complex camera calibration. The process involves placing L-shaped reference objects with QR codes on or around a template, photographing it, and using the A+W iShape app to detect the shape's contour. The manual provides detailed tutorials and best practices, covering everything from the correct placement of rulers, optimal picture conditions (lighting, contrast, background), and fastening techniques, to a step-by-step guide on operating the mobile application. It explains all app features, including the gallery, image processing, confidence scoring, settings, and exporting files. Furthermore, the manual outlines how to import and post-process these digitalized shapes within the A+W CAD Designer (Shapes) software, covering tools for smoothing, joining segments, correcting curves, and adjusting the XTREAM algorithm for optimal results. This guide is intended for end-users to ensure accurate and efficient digitalization of templates for production on CNC machines."
+description: "EN-UM-AW_iShape"
 ---
+
 
 # A+W iShape Manual
 

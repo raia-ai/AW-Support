@@ -1,15 +1,7 @@
 ---
-title: "Delivery flatrate"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Delivery_flatrate"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Delivery flat rate  1.      First, you have to define the product as a service (product type and product class):     2.      Define the price for the delivery flat rate: 3.   The product has also to be defined in the Company data Basic data / Company / Surcharge:     3.   In Partner Management, the checkbox "Delivery Flat rate" has to be enabled  Partner /      Customer / Customer / 2. Order:     4.   It is possible to realise exceptions per routes  Basic data / Shipping / Routes  the"
-source_file: "Delivery_flatrate.pdf"
+description: "Delivery flatrate"
 ---
+
 
 
 # Delivery flatrate

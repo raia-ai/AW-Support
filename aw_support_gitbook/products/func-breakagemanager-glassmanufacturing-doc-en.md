@@ -1,12 +1,7 @@
 ---
-title: "A+W Breakage Manager - Functional Description"
-source: "EN-FUNC-AW_Breakagemanager.pdf"
-tags: ["A+W", "Breakage Manager", "Software", "Glass Manufacturing", "Production Management", "ERP", "Functional Description", "Reject Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Breakage Manager software module. This document outlines its purpose, features, requirements, and restrictions for managing broken lites (glass pieces) in a production environment."
-long_description: "This document provides a detailed functional description of the A+W Breakage Manager, a software module for the A+W Production suite designed for the glass manufacturing industry. It explains how the module facilitates the entry, tracing, and re-introduction of broken or defective glass lites back into the production workflow. The document covers key functionalities such as reject entry methods (e.g., via scanner, manual entry), different reject states (Defect, Cancellation, Part break), and reproduction strategies (e.g., automatic recutting, rough scheduling). It also specifies the necessary software prerequisites, including A+W Production, A+W Barcode Manager, and A+W Realtime Optimizer. Furthermore, the document details the system's capabilities for reject tracing, evaluation, and reporting to help identify causes and prevent future breakage. Legal notices, copyright information, and contact details for A+W Software GmbH are also included."
+description: "A+W Breakage Manager - Functional Description"
 ---
+
 
 # A+W Functional Description: A+W Breakage Manager
 

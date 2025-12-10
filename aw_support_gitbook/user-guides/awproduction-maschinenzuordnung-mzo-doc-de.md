@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_MZO_2.10"
-source: "DE_AWProduction_MZO_2.10.pdf"
-tags: ["A+W Production", "Maschinenzuordnung", "MZO", "Glass Manufacturing", "Window Production", "Door Production", "ERP", "Software Tutorial", "Software Reference", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language user manual for the A+W Production 'Maschinenzuordnung' (MZO) module, version 2.10. This document provides both a tutorial and a software reference for assigning work operations to machines in glass, window, and door manufacturing."
-long_description: "This document is the official user guide for the 'Maschinenzuordnung' (MZO - Machine Assignment) module within the A+W Production software suite, specifically for version 2.10, released in November 2018. Written in German, it serves as a comprehensive resource for users responsible for production planning and data management in the glass, window, and door manufacturing industries. The manual is divided into two main parts: a 'Tutorial' and a 'Softwarereferenz' (Software Reference). The tutorial section offers a step-by-step guide to understanding the core concepts of machine assignment, including the creation and management of physical machines, logical machines, work operations (Arbeitsgänge), and processing types. It explains how to define restrictions, conditions, and formulas to optimize production flow and capacity planning. The software reference section provides detailed descriptions of every dialog, field, and function within the MZO-Editor, serving as a quick reference guide for experienced users. The document covers key concepts like mapping the physical machine park, defining machine properties, assigning work operations to logical machines, and setting priorities to manage production bottlenecks effectively."
+description: "DE_AWProduction_MZO_2.10"
 ---
+
 
 # A+W Maschinenzuordnung
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Box_Management_1_1-3"
-source: "EN_AWBusiness_Box_Management_1_1-3.pdf"
-tags: ["stock management", "inventory control", "A+W Business", "box management", "purchase order", "barcode scanning", "goods receipt", "shipping", "software tutorial", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive guide for managing stock, specifically boxes, within the A+W Business software. It provides both a tutorial for common workflows and a detailed software reference for system dialogs and functions."
-long_description: "This document serves as a user manual for the Box Management module in the A+W Business software. It is divided into two main parts: a Tutorial and a Software Reference. The Tutorial section provides step-by-step instructions for performing key stock management tasks related to boxes. These tasks include entering manual stock purchase orders (P.O.s), receiving goods via barcode scanning, processing the shipping and withdrawal of boxes from stock, and handling various manual stock adjustments. The manual booking section details how to create new boxes in inventory, book the dispatch of goods, change a box's storage location, correct the number of sheets in a box, and open (resolve) boxes into individual sheets. The Software Reference section offers a detailed description of the core modules and dialogs used for these processes. It covers the Stock Management and Stock Movement functionalities, explaining the various tabs, fields, menus, and options available to the user. This guide is intended for warehouse personnel, inventory managers, and system administrators who use A+W Business to control and track their inventory of boxes."
+description: "EN_AWBusiness_Box_Management_1_1-3"
 ---
+
 
 # Tutorial
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Business_Excel_Import"
-source: "EN-FUNC-AW_Business_Excel_Import.pdf"
-tags: ["A+W Business", "Excel Import", "Item Import", "Software Functional Description", "Glass Industry", "ERP", "Data Import", "Clipboard"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the 'Excel Import of Items' feature for the A+W Business software. It outlines the process for importing line items from an MS Excel clipboard into a document, detailing the required data format, prerequisites, functions, and restrictions. The feature allows users to add new items based on an existing template item, streamlining data entry for multiple items with varying properties like dimensions and quantity."
-long_description: "This functional description details the 'Excel Import of Items' module for A+W Business software, starting from version 5.5/6.0. The document explains how users can efficiently import multiple line items from a structured Excel format via the clipboard. The process involves two main steps: first, pasting data into a dedicated import dialog where it can be reviewed and edited; second, generating new items in the current document based on this data. The import relies on a pre-existing template item within the document. The imported data, which can include fields like article number, width, height, quantity, and commission details, is used to create copies of the template item with the new properties. The document specifies the required clipboard data format (tab-separated), rules for dimension interpretation (metric vs. imperial), and the functionality for mapping source columns to target fields. It also lists prerequisites, such as needing the A+W Business core module, and outlines key restrictions, including the inability to create items in an empty document and a maximum limit of 800 items per document. The document concludes with contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Business_Excel_Import"
 ---
+
 
 # A+W – Business: Excel Import of Items
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_31"
-source: "EN-UM-AWBusiness_31.pdf"
-tags: ["Capacity Planning", "A+W Business Pro", "Software Reference", "Administration", "Master Data", "Shift Settings", "Machine Configuration", "Scheduling", "Production Management", "Work Types"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the Administration and Capacity Planning modules of A+W Business Pro. It details the configuration of master data, organizational settings, and scheduling parameters."
-long_description: "This comprehensive software reference manual provides detailed instructions and explanations for the Administration and Capacity Planning functionalities within the A+W Business Pro software. The guide is intended for administrators and power users responsible for setting up and maintaining the production environment. It covers a wide range of topics, starting with general administration settings like automatic delivery date searching, order splitting rules, and shift management. A significant portion is dedicated to defining master data, which forms the foundation of capacity planning. This includes configuring machine types with their specific technical restrictions, defining work types and their sequences, setting up serial factors for production efficiency, and establishing transition times between different work processes. The document also explains how to manage organizational structures such as production areas, machines, and work calendars. It provides in-depth guidance on setting default, special, and graduated time calculations (matrix, vector, cube) for various production activities. Furthermore, it covers allocation rules, detailing how products, product classes, and processings are assigned to specific work types. The manual also describes the various locking mechanisms to prevent incorrect machine assignments or process flows. Finally, it outlines the reporting and overview tools available for monitoring utilization, as well as the step-by-step process for scheduling orders, both manually and automatically, through the number manager and other scheduling dialogs."
+description: "EN-UM-AWBusiness_31"
 ---
+
 
 # Software Reference
 

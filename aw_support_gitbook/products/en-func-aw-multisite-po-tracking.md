@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Multisite PO Tracking"
-category: "functional_descriptions"
-product: "A+W Multisite PO Tracking"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Multisite PO Tracking"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Multisite PO Tracking                                   english 1. Content 1.       Content                                                      3 2.       Notes on this Document                                       4   2.1.   Trademarks                                                   4   2.2.   Copyrights                                                   4   2.3.   Exclusion of liability                                       4 3.       Performance Descript"
-source_file: "EN-FUNC-A+W Multisite PO Tracking.pdf"
+description: "EN FUNC A+W Multisite PO Tracking"
 ---
+
 
 
 # EN FUNC A+W Multisite PO Tracking

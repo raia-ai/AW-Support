@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_12"
-source: "D-HB-AWBusiness_12.pdf"
-tags: ["A+W Business", "Stammdaten", "Firmendaten", "EDI", "Kapazitätsplanung", "Software-Referenz", "Konfiguration", "Archivierung", "Produktion", "Versand"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Software-Referenzhandbuch für den Bereich 'Firmendaten' in der A+W Business Software. Es beschreibt detailliert die Konfigurationsoptionen für verschiedene Module wie Lagervorschau, Webservices, EDI-Schnittstellen, Archivierung, Kapazitätsplanung, Produktion und Druckeinstellungen."
-long_description: "Dieses Dokument dient als umfassendes Referenzhandbuch für die Konfiguration der Stammdaten im Bereich 'Firma' der A+W Business Software. Es bietet eine detaillierte Anleitung zu den verschiedenen Einstellungsregistern, die für den reibungslosen Betrieb des Systems unerlässlich sind. Die behandelten Themen umfassen die Lagervorschau, die Anbindung an den Dorma Webservice, die Konfiguration von Sendebestätigungen per E-Mail und die EDI-Schnittstelle. Ein großer Teil des Dokuments widmet sich den 'Firmendaten – Archiv', wo globale und dokumentenbezogene Einstellungen für die Archivierung, Statistikübergabe und den Umgang mit Reklamationen erläutert werden. Weitere Hauptabschnitte sind 'Firmendaten – Tagesabschluss' zur Verwaltung von Datenvorhaltezeiten, 'Firmendaten – System' für grundlegende Systemparameter wie Maßsysteme und Datumsformate, 'Firmendaten – Kalkulation' zur Definition von Kosten- und Aufschlagskalkulationen, und 'Firmendaten – Druck' zur Konfiguration von Monatsrechnungen und Druckservern. Das Handbuch deckt auch die Module 'Firmendaten – Produktion' mit Einstellungen zur Produktionsübergabe und Rückmeldung sowie 'Firmendaten – Kapa-Planung' zur Steuerung der Kapazitätsplanung ab. Schließlich werden Bereiche wie 'Versand', 'Mitarbeiterverwaltung', 'Texte' und 'Formulare' behandelt, um eine vollständige Konfiguration der Unternehmensdaten zu ermöglichen. Das Dokument richtet sich an Systemadministratoren und fortgeschrittene Anwender, die für die Einrichtung und Wartung der A+W Business Software verantwortlich sind."
+description: "D-HB-AWBusiness_12"
 ---
+
 
 # Firma
 

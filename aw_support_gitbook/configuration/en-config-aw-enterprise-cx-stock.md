@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise CX Stock"
-category: "configuration"
-product: "A+W Enterprise CX Stock"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise CX Stock"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Clarity Experience - Stock Forecast                                                                         english        A+W Software GmbH                                        - -INTERNAL-                        EN-CONFIG-A+W Enterprise CX Stock.docx       1 Change history  Date          Author                Remarks                              Version 2023-01-16    Andre Münch           Creation                             1.0     Contents  1.   Introduction"
-source_file: "EN-CONFIG-A+W Enterprise CX Stock.pdf"
+description: "EN CONFIG A+W Enterprise CX Stock"
 ---
+
 
 
 # EN CONFIG A+W Enterprise CX Stock

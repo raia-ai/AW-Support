@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Rough Scheduling 2.50"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Rough_Scheduling_2.50"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Rough Scheduling          C                                English                    A+W Production                                                                                                             Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision Overview                                        Part"
-source_file: "EN_AWProduction_Rough_Scheduling_2.50.pdf"
+description: "EN AWProduction Rough Scheduling 2.50"
 ---
+
 
 
 # EN AWProduction Rough Scheduling 2.50

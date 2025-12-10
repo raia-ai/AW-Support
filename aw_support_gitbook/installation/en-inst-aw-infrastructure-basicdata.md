@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Infrastructure BasicData"
-category: "installation"
-product: "A+W Infrastructure BasicData"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Infrastructure BasicData"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            Infrastructure and Basic Data Services    Change history:     Date           Edited by                Remarks                                        Version     2014-06-05     D.Langsdorf              Release version                                12.4.0     2014-06-10     D.Langsdorf              Preparation of Informix                        12.4.1     2014-07-09     D.Langsdorf              Adjustment for Informix                        12.4.2"
-source_file: "EN-INST-A+W Infrastructure BasicData.pdf"
+description: "EN INST A+W Infrastructure BasicData"
 ---
+
 
 
 # EN INST A+W Infrastructure BasicData

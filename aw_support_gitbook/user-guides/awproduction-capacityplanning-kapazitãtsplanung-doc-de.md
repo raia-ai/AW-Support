@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Kapazitaetsplanung_4_1"
-source: "DE_AWProduction_Kapazitaetsplanung_4_1.pdf"
-tags: ["A+W Production", "Capacity Planning", "Kapazitätsplanung", "ERP Software", "Glass Manufacturing", "Window Manufacturing", "Production Scheduling", "Software Manual", "Tutorial", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the A+W Production Capacity Planning (Kapazitätsplanung) module, version 4.50. It serves as a guide for planning production processes and optimizing the use of machinery capacity in the glass, window, and door manufacturing industry. The manual is provided in German."
-long_description: "This comprehensive manual details the functionality of the A+W Production Capacity Planning (Kapazitätsplanung) module. It is intended for end-users, production planners, and administrators responsible for organizing the optimal flow of production. The document is divided into several key sections. The 'Vorspann' (Preface) includes revision history, editorial notes, copyright information, and contact details. The 'Tutorial' section provides a step-by-step guide to using the module, covering fundamentals like appointment optimization and scheduling, as well as practical applications such as using the production monitor, handling loading and rescheduling, campaign planning for specific jobs, and managing capacity reservations. It also explains how to set up the master data for capacity planning, including shifts, cost calculations, and transition times. The 'Softwarereferenz' (Software Reference), outlined in the table of contents, offers a detailed reference for all software features, dialogs, and settings, including the production monitor, scheduling functions, campaign and reservation management, and master data configuration for times, shifts, machines, and costs. The document emphasizes practical use with examples, screenshots, and step-by-step instructions to ensure users can effectively manage production deadlines, utilize machinery efficiently, and respond flexibly to unforeseen events."
+description: "DE_AWProduction_Kapazitaetsplanung_4_1"
 ---
+
 
 # A+W Kapazitätsplanung
 

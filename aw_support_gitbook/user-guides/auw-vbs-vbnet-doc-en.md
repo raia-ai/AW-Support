@@ -1,22 +1,7 @@
 ---
-title: "AUW_Description_VBS_VB_Scripts_AWP"
-source: "AUW_Description_VBS_VB_Scripts_AWP.docx"
-tags: ["VBS", "VB.NET", "C#", "Crystal Reports", "ALCIMServer", "ALCIMBooking", "Detailed Scheduling", "Job Release", "Database", "A+W Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document describes how to implement and execute VBS, VB, and C# scripts in the A+W Production environment. It explains parameter passing from lists, reports, Detailed Scheduling, terminals, and server components; shows configuration options; and provides complete, runnable examples. Topics include reading and writing files, database access via ALCIMRUN and ADODB, calling Crystal Reports (including PPS WebService), registry access, tracing, and running scripts from Windows. Reference tables and revision history are included to support deployment and maintenance."
-long_description: "This technical guide consolidates all guidance required to create, configure, and run custom scripts inside the A+W Production suite using VBS (VBScript), VB (Visual Basic), and C#.
-
-It begins with a change history and then outlines how scripts are invoked from A+W Production lists and reports. For each integration point, the document specifies the exact calling convention and the parameter values that A+W passes to the script (for example VIEW, SPERRSTATIONPARAM, DBCONNECT, ALCIMWND, ROOTDIR, and SERVERDIR for list-based calls, and a reduced set for reports). Each section is paired with self-contained examples in VBS and VB that demonstrate how to read parameters, present diagnostic dialogs, and return control to the host application.
-
-Subsequent chapters cover scripting from Detailed Scheduling, ALCIMBooking, ALCIMServer, the Production Terminal, and the job release dialog. Where configuration is required (e.g., enabling post-creation scripts or setting additional parameters), the steps and settings are described, alongside language-specific examples in VBS, VB, and, where applicable, C#.
-
-A toolbox section deepens the practical coverage by showing common tasks: creating dialog boxes (MsgBox and InputBox in VBS as well as building custom dialogs), establishing database connections using both the ALCIMRUN helper and raw ADODB objects (with SELECT and UPDATE examples), and reading/writing files in VBS and VB. Reporting scenarios are documented in depth, including how to execute Crystal Reports, how to use the PPS WebService, export format constants, and how to execute reports on SQL Server without storing passwords in scripts. Additional utility patterns demonstrate starting external CMD scripts, reading and writing Windows Registry values, and implementing tracing so that scripts can log their progress and diagnostics.
-
-Throughout, the document preserves clear sectioning with headings for parameter definitions, configuration instructions, and code examples. All code samples are provided as complete procedures or modules that can be copied into your environment. The closing sections emphasize good practices for maintainability, including consistent use of Scriptname/Scriptversion constants, return variables (e.g., IRESULT), and robust error handling and logging.
-
-Collectively, these materials provide a reference and recipe collection for automating A+W Production workflows with scripts across the platform."
+description: "AUW_Description_VBS_VB_Scripts_AWP"
 ---
+
 
 VBS, VB and CS Scripts in A+W Production
 ## History

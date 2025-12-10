@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Production 5.20"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Production_5.20"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Production             E                            English                  A+W Business                                                                                                                Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision overview                                        Section          Description"
-source_file: "EN_AWBusiness_Production_5.20.pdf"
+description: "EN AWBusiness Production 5.20"
 ---
+
 
 
 # EN AWBusiness Production 5.20

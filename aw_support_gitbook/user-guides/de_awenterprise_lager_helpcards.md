@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Lager HelpCards"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Lager_HelpCards"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Lager                E                Help Cards             A+W Enterprise                  Help Cards                                                                                             Lager                      Lager                  Die Darstellungen in den Help Cards basieren auf der Auslieferversion A+W Enterprise 2015. Einzelne                  Schritte in den Workflows können je nach Konfiguration abweichen.                   Stammdatenverwaltung                   Help Card"
-source_file: "DE_AWEnterprise_Lager_HelpCards.pdf"
+description: "DE AWEnterprise Lager HelpCards"
 ---
+
 
 
 # DE AWEnterprise Lager HelpCards

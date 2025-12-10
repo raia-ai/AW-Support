@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_CIM"
-source: "EN-INST-AW_CIM.pdf"
-tags: ["A+W CIM", "Installation", "Software", "Glass and Windows", "Technical Documentation", "Setup", "Uninstallation", "Updates", "Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation, configuration, uninstallation, and update instructions for the A+W CIM software, which is part of the A+W software suite for glass and windows manufacturing."
-long_description: "This document serves as a comprehensive guide for system planners and administrators tasked with deploying the A+W CIM (Computer Integrated Manufacturing) software. It outlines the step-by-step procedures for a new installation, including prerequisites, time requirements, and initial configuration. The guide details the necessary components to be installed, such as CIM Services, CIM Web, and Planning Job Services. It also covers post-installation procedures, including database table creation and service settings within the A+W Infrastructure. The document provides instructions for using key functions like BarcodeReading and Smart Terminal, with examples of URL structures for both standard and MultiSite environments. Additionally, it contains detailed uninstallation instructions, covering both the standard process through 'Programs and Features' and a manual command-line procedure for removing residual services. Finally, a dedicated section on updates explains the process and potential need for manual uninstallation due to version changes, along with troubleshooting steps for services that fail to start."
+description: "EN-INST-AW_CIM"
 ---
+
 
 # Installation Instructions: A+W CIM
 

@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_7"
-source: "D-AWBusiness-HB_7.pdf"
-tags: ["A+W Business", "Stammdaten", "Softwarereferenz", "Kalkulation", "Preisberechnung", "Tutorial", "German", "ERP", "Produktionsdaten", "Änderungsüberwachung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document serves as a technical reference and tutorial for the A+W Business software, focusing on master data (Stammdaten) management. It covers various supplementary information for Tutorial 2, including price definitions, system texts, and variables. Additionally, it provides a detailed software reference for configuring products, pricing, calculations, and data exchange with A+W Production."
-long_description: "A comprehensive guide and software reference for the A+W Business system, presented in German. The first part of the document, 'Tutorial 2 - Zusatzinformationen', provides supplementary details for a tutorial session. This includes tables and explanations for price definition types, available system texts and placeholders (variables), handling of special glass types like leaded glass, and change tracking (Änderungsüberwachung). It also details the process for data transfer between A+W Business and A+W Production. Key topics covered are mixed pricing calculations (Mischkalkulation), French pricing methods, general cost calculation (Kalkulation), and managing contribution margin limits (Deckungsbeitrags-Grenzwerte). The second, larger part of the document is a 'Softwarereferenz' (Software Reference). This section provides an in-depth overview of the master data module, detailing configurations for general settings (languages, calendars), products (product types, groups, variants), pricing structures, and inventory management. It elaborates on the 'Produktverwaltung' (Product Management) dialog, covering the configuration of articles across various aspects like production, pricing, warehousing, and BOMs (Stückliste). The document is intended for system administrators and advanced users responsible for setting up and maintaining the master data that drives the A+W Business ERP system."
+description: "D-AWBusiness-HB_7"
 ---
+
 ---
 ## Tutorial 2: Zusatzinformationen
 

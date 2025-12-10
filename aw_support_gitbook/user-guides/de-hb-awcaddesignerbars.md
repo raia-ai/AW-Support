@@ -1,15 +1,7 @@
 ---
-title: "DE HB AWCADDesignerBars"
-category: "user_manuals"
-product: "AWCADDesignerBars"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWCADDesignerBars"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W CAD Designer (Bars)  Handbuch     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              10-2024     Gesamthandbuch für PDF und HTML5-Format aktualisiert.               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W CAD De-             signer (Bars) gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz             vergeben und darf nur gemäß dieser Lizenz v"
-source_file: "DE-HB-AWCADDesignerBars.pdf"
+description: "DE HB AWCADDesignerBars"
 ---
+
 
 
 # DE HB AWCADDesignerBars

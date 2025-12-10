@@ -1,12 +1,7 @@
 ---
-title: "EN_AWEnterprise_DispatchControl"
-source: "EN_AWEnterprise_DispatchControl.pdf"
-tags: ["A+W Enterprise", "Dispatch Control", "Logistics Software", "Glass Manufacturing", "Window Manufacturing", "Order Management", "Shipping", "Route Planning", "Rack Management", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for A+W Enterprise Dispatch Control, a logistics module for managing the dispatch of glass, windows, and doors. It details the features and functions for planning, processing, and tracking delivery orders."
-long_description: "This comprehensive software reference manual provides detailed instructions and descriptions for the A+W Enterprise Dispatch Control module. This module serves as the central control center for all logistics and dispatch operations within the A+W Enterprise software suite, specifically tailored for the glass, windows, and doors industries. The manual covers the entire dispatch workflow, starting from initial program functions like searching for orders and market partners, to the detailed management of deliveries. It explains the hierarchical structure of dispatch documents, which are organized into four levels: Delivery Dates, Tours/Routes, Orders, and Items. Users will find in-depth information on navigating the Dispatch Explorer, understanding its tree structure, and interpreting the various data tabs available at each level, including RouteInfo, RackInfo, VehicleInfo, and Optimization tabs. The guide also details numerous functions such as postponing shipments, managing rack allocations, booking goods, handling missing quantities, and printing essential documents like loading lists and delivery notes. The manual is intended for end-users of A+W Enterprise, providing them with the necessary knowledge to efficiently manage dispatch processes, ensure timely deliveries, and maintain accurate records of all shipping activities."
+description: "EN_AWEnterprise_DispatchControl"
 ---
+
 
 # A+W Dispatch Control G
 

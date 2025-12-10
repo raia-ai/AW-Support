@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Fertigung_5_7"
-source: "DE_AWBusiness_Fertigung_5_7.pdf"
-tags: ["A+W Business", "Fertigung", "Versandsteuerung", "Ladelisten", "Sprossenkonstruktion", "Stücklisten", "Software-Referenz", "ERP", "Produktionsplanung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference manual for the A+W Business Fertigung module, version 5.11. This document details functionalities related to shipping control (Versandsteuerung), including creating and managing loading lists (Ladelisten), and provides information on legacy features in the appendix, such as parts lists (Stücklisten) and glazing bar construction (Sprossenkonstruktion)."
-long_description: "This document serves as a detailed software reference for the 'A+W Business Fertigung' (Production) module, specifically version 5.11/01-2018. It guides users through various functionalities within the manufacturing and logistics processes. The main section focuses on 'Versandsteuerung' (Shipping Control), explaining how to create, manage, and print 'Ladelisten' (loading lists) for freight forwarders. It covers the necessary prerequisites, data entry in the 'Versandinfo' and 'Aufträge' tabs, and menu functions for printing lists and labels. The document includes an extensive appendix ('Anhang') that describes legacy modules and functions no longer included in new installations but potentially present in updated systems. These legacy features include 'Produktion' (Production) with its 'Stücklisten-Ansicht' (Parts List View) and the detailed 'Sprossenkonstruktion' (Glazing Bar Construction) module, which has since been replaced by CAD Designer (Bars). The appendix provides a comprehensive look at the user interface, settings, and operational steps for these older functions. The manual concludes with a thorough alphabetical index ('Partindex') for quick reference to specific terms and features within the Fertigung module."
+description: "DE_AWBusiness_Fertigung_5_7"
 ---
+
 
 # Softwarereferenz Versandsteuerung
 

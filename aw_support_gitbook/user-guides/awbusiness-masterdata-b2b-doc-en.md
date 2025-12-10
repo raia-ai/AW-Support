@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_12"
-source: "EN_AWBusiness_Master_Data_9_12.pdf"
-tags: ["A+W Business", "Master Data", "B2B", "Product Import", "Price Import", "Export Settings", "SN File Rules", "Software Reference", "openTrans"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Master Data module, focusing on Business-to-Business (B2B) functionalities. It details procedures for data exchange, including exporting documents as files or emails in openTrans format, and configuring rules for data import and processing."
-long_description: "A comprehensive technical reference manual for the A+W Business Master Data software, specifically covering the B2B (Business-to-Business) section. The guide provides detailed instructions on configuring and using various data exchange features. Key topics include setting up export types for documents like order confirmations, invoices, and dispatch notifications, which can be sent as files or email attachments, with support for the openTrans format. It explains the process for creating SN File Rules to automate file generation during production transfer. The document also outlines the procedures for Product Import and Price Import, allowing users to import master data from external sources like BME-CAT or VEGLA price lists. It covers a wide range of parameters for these imports, such as article lists, matchcode prefixes, price lists, and procurement types. The latter part of the document consists of a detailed, alphabetized section index, providing quick access to specific topics and their corresponding page references within the A+W Business Master Data system."
+description: "EN_AWBusiness_Master_Data_9_12"
 ---
+
 
 ---
 ## B2B

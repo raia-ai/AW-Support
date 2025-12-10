@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Pro Capacity Planning Tutorial and Reference"
-source: "D-AWBusiness-HB_31.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Fertigungssteuerung", "Leitstand", "Produktionsplanung", "ERP", "Glasindustrie", "Software-Tutorial", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive guide for the A+W Business Pro Capacity Planning module, covering tutorials on production lists, manual completion reporting, production status checks, and the control center (Leitstand). It also includes a detailed software reference for administration and master data setup."
-long_description: "This document serves as a dual-purpose guide for the A+W Business Pro Capacity Planning software. The first part is a tutorial that walks users through key processes such as creating and printing production lists, manually reporting production completions (including partial quantities and breakages), checking the production status of orders, and using the control center (Leitstand) to manage and reschedule production orders. The tutorial provides step-by-step instructions accompanied by annotated screenshots. The second part of the document is a detailed software reference, which covers the administration and setup of master data required for capacity planning. This includes configuring company data, general settings, organizational structures (like production areas, aggregates, and calendars), and defining standard times (Vorgabezeiten). It provides in-depth explanations of all dialogs, fields, and options within the Capacity Planning module, making it an essential resource for administrators and advanced users responsible for configuring and maintaining the system."
+description: "A+W Business Pro Capacity Planning Tutorial and Reference"
 ---
+
 
 # Tutorial
 

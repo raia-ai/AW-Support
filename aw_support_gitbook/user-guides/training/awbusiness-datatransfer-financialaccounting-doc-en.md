@@ -1,15 +1,7 @@
 ---
-title: "Tutorial: Data Transfer"
-category: "training"
-product: "AWBusiness"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWBusiness", "DataTransfer", "FinancialAccounting", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWBusiness_Sales_4_4-3" source: "EN_AWBusiness_Sales_4_4-3.pdf" tags: ["A+W Business", "Data Transfer", "Financial Accounting", "FinAcc", "Statistics", "Archiving", "EDI", "Tutorial", "Software Manual", "ERP"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is a tutorial for the A+W Business Sales software, focusing on data transfer processes. It provides step-by-step instructions for transferring financial data like invoices and credit notes to financial a"
-source_file: "AWBusiness-DataTransfer-FinancialAccounting-Doc-EN.md"
+description: "Tutorial: Data Transfer"
 ---
+
 
 
 title: "EN_AWBusiness_Sales_4_4-3"

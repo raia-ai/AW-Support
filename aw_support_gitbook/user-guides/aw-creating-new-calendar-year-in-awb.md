@@ -1,15 +1,7 @@
 ---
-title: "A+W Creating new calendar year in AWB"
-category: "user_manuals"
-product: "A+W Creating new calendar year in AWB"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W Creating new calendar year in AWB"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Setting up a calendar for the new year in A+W Business The calendars in A+W Business (AWB) is setup in the master data and can be located under [Master Data \ General \ Calendar].     When in you have entered the master data for the calendar you need to create a new calendar. This is done by clicking the [New] button at the top of the page. Enter data for the normal working week of the users that work with AWB, standard is 8 hours Then select the weekdays that you want to apply the selected hou"
-source_file: "A+W Creating new calendar year in AWB.pdf"
+description: "A+W Creating new calendar year in AWB"
 ---
+
 
 
 # A+W Creating new calendar year in AWB

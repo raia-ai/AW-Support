@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Enterprise FinAc Export"
-category: "functional_descriptions"
-product: "A+W Enterprise FinAc Export"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Enterprise FinAc Export"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   Export of master data and document data for processing in financial accounting                                          e n g l is h 1. Contents 1.   Contents                                                                 3 2.   Notes on this Document                                                   4      2.1. Trademarks                                                          4      2.2. Copyrights                                                          4"
-source_file: "EN-FUNC-A+W Enterprise FinAc Export.pdf"
+description: "EN FUNC A+W Enterprise FinAc Export"
 ---
+
 
 
 # EN FUNC A+W Enterprise FinAc Export

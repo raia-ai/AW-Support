@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_27"
-source: "D-HB-AWBusiness_27.pdf"
-tags: ["A+W Business", "ERP Software", "Manufacturing", "Shipping Control", "Warehouse Management", "Statistics", "German Technical Manual", "Glass Industry", "Windows and Doors", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference manual for the A+W Business ERP system, focusing on the modules for Manufacturing (Fertigung), Statistics (Statistik), and Warehouse Management (Lagerwirtschaft). It details functionalities related to production and shipping control, data analysis, and inventory management."
-long_description: "This extensive technical document serves as a detailed software reference guide for A+W Business, an ERP solution tailored for the glass, windows, and doors industry. The manual is structured into several key parts, each dedicated to a specific module of the software. Part E, 'Fertigung' (Manufacturing), covers shipping control functionalities, including processes for handling partial deliveries (Teillieferung) and creating loading lists (Ladelisten). It also describes legacy features like mullion construction (Sprossenkonstruktion), explaining how to manage, calculate, and visualize mullions in orders, noting that these functions have been superseded by the CAD Designer (Bars) module in newer versions. Part F, 'Statistik' (Statistics), provides an in-depth look at the software's data analysis and reporting capabilities. It outlines how to generate various sales and purchasing statistics, including order information, revenue analysis, and complaint statistics (Reklamationsstatistik). It details the creation of standard and 'Super' statistics, which allow for complex comparisons and data aggregation across different business units or time periods. Part G, 'Lagerwirtschaft' (Warehouse Management), functions as a tutorial and reference for inventory control. It covers the fundamental concepts of warehouse organization, from defining storage locations and categories to managing stock levels. The guide explains how to perform inventory transactions, conduct stocktakes (periodical and initial), manage warehouse articles within documents, and automate the reordering process. The document is intended for system administrators and power users who need to configure, manage, and utilize these advanced modules within the A+W Business environment."
+description: "D-HB-AWBusiness_27"
 ---
+
 
 # Softwarereferenz
 

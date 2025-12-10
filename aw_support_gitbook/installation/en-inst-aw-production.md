@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Production"
-category: "installation"
-product: "A+W Production"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Production"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions   A+W Production 6    Change history:      Date            Edited by               Comments                                  Version      08/2012         Jens Schmidt            Release                                   1.0      2014-07-07      D.Langsdorf             Revision for SP5.4                        1.1      2016-12-27      M. Schmidt              Revision for v6.2 + PT Licensing          1.2          The installation instructions guide the consultant through"
-source_file: "EN-INST-A+W Production.pdf"
+description: "EN INST A+W Production"
 ---
+
 
 
 # EN INST A+W Production

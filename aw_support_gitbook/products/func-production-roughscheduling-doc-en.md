@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Production-Rough_Scheduling"
-source: "EN-FUNC-AW_Production-Rough_Scheduling.pdf"
-tags: ["A+W", "Production", "Rough Scheduling", "ERP", "Software for Glass", "Functional Description", "Batch Management", "ALCIM"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Production - Rough Scheduling module. It outlines the module's purpose, features, and requirements for creating and managing production batches and buckets within the A+W software suite for the glass industry."
-long_description: "This is a technical document from A+W Software GmbH detailing the functional specifications of the A+W Production - Rough Scheduling module. The module is a core component of the A+W Production software (starting with ALCIM 2000), designed for the glass manufacturing industry. Its primary function is to process orders transferred from a commercial ERP system, preparing them for detailed production planning and optimization. The document describes how the module facilitates the creation and management of production batches and buckets, allowing users to group parts and orders strategically. It details the various data views available for monitoring production status, dependencies, and purchase parts. The text covers key functionalities such as handling late, non-production-relevant changes, managing reservation orders, and manual post-processing of items. It also clearly defines the system's limitations, emphasizing that batch formation is a manual process and requires user expertise for optimal results. The document concludes with notes on implementation, the importance of user training by an A+W consultant, and contact information for A+W support."
+description: "EN-FUNC-AW_Production-Rough_Scheduling"
 ---
+
 
 # A+W Production - Rough Scheduling
 

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Internal Client Separation"
-category: "configuration"
-product: "A+W Enterprise Internal Client Separation"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Internal Client Separation"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise Internal Client Separation                                          english                                  - -INTERNAL- Change history   Date          Author                Remarks                                                Version 2018-02-15    Ina Seifert           Initial version                                        1.0 2018-10-18    Ina Seifert           Extension MP_SITE_EXACT 2019-03-20    Elena Tempelfeld      Takeover of plant/RN for internal"
-source_file: "EN-CONFIG-A+W Enterprise Internal Client Separation.pdf"
+description: "EN CONFIG A+W Enterprise Internal Client Separation"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Internal Client Separation

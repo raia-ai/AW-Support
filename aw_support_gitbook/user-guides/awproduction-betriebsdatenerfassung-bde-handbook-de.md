@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_10"
-source: "DE_HB_AWProduction_10.pdf"
-tags: ["A+W Production", "Betriebsdatenerfassung", "BDE", "Maschinenzuordnung", "MZO", "Software Manual", "Glass Manufacturing", "Window Production", "Production Data Acquisition"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for the A+W Production software, providing help cards and tutorials for two key modules: Machine Assignment (Maschinenzuordnung - MZO) and Production Data Acquisition (Betriebsdatenerfassung - BDE). It covers setup, configuration, and operational workflows."
-long_description: "This is a comprehensive user guide and software reference for A+W Production, a software solution for the glass, windows, and doors industry. The document is split into two main parts. The first part, 'Maschinenzuordnung (MZO)', details how to configure and assign machines within the production environment, including adding new machines and setting up production terminals. The second, more extensive part, covers 'Betriebsdatenerfassung (BDE)' or Production Data Acquisition. This section provides a detailed tutorial on the core concepts of BDE, including booking elements (products, locations, personnel), data acquisition methods (scanners, barcodes), and booking examples for various production scenarios like shipping and handling breakages. It also introduces the various Production Terminals used for process control and visualization. Finally, it delves into the reporting and monitoring capabilities, explaining how to use BDE-Reporting, the A+W Dashboard for real-time monitoring, and A+W Discovery for long-term statistical analysis. A software reference section provides detailed descriptions of system dialogues and data fields."
+description: "DE_HB_AWProduction_10"
 ---
+
 
 # A+W Production: Maschinenzuordnung (MZO)
 

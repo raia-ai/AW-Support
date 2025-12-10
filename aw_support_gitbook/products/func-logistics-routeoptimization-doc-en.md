@@ -1,12 +1,7 @@
 ---
-title: "A+W Logistics Optimizer Functional Description"
-source: "EN-FUNC-AW_Logistics_Optimizer.pdf"
-tags: ["logistics", "route optimization", "A+W software", "glass industry", "delivery management", "ERP", "dispatch", "fleet management", "functional description"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Logistics Optimizer, a software solution for creating and optimizing delivery routes for the glass industry. It details the system's features, including data import, route planning, optimization algorithms, delivery monitoring via a mobile app, and reporting capabilities."
-long_description: "This document provides a comprehensive functional description of the A+W Logistics Optimizer, a software module designed for A+W Enterprise, A+W Business, and A+W Business Pro systems. The software is built for the glass industry to create, optimize, and calculate costs for delivery routes. It considers fleet details, order data, route limitations (e.g., bridge height, vehicle weight), and traffic information to determine the optimal route and sequence of delivery points. The document outlines the system's performance, data requirements, and a detailed list of functions. These functions include master data management, data import from ERP systems, route planning, various optimization modes (e.g., hierarchical, balanced load), and cargo space optimization. It also covers delivery monitoring through a dedicated mobile app (A+W Delivery App), rack management for transport frames, and statistical analysis. The document concludes with a list of system limitations, specifying what functionalities are not included or require manual intervention."
+description: "A+W Logistics Optimizer Functional Description"
 ---
+
 
 # A+W Functional Description: A+W Logistics Optimizer
 

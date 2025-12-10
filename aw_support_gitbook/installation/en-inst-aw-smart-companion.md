@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Smart Companion"
-category: "installation"
-product: "A+W Smart Companion"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Smart Companion"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions   A+W Smart Companion                                     english Change history            Date      Author   Remarks            Version           2022-07-22 ABE     Original version   0.1 Contents  1.   Establishing connection to the back end                         4 2.   Installation on the end user device                            5      2.1. Zebra TC20                                                5                   WLAN"
-source_file: "EN-INST-A+W Smart Companion.pdf"
+description: "EN INST A+W Smart Companion"
 ---
+
 
 
 # EN INST A+W Smart Companion

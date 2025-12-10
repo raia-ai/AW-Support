@@ -1,15 +1,7 @@
 ---
-title: "A+W DynOpt - Software for Glass, Windows and Doors"
-category: "training"
-product: "AWProduction"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWProduction", "ProductionOptimization", "GlassManufacturing", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWProduction_DynOpt" source: "EN_AWProduction_DynOpt.pdf" tags: ["A+W DynOpt", "Production Optimization", "Glass Manufacturing", "Dynamic Optimization", "Cutting Planning", "Buffer Management", "Software Tutorial", "A+W Software"] version: "1.0" last_updated: "2025-10-03" short_description: "A tutorial for the A+W DynOpt software, a dynamic optimization module for flat glass production. It covers the core concepts, from batch planning and cutting optimization to buffer management and"
-source_file: "AWProduction-ProductionOptimization-GlassManufacturing-Doc-EN.md"
+description: "A+W DynOpt - Software for Glass, Windows and Doors"
 ---
+
 
 
 title: "EN_AWProduction_DynOpt"

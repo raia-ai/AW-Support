@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_B2B_Service"
-source: "EN-INST-AW_Enterprise_B2B_Service.pdf"
-tags: ["A+W Enterprise", "B2B Service", "Installation Guide", "Configuration", "Software", "Glass and Windows", "EDI", "openTRANS", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation and configuration instructions for the A+W Enterprise 6 B2B Service, a software component for business-to-business data exchange in the glass and windows industry. It covers system requirements, installation procedures, and detailed configuration of various export modules and settings."
-long_description: "This is a comprehensive installation manual for the A+W Enterprise 6 B2B Service, a key component of the A+W software suite for glass and window manufacturers. The guide is intended for system planners and administrators responsible for deploying the software. It outlines the entire process, starting from pre-installation checks, such as verifying system requirements (Windows Server versions, .NET Framework, Informix Client SDK), to the step-by-step installation using the A+W SetupLauncher. The document details the configuration of the service through its dedicated Config Tool, explaining each setting in depth. This includes setting up common parameters like polling intervals, activating specific data transfer types (e.g., Internal Invoice/Dispatch, Dorma Orders, openTRANS, A+W EDI, e-invoicing), and configuring database connections. It provides guidance on setting up export paths, managing trace logs for troubleshooting, configuring maintenance settings for data cleanup, setting up email notifications for errors, and configuring the Windows service user. The manual includes screenshots of each configuration dialog to visually guide the user through the process."
+description: "EN-INST-AW_Enterprise_B2B_Service"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 B2B Service
 

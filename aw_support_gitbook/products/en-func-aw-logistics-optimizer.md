@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Logistics Optimizer"
-category: "functional_descriptions"
-product: "A+W Logistics Optimizer"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Logistics Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Logistics Optimizer                                   english 1. Content 1.   Content                                                                3 2.   Notes on this Document                                                 4      2.1. Trademarks                                                        4      2.2. Copyrights                                                        4      2.3. Disclaimer of liability                                           4 3"
-source_file: "EN-FUNC-A+W Logistics Optimizer.pdf"
+description: "EN FUNC A+W Logistics Optimizer"
 ---
+
 
 
 # EN FUNC A+W Logistics Optimizer

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise"
-category: "configuration"
-product: "A+W Enterprise"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions  A+W Enterprise                                                                    english        A+W Software GmbH   EN-CONFIG-A+W Enterprise.docx            1                                                            - -INTERNAL- Change history   Date         Author              Comments                                       Version 2018-02-20   Anja Grünbacher     New layout                                     1.0 2018-03-23   Ralf Imhof          Route op"
-source_file: "EN-CONFIG-A+W Enterprise.pdf"
+description: "EN CONFIG A+W Enterprise"
 ---
+
 
 
 # EN CONFIG A+W Enterprise

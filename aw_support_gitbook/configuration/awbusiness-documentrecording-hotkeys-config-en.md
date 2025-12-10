@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-15"
-source: "EN-CONFIG-AW_Business-15.pdf"
-tags: ["A+W Business", "Software Configuration", "Document Recording", "Hotkeys", "Performance Measurement", "Europool", "Sharepoint DMS", "Allgeier ECM", "SGG eCommerce", "OMS Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for various modules and integrations within the A+W Business software, including hotkeys, performance measurement, and connections to external systems like Europool, Sharepoint DMS, Allgeier ECM, and SGG eCommerce/OMS."
-long_description: "This comprehensive technical manual outlines the configuration procedures for A+W Business software. It begins by listing an extensive set of hotkeys for document recording, categorized by active tabs (Header, Items, Shapes) and ribbon menus, to enhance user efficiency. The document then details how to perform performance measurements within the application by setting trace levels and analyzing the output for specific actions. A significant portion of the manual is dedicated to system integrations. It covers the setup of the Europool interface, including formulas, triggers, and task scheduling for rack and customer data transfer. It also explains the integration with A+W Sharepoint DMS and Allgeier ECM scanview®, detailing master data activation, form management, OM commands, and webservice connections for document archiving and retrieval. Furthermore, the guide provides an in-depth look at the SGG eCommerce and SGG OMS integration. This includes installation prerequisites, database updates, FTP and webservice setup, EDI import processes for orders and cancellations, status change reporting, and the handling of ATP (Available-to-Promise) queries. The manual is intended for technical writers, system administrators, and implementation specialists responsible for setting up and maintaining the A+W Business environment."
+description: "EN-CONFIG-AW_Business-15"
 ---
+
 
 ---
 ## 17.25. Hotkeys for Document Recording

@@ -1,15 +1,7 @@
 ---
-title: "A+W Business Handbuch"
-category: "training"
-product: "AWBusiness"
-doc_type: "User Manual"
-language: "DE"
-tags: ["AWBusiness", "Erp", "Glasindustrie", "Handbook"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "A+W Business Handbuch" source: "D-HB-AWBusiness_1.pdf" tags: ["A+W Business", "ERP", "Softwarehandbuch", "Glasindustrie", "Fensterbau", "Stammdaten", "Auftragsverwaltung", "Produktionsplanung"] version: "1.0" last_updated: "2025-10-03" short_description: "Umfassendes Handbuch für die ERP-Software A+W Business, die speziell für die Glas-, Fenster- und Türenindustrie entwickelt wurde. Das Dokument beschreibt die Stammdatenverwaltung, Auftragsbearbeitung, Produktionsplanung und weitere Modu"
-source_file: "AWBusiness-Erp-Glasindustrie-Handbook-DE.md"
+description: "A+W Business Handbuch"
 ---
+
 
 
 title: "A+W Business Handbuch"

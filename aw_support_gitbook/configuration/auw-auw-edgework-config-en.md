@@ -1,25 +1,7 @@
 ---
-title: "AUW_Configuration_EdgeWork"
-source: "AUW_Configuration_EdgeWork.docx"
-tags: ["AUW", "EdgeWork", "configuration", "system setup", "workflow", "administration", "enterprise", "user guide", "implementation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a structured configuration guide for the AUW EdgeWork environment. It consolidates settings, options, and procedural steps into a consistent, searchable format for administrators and implementers. Key sections include: Kantenbearbeitungen, History, Content, Sonderkantekonfigurieren, SN Symbol für Sonderkante definieren, Unterschiedlicher Zuschlag oderunterschiedliche Maschinen."
-long_description: "This file is a cleaned and structured Markdown conversion of the original AUW_Configuration_EdgeWork.docx source. It is intended for ingestion into a vector store, enabling semantic search and retrieval across the configuration guidance it contains. The content preserves the original text, lists, and tables while normalizing typography, fixing encoding artifacts, and aligning headings to a consistent Markdown hierarchy. The document is organized into clearly labeled sections to support navigation and reference. Primary topics appear as second-level headers (##), with subtopics promoted to third-level headers (###) for consistency. Representative sections include:
-- Kantenbearbeitungen
-- History
-- Content
-- Sonderkantekonfigurieren
-- SN Symbol für Sonderkante definieren
-- Unterschiedlicher Zuschlag oderunterschiedliche Maschinen
-- AWB -SN-Kantenqualität definieren
-- AWB Zeitwirtschaft - Sonderzuordnung 2
-- AWB Preisberechnung - Modellzuschlag
-- Beispiel
-- AWP -Kantenzuschlagberechnen
-- Liste derSN-Kantenqualitäten
-Tables are rendered using GitHub Flavored Markdown to preserve tabular relationships and facilitate downstream parsing. Bulleted and numbered lists are converted to Markdown list syntax, maintaining indentation to reflect outline levels. Inline emphasis such as bold and italics is preserved when present to retain semantic cues from the source. No source content has been omitted; line breaks and spacing have been normalized to improve readability without changing meaning. Common encoding issues (for example, mis-encoded punctuation and bullets) have been corrected to ensure UTF-8 compliance. This Markdown file includes a YAML frontmatter block with descriptive metadata to support indexing, governance, and lifecycle management. Use this document as the canonical reference for configuring the AUW EdgeWork environment. It supports onboarding, troubleshooting, audit preparation, and cross-team knowledge sharing by making configuration steps discoverable via semantic search. Consumers integrating this file into documentation portals or automation pipelines may parse the headings and tables to generate navigation, validation, or automated checks."
+description: "AUW_Configuration_EdgeWork"
 ---
+
 ## Kantenbearbeitungen
 
 ## History

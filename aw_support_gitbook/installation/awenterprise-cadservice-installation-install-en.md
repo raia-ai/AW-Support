@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_CAD_Service"
-source: "EN-INST-AW_Enterprise_CAD_Service.pdf"
-tags: ["A+W Enterprise", "CAD Service", "Installation", "Configuration", "Software Manual", "Glass and Windows Software", "Informix", "Setup", "Technical Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Installation and configuration guide for A+W Enterprise 6 CAD Service. This document outlines system requirements, installation procedures, and detailed configuration steps for database, email, and service settings."
-long_description: "This technical manual provides comprehensive installation instructions for the A+W Enterprise 6 CAD Service, a software component for the glass and windows industry. The guide is intended for system planners and administrators. It begins by outlining the prerequisites, including supported Windows Server versions (2008 R2, 2012 R2), network requirements, and necessary pre-installed software like Informix Client SDK and .NET Framework. The document details a step-by-step installation procedure using the A+W Setup Launcher. A significant portion of the manual is dedicated to the post-installation configuration using the 'Config Tool'. This includes setting up common parameters like polling intervals and CAD export types, configuring detailed database connections to the A+W Enterprise DB Server, setting up template-specific rules for CAD export, configuring e-mail notifications for service events, and defining maintenance settings for data cleanup. The guide also covers the configuration of the Windows service user, directory structure requirements for environment variables, and final steps for verifying the installation. It concludes with information on auto-updates, known issues, and the uninstallation process."
+description: "EN-INST-AW_Enterprise_CAD_Service"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 CAD Service
 

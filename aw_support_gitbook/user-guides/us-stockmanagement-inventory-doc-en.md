@@ -1,12 +1,7 @@
 ---
-title: "US_AWEnterprise_StockManagement_HelpCards"
-source: "US_AWEnterprise_StockManagement_HelpCards.pdf"
-tags: ["A+W Enterprise", "Stock Management", "Inventory", "Help Cards", "ERP", "Software Documentation", "Glass Manufacturing", "Window Manufacturing", "Master Data", "Warehouse Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a set of 'Help Cards' for the A+W Enterprise Stock module. It serves as a quick-reference guide for performing various stock management tasks, including master data management, stock movements (booking in/out), inventory counts, and system information retrieval."
-long_description: "This document is a comprehensive collection of 'Help Cards' for the A+W Enterprise Stock module, based on the 2015 version of the software. It is designed to guide users through standard procedures related to stock and inventory management within the A+W Enterprise system, which is specialized software for the glass, windows, and doors industry. The guide is broken down into key functional areas: Master Data Management (creating storerooms and stock articles), Stock Management (booking items in and out of various warehouse types like standard, slot, box, and rack warehouses), Inventory Management (performing stock takes), Valuation (evaluating article prices), and using the Info System to view data like stock history, order status, and forecasts. Each help card details the objective of a specific task, lists any prerequisites, provides additional information, outlines a step-by-step workflow, and includes a corresponding screenshot of the user interface. These cards are essential for training and daily operations, ensuring users can efficiently manage stock levels and movements."
+description: "US_AWEnterprise_StockManagement_HelpCards"
 ---
+
 
 # A+W Enterprise: Stock Help Cards
 

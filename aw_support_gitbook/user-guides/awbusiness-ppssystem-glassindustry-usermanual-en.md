@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_1"
-source: "EN-UM-AWBusiness_1.pdf"
-tags: ["A+W Business", "ERP Software", "PPS System", "Glass Industry", "Windows and Doors", "Software Manual", "Master Data", "Sales Module", "Production Planning", "Capacity Planning"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the comprehensive user manual for A+W Business, an ERP/PPS software solution designed for the glass, windows, and doors industry. It covers all major modules, including an overview of features, master data management, sales, purchasing, production, and more."
-long_description: "This is a complete user manual for the A+W Business software, a state-of-the-art ERP-PPS system tailored to the specific needs of the window, door, and flat glass construction industries. The manual is structured into distinct sections, each covering a core component of the software. It begins with a general overview (Section A), which introduces the software's features, modular structure, system environment, and basic operations. This is followed by a deep dive into Master Data management (Section B), providing tutorials and reference material on setting up fundamental data for customers, suppliers, products, prices, and company-specific information. Subsequent sections detail the functionalities of Sales (C), Purchasing (D), Production (E), Statistics (F), Stock Management (G), Capacity Planning (H), and more. The document serves as both a training guide, with step-by-step tutorials and exercises, and a complete software reference. It is intended for end-users and provides detailed instructions on everything from initial setup and data entry to complex processes like automated price calculation, production planning, route optimization, and generating statistical reports. The manual includes numerous screenshots, diagrams, and tables to illustrate concepts and guide users through the software's graphical interface."
+description: "EN-UM-AWBusiness_1"
 ---
+
 # A+W
 ---
 ## Software for Glass, Windows & Doors

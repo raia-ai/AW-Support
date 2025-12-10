@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_iQuote_3"
-source: "EN-CONFIG-AW_iQuote_3.pdf"
-tags: ["A+W Software", "iQuote", "Configuration", "Workflow", "CSS Customization", "Okta", "Login Page", "API", "Technical Manual", "Software Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration guide for A+W iQuote, a software solution for the glass and window industry. It details advanced workflow customizations, including adding, updating, and deleting processings, implementing multilingual support, managing dynamic values, and accessing internal data structures. It also provides comprehensive instructions for customizing the user interface via CSS and configuring the login page, with specific sections dedicated to both standard and Okta-based authentication methods."
-long_description: "This is a detailed technical manual for administrators and developers working with the A+W iQuote software. The document is divided into several major sections covering advanced configuration and customization topics. It begins with 'Change Processings,' explaining how to programmatically add, update, delete, and find processing activities within a workflow using specific parameters. The 'Multilingual Workflow' section describes how to manage and display texts in multiple languages by leveraging database tables and custom functions. The guide then covers 'Dynamic Values,' a feature for storing and retrieving temporary data within a workflow for calculations or comparisons. A significant portion of the document is dedicated to 'CSS Customizing,' offering a step-by-step guide on how to modify the look and feel of the iQuote interface. This includes setting up a custom theme, overriding default CSS rules, and changing specific UI elements like navigation bars and load icons. The final major chapters focus on 'Login Page Configuration.' It details the architecture of the standard token-based login page, including user management, self-registration, and customization of views and email templates. It also provides a complete walkthrough for integrating iQuote with Okta for single sign-on (SSO), covering the setup of the Okta platform using Terraform, creating users and applications, and configuring the iQuote application to communicate with the Okta tenant."
+description: "EN-CONFIG-AW_iQuote_3"
 ---
+
 
 ---
 ## 4.7.1. Change processings

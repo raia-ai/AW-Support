@@ -1,18 +1,7 @@
 ---
-title: "AW_Production_-_Other_Edgework_Configuration_For_Extra_Cutting_Allowance" 
-source: "AW_Production_-_Other_Edgework_Configuration_For_Extra_Cutting_Allowance.docx" 
-tags: ["A+W Business", "A+W Production", "Edgework", "Grinding Allowance", "SN.INI", "Glass Manufacturing", "Processing Articles", "Configuration Guide", "ERP Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Step-by-step configuration guide for enabling extra cutting allowance via Other Edgework in A+W Business and A+W Production. It covers creating a new processing product code in A+W Business, setting grinding allowances in A+W Production, configuring processing articles, and aligning SN.INI decoration entries so orders carry a visible processing marker (xE) and correct cutting sizes from Business to Production."
-long_description: "This document provides a concise, end-to-end procedure to configure an extra cutting allowance using the “Other Edgework” mechanism across A+W Business (AWB) and A+W Production (AWP). The process begins in A+W Business by creating a dedicated processing product code—typically by copying an existing edgework such as Polish—and ensuring the minimum required fields are populated. Key parameters include Product Type, Product Class, Product Group (PGR) and PGR Statistics, an Individual Edge Quality value, and the Processing and Surcharge Type set to Other Edgework. Where applicable, pricing tables can be updated to reflect surcharge or pricing behavior.
-
-In A+W Production, the configuration continues with two core tasks. First, a Grinding Allowance must be available for the Processing Group corresponding to Other Edgework, ensuring an appropriate glass size increment (e.g., 100 mm) is applied during order import. Second, the relevant Processing Article must be aligned: it requires a Grinding Group of Other Edgework, matching Processing Type/A+W Type values, a correct work process allocation to the intended machine, and an Extra 1 value that matches the Individual Edge Quality configured in A+W Business. This cross-application match ensures the processing is recognized consistently during data transfer.
-
-The SN.INI file then needs to be updated to provide a concise drawing/label marker in A+W Business and to coordinate the shift behavior for this decoration. Using the Edge Quality number (minus one), four entries are added under the [Decoration] section: the Deco### code (e.g., Deco112) and its name, a calculated shift, and drawing enablement. In the example, the marker “xE” identifies the extra edgework. After saving changes to SN.INI, it is recommended to restart A+W CAD 6 and A+W ALCIM Items4ALCIM Windows Services so the settings take effect.
-
-A sample order demonstrates the outcome: the processing is visible in A+W Business with the “xE” marker on each glass side, and upon import into A+W Production the cutting size increases accordingly (e.g., from 1024 x 1024 to 1224 x 1224). This guide is intended as a minimal working setup; depending on business requirements, further refinements to processing data, pricing, and workflow allocation may be necessary." 
+description: "AW_Production_-_Other_Edgework_Configuration_For_Extra_Cutting_Allowance"
 ---
+
 
 # A+W BUSINESS AND A+W PRODUCTION OTHER EDGEWORK CONFIGURATION FOR EXTRA CUTTING ALLOWANCE
 

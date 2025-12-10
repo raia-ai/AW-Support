@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-8"
-source: "EN-CONFIG-AW_Business-8.pdf"
-tags: ["A+W Business", "Configuration", "EDI Interface", "Price Calculation", "Order Management", "Inventory", "Surcharges", "Technical Manual", "ERP", "Wastage Rates"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "This document is a technical configuration guide for the A+W Business software, covering advanced features such as pricing, inventory management, freight cost calculation, down payments, and shape edge surcharges. It also provides detailed instructions for setting up and managing EDI (Electronic Data Interchange) interfaces for both importing and exporting data, including purchase orders and invoices."
-long_description: "This document serves as an in-depth configuration and user manual for A+W Business, a software solution for the glass industry. It details a range of functionalities designed to streamline business operations. The guide begins with an explanation of pricing and inventory management, including how to handle product stock dimensions, calculate average prices, and manage price keys. It then moves on to imputed freight costs, explaining how to enable, calculate, and split these costs based on delivery routes and customer locations. The document also covers financial transactions like down payments and the management of shape edge surcharges, which are critical for accurate pricing of custom edgework. A significant portion of the manual is dedicated to the EDI interface, providing step-by-step instructions for setting up customer and supplier configurations, managing data import/export for purchase orders, order confirmations, and invoices. It outlines parameters for controlling the import process, handling data mapping, and managing multi-user operations. The guide includes specific configurations for interfaces like KLAES, Internorm, and the Dorma Web Service, complete with examples of XML structures and script adjustments. Finally, it touches upon additional features like wastage rate calculation, energy surcharges, and the setup of IG construction prices. The document is intended for technical users, system administrators, and implementation specialists responsible for configuring and maintaining the A+W Business system."
+description: "EN-CONFIG-AW_Business-8"
 ---
+
 
 ---
 ### Fig. 113: Product stock dimensions

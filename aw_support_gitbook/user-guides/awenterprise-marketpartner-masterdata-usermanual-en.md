@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_2"
-source: "EN-UM-AWEnterprise_2.pdf"
-tags: ["A+W Enterprise", "Market Partner", "Master Data", "Software Reference", "ERP", "User Manual", "Configuration", "Search Fields", "Address Tab", "Invoice Tab"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the 'Market Partner' master data module in the A+W Enterprise system. It provides detailed descriptions of search fields, data tabs (Address, Identification, Invoice, etc.), and configuration options for managing customer and supplier information."
-long_description: "This document is a comprehensive software reference guide for the 'Market Partner' master data module within the A+W Enterprise system. It provides detailed instructions on how to search for market partners, manage their data, and configure various settings. The guide is structured around a series of tabs, including Address, Identification, References, Order, Delivery, Invoice, Payment, and more. For each tab, the document describes every field, its purpose, and its technical details (such as data type and database field name). It also explains how to handle notes, additional addresses, contact persons, and bank accounts. The manual covers configurations for multi-client systems, multilingual support, and EDI (Electronic Data Interchange). It's an essential resource for system administrators and power users responsible for maintaining accurate and complete market partner (customer and supplier) records. The document also includes a section on managing Employee master data, authorizations, and departments."
+description: "EN-UM-AWEnterprise_2"
 ---
+
 
 # Market Partner
 

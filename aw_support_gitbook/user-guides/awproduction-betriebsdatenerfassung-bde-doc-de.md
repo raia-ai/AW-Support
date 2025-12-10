@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_BDE_2.01"
-source: "DE_AWProduction_BDE_2.01.pdf"
-tags: ["A+W Production", "Betriebsdatenerfassung", "BDE", "Barcode Manager", "Software Manual", "Production Management", "ERP", "Glass Manufacturing", "Window Manufacturing", "Door Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the A+W Production 'Betriebsdatenerfassung' (BDE) module, version 2.01. It provides a comprehensive guide to the operational data acquisition system, including a tutorial on basic concepts, data entry via barcode scanning, and a software reference for master data management. It is targeted at users in the glass, window, and door manufacturing industries."
-long_description: "This is the complete user and reference manual for the A+W Production 'Betriebsdatenerfassung' (Operational Data Acquisition - BDE) module, specifically the Barcode Manager component, version 2.01, dated January 2017. The document is intended for end-users who work at various stations within a production environment, such as machine operators and logistics personnel in the glass, window, and door manufacturing sectors. The manual is divided into several key parts. The 'Vorspann' (Preface) contains editorial notes, a revision history, and legal information. The core of the document is the 'Tutorial,' which guides users through the system's fundamental concepts, including direct and indirect objects, booking types, and data capture locations. It details the 'Buchungselemente' (booking elements) like products, racks, personnel, and statuses. A significant portion of the tutorial is dedicated to 'Datenerfassung' (Data Capture), explaining the use of different scanner types and barcodes, with numerous practical 'Buchungsbeispiele' (booking examples) for processes like loading trucks, managing breakages, and correcting errors. It also introduces the 'Production Terminals' and their role in the production landscape. The manual concludes with a section on 'Statistik, Reporting und Monitoring,' covering BDE-Reporting, the A+W Dashboard for real-time monitoring, and A+W Discovery for long-term statistical analysis. The 'Softwarereferenz' (Software Reference) part provides detailed descriptions of the master data management dialogs for configuring barcodes, data collection points, racks, employees, and statuses. An index is included for quick reference."
+description: "DE_AWProduction_BDE_2.01"
 ---
+
 # A+W Betriebsdatenerfassung H
 
 **A+W Production**

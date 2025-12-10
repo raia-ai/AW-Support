@@ -1,12 +1,7 @@
 ---
-title: "A+W Production Feinplanung und Kapazitätsplanung"
-source: "DE_HB_AWProduction_5.pdf"
-tags: ["A+W Production", "Feinplanung", "Kapazitätsplanung", "Software-Referenz", "Produktionsplanung", "ERP", "Glasfertigung", "Tutorial", "Stammdaten"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference and tutorial for the A+W Production modules Feinplanung (Detailed Planning) and Kapazitätsplanung (Capacity Planning). It covers master data setup, configuration, and operational procedures."
-long_description: "This document serves as a comprehensive guide to the A+W Production software, focusing on the Feinplanung (Detailed Planning) and Kapazitätsplanung (Capacity Planning) modules. The first part is a software reference for Feinplanung, detailing the configuration of storage places (Abstellplätze), batch types (Lostypen), and the various parameters within the detailed planning dialogs for production runs (Läufe). It explains fields, settings, and technical database information for optimizing cutting processes, managing special parts like fillers and remnants, and configuring organizational parameters. The second part is a tutorial for Kapazitätsplanung, designed for production planners. It provides an overview of capacity planning principles, including master data setup for machines, shifts, and lead times. It explains how to use the production monitor to manage and adjust production schedules, handle faulty schedules, create campaigns for specific work processes, and reserve capacity for specific customers or projects. The tutorial includes step-by-step instructions with screenshots to guide users through common tasks."
+description: "A+W Production Feinplanung und Kapazitätsplanung"
 ---
+
 
 # Softwarereferenz
 

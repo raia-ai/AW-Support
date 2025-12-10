@@ -1,12 +1,7 @@
 ---
-title: "EN-AW_EDI_Import"
-source: "EN-AW_EDI_Import.pdf"
-tags: ["EDI", "A+W Software", "Data Import", "Data Export", "Order Interface", "Purchase Orders", "Glass Software", "Technical Specification", "File Format", "API"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical specification for the A+W software's Electronic Data Interchange (EDI) interface. It details the file format and protocols for importing and exporting orders and purchase orders, aimed at developers and technical staff."
-long_description: "This internal technical document from A+W Software for Glass provides a comprehensive guide to the import/export interface for orders and purchase orders. It specifies the ASCII file format required for the electronic data interchange (EDI) of documents such as orders, quotations, purchase orders, and credit notes. The documentation covers general file structure, field types (alpha-numerical, numerical, date), and fixed record lengths. It offers a detailed breakdown of all record types used in the interface, including FH (file header), K1 (general header), P1 (item), S1 (bill of materials), and B1 (processing), with tables specifying each field's position, length, type, and contents. The guide is structured into several key sections: general explanations, detailed field descriptions, import-specific notes, and export-specific notes, with dedicated chapters for A+W Enterprise and A+W Business system integrations. It also contains a complete version history, a table of contents, and practical examples to clarify complex structures like the Bill of Materials (BOM) and processing parameters. This specification is an essential resource for developers and technical personnel responsible for integrating third-party systems with the A+W software suite."
+description: "EN-AW_EDI_Import"
 ---
+
 
 # Import/export interface of orders and purchase orders
 

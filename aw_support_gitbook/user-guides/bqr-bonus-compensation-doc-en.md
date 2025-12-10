@@ -1,12 +1,7 @@
 ---
-title: "BQR_Changes_2025_FAQ"
-source: "BQR_Changes_2025_FAQ.pdf"
-tags: ["bonus", "compensation", "BQR", "EBITA", "NRG", "performance factor", "human resources", "FAQ", "payroll"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document outlines a change in the BQR Bonus calculation, effective from 2025. It explains the discontinuation of the 'Performance Factor Target' and its replacement with a new 'Personal Factor' to simplify the bonus formula without impacting the final payout amount."
-long_description: "This FAQ document details Änderungen to the BQR (Business Quality Ratio) bonus structure for employees, scheduled to be implemented from 2025. The core change involves discontinuing the 'Performance Factor Target,' a metric tied to EBITA and NRG targets, and replacing it with a new, simplified 'Personal Factor.' This modification aims to streamline the bonus calculation process and avoid the need for frequent target adjustments that could negatively affect employee bonuses. The document provides a clear comparison of the 'Old' and 'New' calculation methods, demonstrating that the final bonus payout remains identical. It explains the rationale behind the change, citing that corporate EBITA and NRG targets have been updated, and adjusting the old bonus model would have resulted in lower payouts. The document includes detailed examples, calculation formulas, and a conversion table for determining the new 'Personal Factor' based on an employee's previous 'Personal Target Bonus in %.' It also addresses frequently asked questions regarding the implementation timeline, a hypothetical impact analysis, and definitions of key terms like EBITA, NRG, and BQR."
+description: "BQR_Changes_2025_FAQ"
 ---
+
 
 # Change in BQR Bonus
 

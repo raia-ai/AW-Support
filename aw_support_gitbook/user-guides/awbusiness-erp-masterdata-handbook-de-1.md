@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Master Data - Tutorial 2: Documents"
-source: "D-HB-AWBusiness_6.pdf"
-tags: ["A+W Business", "ERP", "Master Data", "Documents", "Status Assignment", "Number Ranges", "Rounding", "Invoicing", "Document Printing", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business software, focusing on the configuration and management of documents. It covers status assignments, lock indicators, number ranges, rounding rules, invoicing settings, and text/document printing."
-long_description: "This document serves as the second tutorial for managing master data within the A+W Business ERP system, with a specific focus on the 'Documents' module. It provides step-by-step instructions for configuring various aspects of document processing and management. The tutorial begins with status assignments, explaining how to link user statuses to system status points for different document types. It then details how to set up and apply lock indicators (Sperrkennzeichen) to exclude documents from automatic processing steps. A significant portion is dedicated to establishing and managing number ranges (Nummernkreise) for different document types, clients (Mandanten), and work areas (AV-Bereiche) to ensure unique document identification. The guide also covers the configuration of rounding rules (Rundungen), including defining rounding rates, rounding points (e.g., for prices, taxes, areas), and assigning them to clients or specific products. Further, it explains essential settings for invoicing (Faktura), such as managing taxes, currencies, and exchange rates. The final major section focuses on text and document printing, detailing how to create and manage standard texts, use variables and formulas for dynamic content, and configure forms (Formulare) and print jobs for various output formats (paper, PDF, email). An extensive appendix provides supplementary technical details on object/billing management, available document types, system texts, and variables (placeholders)."
+description: "A+W Business Master Data - Tutorial 2: Documents"
 ---
+
 
 # Tutorial 2: Dokumente
 

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise iTOE"
-category: "configuration"
-product: "A+W Enterprise iTOE"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise iTOE"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise iTOE                                                                         english        A+W Software GmbH   EN-CONFIG-A+W Enterprise iTOE.docx   - -INTERNAL-                                                                     1 Change history             Date         Author                  Remarks                              Version           2019-02-05   Original version        Transfer from Dokuware document      1.0"
-source_file: "EN-CONFIG-A+W Enterprise iTOE.pdf"
+description: "EN CONFIG A+W Enterprise iTOE"
 ---
+
 
 
 # EN CONFIG A+W Enterprise iTOE

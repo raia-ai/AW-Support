@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W ERP Stock Service"
-category: "configuration"
-product: "A+W ERP Stock Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W ERP Stock Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W ERP Stock Service                                                                           english        A+W Software GmbH   EN-CONFIG-A+W ERP Stock Service.docx   - -INTERNAL-                                                                       1 Change history           Date        Author                Remarks                                    Version         2013-06-25 SVH                    Original version                           1.0"
-source_file: "EN-CONFIG-A+W ERP Stock Service.pdf"
+description: "EN CONFIG A+W ERP Stock Service"
 ---
+
 
 
 # EN CONFIG A+W ERP Stock Service

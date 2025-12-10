@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_13"
-source: "D-AWBusiness-HB_13.pdf"
-tags: ["A+W Business", "Software Manual", "Verkauf", "Sales Module", "ERP", "Glass Manufacturing", "Window Manufacturing", "Tutorial", "Auftragserfassung", "Order Entry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language software manual for the 'Verkauf' (Sales) module of A+W Business, a software solution for the glass, window, and door industries. This document serves as a tutorial and reference guide for order entry and management."
-long_description: "This document is a comprehensive guide to the 'Verkauf' (Sales) module of the A+W Business software, designed for companies in the glass, window, and door manufacturing sectors. It is presented as a 'Tutorial' and is marked as a 'Entwurf' (Draft). The guide begins with a preface, revision history, and editorial notes. It then provides a detailed table of contents, outlining two main parts: a 'Tutorial' and a 'Softwarereferenz' (Software Reference). The tutorial section covers the fundamental concepts of the sales process within the software, from creating offers and orders to invoicing. It explains the structure of documents, follow-up documents, document management, and the significance of status indicators. Key topics include order header data ('Auftragskopf'), order items ('Auftragspositionen'), pricing, automated entry ('Schnellerfassung'), and special features like creating models, muntin constructions ('Sprossen'), and applying designs ('Motive'). The manual includes step-by-step instructions, screenshots, and explanations of UI elements and system logic."
+description: "D-AWBusiness-HB_13"
 ---
+
 
 # A+W Verkauf C
 **Entwurf**

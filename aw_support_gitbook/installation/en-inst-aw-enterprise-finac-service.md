@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise FinAc Service"
-category: "installation"
-product: "A+W Enterprise FinAc Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise FinAc Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 FinAc Service    Change history:     Date          Edited by                Remarks                                     Version     16.04.22      MP                       New creation                                1.0     16.10.04      SVH                      Addition                                    1.1     16.12.13      MP                       AutoUpdate                                  1.2     17.03.21      SVH"
-source_file: "EN-INST-A+W Enterprise FinAc Service.pdf"
+description: "EN INST A+W Enterprise FinAc Service"
 ---
+
 
 
 # EN INST A+W Enterprise FinAc Service

@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_2"
-source: "EN_UM_AWProduction_2.pdf"
-tags: ["A+W Production", "Rough Scheduling", "Batch Creation", "Production Planning", "Software Tutorial", "Software Reference", "Glass Manufacturing", "Window and Door Software", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a comprehensive guide to the A+W Production Rough Scheduling module. It is divided into a tutorial and a software reference, covering the entire process from order entry to batch creation and management for glass, window, and door manufacturing."
-long_description: "This user manual details the functionalities of the A+W Production Rough Scheduling software module, designed for managing production processes in the glass, window, and door industries. The document is structured into two main parts: a Tutorial and a Software Reference. The Tutorial section offers a step-by-step guide for users responsible for production scheduling. It covers the production scheduling process, how to configure and use different views (Orders, Buckets, Batches), managing orders in the pool, creating and handling buckets for order buffering, and forming batches using various strategies. The Software Reference section provides a detailed A-to-Z description of every dialog, field, and function within the Rough Scheduling module. It explains concepts like filler orders, surplus quantities, reservation orders, and purchase parts, and details the configuration of UI components like tabs, columns, and filters. The manual is intended for production planners and assumes familiarity with the master data concepts in A+W Production. It aims to enable users to optimize their production process through effective batch creation and management."
+description: "EN_UM_AWProduction_2"
 ---
+
 
 # A+W Production Rough Scheduling
 

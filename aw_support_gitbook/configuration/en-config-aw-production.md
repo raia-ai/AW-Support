@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Production"
-category: "configuration"
-product: "A+W Production"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Production"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Production                                                                   english       A+W Software GmbH   EN-CONFIG-A+W Production.docx   - -INTERNAL-                                                               1 Change history   Date         Author     Remarks                                               Version 2018-05-11   DLA        Macro resolution, FIX filter                          1.0 2018-06-07   DLA        CrystalReports"
-source_file: "EN-CONFIG-A+W Production.pdf"
+description: "EN CONFIG A+W Production"
 ---
+
 
 
 # EN CONFIG A+W Production

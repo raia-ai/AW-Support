@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_9-1"
-source: "EN_AWBusiness_Master_Data_9_9-1.pdf"
-tags: ["A+W Business", "Master Data", "Partner Management", "Customer Discounts", "Supplier Discounts", "Software Reference", "Project Management", "Invoicing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Master Data software, focusing on the Partner Management module. It details how to manage customer and supplier terms, discounts, and individual pricing."
-long_description: "This document is a detailed software reference for the A+W Business Master Data system, specifically covering the 'Partner Management' section. It provides step-by-step instructions and explanations for managing data related to customers and suppliers. The guide begins with an overview of the 'Terms' dialog, which shows applicable discounts and individual prices. It then delves into the comprehensive 'Discount Management' feature, explaining how to define, copy, change, and delete discounts for individual partners or groups. The document covers various types of discounts, including graduated, exchange, and divergent discounts, and explains how to set parameters like validity periods and default status. Furthermore, it details the management of 'Customer Individual Products,' 'Delivery Times,' and 'Projects.' The project management section explains standard and extended project management, including invoicing, handling of blanket orders, and tracking allocated orders and estimated quantities. This manual is intended for users who need to configure and maintain partner-specific commercial data within the A+W Business software."
+description: "EN_AWBusiness_Master_Data_9_9-1"
 ---
+
 
 # Partner Management
 

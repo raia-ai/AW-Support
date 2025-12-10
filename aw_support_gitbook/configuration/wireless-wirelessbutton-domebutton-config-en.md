@@ -1,12 +1,7 @@
 ---
-title: "Wireless Dome Button"
-source: "Wireless_Dome_Button.pdf"
-tags: ["wireless button", "dome button", "USB dongle", "H0730", "Key Configurator", "user manual", "hardware", "CompuPhase"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual for the CompuPhase Wireless Dome Button. It covers first-time setup, configuration using the Key Configurator utility, battery replacement, mounting options, and technical specifications."
-long_description: "This document provides comprehensive instructions for the CompuPhase 'Wireless Dome Button,' a large mushroom-style button that transmits press and release operations to a PC via a 'Wireless Dongle.' The manual details the initial setup process, which involves pairing the button with an H0730 model dongle using a specific pin code. It explains how to use the 'Key Configurator' software to customize the button's function, including setting it to 'Auto-repeat,' 'Pulse,' or 'Macro' mode to transmit single keystrokes, repeated keys, or complex key sequences. The guide also covers practical aspects such as replacing the CR123 battery, mounting the button temporarily on a tripod or permanently with screws, and resetting the dongle. Technical specifications are provided, covering mechanical dimensions, electronic interface details (battery life, power consumption), operating conditions, and conformity with EU directives (RED, EMC, RoHS)."
+description: "Wireless Dome Button"
 ---
+
 
 # Wireless Dome Button
 

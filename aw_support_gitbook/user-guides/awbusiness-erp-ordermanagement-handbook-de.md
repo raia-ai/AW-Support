@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_20"
-source: "D-HB-AWBusiness_20.pdf"
-tags: ["A+W Business", "Software Reference", "ERP", "Order Management", "Partial Delivery", "Macros", "Printing", "Invoicing", "Purchasing", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference guide for the A+W Business Verkauf (Sales) module. It provides detailed instructions and explanations for various functionalities, including managing partial deliveries, creating and using macros, handling number administrators, and processing print jobs."
-long_description: "This software reference manual provides in-depth technical documentation for the A+W Business Verkauf (Sales) software. It is intended for users who need to understand and operate the system's core features related to order and document management. The guide is structured into several key sections, each focusing on a specific functionality. It begins with 'Teillieferungen' (Partial Deliveries), explaining the prerequisites and procedures for creating and managing partial shipments for orders and purchases, either based on production completion reports or by pallet. The 'Makros' section details how to save, modify, search for, and copy complex product configurations as macros to streamline the order entry process. The 'Nummernverwalter' (Number Administrator) section covers the management of document number ranges for various document types like offers, orders, and invoices, including functions for copying, sorting, and modifying document properties. The 'Druck' (Printing) section provides a thorough overview of the Form and Label Printing dialog, explaining how to configure print jobs, select forms and labels, manage output destinations (printer, screen, server), and handle special print options like dimensioned sketches and tour/driver assignments. Further sections detail 'Übergabe Bestellungen' (Handover of Purchase Orders), including creating orders from sales orders and managing them in a purchasing pool; 'FiBu-Übergabe' (Financial Accounting Handover); 'Objektabrechnung' (Project Billing); and various 'Auswertungen' (Reports) such as price change reports and contribution margin analysis. The manual uses navigation paths, screenshots, and detailed descriptions of dialogs and fields to guide the user through the software's interface."
+description: "D-HB-AWBusiness_20"
 ---
+
 
 # Übersichten und Referenzen zu Positionen
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Capacity_Planning_4_4"
-source: "EN_AWBusiness_Capacity_Planning_4_4.pdf"
-tags: ["capacity planning", "production reports", "A+W Business Pro", "software reference", "scheduling", "machine utilization", "production management", "ERP", "manufacturing software", "control station"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the Capacity Planning module of A+W Business Pro, version 4.02. It details functionalities for managing production reports, scheduling orders, and utilizing the Control Station to oversee and adjust production capacity."
-long_description: "This software reference manual provides a comprehensive overview of the A+W Business Pro Capacity Planning module. It is intended for users responsible for production scheduling, reporting, and capacity management. The guide begins with instructions on handling Production Reports, including how to enter breakage reports and configure settings for manual completion reports. It then explains how to generate and customize Production Lists, detailing various print settings and data sorting options. A significant portion of the document is dedicated to the 'Production Level Orders' dialog, which allows users to check and report the completion status of individual machines, orders, and items down to the Bill of Materials (BOM) level. The manual provides a detailed walkthrough of the 'Control Station,' a central hub for checking and correcting the entire production schedule. It covers viewing machine utilization by area, machine, or order, and provides tools for manually rescheduling orders and items. This includes moving production times, changing machines, and managing capacity conflicts. The document also explains how to interpret graphical utilization displays, manage purchased elements, and configure various settings to tailor the view to specific user needs. The guide concludes with a detailed index for quick reference to specific topics and functionalities."
+description: "EN_AWBusiness_Capacity_Planning_4_4"
 ---
+
 
 # Software Reference: Production Reports
 

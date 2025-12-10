@@ -1,15 +1,7 @@
 ---
-title: "EN UM A+W iShape"
-category: "user_manuals"
-product: "A+W iShape"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W iShape"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W iShape   Manual     English Editorial                 Editorial             Revision overview of the documentation              08-2023      Update of chapter XTREAM              06-2022      App release in version 2.0              03-2021      Original version               Notes             This document is intended only for end users of A+W iShape.             The documentation and software described are licenses that must be used or             copied only in accordance with the conditi"
-source_file: "EN-UM-A+W iShape.pdf"
+description: "EN UM A+W iShape"
 ---
+
 
 
 # EN UM A+W iShape

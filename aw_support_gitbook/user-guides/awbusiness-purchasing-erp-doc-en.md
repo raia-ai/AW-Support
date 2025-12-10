@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_1-1"
-source: "EN_AWBusiness_Purchasing_3_30_1-1.pdf"
-tags: ["A+W Business", "Purchasing", "ERP", "Software Documentation", "Tutorial", "Master Data", "Purchase Orders", "Goods Receipt", "EDI", "openTRANS"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and reference guide for the A+W Business Purchasing module. It covers the fundamental concepts of the purchasing process, from master data setup and product definitions to creating and managing purchase orders, handling goods receipts, and processing invoices."
-long_description: "This document provides a comprehensive guide to the A+W Business Purchasing module, designed for end-users. It begins with an introduction, revision history, and editorial notes. The core of the document is a detailed tutorial that walks users through the entire purchasing workflow. Key topics include setting up master data for products and suppliers, understanding procurement types and purchase codes, and the practical steps of creating inquiries and purchase orders (both manually and through P.O. transfer). The guide also covers subsequent processes such as entering supplier order confirmations, checking delivery dates, managing goods receipts, and performing price and invoice control. A significant portion is dedicated to electronic document exchange, detailing both openTRANS and EDI formats for importing and exporting purchasing documents. The document is structured into a tutorial for hands-on learning and a software reference section for detailed descriptions of specific dialogs, menus, and functions within the A+W Business software."
+description: "EN_AWBusiness_Purchasing_3_30_1-1"
 ---
+
 
 # A+W Purchasing D
 

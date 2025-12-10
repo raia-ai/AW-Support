@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise CAD Service Configuration"
-source: "EN-CONFIG-AW_Enterprise_CAD_Service.pdf"
-tags: ["A+W Enterprise", "CAD Service", "Configuration", "Software for Glass", "SN files", "iTOE", "Database Configuration", "Error Handling", "Kermi logic", "Glasprofi logic"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration and installation instructions for the A+W Enterprise CAD Service, a Windows service designed for the automatic generation of SN files and machine drivers for the glass industry. It covers different functional variants, including Kermi logic, Glasprofi logic, and background iTOE synchronization."
-long_description: "This is a comprehensive internal technical manual for the A+W Enterprise CAD Service. The document details the service's functionality, which revolves around processing product data to generate SN files and machine driver files. It outlines three main operational variants: one based on AWE product set data (Kermi logic), a second using order item data (Glasprofi logic), and a third performing synchronization between AWE BOM and SN template files (background iTOE). The guide covers installation instructions, required database updates for ALCIB 2011, configuration of environment variables (e.g., `SNFILES_DIR`, `DATEI_REF_PFAD`), and necessary system settings. It provides in-depth descriptions of data transfer tables like `sntransfer` and `snexchange`, template file management, and logging procedures. A significant portion is dedicated to error handling, offering a table of error codes and troubleshooting steps for common issues such as database access errors, socket connection failures, and problems with SN instance registration."
+description: "A+W Enterprise CAD Service Configuration"
 ---
+
 
 # A+W Enterprise CAD Service
 *A+W - Software for Glass*

@@ -1,15 +1,7 @@
 ---
-title: "AW Sales Tool 2025"
-category: "rd_docs"
-product: "AW_Sales Tool_2025"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AW_Sales Tool_2025"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "SALES TOOL 2025   www.a-w.com General Information  Company information  Processes  Scalability  Product main menu                                                            Overview     THIS IS     WHO WE ARE     The global market leader for software     in the flat glass and fenestration industry      Since 1976, A+W’s innovative products have     been available and implemented worldwide      We offer modular ERP, optimization     and production control systems      A+W’s softwa"
-source_file: "AW_Sales Tool_2025.pdf"
+description: "AW Sales Tool 2025"
 ---
+
 
 
 # AW Sales Tool 2025

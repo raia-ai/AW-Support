@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Smart_Companion"
-source: "EN-INST-AW_Smart_Companion.pdf"
-tags: ["A+W", "Smart Companion", "Installation", "Zebra TC20", "Android", "iOS", "Software", "Glass Industry", "Barcode Scanner", "Troubleshooting"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An installation guide for the A+W Smart Companion application on various end-user devices, including Zebra TC20, iOS, and Android. It covers initial setup, backend connection, device-specific configurations, and troubleshooting steps."
-long_description: "This document provides comprehensive installation instructions for the A+W Smart Companion software, a tool designed for the glass industry. It details the entire process from establishing a connection to the backend server to installing the application on different types of devices. The guide offers specific instructions for the Zebra TC20 scanner, including WLAN setup and barcode type configuration. It also explains how to install the app on iOS devices via the App Store and on Android devices through the Google Play Store or via a direct USB connection. The manual includes step-by-step procedures with screenshots for clarity. Additionally, it covers updating a manually installed application, resetting the app to its default state, and troubleshooting common issues, such as accessing trace files on both Android and iPhone devices for support purposes."
+description: "EN-INST-AW_Smart_Companion"
 ---
+
 
 # A+W Installation Instructions: A+W Smart Companion
 

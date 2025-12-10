@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Pattern Viewer"
-category: "configuration"
-product: "A+W Pattern Viewer"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Pattern Viewer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Clarity Pattern Viewer Multistep Automated Production System                                                                english        A+W Software GmbH   EN-CONFIG-A+W Pattern Viewer.docx   1                  - INTERN - Change history           Date        Author            Notes                                       Version                     Todd Leiseman     Draft                                       1.0                     Todd Leiseman     Workflow Studi"
-source_file: "EN-CONFIG-A+W Pattern Viewer.pdf"
+description: "EN CONFIG A+W Pattern Viewer"
 ---
+
 
 
 # EN CONFIG A+W Pattern Viewer

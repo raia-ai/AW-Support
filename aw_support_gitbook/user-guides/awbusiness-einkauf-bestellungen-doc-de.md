@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Einkauf_3_3"
-source: "DE_AWBusiness_Einkauf_3_3.pdf"
-tags: ["A+W Business", "Einkauf", "Bestellungen", "Liefertermine", "Wareneingang", "Rechnungskontrolle", "Tutorial", "ERP-Software", "EDI", "openTRANS"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the purchasing module of the A+W Business software. It covers the complete procurement process, from checking and correcting delivery dates, handling customer notifications, creating inquiries, processing goods receipts for various item types (including crates), and performing price and invoice verification."
-long_description: "This comprehensive tutorial guides users through the procurement functionalities of the A+W Business ERP software. It is structured to train users on the entire purchasing workflow, starting with the management of delivery dates. It details how to check and adjust delivery dates received from suppliers, notify customers of any changes, and modify dates across different system dialogs like Document Management and Customer Notification. The guide then moves to creating and managing inquiries for purchase items, explaining how to generate an inquiry from a customer order and subsequently create a purchase order from a referenced inquiry. A significant portion is dedicated to the goods receipt process. It explains how to record complete or partial deliveries, handle items with and without stock IDs, process overages, and manage the receipt of crated goods with unique identifiers (IDs). The tutorial also covers how to check the completeness of deliveries using the incoming goods control dialog. The final major section focuses on price and invoice verification. It details the process of checking supplier invoices against purchase orders, handling price discrepancies, managing collective invoices, and the impact of these checks on document statuses and purchase price updates in related customer orders. The document concludes with a section on electronic document interchange (EDI and openTRANS), explaining how orders, order confirmations, and invoices can be exchanged electronically. Throughout the tutorial, step-by-step instructions are provided, supplemented with screenshots of the user interface to ensure clarity."
+description: "DE_AWBusiness_Einkauf_3_3"
 ---
+
 
 ---
 ## Prüfung und Korrektur von Lieferterminen

@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W CapaView"
-category: "installation"
-product: "A+W CapaView"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W CapaView"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W CapaView    Change history:      Date            Edited by              Remarks                                    Version      2015-02-19      AKU                    Original version                           1.0      2016-07-05      MME                    Corrections                                1.1      2016-07-21      DLA                    Reworking                                  1.2      2018-12-12      DLA                    Multi-sit"
-source_file: "EN-INST-A+W CapaView.pdf"
+description: "EN INST A+W CapaView"
 ---
+
 
 
 # EN INST A+W CapaView

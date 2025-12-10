@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_7"
-source: "DE_AWEnterprise_Verkauf_4_7.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Software", "Referenz", "Preise", "Konditionen", "Auftragsfreischaltung", "Lieferung", "Rechnungen", "Preiskalkulation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Enterprise Sales module, focusing on prices and conditions. It details functionalities related to sales and purchasing, including price scaling, surcharges, and factors. It also covers manual price settings, special pricing for laminated glass (VSG), and processing prices for various finishing steps."
-long_description: "This is a comprehensive software reference guide for the 'Prices and Conditions' section of the A+W Enterprise Sales module (version 4.00/02-2020). The document provides detailed explanations of various pricing mechanisms for both sales and purchasing. It covers topics such as graduated pricing (Staffelstufe), various surcharges (e.g., Teuerungszuschlag), and percentage-based price factors. The manual explains how to configure prices for different product types, including individual panes (€/sqm), laminated glass (VSG) with exchange/additional prices, and items with manual pricing. It also details the setup for processing prices, such as edge and corner treatments, and surface modifications. Furthermore, the document describes the functionality for production cost calculation, order release (Auftragsfreischaltung), and the creation and management of delivery notes and invoices, both automatically and manually. Technical information, including relevant database fields (DB-Felder) like `pokokon` and `pokoaust`, is provided for each function to assist with system configuration and troubleshooting."
+description: "DE_AWEnterprise_Verkauf_4_7"
 ---
+
 
 # Softwarereferenz: Preise und Konditionen
 

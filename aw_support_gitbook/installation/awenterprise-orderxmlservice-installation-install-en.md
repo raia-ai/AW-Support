@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_OrderXML_Service"
-source: "EN-INST-AW_Enterprise_OrderXML_Service.pdf"
-tags: ["A+W Enterprise", "OrderXML Service", "Installation", "Configuration", "Software", "Glass", "Windows", "Informix", "Setup"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation and configuration instructions for the A+W Enterprise 6 OrderXML Service. It covers system requirements, step-by-step installation procedures, and detailed configuration settings for database connections and service parameters."
-long_description: "This is a comprehensive installation manual for the A+W Enterprise 6 OrderXML Service, a critical component of the A+W software suite designed for the glass and window manufacturing industry. The document serves as a guide for system planners and administrators, detailing the entire deployment process. It begins by outlining prerequisites, including supported Windows Server versions (2008 R2, 2012 R2), required software components like the Informix Client SDK and .NET Framework 4.5.1, and network connectivity needs. The core of the manual provides a step-by-step procedure for a new installation, which is identical to an update process. It walks the user through using the A+W Setup Launcher, configuring database connections via setnet32.exe, and using the dedicated Config Tool to set up service parameters. These parameters include Service ID, polling intervals, XML encoding, and database-specific settings. The guide also provides details on configuring the service user account, understanding the directory structure, validating a successful installation, and uninstalling the service. It includes screenshots of key configuration dialogs to aid the user. Finally, it touches upon tips like AutoUpdate functionality and post-installation cleanup."
+description: "EN-INST-AW_Enterprise_OrderXML_Service"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 OrderXML Service
 

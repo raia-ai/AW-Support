@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise CAD Service"
-category: "configuration"
-product: "A+W Enterprise CAD Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise CAD Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise CAD Service                                     english                             - -INTERNAL- Change history              Date         Author                 Remarks                                  Version            2018-02-20 Anja Grünbacher          Document created in new layout           1.0            2021-07-23 SVH                      Background iTOE            2022-02-24 SVH                      Last update     Content  1.   General Information"
-source_file: "EN-CONFIG-A+W Enterprise CAD Service.pdf"
+description: "EN CONFIG A+W Enterprise CAD Service"
 ---
+
 
 
 # EN CONFIG A+W Enterprise CAD Service

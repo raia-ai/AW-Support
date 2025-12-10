@@ -1,15 +1,7 @@
 ---
-title: "EN AWEnterprise Stock 1.01"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWEnterprise_Stock_1.01"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Stock              E                        english             A+W Enterprise                                                                                                             Introduction                                             Introduction                                         This section of the documentation contains editorial notes.                                           Revision overview                                         Section"
-source_file: "EN_AWEnterprise_Stock_1.01.pdf"
+description: "EN AWEnterprise Stock 1.01"
 ---
+
 
 
 # EN AWEnterprise Stock 1.01

@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise - Internal Multi-Site Logic"
-source: "EN-FUNC-AW_Enterprise_Multisite.pdf"
-tags: ["A+W Enterprise", "Multi-Site Logic", "Software for Glass", "ERP", "Functional Description", "Call Center", "Site Management", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Enterprise Internal Multi-Site Logic module. It details how the software manages multiple operational sites within a single database, enabling centralized data management, order entry, and resource planning for glass manufacturing companies."
-long_description: "This document provides a detailed functional description for the A+W Enterprise Internal Multi-Site Logic module, designed for glass manufacturing companies operating across multiple locations. It outlines the system's capability to map several operations within one central database, which enhances integration and provides real-time status information without data replication. Key features include centralized master data maintenance, a central call center for order entry with automatic site assignment, and \"one face to the customer\" functionality, ensuring consistent products, pricing, and terms. The document covers system requirements, such as the need for uniform process flows, currency, and language across all sites. It also details specific functionalities like via plant logic for inter-site deliveries, dynamic site changes for unlocked orders, and site-specific user rights management. Limitations are also addressed, including constraints on key uniqueness, the maximum number of sites, and interface requirements. This guide is intended for customers and partners to understand the scope, benefits, and constraints of implementing the A+W multi-site solution."
+description: "A+W Enterprise - Internal Multi-Site Logic"
 ---
+
 
 # A+W Enterprise – Internal Multi-Site Logic
 

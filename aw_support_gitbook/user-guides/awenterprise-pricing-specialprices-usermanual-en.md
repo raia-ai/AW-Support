@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_10"
-source: "EN-UM-AWEnterprise_10.pdf"
-tags: ["A+W Enterprise", "software reference", "pricing", "special prices", "sales module", "order entry", "glazing prices", "muntin prices", "technical documentation", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference and tutorial for the A+W Enterprise system. It details the configuration of 'Special Prices' for various articles and processes, and provides a step-by-step guide for the 'Sales' module, covering order entry, quotations, and document management."
-long_description: "This document serves as a detailed technical manual for the A+W Enterprise software, focusing on two key areas: the 'Special Prices' configuration and the 'Sales' module tutorial. The first section, 'Special Prices', provides an exhaustive guide on setting up various pricing calculation bases, such as single price, scaled levels, quantity scales (per item and per unit), variants for dimensional pricing (e.g., for glass doors), and package sizes for low-value items. It includes in-depth field descriptions, technical database field information, and practical examples for establishing market-partner-specific conditions. This covers a wide range of article types including colored articles, muntins, and processing services. The manual also documents how to configure surcharges, discounts, and exchange prices for Insulated Glass (IG), Laminated Glass (LAMI), and patterned glass. The second half of the document is a tutorial for the 'Sales' module, designed to guide users in a sales department through their daily tasks. It explains general operations, keyboard shortcuts, and the process of creating, modifying, and managing commercial documents like quotations, orders, delivery notes, and invoices. The tutorial provides step-by-step instructions for the entire order lifecycle, from initial entry and item configuration (including BOM editing) to final processing and recalculation, making it an essential resource for both system administrators and end-users."
+description: "EN-UM-AWEnterprise_10"
 ---
+
 
 # Special Prices
 

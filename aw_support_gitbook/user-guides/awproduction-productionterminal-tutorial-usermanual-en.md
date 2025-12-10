@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_15"
-source: "EN_UM_AWProduction_15.pdf"
-tags: ["A+W Production", "Production Terminal", "Software Manual", "Tutorial", "Software Reference", "Glass Manufacturing", "Window Manufacturing", "Production Management", "User Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Production Terminals software, a system designed for managing production in the glass, windows, and doors industry. It includes a tutorial, a detailed software reference, quick-reference help cards, and a full index."
-long_description: "The A+W Production Production Terminals manual provides detailed instructions and reference material for operators and administrators of the software. The manual is structured into four main parts. The first part is a 'Tutorial' that guides users through the core functionalities of the Production Terminal Edit module, covering topics like data grouping, sorting, booking items, and managing production sequences. The second part is a 'Software Reference' section, which offers an in-depth explanation of all modules, including Production Terminal IG, Manual Cutting, Georgian Bars, Order, Processing, TG, and LG. It details every menu item, dialog box, button, and function key, providing a complete operational guide. The third part consists of 'Help Cards,' which are quick-reference guides for common tasks within the Terminal IG-IN module, such as producing a lite, changing machine status, and handling damaged items. The final part is a detailed 'Index' for quick look-up of specific terms and features. This manual is essential for users to effectively operate the production terminals, manage workflows, handle exceptions like rejects and remakes, and configure the system to meet specific production needs."
+description: "EN_UM_AWProduction_15"
 ---
+
 
 # A+W Production Production Terminals
 

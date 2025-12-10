@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Reject Handling"
-category: "functional_descriptions"
-product: "A+W Reject Handling"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Reject Handling"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W – Business Reject Handling for Purchase Orders                                      english 1. Content 1.   Content                                                          3 2.   Notes on this document                                           4      2.1. Trademarks                                                  4      2.2. Copyrights                                                  4      2.3. Exclusion of liability                                      4"
-source_file: "EN-FUNC-A+W Reject Handling.pdf"
+description: "EN FUNC A+W Reject Handling"
 ---
+
 
 
 # EN FUNC A+W Reject Handling

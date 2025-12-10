@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-13"
-source: "EN-CONFIG-AW_Business-13.pdf"
-tags: ["Database Migration", "Capacity Planning", "ALFAK", "SQLBase", "SQL Server", "ALCIM", "Barcoding", "Production Data Collection", "A+W Business"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide covering database migration procedures from SQLBase to SQL Server for ALFAK software, detailed capacity planning configurations, and production data collection using barcoding. It includes steps for creating database patterns, data migration, setting up users, and configuring capacity-related master data such as work types, machines, and calendars."
-long_description: "This document provides a comprehensive configuration manual for the A+W Business software, focusing on three key areas: database migration, capacity planning, and production data collection (barcoding). The database migration section details the process of porting data from SQLBase to SQL Server, covering steps like creating patterns, data transfer, setting up foreign keys, and user management. It emphasizes the importance of Unicode conversion and provides tips for troubleshooting. The capacity planning chapter explains how to configure master data to calculate production dates and costs. This includes defining work types, allocations, machine types, default times, calendars, and scheduling rules. It also covers updating older capacity planning systems and configuring ALCIM for integration. The final section on production data collection describes the setup and use of barcode scanners for online shop floor data collection. It outlines the configuration of the scanner, master data setup for registration points, and the functionality of various barcoding dialogs for tasks like login, goods receipt, completion reports, and stock management."
+description: "EN-CONFIG-AW_Business-13"
 ---
+
 
 This option can be enabled by ticking the checkbox Convert Date, and will be executed when the database pattern is created. Data type date is important for ALFAK capacity planning, no matter whether ALFAK Version 2011 or 2012 is used.
 

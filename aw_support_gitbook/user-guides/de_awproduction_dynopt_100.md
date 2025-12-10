@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction DynOpt 1.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_DynOpt_1.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W DynOpt   N                  deutsch                                                                                                  Vorspann                                   Vorspann                               In diesem Teil der Dokumentation finden Sie editorische Notizen.                                 Revisionsübersicht                               Version / Datum          Beschreibung                                1.00 / 03-2016           Ersterstellung"
-source_file: "DE_AWProduction_DynOpt_1.00.pdf"
+description: "DE AWProduction DynOpt 1.00"
 ---
+
 
 
 # DE AWProduction DynOpt 1.00

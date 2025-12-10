@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Production-Detailed_Scheduling"
-source: "EN-FUNC-AW_Production-Detailed_Scheduling.pdf"
-tags: ["A+W Production", "Detailed Scheduling", "Functional Description", "Glass Production", "Software", "ALCIM", "Optimization", "Stack Optimizer", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Production - Detailed Scheduling module. This document outlines the software's capabilities for planning and organizing the production of flat glass, including grouping, sorting, rack organization, and rack assignment. It details the system requirements, functionalities, and limitations for optimizing the production flow from cutting to packaging."
-long_description: "This document provides a detailed functional description for the 'A+W Production - Detailed Scheduling' module, a software solution by A+W designed for the flat glass industry. The module, available starting with ALCIM 2000, aims to optimize the production organization for cutting and processing flat glass. It controls grouping, sorting, rack organization, and rack assignment to streamline the workflow. The document begins with standard legal notices, including trademarks, copyrights, and liability exclusions. The core of the document, the 'Functional Description,' details the module's data, a general description of its purpose in managing lites from cutting tables to storage racks, and the specific system requirements, such as needing A+W Production (ALCIM) and the A+W Basic Flow Planner. It provides a comprehensive list of functions, including formula creation for filters and sorting keys, rack management (logical and physical), various stacking modes, and multiple optimization modes (like XOPTS and XOPT) to balance yield and production sequence. It also describes limitations, such as the inability to define new stacking/optimization modes and constraints related to the A+W Stack Optimizer add-on. The document concludes with important notes on implementation, emphasizing the need for expert A+W consultation for setup, and provides contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Production-Detailed_Scheduling"
 ---
+
 
 # A+W Functional Description: A+W Production - Detailed Scheduling
 

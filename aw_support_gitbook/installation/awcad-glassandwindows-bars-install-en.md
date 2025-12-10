@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_CAD_Designer_Bars"
-source: "EN-INST-AW_CAD_Designer_Bars.pdf"
-tags: ["A+W CAD Designer", "Installation Guide", "Software", "Glass and Windows", "Bars", "Technical Manual", "Setup", "Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation instructions for the A+W CAD Designer (Bars) software, a component of the Software for Glass and Windows suite. It covers system prerequisites, step-by-step setup procedures, post-installation configuration, and uninstallation."
-long_description: "This is a comprehensive technical manual outlining the installation process for A+W CAD Designer (Bars). The guide begins by detailing system prerequisites, including hardware, network, software (Windows 7/Server 2008 R2 minimum, .NET Framework 4.5), and database requirements. The core of the document is a step-by-step walkthrough of the installation using the A+W Setup Launcher, complete with descriptions of each dialog box, from creating a new diskset to selecting the specific components for installation. It also provides guidance on handling optional components like 'A+W Infrastructure CollectorService' for standalone installations. After the installation is complete, the manual explains the default directory structure, how to use the A+W CAD Designer (Bars) ConfigTool for setting up protocolling, and confirms that no registry entries are required. Finally, it covers alternative installations, patches, and the procedure for uninstalling the software through the system management panel."
+description: "EN-INST-AW_CAD_Designer_Bars"
 ---
+
 
 # Installation Instructions: A+W CAD Designer (Bars)
 

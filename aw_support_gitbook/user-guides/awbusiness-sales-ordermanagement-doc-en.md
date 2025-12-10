@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_6-4"
-source: "EN_AWBusiness_Sales_4_6-4.pdf"
-tags: ["A+W Business", "Sales", "Software Reference", "Order Management", "Product Search", "Down Payments", "EDI", "Item Management", "Pricing", "BOM"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Sales, focusing on overviews and references for header data and item management within the system. It details functionalities such as handling down payments, product searching, managing complaints, and setting prices."
-long_description: "An in-depth technical reference and user guide for the A+W Business Sales software. This manual provides detailed instructions and explanations for various modules and functions. The first section covers 'Header Data,' explaining fields related to employees, payments (direction, procedure, reference), totals (gross amount, down payment, remainder), and configurations for data backup and EDI (Electronic Data Interchange) for down payments. The main part of the document, 'Overviews and References concerning Items,' serves as a comprehensive guide to item management in sales documents like quotations and orders. It describes the 'Product Search' functionality with its various tabs for searching by product, technical parameters, and classifiers. It also covers other essential features such as 'Quick Inquiry' for customer credit checks, 'Parameter Replacement' for descriptive text variables, 'Product Comparison' for imported DXF/SN files, and processes for handling 'Complaints,' 'Cutback' dimensions for grills, and 'Variant Selection' for colors. Furthermore, the guide explains how to manage 'Fixed Price Setting,' 'Global Changes' for multiple items, 'Production BOM Breakdown,' and viewing customer-specific 'Terms' and 'Prices/Term Information.'"
+description: "EN_AWBusiness_Sales_4_6-4"
 ---
+
 
 ---
 ## Overviews and References concerning Header Data

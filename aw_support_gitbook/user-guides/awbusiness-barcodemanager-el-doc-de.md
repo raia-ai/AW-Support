@@ -1,12 +1,7 @@
 ---
-title: "DE-AWBusiness-BarcodeManagerEL"
-source: "DE-AWBusiness-BarcodeManagerEL.pdf"
-tags: ["A+W Business", "Barcode Manager", "EL", "User Manual", "German", "Datalogic Scorpio", "Betriebsdatenerfassung", "BDE", "Glass Manufacturing", "Window Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "User manual for the A+W Barcode Manager (EL) module within the A+W Business ERP system. This guide, in German, details the setup and use of Datalogic Scorpio scanners for online production data collection (BDE), covering functions like goods receipt, production feedback, stock movements, and rack management."
-long_description: "This document is the official user manual for the A+W Barcode Manager (EL), a component of the A+W Business software suite designed for the glass, window, and door manufacturing industries. The manual provides a comprehensive guide to setting up and operating the online production data collection (Betriebsdatenerfassung - BDE) system using Windows CE-based Datalogic Scorpio barcode scanners. It outlines the necessary initial configuration of the scanners, including setting postambles and check digits, and the required setup within A+W Business, such as defining data entry points, managing employee barcodes, and configuring capacity planning. The core of the manual details the various functions available on the scanner's user interface, including employee login, goods receipt, production completion and breakage reporting, comprehensive stock movements (withdrawals, receipts, transfers), and management of cases (Kisten) and racks (Gestelle). It also specifies the exact barcode formats (Code39) and prefixes used for different operations. The guide is intended for end-users and system administrators responsible for implementing and maintaining the barcode scanning workflow in a production environment."
+description: "DE-AWBusiness-BarcodeManagerEL"
 ---
+
 
 # A+W Barcode Manager (EL)
 

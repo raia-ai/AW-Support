@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-2"
-source: "EN-CONFIG-AW_Business-2.pdf"
-tags: ["A+W Business", "Software Configuration", "SQL", "ERP", "BMECat", "Article Import", "Product Classifiers", "Invoice Management", "Delivery Management", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for the A+W Business software, covering procedures, article imports, product management, and document handling. It includes SQL scripts, UI settings, and process flows for various modules."
-long_description: "This technical manual is an internal configuration guide for A+W Business software. It outlines a series of procedures and settings to customize and manage the system's functionality. The document begins with a detailed breakdown of a stored procedure (PROC_TEMP) used for updating product data related to laminated and toughened glass. It then delves into article data management, explaining how to import articles using the BMECat standard from various manufacturers like Dorma, Pauli, and SWS, and how to configure settings for product prefixes, pricing, and master data. A significant portion is dedicated to the implementation and use of freely-definable product classifiers, including how to define them, enter values, and use them for searching and reporting with examples in SQL and Crystal Reports. The guide also covers advanced document management features such as active edgework entry support, assigning fittings to processings for items like studio doors, and checking spacers using the LeCheck system. It further details different modes of invoice and project management, generation of partial deliveries, and methods for calculating delivery dates using A+W Capacity and A+W Business Capacity Planner. Finally, it addresses specific functionalities like TPS/LSG invoicing, user-defined fields in document headers, status management per user group, and the turning of shapes in document entry."
+description: "EN-CONFIG-AW_Business-2"
 ---
+
 
 ---
 ## STORE PROC_TEMP

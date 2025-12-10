@@ -1,15 +1,7 @@
 ---
-title: "EN AWEnterprise MasterData 3.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWEnterprise_MasterData_3.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Master Data              B                              english                   A+W Enterprise                                                                                                              Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Overview of revisions                                        Part"
-source_file: "EN_AWEnterprise_MasterData_3.00.pdf"
+description: "EN AWEnterprise MasterData 3.00"
 ---
+
 
 
 # EN AWEnterprise MasterData 3.00

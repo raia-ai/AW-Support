@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W DXF Import"
-category: "configuration"
-product: "A+W DXF"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W DXF", "Import"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   DXF files in A+W Programs                                       english Change history   Date             Author                    Comments                                 Version 2021-04-19 EB                              Original version                         1.0 2021-05-10 BH                              Correction 2023-02-02 SVH                             [AW-82801] – Rotated shapes     Content  1.         General"
-source_file: "EN-CONFIG-A+W DXF-Import.pdf"
+description: "EN CONFIG A+W DXF Import"
 ---
+
 
 
 # EN CONFIG A+W DXF Import

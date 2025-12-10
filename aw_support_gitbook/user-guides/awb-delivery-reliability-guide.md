@@ -1,15 +1,7 @@
 ---
-title: "AWB Delivery Reliability Guide"
-category: "user_manuals"
-product: "AWB Delivery Reliability Guide"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWB Delivery Reliability Guide"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "User guide for working with A+W Business Delivery Reliability  Contents  The backend (behind the scenes) ............................................................................................................. 1      Displaying the dates on the order header .............................................................................................. 1   Creating the document ...................................................................................................................."
-source_file: "AWB Delivery Reliability Guide.pdf"
+description: "AWB Delivery Reliability Guide"
 ---
+
 
 
 # AWB Delivery Reliability Guide

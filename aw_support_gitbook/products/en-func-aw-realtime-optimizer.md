@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Realtime Optimizer"
-category: "functional_descriptions"
-product: "A+W Realtime Optimizer"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Realtime Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Realtime Optimizer                                   english 1. Content Notes on this Document This documentation and the software described in it are only licensed and may only be used and copied pursuant to this license. The contents of the documentation are for information purposes only and are subject to changes without prior notice. The text and illustrations were compiled with the utmost care. In spite of this, we cannot rule out all mistakes. A+W Softwa"
-source_file: "EN-FUNC-A+W Realtime Optimizer.pdf"
+description: "EN FUNC A+W Realtime Optimizer"
 ---
+
 
 
 # EN FUNC A+W Realtime Optimizer

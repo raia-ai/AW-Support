@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_7"
-source: "D-AWProduction-HB_7.pdf"
-tags: ["A+W Production", "Kapazitätsplanung", "Formeleditor", "Software-Referenz", "Produktionsmonitor", "Einlastung", "Schichtplanung", "Maschinensteuerung", "Umlastung", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed software reference manual for A+W Production, focusing on capacity planning (Kapazitätsplanung) and the formula editor (Formeleditor). It provides step-by-step instructions and descriptions for various modules, including production monitoring, filtering, shift management, and machine configuration."
-long_description: "This comprehensive technical document serves as a software reference for the A+W Production system, specifically covering the modules for Capacity Planning (Kapazitätsplanung) and the Formula Editor (Formeleditor). The manual is structured to guide users through the software's functionalities, from basic operations to advanced configurations. It details processes such as \"Einlastung\" (loading/scheduling), managing custom filters in the production monitor, creating and adjusting machine shifts, and configuring machine properties like bottleneck status and display types. The guide explains how to handle work plans, view details and overviews, and perform \"Umlastung\" (rescheduling) of production tasks. It also covers the management of campaigns and reservations, allowing users to allocate machine capacity for specific jobs or customers. A significant portion is dedicated to the setup of master data for time calculations, including standard times (Vorgabezeiten), transition times (Übergangszeiten), and shift schedules. The document concludes with a deep dive into the A+W Formula Editor, explaining its syntax, elements, and application in creating complex rules and conditions for production and data handling. It is intended for system administrators and advanced users responsible for configuring and maintaining the A+W Production environment."
+description: "D-AWProduction-HB_7"
 ---
+
 
 # A+W Production Kapazitätsplanung - Softwarereferenz
 

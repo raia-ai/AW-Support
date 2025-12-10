@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Kapazitaetsplanung_4_6"
-source: "DE_AWProduction_Kapazitaetsplanung_4_6.pdf"
-tags: ["Index", "Kapazitätsplanung", "A+W Production", "Produktionsmonitor", "Arbeitsplan", "Maschinen", "Vorgabezeitformel", "German", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive alphabetical index for the A+W Production Kapazitätsplanung (Capacity Planning) technical manual. It provides quick reference to key terms, features, and concepts with their corresponding page numbers."
-long_description: "This document serves as the detailed index for the 'A+W Production Kapazitätsplanung' software manual. It is structured alphabetically, allowing users to efficiently locate specific information within the main documentation. The index covers a wide array of topics crucial for production and capacity management, including work plans (Arbeitsplan), machine management (Maschinen), order processing (Auftrag), scheduling (Einlastung), and system configuration. Key features like the Production Monitor (Produktionsmonitor), processing time formulas (Vorgabezeitformel), and shift management (Arbeitsschichten) are extensively referenced. This index is an essential navigational tool for system administrators, production planners, and operators to find detailed instructions and explanations for various functions, such as creating work-free days, managing alternative machines, handling errors in scheduling, and configuring system parameters."
+description: "DE_AWProduction_Kapazitaetsplanung_4_6"
 ---
+
 
 # Index
 

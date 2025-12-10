@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_2-2"
-source: "EN_AWBusiness_Production_2-2.pdf"
-tags: ["A+W Business Production", "Production Orders", "Freight Costs", "Issue of Boxes", "Stock Management", "Capacity Overview", "Tutorial", "ERP", "Manufacturing Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A training tutorial for the A+W Business Production software, focusing on additional features. The document provides exercises and detailed instructions on managing production orders, calculating freight costs, and handling the issue of boxes for shipping."
-long_description: "This document serves as a detailed training module for the A+W Business Production software, specifically covering advanced functions within the Production module. It begins with an exercise guiding users on how to create an overview of scheduled production, applying filters for time period and product groups. The core of the manual is divided into three main sections under 'Additional Features': 'Production Orders,' 'Freight Costs,' and 'Issue of Boxes.' The 'Production Orders' section explains the process of replenishing stock through manual or automatic orders, detailing how to enter production data, report order completion, and book stock additions. The 'Freight Costs' section covers the calculation, evaluation, and distribution of imputed and forwarding freight costs. This helps users determine the profitability of delivery routes and manage costs associated with third-party forwarders. The 'Issue of Boxes' section details the workflow for allocating and withdrawing boxes from inventory for shipping, including the use of dummy boxes for reservation and the process of updating stock levels upon issuing real, ID-tagged boxes. Each section outlines objectives, benefits, system prerequisites, and provides step-by-step instructions accompanied by UI screenshot descriptions."
+description: "EN_AWBusiness_Production_2-2"
 ---
+
 
 # Overviews Tutorial
 

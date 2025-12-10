@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Inventory_Management_6_1-2"
-source: "EN_AWBusiness_Inventory_Management_6_1-2.pdf"
-tags: ["Inventory Management", "A+W Business", "Master Data", "Stock Control", "Product Definition", "Purchase Price", "ERP", "Tutorial", "Software Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial from the A+W Business Inventory Management guide, focusing on master data setup. It covers configuring company data, stock control modes, product definitions, stock sizes, and pricing rules, including average purchase price calculations."
-long_description: "This document is a detailed tutorial for the A+W Business Inventory Management software, version 6.1. It guides users through the essential setup of Master Data required for effective inventory control. The tutorial is divided into several modules, starting with company-wide settings for reservations and stock previews. It then delves into status allocations for stock additions and dispatches. A significant portion is dedicated to Product Definition, explaining the distinction between products, stock articles, and stock sizes, and how they interact for pricing and consumption. The guide details various procurement types and stock booking methods (size-related, not size-related, combined). It provides step-by-step instructions, complete with screenshots, for configuring product attributes, pricing parameters, and Bill of Materials (BOM) components. The final sections focus on defining stock sizes for differentiated pricing and calculating purchase prices, including the logic for average purchase price (PP) determination. The document is intended for system administrators or key users responsible for setting up and maintaining the inventory management module."
+description: "EN_AWBusiness_Inventory_Management_6_1-2"
 ---
+
 
 # Master Data Tutorial
 

@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_ProductionManager_2.21"
-source: "DE_AWBusiness_ProductionManager_2.21.pdf"
-tags: ["A+W Business Pro", "Production Manager", "Software Manual", "Glass Manufacturing", "Window Production", "ERP", "MES", "Tutorial", "Software Reference", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive German-language user manual for the A+W Business Pro Production Manager software, version 2.21. It serves as a guide for end-users in the glass, window, and door manufacturing industries. The manual is divided into a tutorial, master data management, and a detailed software reference section, covering both standard and expert modes of operation."
-long_description: "This is the official user manual for the A+W Business Pro Production Manager software, version 2.21, as of January 2017. The document is intended for end-users and provides a complete guide to managing production planning and execution within the A+W software ecosystem for glass, window, and door manufacturers. The manual begins with a preface (Vorspann) containing a revision history, copyright information, and contact details for A+W Software GmbH. The core of the document is split into two main parts: a Tutorial and a Software Reference. The Tutorial section introduces the fundamental concepts of the Production Manager, explains the user interface, and provides step-by-step guidance on using both the simplified 'Standardmodus' (Wizard) and the detailed 'Expertenmodus'. It covers key processes such as creating production runs (Laufbildung), fine-tuning, optimization, managing breakages, and generating outputs like reports and cutting codes. The Stammdaten (Master Data) section explains how to configure essential data such as storage locations (Abstellplätze), criteria, and sorting keys, which are foundational for the production process. The Softwarereferenz section offers an in-depth reference for every dialog, field, and function within the software, providing detailed explanations for both standard and expert modes, including order selection, run management, optimization, and output settings. The manual concludes with an index for quick reference."
+description: "DE_AWBusiness_ProductionManager_2.21"
 ---
+
 
 # A+W Produktionsmanager
 

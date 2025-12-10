@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W SLT Network Driver"
-category: "installation"
-product: "A+W SLT Network Driver"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W SLT Network Driver"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W SLT Network Driver    Change history:     Date           Edited by               Remarks                                     Version     13.11.11       MP                      Original version                            0.9     16.04.25       MP                      Update                                      1.0          The installation instructions will assist the planner with the installation and      configuration of the software named. Ple"
-source_file: "EN-INST-A+W SLT Network Driver.pdf"
+description: "EN INST A+W SLT Network Driver"
 ---
+
 
 
 # EN INST A+W SLT Network Driver

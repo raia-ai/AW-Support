@@ -1,15 +1,7 @@
 ---
-title: "Gryphon 4500 Series   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Gryphon 4500 Series ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "GRYPHON™ 4500 SERIES Premium handheld scanners for corded or cordless value added applications using 2D barcodes      IMAGING TECHNOLOGY                                                                         The Gryphon 4500 series represents the premium range of handheld                                                                         scanners from Datalogic for value added applications. Designed with                                                                         people in mind"
-source_file: "Gryphon 4500 Series - English.pdf"
+description: "Gryphon 4500 Series   English"
 ---
+
 
 
 # Gryphon 4500 Series   English

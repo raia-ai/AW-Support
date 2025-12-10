@@ -1,12 +1,7 @@
 ---
-title: "A+W Multisite PO Tracking"
-source: "EN-FUNC-AW_Multisite_PO_Tracking.pdf"
-tags: ["A+W", "Multisite", "PO Tracking", "ERP", "Glass Manufacturing", "Software", "Functional Description", "Label ID", "Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Multisite PO Tracking module (220089) for A+W Production, starting with version v6. This document explains how the module enables location-spanning tracking of ordered glass between different production sites by ensuring unique barcode label IDs. It details the requirements, workflow, and limitations of this functionality, which is designed to work with A+W Enterprise and A+W Business."
-long_description: "This document provides a detailed functional description of the 'A+W Multisite PO Tracking' module. The module is designed for glass manufacturing companies operating multiple production sites (multisite). Its core function is to enable seamless tracking of purchase orders (POs) and individual glass components across different locations. This is achieved by synchronizing and managing barcode label IDs, ensuring that a product ordered at one site and produced at another retains the same unique identifier throughout the entire process. The document outlines the technical prerequisites, specifically the necessity of managing separate and non-overlapping label ID ranges for each site to prevent conflicts. It presents several scenarios for managing these ID ranges, from simple separation to complex overlaps. The guide also details the step-by-step workflow, from a customer order at 'Location A' to component production at 'Location B' and final delivery. It includes a process flow diagram and discusses current functionalities and limitations, such as supported transfer types and system requirements (e.g., all involved plants must use the same A+W ERP system)."
+description: "A+W Multisite PO Tracking"
 ---
+
 
 # A+W Functional Description: A+W Multisite PO Tracking
 

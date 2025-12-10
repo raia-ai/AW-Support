@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction PMO 2.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_PMO_2.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Packing Optimization          I                                 english                     A+W Production                                                                                                              Introduction                                             Introduction                                         In this part of the documentation you can find editorial notices.                                           Revision Overview                                         Packin"
-source_file: "EN_AWProduction_PMO_2.00.pdf"
+description: "EN AWProduction PMO 2.00"
 ---
+
 
 
 # EN AWProduction PMO 2.00

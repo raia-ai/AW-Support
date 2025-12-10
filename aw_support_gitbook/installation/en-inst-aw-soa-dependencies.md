@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W SOA Dependencies"
-category: "installation"
-product: "A+W SOA Dependencies"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W SOA Dependencies"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "AWSOA Dependencies (as of 10/2023)                                      english 1. Content 1.   Content                                                           3 2.   Module Dependencies                                               4 3.   Services Short Description                                        9 4.   Access to databases and tables                                   11      4.1. Infrastructure                                              11      4.2. Facility"
-source_file: "EN-INST-A+W SOA Dependencies.pdf"
+description: "EN INST A+W SOA Dependencies"
 ---
+
 
 
 # EN INST A+W SOA Dependencies

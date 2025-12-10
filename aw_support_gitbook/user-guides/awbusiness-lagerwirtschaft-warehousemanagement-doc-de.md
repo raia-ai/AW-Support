@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Lagerwirtschaft_6_1"
-source: "DE_AWBusiness_Lagerwirtschaft_6_1.pdf"
-tags: ["A+W Business", "Lagerwirtschaft", "Warehouse Management", "Software Documentation", "Tutorial", "Inventory Management", "Stammdaten", "ERP", "Glass Industry", "Windows and Doors"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the 'Lagerwirtschaft' (Warehouse Management) module of the A+W Business software. It covers the fundamental concepts of warehouse administration, including master data setup, inventory management, order processing for stock items, and performing physical inventory counts. The guide is intended for end-users who manage stock within the A+W Business environment."
-long_description: "This is a comprehensive German-language tutorial for the A+W Business 'Lagerwirtschaft' (Warehouse Management) module, version 6.1. The document is designed to guide end-users through the core functionalities of managing inventory within the A+W software, which is specialized for the glass, windows, and doors industry. It begins with an introduction, revision history, and editorial notes. The main tutorial section is structured into several thematic blocks: 'Grundgedanken zum Lager' (Basic Concepts of the Warehouse), 'Stammdaten' (Master Data), 'Lagerwirtschaft' (Warehouse Management), 'Lagerartikel in Dokumenten' (Stock Items in Documents), and 'Inventur' (Inventory/Stock-taking). The 'Stammdaten' section details how to define warehouses, storage locations, categories, and product-specific settings. It explains the differences between various inventory management methods (e.g., by area, by piece, combined). The 'Lagerwirtschaft' section covers practical operations like stock movements (receipts, issues), inquiries, and automated ordering. The tutorial also explains how stock items are handled in sales and production documents, including reservations and automatic booking. Finally, it provides a step-by-step guide for conducting both periodic and initial physical inventories. The document includes a software reference section and a detailed table of contents."
+description: "DE_AWBusiness_Lagerwirtschaft_6_1"
 ---
+
 
 # A+W Lagerwirtschaft
 **A+W Business**

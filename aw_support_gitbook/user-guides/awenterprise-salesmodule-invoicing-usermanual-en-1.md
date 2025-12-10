@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_15"
-source: "EN-UM-AWEnterprise_15.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Sales Module", "Invoicing", "Order Management", "Credit Notes", "ERP", "Document Management", "Technical Manual", "Help Cards"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the A+W Enterprise Sales module. It details functionalities for managing invoices, credit notes, forms, and order statuses, including manual and automatic processing, document booking, and printing. The guide also includes a 'Help Cards' section with step-by-step workflows for common tasks like creating quotations and orders."
-long_description: "This document is a comprehensive software reference manual for the A+W Enterprise Sales module. It provides detailed descriptions of various features and dialogs, aimed at users and system administrators. The manual is divided into several key sections. The 'Invoices' section covers the creation, booking, and management of manual, partial, and final invoices, as well as cash transactions. The 'Credit Notes' section explains how to enter and book credit notes. The 'Forms' section details procedures for direct printing, form printing, and sending documents via e-mail. The 'Order Status' section offers an in-depth look at tracking order information through various stages, including purchasing, production, dispatch, and barcoding. Each feature description includes technical information such as database fields and table names. Additionally, the document contains a 'Help Cards' section, which serves as a quick-start guide, providing step-by-step, workflow-based instructions for common sales processes like creating quotations, entering orders with references, changing shipping details, and managing order items. This practical guide is designed to help users efficiently navigate and utilize the A+W Enterprise Sales software."
+description: "EN-UM-AWEnterprise_15"
 ---
+
 
 # Software Reference
 

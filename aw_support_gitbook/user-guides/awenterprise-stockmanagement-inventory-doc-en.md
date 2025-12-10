@@ -1,12 +1,7 @@
 ---
-title: "EN_AWEnterprise_Stock_1.01"
-source: "EN_AWEnterprise_Stock_1.01.pdf"
-tags: ["A+W Enterprise", "Stock Management", "Software Manual", "Inventory", "Warehouse Management", "Glass Industry", "Window Manufacturing", "ERP", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the software reference manual for the A+W Enterprise Stock module, providing detailed instructions on stock management, master data administration, inventory processes, evaluations, and reporting functionalities."
-long_description: "The A+W Enterprise Stock manual is a comprehensive guide for end-users of the A+W Enterprise software, specifically focusing on the Stock module. This document outlines the full range of functions required for effective stock management in the glass, windows, and doors manufacturing industry. It covers core processes such as booking stock receipts (warehouse in) and issues (warehouse out) for various stock types including standard, box, slot, stack, and rack stocks. The manual details the procedures for master data management, such as setting up stock rooms and defining article-specific stock limits (minimum, alarm, maximum). It provides step-by-step instructions for conducting inventories, comparing counted stocks with system-booked numbers, and making necessary corrections. Furthermore, the guide explains the evaluation functions for assessing the value of circulating assets and the extensive information system for monitoring stock data through various filters, hit lists, and detailed views. It also touches upon system administration tasks like correcting prices and managing logs, and how to print labels and lists. This reference is essential for users to efficiently manage warehouse operations, plan for incoming and outgoing articles, and maintain accurate stock records."
+description: "EN_AWEnterprise_Stock_1.01"
 ---
+
 
 # A+W Stock E
 

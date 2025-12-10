@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_Internal_EDI"
-source: "EN-FUNC-AW_Enterprise_Internal_EDI.pdf"
-tags: ["A+W Enterprise", "Internal Document Transfer", "EDI", "Software Functional Description", "Glass Industry", "ERP", "Order Processing", "PO Transfer"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Enterprise 'Internal Document Transfer' module. This document details the features for automatically transferring Purchase Orders (POs) and sales orders between associated companies using A+W software, aiming to streamline purchasing, reduce manual errors, and improve order status visibility."
-long_description: "This document provides a comprehensive functional description for the 'Internal Document Transfer' module within the A+W Enterprise software suite, designed specifically for the glass industry. It outlines the processes for automating the transfer of documents, such as sales orders and purchase orders (POs), between affiliated retail and production locations that both utilize the A+W Enterprise system. The module aims to simplify and accelerate the purchasing process, minimize manual data entry errors, and provide real-time status updates across all participating companies. The description covers two main processes: 'order linking' and 'PO transfer.' It details specific functionalities including automatic transfers, change services, dependent order numbering, reference handling, status reporting, and the transfer of pricing and attached documents. The document also specifies system requirements, such as harmonized master data and FTP connectivity, and includes a detailed feature comparison table. Legal notices regarding trademarks, copyrights, and liability are also included."
+description: "EN-FUNC-AW_Enterprise_Internal_EDI"
 ---
+
 
 # A+W Functional Description: A+W Enterprise - Internal document transfer
 

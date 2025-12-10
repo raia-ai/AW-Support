@@ -1,16 +1,7 @@
 ---
-title: "Support Tickets Export - Ticket List Export"
-category: "support_tickets"
-product: "A+W Software"
-doc_type: "Support Tickets"
-language: "EN"
-tags: ["support", "tickets", "customer-issues"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Export of support tickets from A+W support system"
-source_file: "Ticket List Export.xlsx"
-total_tickets: 999
+description: "Support Tickets Export - Ticket List Export"
 ---
+
 
 # Support Tickets Export
 

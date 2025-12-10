@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW Production Pattern Viewer"
-source: "EN-INST-AW_Production_Pattern_Viewer.pdf"
-tags: ["A+W", "Production Pattern Viewer", "Installation", "Configuration", "AWSOA", "Realtime Optimizer", "Software Guide", "Glass", "Windows"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation and configuration instructions for the A+W Production Pattern Viewer, a software component used in conjunction with the A+W Realtime Optimizer and A+W Planning Optimisation Service for displaying cutting plans."
-long_description: "This is an official installation guide for the A+W Production Pattern Viewer, a specialized software for the glass and windows industry. The document details the entire process from pre-installation checks to final configuration. It outlines system requirements, including the need for a run-capable A+W Realtime Optimizer and an AWSOA environment. The instructions cover the installation procedure, registration of the application within the AWSOA service locator, and subsequent testing using the provided test tool. The guide also explains how to configure the viewer to connect with the A+W Realtime Optimizer and how to set up custom breakage reasons within the software's settings. The instructions are intended for planners and IT personnel responsible for deploying and maintaining A+W software solutions."
+description: "EN-INST-AW Production Pattern Viewer"
 ---
+
 
 # Installation Instructions: A+W Production Pattern Viewer
 

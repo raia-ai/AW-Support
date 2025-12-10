@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Production_Cockpit"
-source: "EN-INST-AW_Production_Cockpit.pdf"
-tags: ["A+W", "Production Cockpit", "Installation Guide", "Configuration", "Software", "Glass and Windows", "ToolTV", "ALCIM", "PPS-Webservice", "Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An installation and configuration guide for the A+W Production Cockpit, a software tool designed to monitor production performance on the shop floor for the glass and windows industry."
-long_description: "This document provides comprehensive instructions for installing, configuring, and deploying the A+W Production Cockpit. It is intended for system administrators and technicians responsible for setting up the software. The guide begins by outlining the necessary preconditions, including the setup of specific master data within the ALCIM system, such as machine status types and values, and registration points. The installation process covers server-side deployment via a PPS-Webservice and client-side setup. It details the steps to import designer forms and default parameters. The configuration section provides in-depth guidance on customizing the various visual elements of the cockpit, such as the speedometer, performance diagrams, pie charts, and traffic light indicators. Each configuration parameter is explained, linking it to its function within the user interface. The guide also includes a section on creating simulation data to test the cockpit's functionality, utilizing scripts and database tables like awbar_booking and bdestat_es. This document serves as a complete reference for getting the A+W Production Cockpit operational in a production environment."
+description: "EN-INST-AW_Production_Cockpit"
 ---
+
 
 # A+W Production Cockpit Installation Guide
 

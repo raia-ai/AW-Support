@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Production_Multisite"
-source: "EN-FUNC-AW_Production_Multisite.pdf"
-tags: ["A+W", "Software for Glass", "Production Multisite", "Functional Description", "Software Architecture", "ERP", "Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of A+W Production Multisite, a software solution that enables the operation of multiple production locations within a single, consolidated IT infrastructure. The document outlines the product's data, description, prerequisites, functions, and restrictions."
-long_description: "This document provides a detailed functional description for A+W Production Multisite, a software product from A+W - Software for Glass. It is intended for customers and partners to understand the capabilities and requirements of the solution. The product allows companies with multiple production sites to consolidate their server infrastructure, reducing hardware costs and simplifying updates. The document outlines the two licensing modules: a Basic License for the core infrastructure and a Site License for each connected production location. It includes an architectural overview, detailing the roles of the Database, Process, File, and Terminal servers in a multisite environment. Key sections cover prerequisites for installation and updates, a list of supported functions, and a comprehensive list of restrictions, detailing which modules, services, and scripts are not compatible with the multisite setup. The document concludes with legal notices, copyright information, and contact details for A+W Software GmbH."
+description: "EN-FUNC-AW_Production_Multisite"
 ---
+
 
 # A+W Production Multisite: Functional Description
 

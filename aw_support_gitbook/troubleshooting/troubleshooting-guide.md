@@ -1,15 +1,7 @@
 ---
-title: "A+W Software - Troubleshooting Guide"
-category: "troubleshooting"
-product: "A+W Software"
-doc_type: "Troubleshooting Guide"
-language: "EN"
-tags: ["troubleshooting", "errors", "solutions", "diagnostics"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Comprehensive troubleshooting guide for common A+W software issues"
-source: "Derived from support ticket analysis"
+description: "A+W Software - Troubleshooting Guide"
 ---
+
 
 # A+W Software - Troubleshooting Guide
 

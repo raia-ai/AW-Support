@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_Excel_Import"
-source: "EN-FUNC-AW_Enterprise_Excel_Import.pdf"
-tags: ["A+W Enterprise", "Excel Import", "Item Import", "Software for Glass", "ERP", "Functional Description", "200018"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description for the A+W Enterprise module 'Excel import of items' (Article no. 200018). This document outlines the module's capability to import order line items from a Microsoft Excel clipboard into the A+W Enterprise system. It details the process, requirements, functions, and limitations of the import feature."
-long_description: "This document provides a detailed functional description of the 'Excel import of items' module for the A+W Enterprise software, specifically for versions starting with v6 QR 04/19. The module, identified by article number 200018, is designed to streamline order entry by allowing users to import line items directly from an MS Excel clipboard. The description covers two main takeover types: importing item dimensions for a pre-defined article and importing a complete order with article numbers. It outlines the step-by-step process, from copying data in Excel to mapping columns and transferring items into the order, including automatic price calculation and restriction checks. The document also specifies the system requirements (A+W Enterprise core module), lists the key functions such as data transfer and editing, and details important restrictions like the maximum number of lines (900), columns (10), and specific data fields that can be imported. Legal notices regarding copyrights, trademarks, and liability are also included, along with contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Enterprise_Excel_Import"
 ---
+
 
 # A+W Functional Description: A+W Enterprise - Excel import of items
 

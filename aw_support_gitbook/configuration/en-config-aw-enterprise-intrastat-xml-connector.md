@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Intrastat XML Connector"
-category: "configuration"
-product: "A+W Enterprise Intrastat XML Connector"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Intrastat XML Connector"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise Intrastat XML Connector                                      english                              - -INTERNAL- Change history              Date          Author                   Remarks                                Version            2022-02-10 EB                          Original version (separate document)   1.0     Content  1.   Intrastat                                                                                  3      1.1. General Information"
-source_file: "EN-CONFIG-A+W Enterprise Intrastat XML Connector.pdf"
+description: "EN CONFIG A+W Enterprise Intrastat XML Connector"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Intrastat XML Connector

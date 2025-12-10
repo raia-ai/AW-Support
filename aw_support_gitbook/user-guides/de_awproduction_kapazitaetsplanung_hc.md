@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Kapazitaetsplanung HC"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Kapazitaetsplanung_HC"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Kapazitätsplanung                         Help Cards                     A+W Production                  Help Cards                                                                             Kapazitätsplanung                      Kapazitätsplanung                  Die Darstellungen in den Help Cards basieren auf der Auslieferversion A+W Enterprise 2015. Einzelne                  Schritte in den Workflows können je nach Konfiguration abweichen.                   Schichten                   Help"
-source_file: "DE_AWProduction_Kapazitaetsplanung_HC.pdf"
+description: "DE AWProduction Kapazitaetsplanung HC"
 ---
+
 
 
 # DE AWProduction Kapazitaetsplanung HC

@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Terminal 1.50"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Terminal_1.50"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Production Terminal                                 deutsch                     A+ W Production                                                                                                          Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie die editorischen Notizen.                                          Revisionsübersicht                                        Part                     Bes"
-source_file: "DE_AWProduction_Terminal_1.50.pdf"
+description: "DE AWProduction Terminal 1.50"
 ---
+
 
 
 # DE AWProduction Terminal 1.50

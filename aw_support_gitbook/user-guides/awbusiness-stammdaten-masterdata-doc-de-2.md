@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Stammdaten_9_10"
-source: "DE_AWBusiness_Stammdaten_9_10.pdf"
-tags: ["A+W Business", "Stammdaten", "Master Data", "ERP", "Software Reference", "Finanzen", "Auftrag", "Firmendaten", "Kalkulation", "Produktion"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Auszug aus dem Softwarereferenzhandbuch für A+W Business und beschreibt die Einrichtung von Stammdaten für die Module Auftrag, Finanzen und Firma. Es behandelt die Konfiguration von Dokumententypen, Kategorien, Steuern, Zahlungsbedingungen, Währungen und firmenspezifischen Parametern."
-long_description: "Dieser Auszug aus dem A+W Business Softwarereferenzhandbuch bietet eine detaillierte Anleitung zur Konfiguration der Stammdaten. Der Inhalt ist in drei Hauptbereiche gegliedert: Auftrag, Finanzen und Firma. Im Bereich 'Auftrag' werden die verschiedenen Dokumententypen wie interner Auftrag, Kundenmaterial oder Reklamation definiert. Zudem wird die Einrichtung von Kategorien für statistische Auswertungen und die Festlegung von Gründen für Lieferterminverschiebungen erläutert. Der Abschnitt 'Finanzen' behandelt alle finanzrelevanten Stammdaten, einschließlich der Definition von Steuersätzen, Zahlungsbedingungen, Bonitätsstufen, Bankdaten, Währungen, Erlöskonten, Kostenarten und Kostenstellen. Es wird detailliert auf die Anbindung an Finanzbuchhaltungssysteme (FiBu) eingegangen. Der umfangreichste Teil 'Firma' beschreibt die globalen Einstellungen für das Unternehmen (Mandanten). Dies umfasst die Konfiguration der Firmendaten (Adresse, Mail-Server), steuerliche Einstellungen, FiBu-Schnittstellen, Dokumenten- und Preisberechnungsparameter, Lager-, Einkaufs- und EDI-Einstellungen, Archivierungsregeln, Produktions- und Versandeinstellungen sowie Parameter für die Kapazitätsplanung. Das Dokument dient als technisches Nachschlagewerk für Administratoren und Projektierer zur korrekten Einrichtung und Wartung des A+W Business Systems."
+description: "DE_AWBusiness_Stammdaten_9_10"
 ---
+
 
 # Softwarereferenz
 

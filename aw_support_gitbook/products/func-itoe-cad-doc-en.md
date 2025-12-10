@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_iTOE"
-source: "EN-FUNC-AW_Enterprise_iTOE.pdf"
-tags: ["A+W Enterprise", "iTOE", "CAD", "Software", "Functional Description", "Glass Industry", "BOM", "Order Entry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Enterprise - iTOE (Integrated Technical Order Entry) module. This document details how the module integrates A+W CAD Designer (Shapes) into the A+W Enterprise order/quotation entry process, enabling the entry and processing of geometries and harmonizing the Bill of Materials (BOM)."
-long_description: "This document provides a detailed functional description for the A+W Enterprise - iTOE (Integrated Technical Order Entry) module, version 200019. It is intended for users and administrators of the A+W software suite. The primary goal of the iTOE module is to seamlessly integrate the A+W CAD Designer (Shapes) with the A+W Enterprise order entry system. This integration facilitates the entry of both standard and free-form geometries, along with associated processing, directly within the order and quotation workflow. The document outlines the module's capabilities, including the generation of geometric data (SN files), the harmonization of information between the ERP and CAD systems, and the management of synchronization statuses. It also specifies system requirements, such as necessary licenses for A+W CAD Designer and A+W Enterprise (v6.3 or later). The functional description details the handling of various shape types, processing macros, and the synchronization logic for free shapes. Limitations are clearly defined, covering topics like handling shapes with deviating segment counts, step changes, templates, and ordered subparts. The document serves as a guide to understanding the features, requirements, and operational constraints of the iTOE module."
+description: "EN-FUNC-AW_Enterprise_iTOE"
 ---
+
 
 # A+W Functional Description
 # A+W Enterprise - iTOE

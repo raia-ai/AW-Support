@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_6-1"
-source: "EN_AWBusiness_Sales_4_6-1.pdf"
-tags: ["A+W Business Sales", "Software Reference", "Item Data", "Order Management", "Document Search", "CEKAL", "Complaint Management", "Technical Values"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Sales, focusing on item data management within orders. It covers functionalities such as handling complaints, product groups, spacers, technical values, attachments, and detailed item settings."
-long_description: "This comprehensive software reference manual provides detailed instructions and explanations for managing 'Item Data' within the A+W Business Sales application. It begins by detailing fields like the CE flag for CPIP codes and the process for managing complaints, including causes, reasons, and sales prices for returned items. The guide then covers various item-specific settings, including cutbacks, miscellaneous options like alternative items and cash discountability, and manual settings for weight, quantity, and rounding. A significant portion is dedicated to the 'Further details' tab, explaining fields related to production, CEKAL-specific data (for the French market), shipping, costs, and printing sketches. It also describes how to add and manage text blocks, file attachments, and technical values for items, including declarations of performance. The document further explains how to use classifiers for products and provides a thorough breakdown of the 'Totals' tab, which summarizes technical parameters, costs, contribution margins, credit limits, and total order values. Finally, it provides an in-depth guide to the 'Search Document' functionality, detailing how to use order-related, item-related, BOM-related, and other criteria to find documents in the main database or archives."
+description: "EN_AWBusiness_Sales_4_6-1"
 ---
+
 
 ---
 ## Item Data

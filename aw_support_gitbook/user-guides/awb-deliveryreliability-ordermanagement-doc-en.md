@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Delivery Reliability Guide"
-source: "AWB_Delivery_Reliability_Guide.pdf"
-tags: ["A+W Business", "Delivery Reliability", "User Guide", "Software", "Order Management", "Delivery Date", "Statistics", "Master Data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user guide for the A+W Business software, focusing on the Delivery Reliability functionality. It explains how to manage, track, and analyze delivery dates, differentiate between customer-requested and company-caused delays, and use the system's statistics for delivery date compliance."
-long_description: "This user guide provides detailed instructions for working with the A+W Business Delivery Reliability feature. It is intended for users who manage orders and track delivery performance within the A+W Business software for the glass and windows industry. The document begins by explaining the backend data storage, detailing the difference between 'Planned shipping date' and 'Actual shipping date.' It guides users on how to display these dates in the order header for better visibility. The guide walks through the process of creating a document and then explains how to handle different scenarios for changing a delivery date, such as a customer requesting a later delivery versus a delay caused by the company (e.g., production issues). It provides step-by-step instructions on how to use the 'Document data' function to correctly record delays, ensuring that delivery reliability statistics accurately reflect the cause. The document also covers how to use the statistics module for delivery date compliance, including setting up filters, evaluation limits, and exporting data to CSV. Finally, it outlines the necessary master data settings, such as creating 'Reasons for postponement,' and configuring the system to prompt for a reason when a delivery date is changed after a certain order status is reached."
+description: "A+W Business Delivery Reliability Guide"
 ---
+
 
 # User guide for working with A+W Business Delivery Reliability
 

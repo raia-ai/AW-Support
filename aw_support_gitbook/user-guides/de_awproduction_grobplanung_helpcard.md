@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Grobplanung HelpCard"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Grobplanung_HelpCard"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Grobplanung                 I                       Help Cards                   A+W Production                  Help Cards                                                                                      A+W Production                      A+W Production                  Die Darstellungen in den Help Cards basieren auf der Auslieferversion A+W Production 2014. Einzelne                  Schritte in den Workflows können je nach Konfiguration abweichen.                   Grobplanung"
-source_file: "DE_AWProduction_Grobplanung_HelpCard.pdf"
+description: "DE AWProduction Grobplanung HelpCard"
 ---
+
 
 
 # DE AWProduction Grobplanung HelpCard

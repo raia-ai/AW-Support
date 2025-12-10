@@ -1,15 +1,7 @@
 ---
-title: "DE AWDefect Optimizer Kurzbeschreibung"
-category: "user_manuals"
-product: "AWDefect_Optimizer_Kurzbeschreibung"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWDefect_Optimizer_Kurzbeschreibung"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Defect Optimizer  Kurzbeschreibung     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              10-2014     Ersterstellung.               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W Defect             Optimizer gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz             vergeben und darf nur gemäß dieser Lizenz verwendet und kopiert werden."
-source_file: "DE-AWDefect_Optimizer_Kurzbeschreibung.pdf"
+description: "DE AWDefect Optimizer Kurzbeschreibung"
 ---
+
 
 
 # DE AWDefect Optimizer Kurzbeschreibung

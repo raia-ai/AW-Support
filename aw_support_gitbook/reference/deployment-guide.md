@@ -1,14 +1,7 @@
 ---
-title: "A+W Support AI Assistant - Deployment Guide"
-category: "documentation"
-product: "A+W Software"
-doc_type: "Deployment Guide"
-language: "EN"
-tags: ["deployment", "openai", "setup", "configuration"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Complete deployment guide for setting up the A+W Support AI Assistant with OpenAI API"
+description: "A+W Support AI Assistant - Deployment Guide"
 ---
+
 
 # A+W Support AI Assistant - Deployment Guide
 

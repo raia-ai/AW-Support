@@ -1,12 +1,7 @@
 ---
-title: "A+W Configuration Customizing"
-source: "EN-CONFIG-AW_Enterprise_Customizing.pdf"
-tags: ["A+W Enterprise", "Customizing", "Software Configuration", "SQL Queries", "ALCIB", "Technical Documentation", "Software for Glass", "System Integration", "Database Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This internal technical document provides a guide to customizing A+W Enterprise software. It covers event-oriented actions for ALCIB screens, detailing how to modify screen behavior, manage SQL queries, configure fields, and integrate with external applications like Excel. The guide is intended for developers and technical support personnel."
-long_description: "This document serves as a comprehensive technical guide for customizing the A+W Enterprise software, a specialized solution for the glass industry. It provides detailed instructions on utilizing the A+W Configuration tool to adapt the software to specific customer workflows and requirements. The guide focuses on event-oriented actions that can be defined for ALCIB screens and fields, which are stored and managed in the 'alcust' database table. Key topics include an overview of the benefits and drawbacks of customization, a walkthrough of the customizing screens (start and mode screens), and the implementation of various actions such as SQL, SPL (Stored Procedure Language), AdhocSQL, and shell scripts. It elaborates on special customizing actions like accessing higher-priority screens, suppressing system messages, and pre-populating fields. The document also offers in-depth explanations on defining and managing complex SQL queries, including the use of substatements, dynamic parameter transfer, and graphical field displays. Further sections cover the configuration of custom fields, the creation of print format templates, and methods for transferring data to Microsoft Excel. This guide is marked as 'INTERNAL' and is intended for developers, project managers, and technical support staff who possess existing knowledge of ALCIB, FIX, and related database concepts."
+description: "A+W Configuration Customizing"
 ---
+
 
 # A+W Configuration Customizing
 

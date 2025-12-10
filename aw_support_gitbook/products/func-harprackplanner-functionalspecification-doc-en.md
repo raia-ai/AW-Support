@@ -1,12 +1,7 @@
 ---
-title: "A+W Harp Rack Planner Functional Specification"
-source: "EN-FUNC-AW_Harp_Rack_Planner.pdf"
-tags: ["A+W", "Harp Rack Planner", "Functional Specification", "Software for Glass", "Production Scheduling", "Center of Gravity", "Symmetrical Loading", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the functional specification for the A+W Harp Rack Planner, a software module designed for the glass industry. The module calculates the optimal, symmetrical loading of harp racks to ensure stability by managing the center of gravity. It is an add-on for the A+W Production software."
-long_description: "This functional specification details the features, requirements, and limitations of the A+W Harp Rack Planner (Module 220008), which is compatible with A+W Production 2016 and later. The primary function of the module is to ensure the symmetrical loading of harp racks during the glass manufacturing process. It integrates into the detailed scheduling workflow to calculate and maintain the harp rack's center of gravity within permissible deviations. The system considers factors like maximum weight, empty weight, and lite specifications. If loading a rack risks violating the symmetry constraints, the system will close the current rack and start a new one, ensuring the first rack is stabilized. The document outlines the necessary prerequisites, such as having A+W Production and correctly configured master data. It also describes the system's static loading principle and its limitations, noting that dynamic movements or unloading sequences are not covered, and the specialized employee retains ultimate responsibility for safety. The specification also includes standard copyright, trademark, and liability disclaimers."
+description: "A+W Harp Rack Planner Functional Specification"
 ---
+
 
 # A+W Harp Rack Planner
 ---

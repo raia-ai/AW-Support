@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Enterprise EDI Export"
-category: "functional_descriptions"
-product: "A+W Enterprise EDI Export"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Enterprise EDI Export"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W – Enterprise Export in the A+W standard format                                    english 1. Contents 1.   Contents                                                               3 2.   Notes on this Document                                                 4      2.1. Trademarks                                                        4      2.2. Copyrights                                                        4      2.3. Exclusion of liability"
-source_file: "EN-FUNC-A+W Enterprise EDI Export.pdf"
+description: "EN FUNC A+W Enterprise EDI Export"
 ---
+
 
 
 # EN FUNC A+W Enterprise EDI Export

@@ -1,15 +1,7 @@
 ---
-title: "EN AWEnterprise Purchasing"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWEnterprise_Purchasing"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Purchasing              E                             English                  A+W Enterprise                                                                                                                  Introduction                                             Introduction                                         This part of the documentation contains editorial notes.                                           Revision Overview                                         Part"
-source_file: "EN_AWEnterprise_Purchasing.pdf"
+description: "EN AWEnterprise Purchasing"
 ---
+
 
 
 # EN AWEnterprise Purchasing

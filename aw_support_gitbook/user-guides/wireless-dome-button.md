@@ -1,15 +1,7 @@
 ---
-title: "Wireless Dome Button"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Wireless Dome Button"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Wireless Dome Button                                   Introduction                                            First time use                                                          The “wireless Dome Button” is a large mushroom/         Before the Wireless Button can be used, it must be                                                          dome button that transmits press and release            attached to a Dongle. Please follow these steps:"
-source_file: "Wireless Dome Button.pdf"
+description: "Wireless Dome Button"
 ---
+
 
 
 # Wireless Dome Button

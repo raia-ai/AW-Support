@@ -1,15 +1,7 @@
 ---
-title: "US AWEnterprise Sales HelpCards"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["US_AWEnterprise_Sales_HelpCards"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Sales                 Help Cards             A+W Enterprise                  Help Cards                                                                                                Sales                      Sales                  The depictions in the Help Cards are based on delivery version A+W Enterprise V 6. Individual steps in                  the workflows can differ depending on the configuration.                      Orders as example                     Various functionalities can be"
-source_file: "US_AWEnterprise_Sales_HelpCards.pdf"
+description: "US AWEnterprise Sales HelpCards"
 ---
+
 
 
 # US AWEnterprise Sales HelpCards

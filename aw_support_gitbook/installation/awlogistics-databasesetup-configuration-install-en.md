@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Logistics_Optimizer"
-source: "EN-INST-AW_Logistics_Optimizer.pdf"
-tags: ["A+W Logistics Optimizer", "Installation Guide", "Software", "Database Setup", "Configuration", "ERP Integration", "SQL Server", "ODBC", "Licensing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation and configuration instructions for the A+W Logistics Optimizer software. It covers database setup, ODBC source creation, software installation via the SetupLauncher, and post-installation database updates. The guide also details configuration for integration with A+W Business 5/6, software licensing, and necessary Internet Explorer security settings."
-long_description: "This is an official installation manual for the A+W Logistics Optimizer, a software solution for glass and windows logistics. The document is intended for planners and technical personnel responsible for deploying the software. It begins with a change history, tracking versions from 1.0 to 13.4.0. The core of the manual is divided into two main sections: Installation and Configuration. The Installation section provides step-by-step guidance on preparing the system, starting with database creation in SQL Server by restoring a backup file (OTR.BAK). It then covers creating a 32-bit ODBC system data source and running the main installation from the A+W SetupLauncher. A crucial post-installation step is updating the database using the OTR DB Updater tool. The Configuration section details how to integrate the Logistics Optimizer with other A+W products. For A+W Business 5, it explains how to create custom formulas and buttons to launch the optimizer. For A+W Business 6, it notes the shift to using the A+W Commercial Logistic Service. The guide also covers setting up database connections within the optimizer, licensing the application (including how to obtain a temporary license), and configuring Internet Explorer's Trusted Sites to ensure map functionality."
+description: "EN-INST-AW_Logistics_Optimizer"
 ---
+
 
 # Installation Instructions: A+W Logistics Optimizer
 

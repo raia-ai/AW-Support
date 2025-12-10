@@ -1,15 +1,7 @@
 ---
-title: "EN UM A+W Enterprise Sales 4.0"
-category: "user_manuals"
-product: "A+W Enterprise"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W Enterprise", "Sales_4.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Sales              D                        English             A+W Enterprise                                                                                                             Introduction                                             Introduction                                         This part of the documentation contains editorial notes.                                           Revisions Overview                                         Part"
-source_file: "EN-UM-A+W Enterprise-Sales_4.0.pdf"
+description: "EN UM A+W Enterprise Sales 4.0"
 ---
+
 
 
 # EN UM A+W Enterprise Sales 4.0

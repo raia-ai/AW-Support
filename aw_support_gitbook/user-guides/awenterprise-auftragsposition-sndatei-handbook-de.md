@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_16"
-source: "DE-HB-AWEnterprise_16.pdf"
-tags: ["A+W Enterprise", "Auftragsposition", "SN-Datei", "CAD Designer", "Preisberechnung", "Rechnung", "Stufenglas", "Sprossen", "Gutschrift", "Workflow", "Einkauf", "Bestellpool"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a collection of help cards and a software reference for the A+W Enterprise system, covering both the Sales (Verkauf) and Purchasing (Einkauf) modules. It provides step-by-step instructions for various tasks."
-long_description: "This document serves as a comprehensive user guide for the A+W Enterprise software, specifically detailing functionalities within the Sales (Verkauf) and Purchasing (Einkauf) modules. The first part consists of 'Help Cards' for the sales process, organized by topics such as Order Items (Auftragsposition), Pricing (Preisberechnung), and Invoicing (Rechnung). These cards offer goal-oriented instructions, prerequisites, and detailed workflows for tasks like importing data from SN files using A+W CAD Designer, creating special glass types like stepped glass (Stufenglas), managing mullions (Sprossen), calculating prices, handling discounts, and generating various types of invoices and credit notes. The second part of the document is a detailed software reference for the Purchasing (Einkauf) module. It begins with a revision history and an extensive table of contents, followed by in-depth explanations of purchasing functions. This includes managing the purchasing pool (Bestellpool), creating and managing purchase orders, handling goods receipt (Wareneingang), invoice verification, and using various search and reporting functions. The reference guide systematically breaks down menus, dialogs, and fields, providing technical information and usage context for a thorough understanding of the purchasing workflow."
+description: "DE-HB-AWEnterprise_16"
 ---
+
 
 # A+W Enterprise Verkauf
 

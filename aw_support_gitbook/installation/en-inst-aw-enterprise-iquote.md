@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise iQuote"
-category: "installation"
-product: "A+W Enterprise iQuote"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise iQuote"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W iQuote for A+W Enterprise    Change history:      Date            Edited by        Remarks      2021-10-18      A. Weil          Transfer from A+W Business document      2021-11-12      A. Weil          Continuation of the A+W Enterprise-relevant data          The installation instructions will assist the planner with the installation and      configuration process for the software named. Please proceed in the following      sequence:        1."
-source_file: "EN-INST-A+W Enterprise iQuote.pdf"
+description: "EN INST A+W Enterprise iQuote"
 ---
+
 
 
 # EN INST A+W Enterprise iQuote

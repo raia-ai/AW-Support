@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_7-1"
-source: "EN_AWBusiness_Master_Data_9_7-1.pdf"
-tags: ["A+W Business", "Product Management", "Master Data", "ERP", "Software Reference", "Price Surcharge", "Stock Management", "BOM", "Shapes Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the Product Management module in A+W Business software. This document details the configuration of products, including pricing, surcharges, stock, purchasing, bill of materials (BOM), shapes, processing, and integration with A+W Production."
-long_description: "This document serves as a comprehensive software reference manual for the Product Management section of A+W Business Master Data. It provides detailed explanations for each tab and field within the product/articles master data interface. The guide covers critical areas such as setting up price and surcharge parameters, managing stock and purchasing data (including CPIP and P.O. parameters), defining complex shapes and processing steps, and configuring Bill of Materials (BOM) for IG or laminated lites. It also explains how to attach texts, manage multilingual product descriptions, handle attachments and classifiers, define grill patterns, and configure settings for A+W Production integration. This manual is intended for system administrators and power users responsible for maintaining product master data, ensuring accurate pricing, production planning, and order processing within the A+W software ecosystem."
+description: "EN_AWBusiness_Master_Data_9_7-1"
 ---
+
 
 # Product Management – Price/Surcharge
 

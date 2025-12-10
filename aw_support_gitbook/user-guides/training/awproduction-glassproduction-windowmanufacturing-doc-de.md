@@ -1,15 +1,7 @@
 ---
-title: "Tutorial"
-category: "training"
-product: "A+WProduction"
-doc_type: "Documentation"
-language: "DE"
-tags: ["A+WProduction", "GlassProduction", "WindowManufacturing", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "D-AWProduction-HB_15" source: "D-AWProduction-HB_15.pdf" tags: ["A+W Production Terminal", "Software Manual", "Technical Documentation", "Glass Production", "Window Manufacturing", "Terminal Edit", "Terminal IG", "Softwarereferenz", "Tutorial"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is a comprehensive user manual for the A+W Production Terminal software, covering both a tutorial overview and an in-depth software reference. It details the functionaliti"
-source_file: "A+WProduction-GlassProduction-WindowManufacturing-Doc-DE.md"
+description: "Tutorial"
 ---
+
 
 
 title: "D-AWProduction-HB_15"

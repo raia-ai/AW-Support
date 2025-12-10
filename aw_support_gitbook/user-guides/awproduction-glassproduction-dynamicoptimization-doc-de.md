@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_DynOpt_1.00"
-source: "DE_AWProduction_DynOpt_1.00.pdf"
-tags: ["A+W DynOpt", "Glass Production", "Dynamic Optimization", "Production Planning", "Software Tutorial", "ERP", "Cutting Optimization", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language tutorial for A+W DynOpt, a software module for dynamic optimization in glass production. The document explains the concept, problem statement, and practical application of the software, including how to manage production runs, handle exceptions like broken lites, and use the A+W DynOpt Editor for process control."
-long_description: "This document is a comprehensive tutorial for A+W DynOpt, a software solution designed for the dynamic optimization of production processes in the glass, window, and door industries. Written in German, it targets production planners and supervisors responsible for optimizing workflow. The tutorial begins with an overview of dynamic optimization, contrasting it with standard methods and highlighting its benefits in handling smaller batch sizes and increased product variety. It details the system's components, including the A+W Realtime Optimizer and its integration with cutting tables, buffer systems, and the A+W Production Cockpit. The guide explains key concepts like the 'dynamic timeline,' buffer management, and handling of remnants and broken lites. A significant portion is dedicated to practical instructions on using the A+W DynOpt Editor to import, prioritize, and manage production runs, including a step-by-step guide for prioritizing rush orders. The document aims to empower users to leverage A+W DynOpt for improved material yield, increased flexibility, and a more efficient production flow."
+description: "DE_AWProduction_DynOpt_1.00"
 ---
+
 
 # A+W DynOpt
 

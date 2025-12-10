@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_22"
-source: "D-AWBusiness-HB_22.pdf"
-tags: ["A+W Business Einkauf", "Wareneingang", "Lieferungen", "Rechnungskontrolle", "Dokumentenaustausch", "EDI", "openTRANS", "Software Tutorial", "ERP", "Bestellungen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for the A+W Business Einkauf (Purchasing) module. It provides step-by-step instructions on managing deliveries in goods receipt, including checking settings for identification numbers, processing crate receipts, and handling price and invoice verification. It also covers electronic document interchange via openTRANS and EDI."
-long_description: "This comprehensive guide serves as both a tutorial and a software reference for the A+W Business Einkauf (Purchasing) software module. The tutorial section walks users through key processes related to managing incoming deliveries. It begins with instructions on configuring and verifying settings for crate identification numbers, explaining both automatic and manual assignment methods. It then details the procedure for recording the goods receipt of crates, including searching for open orders, entering supplier data, and booking the items. The guide also provides a thorough walkthrough of the price and invoice control process, covering how to handle order confirmations, manage discrepancies, and process collective invoices. The second major part of the document is dedicated to electronic document interchange. It explains how to set up and use openTRANS for exporting order confirmations and invoices, as well as importing data from suppliers. This includes configuring system parameters, partner master data, and status definitions. A similar section covers data exchange using the EDI (ASC-Format). The final part of the document is a software reference, providing an overview of the various dialogs, menus, and functions within the purchasing module, with cross-references to more detailed explanations in other parts of the A+W Business documentation."
+description: "D-AWBusiness-HB_22"
 ---
+
 
 # Tutorial
 

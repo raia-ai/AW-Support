@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_17"
-source: "DE-HB-AWEnterprise_17.pdf"
-tags: ["A+W Enterprise", "Einkauf", "Lager", "ERP", "Software Reference", "German", "Vorgangsverwaltung", "Bestellungen", "Wareneingang", "Rechnungen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Enterprise system, specifically covering the 'Einkauf' (Purchasing) and 'Lager' (Warehouse/Inventory) modules. It details functionalities for order management, goods receipt, invoicing, and inventory control."
-long_description: "This comprehensive technical manual provides detailed descriptions of the A+W Enterprise software, focusing on the Purchasing (Einkauf) and Warehouse/Inventory (Lager) modules. The Purchasing section covers the entire procurement process, from creating and managing purchase orders (`Bestellungen`) to handling goods receipts (`Wareneingang`), and processing supplier invoices (`Rechnungen`) and credit notes (`Gutschriften`). It explains various fields, functions, and system dialogs, including order release (`Bestellfreigabe`), document management (`Dokumentenartenzuordnung`), and different order types. The Warehouse section details inventory management functions, such as goods movements (receipts and issues), managing different storage types (standard, bin, rack, batch), and performing inventory counts (`Inventur`) and valuations (`Bewertung`). The manual is structured to serve as a reference for users, providing technical information, database field names (`DB-Feld`), and step-by-step instructions for navigating the system. It is intended for users and administrators of the A+W Enterprise system to understand and effectively utilize its purchasing and inventory management capabilities."
+description: "DE-HB-AWEnterprise_17"
 ---
+
 
 # A+W Enterprise Einkauf
 ---

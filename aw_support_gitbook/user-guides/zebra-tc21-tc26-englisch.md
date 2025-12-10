@@ -1,15 +1,7 @@
 ---
-title: "Zebra TC21 TC26   Englisch"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Zebra TC21", "TC26 ", " Englisch"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "PRODUCT SPEC SHEET TC21/TC26 TOUCH COMPUTER     TC21/TC26 Touch Computer The ultimate cost-effective touch computer built for small and big business If you’re considering purchasing low-cost mobile phones for your workers, step up to the TC21/TC26 Touch Computers — without stepping up in price. All the right business features help your workers capture and access the data they need to act faster and more efficiently. The right rugged design delivers reliable operation, day in and day out. The rig"
-source_file: "Zebra TC21-TC26 - Englisch.pdf"
+description: "Zebra TC21 TC26   Englisch"
 ---
+
 
 
 # Zebra TC21 TC26   Englisch

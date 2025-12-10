@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Inventory Management Tutorial"
-source: "EN_AWBusiness_Inventory_Management_6_1-3.pdf"
-tags: ["inventory management", "pricing process", "stock control", "bill of materials", "BOM", "purchase price", "A+W Business", "master data", "stock booking", "erp"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial guide for A+W Business Inventory Management, covering the pricing process, purchase price calculation, stock control at the Bill of Materials (BOM) level, and general stock management procedures."
-long_description: "This document serves as a comprehensive tutorial for users of the A+W Business Inventory Management software. It provides step-by-step instructions and detailed explanations for configuring and utilizing key inventory functions. The guide begins by detailing the system's pricing process with a flowchart and notes on average price calculation, explaining how the system determines prices based on various factors like stock availability, rate allocations, and manual inputs. It then walks users through checking and configuring settings for purchase price calculation within the company's master data. A significant portion is dedicated to stock control at the Bill of Materials (BOM) level, explaining how to manage, reserve, and book BOM components as stock articles. The final major section covers general Stock Management, including how to create and define stock articles, manage stock levels, set minimum stock thresholds, and understand how average prices are calculated and updated. The document includes UI screenshot descriptions, examples, and exercises to provide practical, hands-on learning for mastering inventory control within the A+W Business environment."
+description: "A+W Business Inventory Management Tutorial"
 ---
+
 
 ---
 ## The pricing process

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_7"
-source: "EN-UM-AW_Enterprise-Sales_4_7.pdf"
-tags: ["A+W Enterprise Sales", "Software Reference", "Pricing", "Order Entry", "Conditions", "Delivery Notes", "Invoicing", "Cost Calculation", "Release Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Enterprise Sales module, detailing functionalities related to prices, conditions, order management, delivery, and invoicing. It provides descriptions of user interface dialogs, fields, and processes."
-long_description: "This is a detailed software reference manual for the A+W Enterprise Sales application, version 4.00/03-2020. The guide covers a wide range of functionalities within the sales process, starting with the configuration of 'Prices and Conditions'. It explains how to manage various pricing methods, including those for basic glass, processing, manual prices, and specific items like LAMI articles and glass doors. It delves into the technical details of each field, providing database field names and data types. The manual also covers 'Production Cost Calculation', outlining how material, machine, and personnel costs are determined and displayed. A significant section is dedicated to 'Order Release', explaining the process of authorizing and releasing blocked orders for further processing. The 'Delivery' section details the creation of delivery plans, management of partial deliveries, and the generation of both automatic and manual delivery notes. Finally, the 'Invoices' section describes the procedures for creating, booking, and managing various types of invoices, including automatic, manual, partial, and final invoices, as well as cash transactions. The document is intended for users and administrators of the A+W Enterprise Sales software, providing the necessary information to configure and operate the sales and invoicing modules effectively."
+description: "EN-UM-AW_Enterprise-Sales_4_7"
 ---
+
 
 # Prices and Conditions
 

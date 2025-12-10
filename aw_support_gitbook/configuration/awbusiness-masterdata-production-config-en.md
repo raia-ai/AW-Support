@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_9-4"
-source: "EN_AWBusiness_Master_Data_9_9-4.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "Production", "Order Management", "Rounding", "Status Management", "Number Ranges", "ERP", "Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Master Data module, focusing on the configuration of Production and Order management settings. It details parameters for cutting processes, rounding rules, status management, and number ranges."
-long_description: "This comprehensive software reference manual provides detailed instructions for configuring the Master Data within the A+W Business ERP system. The guide is divided into two main sections: Production and Order. The Production section covers settings related to manufacturing processes, such as defining the minimum and maximum distances between cuts on a stock plate, setting limits for maximum waste, and configuring cutting table capabilities like automatic breakout, auto-loading, and laminated glass cutting. The Order section details the setup for managing orders and documents. This includes creating rules for rounding values (amounts, surfaces, lengths), defining status points that a document passes through, and allocating statuses to internal business processes. It also explains the configuration of number ranges for various documents (orders, invoices, credit notes), business types, quantity limits for pricing, and document types for different business scenarios like stock P.O.s, complaints, and partial deliveries. The manual is intended for system administrators and technical users responsible for setting up and maintaining the A+W Business software."
+description: "EN_AWBusiness_Master_Data_9_9-4"
 ---
+
 
 ---
 ## Production

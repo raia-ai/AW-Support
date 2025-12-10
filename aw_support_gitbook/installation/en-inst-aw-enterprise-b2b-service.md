@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise B2B Service"
-category: "installation"
-product: "A+W Enterprise B2B Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise B2B Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installa�on Instruc�ons            A+W Enterprise 6 B2B Service     Change history:      Date           Edited by               Remarks                                              Version     2016-04-22     MP                      New crea�on                                          1.0     2016-09-29     SVH                     Addi�on                                              1.1     2016-12-13     MP                      AutoUpdate                                           1.2"
-source_file: "EN-INST-A+W Enterprise B2B Service.pdf"
+description: "EN INST A+W Enterprise B2B Service"
 ---
+
 
 
 # EN INST A+W Enterprise B2B Service

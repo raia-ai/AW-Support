@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Capacity_Planning_4_1"
-source: "EN_AWBusiness_Capacity_Planning_4_1.pdf"
-tags: ["A+W Business Pro", "Capacity Planning", "Software Tutorial", "Glass Manufacturing", "Window and Door Software", "Master Data Management", "Production Scheduling", "Time Management", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial for the A+W Business Pro Capacity Planning module. This document guides users through setting up master data, planning production capacities, and monitoring machine utilization for glass, window, and door manufacturing."
-long_description: "This document serves as a detailed user guide and tutorial for the Capacity Planning module within the A+W Business Pro software suite. It is designed for end-users, such as production planners, who are responsible for managing and monitoring production capacities in the glass, window, and door manufacturing industries. The tutorial covers the fundamental principles of capacity planning, from initial setup to daily operational use. It provides step-by-step instructions on how to configure master data, including machines, production areas, work types, shift schedules, and default production times. The guide explains how to allocate products to specific work types and machines, handle restrictions, and manage priorities for automatic scheduling. It also details the process of scheduling orders, handling capacity problems, and monitoring production status through various reports and the control station. The document emphasizes the interaction between different master data components and how they collectively influence production start dates, time costs, and overall plant efficiency. It includes numerous examples, diagrams, and screenshots to illustrate concepts such as calculating time surcharges, handling alternative work types, and managing transition times between production stages."
+description: "EN_AWBusiness_Capacity_Planning_4_1"
 ---
+
 
 # A+W Capacity Planning
 ---

@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_26"
-source: "D-AWBusiness-HB_26.pdf"
-tags: ["A+W Business", "ERP", "manufacturing", "software reference", "production planning", "scheduling", "logistics", "customs management", "statistics", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive software reference manual for A+W Business, covering modules for manufacturing (Fertigung) and statistics (Statistik). It details functionalities for appointment overviews, customs administration, shipping control, capacity planning, and data analysis in a German-language interface."
-long_description: "This document serves as an in-depth technical reference guide for the A+W Business enterprise resource planning (ERP) software, specifically focusing on the 'Fertigung' (Manufacturing) and 'Statistik' (Statistics) modules. The manual provides detailed, step-by-step instructions and explanations for various functions and dialogs within the system. Key topics covered in the 'Fertigung' section include appointment scheduling and overview, materials management, customs administration (Zollverwaltung), shipping and logistics control (Versandsteuerung), capacity overview, and production forecasting. The 'Statistik' section details how to generate and interpret sales and purchasing statistics, including order information, revenue analysis, and supplier performance. The guide is structured hierarchically, mirroring the software's menu paths, and includes descriptions of UI elements, selection criteria, configuration options, and data export functionalities. It is intended for end-users and administrators to understand and effectively utilize the software's features for production planning, control, and business analysis. The document is written in German and reflects version 5.50 of the software."
+description: "D-AWBusiness-HB_26"
 ---
+
 
 ---
 ## Terminübersicht

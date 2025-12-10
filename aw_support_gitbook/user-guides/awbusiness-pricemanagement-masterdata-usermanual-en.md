@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_9"
-source: "EN-UM-AWBusiness_9.pdf"
-tags: ["A+W Business", "Software Reference", "Price Management", "Master Data", "Stock Management", "Partner Management", "ERP", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the A+W Business system, detailing functionalities within Price Management, Stock Management, and Partner Management. It covers setting up various price types, managing stock levels, and defining partner data."
-long_description: "This document is a comprehensive software reference manual for the A+W Business system, specifically focusing on master data configuration. It provides detailed instructions and descriptions for several key modules. The 'Price Management' section explains how to configure different pricing models, including matrix, vector, individual, shape, grill, and cube prices, as well as price formulas and bulk price changes. The 'Stock' section covers master data for stock management, such as defining packing types, stock levels (warehouse, aisle, shelf, slot), stock categories, and allocating stock locations to machines. The 'Partners' section details the management of general partner data, including customers, suppliers, and other business partners. It covers the setup of partner groups, customer groups, supplier groups, and other related classifiers and master data. Each section includes navigation paths, descriptions of user interface tabs and fields, and references to related tutorials, making it an essential guide for administrators and advanced users responsible for setting up and maintaining the A+W Business system."
+description: "EN-UM-AWBusiness_9"
 ---
+
 
 # Software Reference: Price Management
 

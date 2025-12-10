@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerBars"
-source: "DE-HB-AWCADDesignerBars.pdf"
-tags: ["A+W CAD Designer", "Bars", "Handbuch", "Software", "Glass", "Windows", "Doors", "Deutsch", "Technical Manual", "Sprossen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive German handbook for the A+W CAD Designer (Bars) software. It serves as a guide for end-users, providing a tutorial and a detailed software reference for creating simple and complex bar constructions for glass, windows, and doors. The manual covers everything from basic operations and user interface navigation to advanced features like creating special patterns, facades, and macros."
-long_description: "This is the official German handbook for the A+W CAD Designer (Bars) software, a program specializing in the design of bar constructions for glass, windows, and doors. The document is structured to guide end-users from basic to advanced functionalities. It begins with an editorial section outlining revision history, copyright information, and documentation conventions. The core of the manual is divided into a tutorial and a software reference. The tutorial section provides a step-by-step introduction to the software's user interface, tools, and main features. It includes practical exercises for creating standard and special bar patterns, designing facades, and working with macros. The software reference section offers a detailed, encyclopedic description of all functions, dialogs, and menu items, serving as a comprehensive lookup resource. It covers file management, printing, tool usage, master data management (Stammdaten), and system settings. The document also includes 'Help Cards' which are quick-reference guides for specific tasks like creating master data, using tools, and designing special patterns. The overall goal is to enable users to efficiently design and document bar constructions, from simple grids to complex, custom motifs."
+description: "DE-HB-AWCADDesignerBars"
 ---
+
 
 # A+W CAD Designer (Bars) Handbuch
 

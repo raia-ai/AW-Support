@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Rack_Manager"
-source: "EN-FUNC-AW_Rack_Manager.pdf"
-tags: ["A+W", "Rack Manager", "Software", "Glass Industry", "Logistics", "ERP", "Functional Description"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Rack Manager software module. This document outlines the module's purpose, which is to manage transport racks for glass products, including tracking their location, status, and involving customers in the booking and return process. It covers key features, system requirements, and integration possibilities."
-long_description: "This document provides a detailed functional description for the A+W Rack Manager software, a module designed to integrate with A+W Business, A+W Business Pro, and A+W Enterprise systems. The A+W Rack Manager is a tool for managing the logistics of transport racks used in the glass industry. It enables glass processors and their customers to track the movement and status of racks from the producer to the customer, building sites, and back. The system allows for manual or automated (via barcode scanning) registration of racks, linking them to shipping addresses, order data, and rack load. A key feature is the ability for customers to use an internet portal to report the unloading of racks and release them for collection, streamlining the return process. The document details the system's master data management (owners, customers, racks, workflow), movement data tracking, and evaluation capabilities (history, current data, statistics). It also lists technical requirements, functional limitations (e.g., invoicing is handled by a separate commercial system), and contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Rack_Manager"
 ---
+
 
 # A+W Functional Description
 # A+W Rack Manager

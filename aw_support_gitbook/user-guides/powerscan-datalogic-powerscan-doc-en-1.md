@@ -1,12 +1,7 @@
 ---
-title: "PowerScan_PD9500_-_English"
-source: "PowerScan_PD9500_-_English.pdf"
-tags: ["Datalogic", "PowerScan", "PD9500", "Barcode Scanner", "Area Imager", "Rugged Scanner", "Warehouse", "Logistics", "Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a detailed overview of the Datalogic PowerScan™ PD9500, a rugged handheld area imaging barcode scanner. It covers its key features, user-centric design, durability, industry applications, and comprehensive technical specifications."
-long_description: "This product brochure details the Datalogic PowerScan™ PD9500 area imager, a rugged and intuitive barcode scanner designed for demanding industrial environments. The document begins with a marketing overview, highlighting the scanner's effortless 'Aim, Trigger, Decode' functionality, which combines omnidirectional reading with superior optical characteristics to read any barcode from contact to over 1 meter. It emphasizes the user-centric design, focusing on ergonomics, a well-balanced weight, and a soft-pulsed white illumination light to reduce user fatigue during scan-intensive tasks. The brochure also underscores the device's durability ('BUILT TO LAST'), guaranteeing reliable operation despite repeated shocks and use in tough indoor/outdoor conditions. Key features are listed, such as Datalogic's 'Green Spot' and 3GL™ technologies for good-read feedback, Motionix™ motion-sensing, and an IP65 rating. The document outlines suitable industry applications, including manufacturing, warehouse, and logistics. The second page provides exhaustive technical specifications, covering decoding capabilities for 1D, 2D, postal, and stacked codes; electrical requirements; environmental tolerances (drop resistance, IP rating, temperature); reading performance metrics like sensor type, resolution, and depth of field for different models (PD9530, PD9530-HP, PD9530-HPE); and safety and regulatory compliance. It concludes with a list of available accessories like holsters, stands, and mounts."
+description: "PowerScan_PD9500_-_English"
 ---
+
 
 # POWERSCAN™ PD9500
 

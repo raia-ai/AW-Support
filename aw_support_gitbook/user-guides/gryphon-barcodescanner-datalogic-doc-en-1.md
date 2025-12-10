@@ -1,12 +1,7 @@
 ---
-title: "Gryphon I GD4100"
-source: "Gryphon_I_GD4100_-_English.pdf"
-tags: ["barcode scanner", "Datalogic", "Gryphon GD4100", "linear imager", "data collection", "retail", "healthcare", "logistics"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A product datasheet for the Datalogic Gryphon I GD4100, a general-purpose handheld linear imaging barcode reader. It details its advanced reading performance, patented 'Green Spot' technology, and modern interface options."
-long_description: "This document is the official product datasheet for the Datalogic Gryphon™ I GD4100 linear imaging reader. It provides a comprehensive overview of the scanner's features, capabilities, and technical specifications. The datasheet highlights the GD4100's advanced reading performance, capable of capturing barcodes from near contact to over 1.0 m / 3.2 ft, and its ability to read wide, poor, or damaged codes. Key features like Datalogic's patented 'Green Spot' for good-read feedback, multi-interface options (USB, RS-232, Keyboard Wedge, etc.), and a rugged IP52-rated design are detailed. The document also lists target industries and applications, including retail, commercial services, manufacturing, healthcare, and logistics. The second page contains detailed technical specifications covering decoding capabilities, electrical requirements, environmental tolerances, physical characteristics, reading performance metrics, and safety/regulatory compliance. A list of available accessories such as mounts and stands is also provided."
+description: "Gryphon I GD4100"
 ---
+
 
 # GRYPHON™ I GD4100
 

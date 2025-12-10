@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Einkauf - Rechnung und Rechnungskontrolle"
-source: "DE_AWBusiness_Einkauf_3_6.pdf"
-tags: ["A+W Business", "Einkauf", "Rechnungskontrolle", "Elektronische Rechnung", "Software-Dokumentation", "ERP", "Bestellprozess", "Lieferantenrechnung", "openTRANS"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Auszug aus der Softwarereferenz für A+W Business Einkauf. Es beschreibt die Funktionalitäten zur manuellen und elektronischen Rechnungskontrolle, einschließlich der Prüfung von Positionen, Stücklisten und der Verarbeitung von Lieferantenrechnungen."
-long_description: "Diese Softwarereferenz bietet eine detaillierte Anleitung zur Handhabung von Lieferantenrechnungen im A+W Business Einkauf Modul. Der Fokus liegt auf der 'Rechnungskontrolle', einem Werkzeug zur Überprüfung von Rechnungen gegen die ursprünglichen Bestellungen. Das Dokument gliedert sich in die manuelle und die elektronische Rechnungskontrolle. Im manuellen Teil werden die Register 'Positionen' und 'Stückliste' erläutert, in denen Benutzer die Preise, Mengen und Maße jeder Bestellposition und ihrer Komponenten vergleichen und korrigieren können. Ein weiterer Abschnitt behandelt die Einschränkungsmöglichkeiten für das Rechnungsdatum, um Fehleingaben zu vermeiden. Der Hauptteil widmet sich der 'Elektronischen Rechnungskontrolle', die den Import und die Verarbeitung elektronischer Rechnungsdokumente (z.B. im openTRANS-Format) ermöglicht. Es werden die Menüfunktionen, Optionen zur Automatisierung, der Dokumentenimport-Dialog mit seinen Statusanzeigen und die Positionsübersicht zum Abgleich von Rechnungs- und Bestelldaten beschrieben. Das Dokument schließt mit einer kurzen Erläuterung der 'Basisglasverrechnung' und einem umfassenden Index für das gesamte Einkauf-Modul."
+description: "A+W Business Einkauf - Rechnung und Rechnungskontrolle"
 ---
+
 
 # Rechnungskontrolle – Positionen
 

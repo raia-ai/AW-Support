@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Print_Service"
-source: "EN-CONFIG-AW_Enterprise_Print_Service.pdf"
-tags: ["A+W Enterprise", "Print Service", "Configuration", "Crystal Reports", "PDF Export", "E-invoicing", "Archiving", "Troubleshooting", "Software Documentation", "Report Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive configuration instructions for the A+W Enterprise Print Service. It covers key functionalities including report management, printer setup, e-mail dispatch, PDF export, and archiving, tailored for system administrators and technical consultants."
-long_description: "This internal configuration manual details the setup, functionality, and troubleshooting of the A+W Enterprise Print Service, a critical component of the A+W software for glass manufacturing. Originally developed for a specific customer case, the service has been continuously enhanced to support all print functions previously handled by the REPGO environment, with a focus on Crystal Reports integration. The document provides step-by-step guidance on installation, version updates, and managing reports, differentiating between forms and lists. It covers detailed parameter settings for various document types, such as delivery notes and invoices. Key configuration topics include printer setup for physical and PDF outputs, general file exports, e-mail dispatch logic (including sender/recipient determination and mail server configuration), and handling document attachments. The manual also addresses advanced features like e-invoicing (XRechnung, ZUGFeRD), printing sketches from A+W Design, and setting up document archiving with watermarks. A significant portion is dedicated to troubleshooting, with extensive lists of status flags and error codes to help diagnose and resolve issues related to configuration, data transfer, Crystal Reports engine errors, and archiving processes."
+description: "EN-CONFIG-AW_Enterprise_Print_Service"
 ---
+
 
 # A+W Configuration Instructions
 # A+W Enterprise Print Service

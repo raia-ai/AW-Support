@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Production_Filling_Corner"
-source: "EN-CONFIG-AW_Production_Filling_Corner.pdf"
-tags: ["A+W Production", "Configuration", "Filling Corner", "Capillary Tube", "Glass Processing", "Software", "ERP", "BOM Configurator", "A+W Designer"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This internal configuration document provides detailed instructions for setting up and using the 'Filling corners and capillary tubes' feature within the A+W Production software suite. It covers program updates, A+W Designer (Shapes) adjustments, A+W Production master data configuration, machine assignment, scheduling, and the resulting data flow for robotic glass processing operations."
-long_description: "A comprehensive technical guide for configuring the A+W Production system to handle 'Pressure compensation' processing, specifically for filling corners (A+W type 1661) and capillary tubes (A+W type 1662) in IG and LAMI glass units. This document is intended for internal A+W personnel and advanced users responsible for software installation and configuration. It details the necessary program updates for A+W Production, A+W CAD-Designer, and A+W Production Terminal. The guide walks through the required adjustments in the `SN.INI` file for A+W Designer, the creation of master data (articles, processing types) in A+W Production, and the use of the BOM configurator to automatically generate processing steps. It further explains machine assignment, creating work processes in the MZO-Editor, scheduling orders via Orders4Production, and activating the relevant work steps. Finally, it describes the data parameters (e.g., `POOL_BEARBEIT.MASS` variables) that are generated and used by the Production Terminal and for batch formation, providing clear examples and diagrams."
+description: "EN-CONFIG-AW_Production_Filling_Corner"
 ---
+
 
 # A+W Configuration
 ---

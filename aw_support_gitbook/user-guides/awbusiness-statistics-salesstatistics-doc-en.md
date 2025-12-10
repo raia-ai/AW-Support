@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Statistics_4.01"
-source: "EN_AWBusiness_Statistics_4.01.pdf"
-tags: ["A+W Business", "Statistics", "Software Documentation", "Sales Statistics", "Purchasing Statistics", "Commission Statistics", "Reporting", "Data Analysis", "Glass Industry", "Windows and Doors"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the Statistics module of A+W Business, a software solution for the glass, windows, and doors industry. It provides detailed instructions on how to use various statistical evaluation tools for company analysis."
-long_description: "This comprehensive guide details the features and functionalities of the A+W Business Statistics module. It is intended for end-users of the software, providing a thorough reference for performing various data evaluations. The document covers several key areas of business analysis, including Sales Statistics, Purchasing Statistics, Commission Statistics, and Intrastat messaging. For each area, it explains how to configure options, set selection criteria and restrictions, and interpret the resulting tables and graphs. Specific topics include evaluating order stock (entered, produced, invoiced, open), analyzing turnover, managing super statistics for multi-site comparisons, tracking complaints, analyzing consumption, and calculating commissions. The manual is structured to guide the user from a general overview to specific, detailed functions, complete with screenshots, field descriptions, and examples. It also includes editorial information, such as a revision history, copyright notices, and contact details for A+W Software GmbH."
+description: "EN_AWBusiness_Statistics_4.01"
 ---
+
 
 # A+W Statistics
 

@@ -1,12 +1,7 @@
 ---
-title: "AUW_Configuration_FlipSheetsInProduction"
-source: "AUW_Configuration_FlipSheetsInProduction.docx"
-tags: ["configuration", "production", "flip-sheets", "AUW", "operations", "workflow", "SOP", "manufacturing", "setup", "process-control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a structured configuration guide for managing Flip Sheets in a production environment at AUW. It outlines required settings, roles, workflows, and step-by-step procedures, including dependencies and validations. The content has been converted to clean, UTF‑8 Markdown with clear sections, lists, and tables to support search and retrieval in a vector store."
-long_description: "This reference consolidates the complete configuration and operating guidance for Flip Sheets in the AUW production environment. It is intended for system administrators, process owners, and operations staff who configure, maintain, and execute Flip Sheet workflows. The material covers prerequisites, environment assumptions, and the underlying business rules that govern when and how Flip Sheets are created, validated, posted, and archived. It also captures field-by-field settings, role-based permissions, statuses and transitions, and any integration points with upstream and downstream modules (for example, inventory, scheduling, or quality). Where the source included tables, these have been rendered using GitHub-Flavored Markdown for clarity and fidelity; lists have been normalized to Markdown bullets and ordered steps, and headings have been standardized so that primary sections appear as level-2 headers and sub-sections as level-3 or emphasized text. In addition to configuration steps, the guide includes exceptions, validations, and decision points that affect the Flip Sheet lifecycle in production. The layout has been semantically reconstructed to preserve all original content while improving readability and consistency for downstream indexing. This file is suitable for programmatic ingestion into an embedding-based knowledge system and can serve as the authoritative reference for training, troubleshooting, onboarding, and audit support."
+description: "AUW_Configuration_FlipSheetsInProduction"
 ---
+
 
 ## Scheiben gewendet produzieren
 ### History

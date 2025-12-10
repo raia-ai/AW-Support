@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness ProductionManager 2.21"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_ProductionManager_2.21"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Production Manager           I                                English                  A+W Business Pro                                                                                                           Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision Overview                                        Section         Software"
-source_file: "EN_AWBusiness_ProductionManager_2.21.pdf"
+description: "EN AWBusiness ProductionManager 2.21"
 ---
+
 
 
 # EN AWBusiness ProductionManager 2.21

@@ -1,15 +1,7 @@
 ---
-title: "Software Reference: Time Master Data"
-category: "training"
-product: "AWProduction"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWProduction", "CapacityPlanning", "TimeMasterData", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWProduction_Capacity_Planning_4_5" source: "EN_AWProduction_Capacity_Planning_4_5.pdf" tags: ["capacity planning", "software reference", "A+W Production", "time master data", "shift planning", "formula editor", "machinery costs", "load distribution", "transition times", "technical manual"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is a software reference guide for the A+W Production Capacity Planning module. It provides detailed instructions on confi"
-source_file: "AWProduction-CapacityPlanning-TimeMasterData-Doc-EN.md"
+description: "Software Reference: Time Master Data"
 ---
+
 
 
 title: "EN_AWProduction_Capacity_Planning_4_5"

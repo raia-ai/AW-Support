@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_5-1"
-source: "EN_AWBusiness_Master_Data_9_5-1.pdf"
-tags: ["A+W Business", "Master Data", "User Rights", "Employee Rights", "Order Management", "Status Administration", "Number Manager", "Software Tutorial", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual detailing two tutorials for the A+W Business software. Tutorial 1 covers managing company information, specifically restricting and deleting employee user rights. Tutorial 2 focuses on document processing, including order entry, interaction of master data, using number managers, and the comprehensive status administration system for tracking business processes."
-long_description: "This document serves as a training guide for the A+W Business Master Data module, divided into two tutorials. The first tutorial, 'Additional Information on the Company,' provides step-by-step instructions on how to manage user permissions within the system. It covers how to restrict access to specific program items for an employee and how to delete an employee's rights. It concludes with exercises for practicing these administrator-level tasks. The second tutorial, 'Documents,' is more extensive and explains the commercial processes related to document handling. It details how to create and manage orders to test master data, explaining the interaction between various data points like customer data, products, and pricing. It introduces the concept of Number Managers for organizing documents and provides a detailed walkthrough of the Status Administration system. This includes understanding status points, user statuses, status allocation, lock statuses, and lock codes, which collectively define and control the workflow of documents like orders and invoices from creation to archiving."
+description: "EN_AWBusiness_Master_Data_9_5-1"
 ---
+
 
 # Tutorial 1: Additional Information on the Company
 

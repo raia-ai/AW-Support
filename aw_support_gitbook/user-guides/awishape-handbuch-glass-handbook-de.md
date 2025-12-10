@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AW_iShape"
-source: "DE-HB-AW_iShape.pdf"
-tags: ["A+W iShape", "Handbuch", "Software", "Glass", "Windows", "Doors", "Digitalisierung", "Schablonen", "CAD", "XTREAM"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This is the German user manual (Handbuch) for A+W iShape, a software solution for digitizing non-rectangular glass, window, and door templates (shapes). It explains how to use a smartphone camera with L-shaped reference objects to capture templates, process them in the iShape app, and then import the data into the A+W CAD Designer for further processing and manufacturing."
-long_description: "This document serves as a comprehensive user guide for the A+W iShape software system. A+W iShape is designed to simplify and accelerate the process of digitizing physical templates (Schablonen) for non-rectangular glass, windows, and doors. The system uses a smartphone app in conjunction with physical, L-shaped reference objects equipped with QR codes. Users photograph the template with these reference objects placed on it. The app then processes the image, corrects for distortions, and generates a digital contour of the shape. This manual details the entire workflow, from the initial setup and requirements to best practices for taking photos, including proper lighting, background, and focus. It covers the functionalities of the iShape mobile app, such as the gallery for managing images, processing steps, and exporting data. Furthermore, it explains how to import the generated `.ishape` files into the A+W CAD Designer (Shapes) software for post-processing. This includes tools for smoothing curves, connecting segments, adjusting corners, and manually creating edges to finalize the design for production on CNC machines. The manual also provides details on configuring the XTREAM algorithm for contour smoothing. It is intended for end-users of the A+W iShape system."
+description: "DE-HB-AW_iShape"
 ---
+
 
 # A+W iShape Handbuch
 

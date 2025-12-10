@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_6"
-source: "EN-UM-AW_Enterprise-Sales_4_6.pdf"
-tags: ["A+W Enterprise", "Sales Module", "Software Reference", "Order Entry", "Pricing", "Conditions", "Technical Manual", "ERP", "Notes", "Texts"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the A+W Enterprise Sales module. This document details the various dialogs, fields, and functionalities related to order entry, including managing notes, texts, prices, and conditions for customers, suppliers, articles, and projects."
-long_description: "This document is a comprehensive software reference manual for the A+W Enterprise Sales module, version 4.00/03-2020. It provides detailed descriptions of the user interface, focusing on the 'Sales > Order Entry' workflow. The manual is organized into major sections such as 'Notes,' 'Texts,' and 'Prices and Conditions.' Each section breaks down specific dialogs and their components, including header, body, and footer areas. It explains how to manage various types of notes (Customer, Supplier, Project, Article), handle different text types (Header, Footer, Item, Special Texts), and configure complex pricing structures through 'Order Conditions,' 'Order Prices,' and 'Conditions for PCD Processing.' The guide includes navigation paths, technical information about database fields (DB fields), and explanations of specific functionalities like creating phrases, setting up form outputs, and managing post-calculations. It is intended for users and administrators who need to understand the detailed workings of the A+W Enterprise Sales system to configure and operate it effectively."
+description: "EN-UM-AW_Enterprise-Sales_4_6"
 ---
+
 
 # Software Reference
 

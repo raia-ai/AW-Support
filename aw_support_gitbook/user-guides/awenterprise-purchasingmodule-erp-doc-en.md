@@ -1,12 +1,7 @@
 ---
-title: "EN_AWEnterprise_Purchasing"
-source: "EN_AWEnterprise_Purchasing.pdf"
-tags: ["A+W Enterprise", "Purchasing Module", "Software Manual", "ERP", "Glass Manufacturing", "Windows and Doors", "Purchase Orders", "Supplier Management", "Invoice Processing", "Goods Receipt"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference manual for the A+W Enterprise Purchasing module. It details the functionalities for managing the entire purchasing lifecycle, from creating purchase orders and supplier inquiries to processing goods receipts and invoices."
-long_description: "This is the official software reference manual for the Purchasing (E) module of the A+W Enterprise software suite, a specialized ERP solution for the glass, windows, and doors industry. The document provides end-users with detailed instructions and descriptions of all features within the Purchasing module. It covers the complete procurement process, including the creation and management of purchase orders (POs), handling supplier inquiries, and managing the PO Pool. The manual explains various system configurations, such as PO Pool configuration and individual document configuration. Key processes like the receipt of goods, both automatic and manual, and invoice checking are thoroughly documented. It also details the management of related documents like dispatch notifications, delivery plans, credit notes, and various overview reports. The guide provides in-depth information on search functions, document management, and the use of supplementary menus and context-sensitive functions to streamline purchasing tasks. It is intended for end-users and serves as a complete reference for the full program level of A+W Enterprise's purchasing capabilities."
+description: "EN_AWEnterprise_Purchasing"
 ---
+
 
 # A+W Purchasing E
 

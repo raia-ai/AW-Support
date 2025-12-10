@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_19"
-source: "D-HB-AWBusiness_19.pdf"
-tags: ["A+W Business", "Software Reference", "Order Management", "Sales", "ERP", "Position Data", "Header Data", "Document Search", "Germany", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business sales module, detailing functionalities related to position and header data in sales documents. It covers topics such as calculating order totals, applying fixed prices and discounts, tax calculations, and managing down payments. It also provides a comprehensive guide to searching, copying, and viewing various document types like orders, quotes, and inquiries."
-long_description: "This comprehensive software reference guide provides in-depth information on managing sales documents within the A+W Business software, specifically focusing on the 'Verkauf' (Sales) module. The manual is structured into two main parts: 'Positionsdaten' (Position Data) and 'Übersichten und Referenzen zu Kopfdaten' (Overviews and References for Header Data). The 'Positionsdaten' section explains how to manage financial details at the item level, including the calculation of order sums, the application of fixed prices and discounts, and the handling of net, gross, tax, and discount amounts. It also describes how to manage down payments. The second, larger section on 'Kopfdaten' provides extensive guidance on functions available at the document header level. It details the process for searching documents using various criteria (order-related, position-related, bill of materials), viewing results in a table, and configuring search options. It explains how to copy documents entirely or selectively, create partial deliveries, process complaints, and manage down payments. The guide also covers numerous informational dialogs, such as customer info, capacity overviews, document history, status changes, and logistics-related data like packing glass panes into crates. It serves as a detailed procedural and informational resource for users handling sales, order processing, and related administrative tasks within the A+W Business environment."
+description: "D-HB-AWBusiness_19"
 ---
+
 # Softwarereferenz
 
 ---

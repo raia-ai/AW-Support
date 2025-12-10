@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_1-2"
-source: "EN_AWBusiness_Sales_4_1-2.pdf"
-tags: ["A+W Business", "Sales", "Document Management", "Order Entry", "Invoicing", "ERP Tutorial", "Number Manager", "Credit Limit", "Subsequent Documents"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business Sales module, providing a comprehensive guide to document entry from order creation up to the invoicing stage. It details the process of entering and amending orders and order items."
-long_description: "This tutorial provides an in-depth guide to the document management functionalities within the A+W Business Sales software. It covers the entire commercial process from initial document entry to the final invoicing stage. The document explains the core concepts of 'documents' and 'subsequent documents,' detailing how sales transactions are managed. Key topics include creating and allocating various document types such as quotations, orders, P.O.s, and credit notes, and how these can be used as a basis for subsequent documents like order confirmations, delivery notes, and invoices, eliminating the need for redundant data entry. The tutorial also explains the 'number manager' concept for organizing documents, tracking document status and history, and using lock codes to control document flow. It covers interfaces to other modules like production and financial accounting (FinAcc), and details the process for handling different types of invoices, including partial, collective, and monthly invoices. The guide includes screenshots of the user interface, explaining the document header, item entry, and various control dialogs."
+description: "EN_AWBusiness_Sales_4_1-2"
 ---
+
 
 # Comprehensive Document Entry up to the Invoicing Stage
 

@@ -1,14 +1,7 @@
 ---
-title: "A+W Software - Product Index"
-category: "index"
-product: "A+W Software"
-doc_type: "Product Index"
-language: "EN"
-tags: ["products", "index", "reference"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Complete index of A+W products with document references"
+description: "A+W Software - Product Index"
 ---
+
 
 # A+W Software - Product Index
 

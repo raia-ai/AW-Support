@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Rack_Manager_Starting_Guide"
-source: "EN-INST-AW_Rack_Manager_Starting_Guide.pdf"
-tags: ["Rack Manager", "A+W Software", "ERP", "Glass and Windows", "Installation Guide", "Configuration", "Master Data", "A+W Business", "A+W Enterprise", "CommonBase"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a starting guide for the A+W Rack Manager, a software solution for managing racks in the glass and windows industry. It covers initial preparation, installation, basic configuration of the CommonBase and ERP connections, creation of users and master data, and steps to complete the start-up."
-long_description: "The 'A+W Rack Manager Starting Guide' is a comprehensive technical document that provides step-by-step instructions for the installation and initial setup of the A+W Rack Manager software. This guide is intended for system administrators and technical personnel responsible for deploying the software. It begins with pre-installation requirements, detailing the necessary ERP systems (A+W Business or A+W Enterprise), database servers (SQL Server or Informix), and web server configurations. The document guides the user through initializing the Rack Manager and CommonBase databases. It then delves into the basic configuration within the A+W CommonBase, including setting up the company structure, creating user groups (Administrators and standard Users), and assigning specific rights and permissions. A significant portion is dedicated to configuring global and system-specific settings (switches) for A+W Business and A+W Enterprise environments, ensuring proper communication with the ERP. The guide also covers the creation of master data within the Rack Manager, such as owner groups, owners, rack types, and individual racks. Optional sections on managing accessories and creating external users for customers are included. Finally, it provides appendices with specific configuration details for integrating with A+W Enterprise, A+W Business, and A+W Production, along with troubleshooting tips for common issues like display problems in Internet Explorer."
+description: "EN-INST-AW_Rack_Manager_Starting_Guide"
 ---
+
 
 # Rack Manager Start-up
 **AWDesk: 347582**

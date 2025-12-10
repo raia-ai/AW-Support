@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Versandsteuerung"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Versandsteuerung"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Versandsteuerung              G                                   deutsch                        A+W Enterprise                                                                                                           Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie editorische Notizen.                                          Revisionsübersicht                                        Part"
-source_file: "DE_AWEnterprise_Versandsteuerung.pdf"
+description: "DE AWEnterprise Versandsteuerung"
 ---
+
 
 
 # DE AWEnterprise Versandsteuerung

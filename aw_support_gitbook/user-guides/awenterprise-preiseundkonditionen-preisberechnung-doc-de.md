@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Preise_Konditionen_2.20"
-source: "DE_AWEnterprise_Preise_Konditionen_2.20.pdf"
-tags: ["A+W Enterprise", "Preise und Konditionen", "Software-Dokumentation", "Preisberechnung", "Glasindustrie", "Fenster und Türen", "ERP-Software", "Tutorial", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein umfassendes Handbuch für das Modul 'Preise und Konditionen' der A+W Enterprise Software. Es enthält ein Tutorial und eine Softwarereferenz zur Verwaltung und Berechnung von Preisen für Produkte aus der Glas-, Fenster- und Türenindustrie."
-long_description: "Dieses Dokument dient als detaillierte Anleitung und Referenz für das Modul 'Preise und Konditionen' innerhalb der A+W Enterprise Software, einer spezialisierten ERP-Lösung für die Glas-, Fenster- und Türenbranche. Es ist in mehrere Hauptteile gegliedert: 'Vorspann' mit editorischen Notizen und rechtlichen Hinweisen, ein ausführliches 'Tutorial' zur Preisberechnung, eine detaillierte 'Softwarereferenz' zu allen Dialogen und Funktionen sowie einen Index. Das Tutorial führt den Benutzer schrittweise durch die Logik der Preisermittlung, von den Grundgedanken über die Definition von Preisschlüsseln (PLKZ, PKZ), Preismatrizen, Vektoren bis hin zur Anlage von komplexen Konditionen und Zuschlägen. Es werden spezifische Preismodelle für ISO-Glas, VSG, ESG und Sprossen behandelt. Die Softwarereferenz bietet eine systematische Beschreibung aller Menüs, Dialoge und Felder, die für die Preis- und Konditionsverwaltung relevant sind. Sie dient als Nachschlagewerk für fortgeschrittene Anwender, um spezifische Einstellungen und deren technische Hintergründe zu verstehen. Das Dokument richtet sich primär an Endanwender, die für die Stammdatenpflege und Preisverwaltung in A+W Enterprise verantwortlich sind."
+description: "DE_AWEnterprise_Preise_Konditionen_2.20"
 ---
+
 
 # A+W Preise und Konditionen C
 

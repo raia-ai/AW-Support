@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_10-3"
-source: "EN_AWBusiness_Master_Data_9_10-3.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "Pricing", "Stock Management", "EDI", "Archiving", "System Configuration", "Company Data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Master Data, covering company-level settings for pricing, stock management, EDI, data archiving, and system configurations."
-long_description: "This comprehensive software reference guide details the configuration options available within the A+W Business Master Data module. It is divided into several key sections, providing administrators and advanced users with the necessary information to customize the software to their company's specific needs. The guide covers a wide range of topics, including detailed price calculation settings such as handling surcharges, French pricing rules, currency conversions, and CPIP creation. It also explains settings related to stock, purchasing, and EDI, including how purchase prices are calculated, how inventory is managed at the BOM level, and configurations for EDI interfaces and Dorma web services. Furthermore, the document outlines the procedures for data archiving, explaining how to set up global and document-specific archiving rules, manage statistics (turnover, sales commission), and configure automatic data deletion policies. Finally, it details system-level settings, such as units of measurement, date/time formats, lead day calculations, and integrations with other A+W modules like A+W CAD Designer. The guide uses screenshots, option descriptions, and cross-references to other parts of the documentation to provide a thorough understanding of each configuration parameter."
+description: "EN_AWBusiness_Master_Data_9_10-3"
 ---
+
 
 ---
 ## Software Reference - Company

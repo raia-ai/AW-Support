@@ -1,12 +1,7 @@
 ---
-title: "AUW_Configuration_ExtendedEdgeDeletion"
-source: "AUW_Configuration_ExtendedEdgeDeletion.docx"
-tags: ["AUW", "Configuration", "Extended Edge Deletion", "Data Management", "Graph Operations", "Deletion Rules", "Admin Guide", "Procedures", "Settings"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration guidance for the Extended Edge Deletion feature in AUW. It is organized into the following main sections: What is Extended Edge Deletion?, Configuration A+W Production, Configuration cutting code driver, Entry A+W Production, Entry A+W Business."
-long_description: "This document details how to configure and operate the Extended Edge Deletion capability within AUW. It is intended for administrators and advanced users responsible for maintaining data integrity and managing edge relationships. The content is structured into major sections, including: What is Extended Edge Deletion?; Configuration A+W Production; Configuration cutting code driver; Entry A+W Production; Entry A+W Business; Entry A+W Enterprise; Appendix 1 - Overview IG; Appendix 2 - Troubleshooting; Appendix 3 - Specials. Key sub-sections cover topics such as: How are deletion sizes entered?; How to calculate automatically deletion sizes?; Where are the deletion sizes stored?; Technical Requirements; Activate automatic calculation; Size of the grinding wheel; Edge individual cutbacks; Edge work and extended edge deletion; Enable and disable extended edge deletion; Minimum width of extended edge deletion. It outlines prerequisites and environmental requirements needed before enabling the feature. Procedural guidance explains configuration steps, parameter options, and sequencing to ensure correct behavior. Illustrative examples and use cases demonstrate expected outcomes and edge conditions. Throughout the document, each section begins with a clear header and uses bullet lists and tables where appropriate to present parameters and outcomes. Terminology and definitions are preserved from the source, and any tables are rendered using GitHub Flavored Markdown for consistency. Where the original formatting implied groupings or hierarchies, these have been normalized into consistent sections and sub-sections to improve readability in text-based interfaces."
+description: "AUW_Configuration_ExtendedEdgeDeletion"
 ---
+
 
 History
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_21"
-source: "EN-UM-AWBusiness_21.pdf"
-tags: ["A+W Business", "Purchasing", "Purchase Order", "ERP", "Supplier Management", "Inventory", "Order Confirmation", "Receipt of Goods", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial document for the A+W Business Purchasing module. It provides step-by-step instructions on managing purchase order (P.O.) items, handling suppliers, transferring P.O.s, entering order confirmations, and processing the receipt of goods."
-long_description: "This document is a comprehensive tutorial for the A+W Business Purchasing module, a component of an Enterprise Resource Planning (ERP) system. It guides users through the entire lifecycle of a purchase order, from creation to receipt of goods. The tutorial begins with creating P.O. items within a customer order, explaining how to handle different procurement types and assign suppliers at various levels (document, item, or BOM). It details the process of transferring these items to the purchasing department via an \"order pool,\" where they can be checked, consolidated, and compared. The document provides instructions on changing suppliers, managing delivery dates, and handling collective orders. It then moves to the post-order process, covering how to enter supplier order confirmations (OCs), check and correct prices, and manage partial deliveries. The guide also covers manual P.O. creation for stock replenishment and other independent purchases. Finally, it explains how to record the receipt of goods, including handling partial deliveries, surpluses, and the specific procedures for booking boxes with unique IDs into inventory. The tutorial includes numerous screenshots and step-by-step instructions to facilitate user learning."
+description: "EN-UM-AWBusiness_21"
 ---
+
 
 # Tutorial: Purchase Orders
 

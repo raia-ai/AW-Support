@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_3-1"
-source: "EN_AWBusiness_Sales_4_3-1.pdf"
-tags: ["A+W Business", "Sales", "Invoicing", "Document Management", "Tutorial", "Status Management", "Reminders", "Label Printing", "Document History"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W Business Sales software, covering document entry up to the invoicing stage. It details procedures for printing labels, managing invoices, handling payments, issuing reminders, and understanding document history and status management."
-long_description: "This document is a comprehensive tutorial from the A+W Business Sales software manual, focusing on the complete workflow from comprehensive document entry to the final invoicing stage. It provides step-by-step instructions on various critical processes. Key topics include printing labels for documents, managing different types of invoices (full, partial, down payments), and calculating due dates based on various modes. The guide also covers entering receipts of payment, handling partial payments, and issuing reminders for overdue invoices. A significant portion is dedicated to document lifecycle management, including how to check document history to track all editing steps and status changes. Furthermore, it delves into the system's status management, explaining internal processes, status points, user statuses, and how to configure status allocations, lock codes, and exclusive statuses to control document processing and workflow within the A+W Business environment. The tutorial is supplemented with screenshots, exercises, and important notes to aid user understanding."
+description: "EN_AWBusiness_Sales_4_3-1"
 ---
+
 
 # Comprehensive Document Entry up to the Invoicing Stage
 

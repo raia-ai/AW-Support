@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Purchasing 3.30"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Purchasing_3.30"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Purchasing            D                            English                  A+W Business                                                                                                               Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision Overview                                        Section          Description"
-source_file: "EN_AWBusiness_Purchasing_3.30.pdf"
+description: "EN AWBusiness Purchasing 3.30"
 ---
+
 
 
 # EN AWBusiness Purchasing 3.30

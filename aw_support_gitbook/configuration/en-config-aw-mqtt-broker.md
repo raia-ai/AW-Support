@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W MQTT Broker"
-category: "configuration"
-product: "A+W MQTT Broker"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W MQTT Broker"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   MQTT Broker                          english Change history   Date             Author                   Remarks                      Version 2021-05-21 JNI                            Original version             1.0     Content  1.         General                                                               4 2.         Configuration                                                         5   2.1.     Configuration file                                                    5"
-source_file: "EN-CONFIG-A+W MQTT Broker.pdf"
+description: "EN CONFIG A+W MQTT Broker"
 ---
+
 
 
 # EN CONFIG A+W MQTT Broker

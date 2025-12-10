@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Box Management 1.10"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Box_Management_1.10"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Box Management            K                                English                      A+W Business                                                                                                              Introduction                                          Introduction                                      This part of the documentation contains editorial notes.                                        Revision Overview                                      Section           Description"
-source_file: "EN_AWBusiness_Box_Management_1.10.pdf"
+description: "EN AWBusiness Box Management 1.10"
 ---
+
 
 
 # EN AWBusiness Box Management 1.10

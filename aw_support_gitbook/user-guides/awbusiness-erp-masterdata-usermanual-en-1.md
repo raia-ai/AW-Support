@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_6"
-source: "EN-UM-AWBusiness_6.pdf"
-tags: ["A+W Business", "ERP", "Master Data", "Status Management", "Number Ranges", "Invoicing", "Rounding", "Project Management", "Technical Reference", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical tutorial (Tutorial 2) for the A+W Business ERP software, focusing on document management. It covers advanced master data configurations, including status allocation, lock codes, number range definitions, rounding rules, invoicing settings, and document printing configurations. The tutorial provides step-by-step instructions, explanations of system settings, and examples for practical application."
-long_description: "This document serves as the second part of a comprehensive tutorial for the A+W Business software, an ERP system designed for industries such as glass and window manufacturing. This segment, 'Tutorial 2', delves into the intricacies of managing 'Documents' and their related master data. It is intended for administrators and power users responsible for configuring the system's core business logic. The tutorial begins with status management, explaining how to allocate user statuses to documents at various points in their lifecycle. It then covers the use of lock codes to prevent documents from undergoing automatic processing steps. A significant portion is dedicated to defining and managing number ranges for different document types (e.g., quotations, orders, invoices) to ensure unique identification and proper process flow. The document details production preparation settings, including the setup of order areas. It provides an in-depth guide on setting up rounding rules, covering rounding types, rounding points (e.g., for prices, taxes, surfaces), and allocating these rules to clients or partners. The tutorial also explains the necessary settings for invoicing, such as finance data (taxes, currencies), and the procedures for printing text and documents, including the use of text modules, variables, and form management for customized printouts. Finally, it offers a detailed look at project and invoice management, explaining different modes like standard and extended project management, handling blanket orders, and issuing partial invoices. The concluding 'Additional Information' section acts as a technical reference, providing lists of available document types, limit types, system text variables, and predefined patterns, which are crucial for advanced customization and troubleshooting."
+description: "EN-UM-AWBusiness_6"
 ---
+
 
 # Tutorial 2: Documents
 

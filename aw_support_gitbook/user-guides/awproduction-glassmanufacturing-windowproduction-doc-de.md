@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_1"
-source: "D-AWProduction-HB_1.pdf"
-tags: ["A+W Production", "Software Manual", "Glass Manufacturing", "Window Production", "Door Production", "ERP", "PPS", "Production Planning", "Capacity Planning", "Barcode Manager"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive handbook for the A+W Production software, a production planning and control system designed for the glass, windows, and doors industry. It provides an overview of the software's modules, functionalities, and user conventions."
-long_description: "The A+W Production Handbook is a detailed user manual for the comprehensive production planning and control software developed by A+W. The software is tailored for manufacturers in the glass, windows, and doors sectors. This handbook serves as a complete guide for end-users, covering the full scope of the A+W Production suite. The document is structured into several parts, each designated by a letter (A, C, D, E, etc.), which correspond to different modules and functionalities of the software. Key topics include an general overview (Überblick), rough planning (Grobplanung), fine planning (Feinplanung), capacity planning (Kapazitätsplanung), a formula editor (Formeleditor), machine assignment (Maschinenzuordnung), barcode management (Barcode Manager), optimization systems (Packmitteloptimierung, Realtime Optimizer), and production terminals (Production Terminal). The manual begins with a preface containing revision history, copyright information, and contact details. It then provides a highly detailed table of contents. Each major section includes tutorials, software reference guides, and explanations of system conventions. The document is intended to help users understand the system architecture, from basic modules to advanced add-ons, and effectively utilize the software for planning, controlling, and monitoring their entire production process."
+description: "D-AWProduction-HB_1"
 ---
+
 
 # A+W Handbuch
 

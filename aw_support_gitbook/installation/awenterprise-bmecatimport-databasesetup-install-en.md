@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-A+W Enterprise BMECat Import"
-source: "EN-INST-A+W Enterprise BMECat Import.pdf"
-tags: ["A+W Enterprise", "BMECat Import", "Installation Guide", "Software Configuration", "Database Setup", "Informix", "Windows Server"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Installation and configuration instructions for the A+W Enterprise 6 BMECat Import module. This guide covers system requirements, installation procedures, database setup, and post-installation configuration."
-long_description: "This document provides comprehensive installation instructions for the A+W Enterprise 6 BMECat Import software, a component of the A+W software suite for the glass and windows industry. It is intended for system planners and administrators responsible for deploying the software. The guide details the entire process, from pre-installation checks to final configuration and uninstallation. Key topics include system requirements (supported Windows Server versions, network connectivity, and prerequisite software like Informix Client SDK and .NET Framework), step-by-step installation procedures using the A+W Setup Launcher, and post-installation configuration using the ConfigTool. It provides specific guidance on setting up database connections, configuring server and host settings via `setnet32.exe`, and managing trace logging for troubleshooting. The document assumes a new installation or an update, which follows the same procedure, and specifies that updates from much older versions (e.g., ALCIB 2011) are not supported."
+description: "EN-INST-A+W Enterprise BMECat Import"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 BMECat Import
 

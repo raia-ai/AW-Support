@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Dashboard"
-source: "EN-INST-AW_Dashboard.pdf"
-tags: ["A+W Dashboard", "Installation Guide", "Software Configuration", "Database Setup", "System Requirements", "Software Update", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation instructions for the A+W Dashboard software, a tool for the glass and windows industry. It covers new installations, updates from previous versions, and initial configuration."
-long_description: "This installation manual is a technical guide for planners and administrators responsible for deploying the A+W Dashboard software. The document is divided into two primary sections: a new installation and an update from versions 5.4/5.5. The 'New Installation' section details prerequisites, including server and client software requirements (IIS, browsers), database configuration (especially for A+W Production data), and network settings. It provides a step-by-step procedure for using the A+W SetupLauncher, creating database tables, importing standard forms, and setting up GUIDs for registration points. The 'Update' section addresses the specific steps needed to upgrade from older versions, highlighting changes in dependencies like the A+W Planning Job Service and the replacement of the A+W Corporate KPI Service. It includes procedures for uninstalling old services, checking the uninstallation, and converting data namespaces via SQL scripts to ensure compatibility. The guide also offers troubleshooting tips, such as purging browser cache and manually removing services."
+description: "EN-INST-AW_Dashboard"
 ---
+
 
 # Installation Instructions A+W Dashboard
 

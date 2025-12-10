@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_12"
-source: "D-AWBusiness-HB_12.pdf"
-tags: ["Software Reference", "A+W Business", "Stammdaten", "Firma", "Rechteverwaltung", "Provisionen", "Schnittstellen", "Formulare", "CE-Kennzeichen", "B2B"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the 'Firma' (Company) and 'B2B' master data sections of the A+W Business software. It provides detailed instructions on configuring user rights, commission structures, interfaces, forms, and B2B data exchange protocols. The guide is intended for administrators and advanced users responsible for system setup and maintenance."
-long_description: "This comprehensive software reference manual details the configuration of master data within the A+W Business system, focusing on the 'Firma' (Company) and 'B2B' modules. The 'Firma' section covers fundamental company settings, including the management of user rights ('Rechte'). It explains how to activate or deactivate permissions for changing, inserting, deleting, and executing data, and how to copy these rights between users and groups. It also describes the setup for status management in document workflows, allowing for fine-grained control over document state changes. The manual outlines the configuration of various organizational areas such as 'AV-Bereiche' (work preparation areas) and 'AD-Bereiche' (sales areas), and provides an in-depth guide to setting up sales representative commissions ('Vertreterprovision'), including different commission types and calculation bases. Furthermore, it covers the management of company bank details, branches, booking periods, and product surcharges. A significant portion is dedicated to the 'Schnittstellen-Dienst' (Interface Service), detailing the setup for data exchange with A+W Production and other external systems. This includes configuring feedback for production, planning, machine data, and breakage, as well as interfaces for financial accounting. The 'Formulare' (Forms) section explains the administration of print templates for documents like order confirmations, invoices, and delivery notes. It also touches on the setup for CE and CEKAL certifications, which are crucial for compliance in specific markets. The 'B2B' section outlines the configuration for electronic data interchange (EDI) with customers and suppliers. This includes managing product references, spacers (SZR), gas types, tours, and other EDI-specific parameters, ensuring seamless data exchange for orders and other business documents."
+description: "D-AWBusiness-HB_12"
 ---
+
 
 # Softwarereferenz Firma
 

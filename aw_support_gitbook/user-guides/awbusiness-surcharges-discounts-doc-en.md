@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_4-2"
-source: "EN_AWBusiness_Master_Data_9_4-2.pdf"
-tags: ["surcharges", "discounts", "pricing", "A+W Business Master Data", "product management", "customer management", "price calculation", "software tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide from the A+W Business Master Data tutorial series, focusing on the configuration and application of surcharges and discounts within the system. It covers automatic and manual surcharges, product and partner master data settings, and various discount types and hierarchies."
-long_description: "This document is a comprehensive tutorial on managing surcharges and discounts in the A+W Business software. The \"Surcharges\" section details how to define, allocate, and apply automatic surcharges for products and partners. It includes step-by-step instructions for setting up customer-specific surcharges, with examples for edge stripping, energy costs, and special discounts. A complex exercise walks the user through creating multi-dimensional price tables (cubes) and miscellaneous surcharges for specific conditions like edge overlength. The \"Discounts\" section explains the function and hierarchy of discounts, covering standard, graduated, and exchange discounts. It details how discounts are applied based on customer, product, product group, and price lists, and how they interact with surcharges. The document provides visual guides through software screenshots and explains the logic behind rate diversions and the discount search hierarchy, ensuring users can accurately customize pricing for specific customers or scenarios."
+description: "EN_AWBusiness_Master_Data_9_4-2"
 ---
+
 
 ---
 ## Surcharges

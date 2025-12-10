@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W EnterpriseProductionInterface"
-category: "configuration"
-product: "A+W EnterpriseProductionInterface"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W EnterpriseProductionInterface"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration                       _    A+W Enterprise 6 Production Interface                                       english                               - -INTERNAL- Change history           Date        Author   Remarks                                                 Version                              #314985: Ignore kmodparam.refflag for whole glass         2013-03-14 PG        systems. New section „Ganzglasanlagen und               2012.1_13                              Modelldaten“"
-source_file: "EN-CONFIG-A+W EnterpriseProductionInterface.pdf"
+description: "EN CONFIG A+W EnterpriseProductionInterface"
 ---
+
 
 
 # EN CONFIG A+W EnterpriseProductionInterface

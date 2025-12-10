@@ -1,12 +1,7 @@
 ---
-title: "US-FUNC-AW_Business_Pro"
-source: "US-FUNC-AW_Business_Pro.pdf"
-tags: ["A+W Business Pro", "ERP", "PPS", "Glass Manufacturing", "Software Specification", "Functional Specification", "Production Planning", "Optimization", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional specification for A+W Business Pro 6, an integrated ERP-PPS software solution designed for small and medium-sized companies in the glass manufacturing industry. It outlines the core features, capabilities, and limitations of the system's production and organizational modules. The specification details supported and non-supported processes related to production planning, optimization, machine integration, and coupling with other A+W products."
-long_description: "This document provides a detailed functional specification for A+W Business Pro 6, an integrated Enterprise Resource Planning (ERP) and Production Planning System (PPS) developed by A+W Software GmbH. The software is specifically targeted at small and medium-sized glass manufacturing companies that manage their production primarily through manual processes and production papers. A+W Business Pro 6 facilitates order processing from quotations and orders to dispatch and purchasing, while also offering comprehensive technical support for production planning. This specification focuses on the production-related aspects of the software, clarifying its capabilities in contrast to other A+W products and market solutions. It uses a series of comparison tables to detail supported versus non-supported features across several key areas: Characteristics in the Organization Area (e.g., lot types, storage organization), Features in the Optimization (e.g., yield/sequence modes, shape handling), Coupling/Expansion with other A+W Modules (e.g., Realtime Optimizer, Business PDC), and Machine Activation. The document also provides a summary table comparing the standard A+W Business Pro version with the A+W Business Pro (EL) version. Legal notices regarding copyright, trademarks, and liability are included."
+description: "US-FUNC-AW_Business_Pro"
 ---
+
 
 # A+W Functional Specification
 ---

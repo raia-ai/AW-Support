@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Master Data Reference"
-source: "EN_AWBusiness_Master_Data_9_11-2.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "ERP", "Formulas", "Interface Service", "Customizing", "Forms Management", "Production Reports"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A reference guide for managing Master Data in the A+W Business software, covering formulas, interface services, customization, text management, and form management."
-long_description: "This document is a detailed software reference manual for the A+W Business Master Data module. It provides comprehensive instructions and explanations for various configuration and management tasks. Key sections include: **Formulas**, which details the creation and management of formulas for task automation; **Interface Service**, which explains how to define interfaces for data exchange with A+W Production and other programs, including settings for production formats, scheduling, barcode reports, and financial accounting data; **Customizing**, which describes how to adjust A+W Business functions to specific company requirements; **Data Container**, for managing customizing data; **Text Management**, which covers the creation and use of text codes, standard texts, system texts, and reminder texts for documents; and **Forms Management**, which details the configuration of print forms, headers, footers, and other print-related settings. The guide is intended for administrators and advanced users responsible for setting up and maintaining the A+W Business system."
+description: "A+W Business Master Data Reference"
 ---
+
 
 ---
 ## Formulas

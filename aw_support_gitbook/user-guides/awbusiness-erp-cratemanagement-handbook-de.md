@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_35"
-source: "D-HB-AWBusiness_35.pdf"
-tags: ["A+W Business", "Software Reference", "ERP", "Crate Management", "Barcode Manager", "Inventory Management", "Order Processing", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business, covering modules for Crate Management and the Barcode Manager. It provides detailed instructions on inventory searches, future stock analysis, order placement, goods receipt and issue for crates, and barcode-based data entry."
-long_description: "This comprehensive technical document serves as a software reference manual for the A+W Business enterprise resource planning (ERP) system. The guide is written in German and is divided into several key modules, primarily focusing on inventory and logistics management. The first major section, 'Kistenmanagement' (Crate Management), details functionalities such as 'Lagersuche' (Inventory Search) for future stock levels, allowing users to check material availability and lead times. It explains how to manage and place stock orders ('Lagerbestellung'), including workflows for order pools and supplier interactions. A significant part is dedicated to 'Kisten – Ein- und Ausgang' (Crate Goods Receipt and Issue), which outlines the procedures for registering incoming and outgoing crates, assigning unique identification numbers (Identnummern), and managing stock on a positional basis. The second major part of the document introduces the 'A+W Business Barcode Manager (EL)'. This section functions as a tutorial and reference for using barcode scanners for online shop floor data collection (BDE). It covers the initial setup and configuration of scanners, the creation of data entry points within A+W Business, and the functions available through the scanner interface, such as goods receipt, production reporting (completion and breakage), and various stock movements (withdrawal, receipt, transfer, and crate-specific operations). The manual includes numerous screenshots of the user interface, explanations of all fields and options, and step-by-step instructions for performing key tasks. It concludes with a detailed specification of the barcode formats used and a comprehensive alphabetical index for quick reference."
+description: "D-HB-AWBusiness_35"
 ---
+
 
 # Softwarereferenz
 

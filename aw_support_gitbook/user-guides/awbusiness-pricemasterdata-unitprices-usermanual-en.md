@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_4"
-source: "EN-UM-AWBusiness_4.pdf"
-tags: ["price master data", "unit prices", "surcharges", "graduated prices", "shape prices", "grill prices", "A+W Business", "ERP", "pricing", "product management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial on managing Price Master Data within the A+W Business software. It covers the input of unit prices, shape prices, and grill prices, as well as defining various types of surcharges."
-long_description: "This document, \"Tutorial 1: Price Master Data,\" is a comprehensive guide for users of the A+W Business software. It provides step-by-step instructions for setting up and managing various pricing structures. The tutorial begins with the fundamentals of inputting unit prices for single products. It then moves to more complex pricing scenarios, including defining shape prices and grill prices, which often involve surcharges. A significant portion is dedicated to \"Surcharges,\" explaining how to create, copy, and manage different types like group surcharges, replacement surcharges, and miscellaneous surcharges for special cases (e.g., oversize, transport, energy). The guide also covers \"Graduated Prices,\" demonstrating how to set up pricing matrices, vectors, and cubes based on multiple limits like width, height, thickness, or quantity. It details the use of special limit types such as the Processing Index and PGR External Key for advanced pricing control. The document is rich with UI screenshots, examples, and exercises to help users master the price management module."
+description: "EN-UM-AWBusiness_4"
 ---
+
 
 # Tutorial 1: Price Master Data
 

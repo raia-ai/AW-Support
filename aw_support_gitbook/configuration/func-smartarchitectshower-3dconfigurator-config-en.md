@@ -1,12 +1,7 @@
 ---
-title: "A+W Smart Architect Shower Functional Description"
-source: "EN-FUNC-AW_Smart_Architect_Shower.pdf"
-tags: ["A+W", "Smart Architect Shower", "Software for Glass", "3D Configurator", "ERP Integration", "Functional Description", "CAD", "Glass Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description for the A+W Smart Architect Shower software. It details the features, requirements, and limitations of this 3D shower door configurator, which integrates with A+W Business and A+W Enterprise ERP systems for streamlined order and quotation processing."
-long_description: "This document outlines the technical and functional specifications of the A+W Smart Architect Shower module (Article Number 264106), designed for pilot installations. The module is a 3D configurator for shower doors, integrating directly into the order and quotation entry of A+W's ERP systems (A+W Business / A+W Enterprise). It automates the generation of glass components, machining details, hardware parts, and fittings based on user-defined parameters, technical rules, and restrictions, aiming to simplify input and reduce errors. The description covers system requirements for installation, including hardware specifications (CPU, RAM, disk space) and software dependencies (Windows Server, IIS, SQL Server, Docker). It provides a detailed list of existing functionalities (e.g., model shape changes, DXF/PDF downloads, validation rules), faulty features (e.g., 3D room design), and currently unavailable functions (e.g., replacing individual fittings, walk-in shower situations). The document also specifies key restrictions, such as its local-only connection (no A+W iQuote integration), the inability to edit items post-configuration, and notes on customer responsibilities like creating fitting macros. Legal information regarding trademarks, copyrights, and liability is also included."
+description: "A+W Smart Architect Shower Functional Description"
 ---
+
 
 # A+W Functional Description: A+W Smart Architect Shower
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_3-1"
-source: "EN_AWBusiness_Production_3-1.pdf"
-tags: ["A+W Business Production", "Software Reference", "Logistics", "Route List", "Production Data", "Status Message", "Booking", "Shipping", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Production software, focusing on the Production Data, Logistics, Route List, and Status Message modules. It details procedures for booking production data, planning shipping, managing route lists, and updating order statuses."
-long_description: "This document is a segment of the A+W Business Production Software Reference manual. It provides detailed instructions and explanations for several key modules related to post-production and logistics. The first section covers 'Production Data – Booking,' explaining how to book entered data, which withdraws raw materials from stock and adds produced items. The core of the document focuses on the 'Logistics' module, which includes planning and controlling the delivery of produced orders. It provides in-depth information on the 'Route List' dialog for planning goods shipment, including menu functions, selection criteria (like delivery date, route, status), printing options, and changing order details. The final major section covers the 'Status Message' and 'Packaging Allocation' features, which allow users to manually update order statuses using a keyboard scanner, allocate items to racks, and manage packaging. This guide is intended for operators and administrators responsible for managing production output and logistics within the A+W software environment."
+description: "EN_AWBusiness_Production_3-1"
 ---
+
 
 # Production Data – Booking
 

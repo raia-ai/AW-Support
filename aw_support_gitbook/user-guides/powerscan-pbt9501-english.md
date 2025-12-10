@@ -1,15 +1,7 @@
 ---
-title: "PowerScan PBT9501   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["PowerScan PBT9501 ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "POWERSCAN™ PBT9501                                                                       AIM, TRIGGER, DECODE: IT’S THAT SIMPLE!                                                                       An intuitive and effortless scanning experience is the target of the                                                                       PowerScan™ 9501 series. They combine omnidirectional reading                                                                       capabilities, typical in all ar"
-source_file: "PowerScan PBT9501 - English.pdf"
+description: "PowerScan PBT9501   English"
 ---
+
 
 
 # PowerScan PBT9501   English

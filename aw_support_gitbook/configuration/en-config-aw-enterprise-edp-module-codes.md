@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise EDP Module Codes"
-category: "configuration"
-product: "A+W Enterprise EDP Module Codes"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise EDP Module Codes"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Module Codes   A+W Enterprise – EDP Module Code                                    english 1. Content 1.   Content                                                                 3 2.   Overview                                                               5      2.1. History                                                           5      2.2. General Logic for Module Codes                                    5      2.3. Access log                                                        7"
-source_file: "EN-CONFIG-A+W Enterprise EDP Module Codes.pdf"
+description: "EN CONFIG A+W Enterprise EDP Module Codes"
 ---
+
 
 
 # EN CONFIG A+W Enterprise EDP Module Codes

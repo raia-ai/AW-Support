@@ -1,15 +1,7 @@
 ---
-title: "D AWDashboard 1.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["D_AWDashboard_1.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Dashboard                           Deutsch                 A+W Dashboard                  Vorspann                                 Vorspann                             In diesem Teil der Dokumentation finden Sie editorische Notizen.                               Revisionsübersicht                             A+W Dashboard            Beschreibung                             Version / Datum                              1.00 / 04-2014           Ersterstellung                                Editor"
-source_file: "D_AWDashboard_1.0.pdf"
+description: "D AWDashboard 1.0"
 ---
+
 
 
 # D AWDashboard 1.0

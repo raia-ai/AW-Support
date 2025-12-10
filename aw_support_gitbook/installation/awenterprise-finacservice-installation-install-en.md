@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_FinAc_Service"
-source: "EN-INST-AW_Enterprise_FinAc_Service.pdf"
-tags: ["A+W", "FinAc Service", "Installation", "Configuration", "Enterprise 6", "Software", "Glass", "Windows", "Database", "Intrastat"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation and configuration instructions for the A+W Enterprise 6 FinAc Service, a software interface designed for financial accounting systems within the glass and windows industry."
-long_description: "This is a technical manual for planners and administrators responsible for deploying the A+W Enterprise 6 FinAc Service. It covers the entire process from pre-installation checks to final configuration and uninstallation. The guide details system requirements, including supported Windows Server versions and prerequisite software like Informix Client SDK and .NET Framework. The core of the document is a step-by-step procedure for installation using the A+W Setup Launcher and subsequent configuration via the dedicated Config Tool. It provides detailed explanations and screenshots for each configuration dialog, covering Common Settings, Document Export, Intrastat Export, Database connections, FTP settings, and maintenance options. The document also addresses customer-specific setups for importing open amounts, exporting ongoing orders, and stock movements, as well as troubleshooting tips and the uninstallation process."
+description: "EN-INST-AW_Enterprise_FinAc_Service"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 FinAc Service
 

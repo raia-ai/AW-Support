@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kapazitaetsplanung_4_3"
-source: "DE_AWBusiness_Kapazitaetsplanung_4_3.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Software-Referenz", "Organisation", "Aggregate", "Vorgabezeiten", "Einlastung", "Stammdaten", "Produktionsplanung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist eine Softwarereferenz für das Modul Kapazitätsplanung in A+W Business Pro. Es beschreibt die Konfiguration von Stammdaten wie Organisation, Aggregate, Kalender, Vorgabezeiten und die Durchführung der Einlastung von Fertigungsaufträgen."
-long_description: "Diese Softwarereferenz bietet eine detaillierte Anleitung für das Modul Kapazitätsplanung der Software A+W Business Pro. Das Dokument ist in mehrere Hauptkapitel unterteilt, die den Benutzer durch die Konfiguration und Nutzung der Kapazitätsplanungsfunktionen führen. Im Kapitel 'Organisation' wird die Einrichtung von grundlegenden Organisationseinheiten wie Produktionsbereichen, Maschinen (Aggregaten) und deren technischen Restriktionen sowie Kalendern und Übergangszeiten behandelt. Das Kapitel 'Vorgabezeiten' erklärt, wie Zeitwerte für verschiedene Arbeitsarten und Maschinen definiert werden, unterteilt in Matrix-, Vektor- und Einzelzeit-Formate. Das Kapitel 'Zuordnen' beschreibt, wie Basisprodukte aus A+W Business Pro (z.B. Einfachglas, VSG, ESG) den entsprechenden Arbeitsarten in der Kapazitätsplanung zugeordnet werden. Im Kapitel 'Sperren' wird erläutert, wie Maschinen für bestimmte Produkte, Warengruppen oder Arbeitsgänge gesperrt werden können, um fehlerhafte Planungen zu vermeiden. Schließlich behandeln die Kapitel 'Übersichten' und 'Einlastung' die Analyse der Maschinenauslastung durch verschiedene Statistiken und Grafiken sowie den eigentlichen Prozess der manuellen oder automatischen Einlastung von Fertigungsaufträgen in die Produktion."
+description: "DE_AWBusiness_Kapazitaetsplanung_4_3"
 ---
+
 
 # Softwarereferenz - Organisation
 

@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction MZO 2.10"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_MZO_2.10"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Maschinenzuordnung       D                              deutsch                   A+W Production                                                                                                             Vorspann                                           Vorspann                                       In diesem Teil der Dokumentation finden Sie editorische Notizen.                                         Revisionsübersicht                                       Maschinenzuordnung       Beschrei"
-source_file: "DE_AWProduction_MZO_2.10.pdf"
+description: "DE AWProduction MZO 2.10"
 ---
+
 
 
 # DE AWProduction MZO 2.10

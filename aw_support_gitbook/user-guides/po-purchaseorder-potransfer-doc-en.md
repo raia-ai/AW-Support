@@ -1,12 +1,7 @@
 ---
-title: "Create Only One PO When Using PO Transfer for Orders with Different Delivery Dates"
-source: "PO_Transfer_to_one_PO.pdf"
-tags: ["A+W Business", "Purchase Order", "PO Transfer", "Order Consolidation", "Supplier Management", "ERP", "Software Guide", "PO Settings"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A guide on configuring A+W Business software to consolidate multiple orders, even with different customer delivery dates, into a single Purchase Order (PO) by adjusting PO Transfer settings."
-long_description: "This technical document provides a step-by-step guide for users of A+W Business software, specifically for glass, windows, and doors industries. The primary objective is to configure the system to create a single Purchase Order (PO) from multiple sales orders that may have different customer delivery dates. The process involves modifying the PO Transfer settings. Key steps include disabling the 'Order related transfer' option, which normally creates one PO per order. Additionally, it requires setting up a 'User-defined' sorting sequence under the 'Extended' settings, prioritizing sorting by Supplier, Supplier Delivery Date, and then Order Number. The guide emphasizes that for consolidation to work, the selected orders must share the same supplier and the same supplier delivery date. The document uses annotated screenshots to clearly illustrate each step in the A+W Business user interface, from initial settings to verifying the final consolidated PO."
+description: "Create Only One PO When Using PO Transfer for Orders with Different Delivery Dates"
 ---
+
 
 # Create Only One PO When Using PO Transfer for Orders with Different Delivery Dates
 

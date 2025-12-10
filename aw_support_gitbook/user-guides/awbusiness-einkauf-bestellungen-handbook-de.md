@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Einkauf Tutorial - Bestellungen und Wareneingang"
-source: "D-HB-AWBusiness_22.pdf"
-tags: ["A+W Business", "Einkauf", "Bestellungen", "Wareneingang", "ERP-Software", "Tutorial", "Sammelbestellung", "Lieferanten", "openTRANS", "EDI"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Ein umfassendes Tutorial für das Einkaufsmodul der A+W Business Software. Es behandelt die Erstellung und Verwaltung von Bestellungen, Sammelbestellungen, Anfragen, die Abwicklung des Wareneingangs, die Preis- und Rechnungskontrolle sowie den elektronischen Dokumentenaustausch (EDI/openTRANS)."
-long_description: "Dieses Dokument ist ein detailliertes Schulungshandbuch für das Einkaufs- und Bestellwesen innerhalb der A+W Business ERP-Software. Es führt den Benutzer schrittweise durch alle relevanten Prozesse, von der Erstellung einzelner Bestellpositionen aus Kundenaufträgen bis hin zur Abwicklung komplexer Szenarien. Zu den Hauptthemen gehören das Zusammenfassen von Bestellungen zu Sammelbestellungen pro Lieferant, das Verwalten von Dokumenten im Bestellpool, das manuelle Erfassen von Lager- und unabhängigen Bestellungen sowie das Vergleichen von Preisen und das Ändern von Lieferanten im Bestellpool. Ein wesentlicher Teil des Tutorials widmet sich der Abwicklung nach der Bestellung, einschließlich der Erfassung von Auftragsbestätigungen des Lieferanten, der Prüfung und Korrektur von Lieferterminen und der Mahnung überfälliger Lieferungen. Der Prozess des Wareneingangs wird ausführlich behandelt, einschließlich der vollständigen und teilweisen Annahme von Lieferungen, der Abwicklung von Kisten mit Identnummern und der Kontrolle auf Mengendiskrepanzen. Abschließend wird die Preis- und Rechnungskontrolle detailliert erklärt und ein Kapitel über den elektronischen Dokumentenaustausch (EDI und openTRANS) erläutert, wie Dokumente wie Bestellungen, Auftragsbestätigungen und Rechnungen automatisiert ausgetauscht werden können. Das Tutorial ist mit zahlreichen Screenshots und Schritt-für-Schritt-Anleitungen angereichert, um den Lernprozess zu erleichtern."
+description: "A+W Business Einkauf Tutorial - Bestellungen und Wareneingang"
 ---
+
 
 # A+W Business Einkauf Tutorial
 

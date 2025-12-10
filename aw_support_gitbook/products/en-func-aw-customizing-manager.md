@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Customizing Manager"
-category: "functional_descriptions"
-product: "A+W Customizing Manager"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Customizing Manager"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Customizing Manager                                   english 1. Content 1.       Content                                                    3 2.       Notes on this Document                                     4   2.1.   Trademarks                                                 4   2.2.   Copyrights                                                 4   2.3.   Exclusion of liability                                     4 3.       Performance Description"
-source_file: "EN-FUNC-A+W Customizing Manager.pdf"
+description: "EN FUNC A+W Customizing Manager"
 ---
+
 
 
 # EN FUNC A+W Customizing Manager

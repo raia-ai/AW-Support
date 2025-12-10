@@ -1,12 +1,7 @@
 ---
-title: "A+W Business - iTOE Functional Description"
-source: "EN-FUNC-AW_Business_iTOE.pdf"
-tags: ["A+W Business", "iTOE", "CAD Designer", "Software for Glass", "Functional Description", "ERP", "BOM", "SN files", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Business - iTOE (Integrated Technical Order Entry) module. It details how the module integrates A+W CAD Designer (Shapes) with A+W Business for entering and processing geometries, harmonizing BOM data, and handling standard and free shapes for glass manufacturing."
-long_description: "This document provides a detailed functional description of the A+W Business - iTOE (Integrated Technical Order Entry) module. iTOE integrates the A+W CAD Designer (Shapes) directly into the order and quotation entry process of A+W Business. The primary goal is to enable seamless entry and processing of geometries and to harmonize the Bill of Materials (BOM) between the two systems. The document outlines the module's capabilities, including the entry of standard (STD) geometries, import of geometric data (like DXF files), generation of SN files, and synchronization of information. It also specifies the system requirements, such as necessary licenses for A+W Business and A+W CAD Designer, and assumed software versions. The text further details the list of functions, covering the process of adding, changing, and assigning geometries and processing steps. Importantly, it also lists restrictions and specific behaviors, such as how free shapes, non-standard processings, macros, and shape changes are handled. It provides guidance on data reporting between the CAD system and the business system, clarifying what data can be mapped and synchronized and what requires manual handling or saving in specific file formats (*.SN). The document serves as a technical reference for users and implementers of the A+W iTOE module."
+description: "A+W Business - iTOE Functional Description"
 ---
+
 
 # A+W Functional Description
 ---

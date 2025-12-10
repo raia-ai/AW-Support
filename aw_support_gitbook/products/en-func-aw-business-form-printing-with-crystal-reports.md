@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Business Form Printing with Crystal Reports"
-category: "functional_descriptions"
-product: "A+W Business Form Printing with Crystal Reports"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Business Form Printing with Crystal Reports"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Business - Form printing with Crystal Reports                                         english     1. Content     1.   Content                                                                       3     2.   Notes on this Document                                                        4          2.1. Trademarks                                                               4          2.2. Copyrights                                                               4"
-source_file: "EN-FUNC-A+W Business Form Printing with Crystal Reports.pdf"
+description: "EN FUNC A+W Business Form Printing with Crystal Reports"
 ---
+
 
 
 # EN FUNC A+W Business Form Printing with Crystal Reports

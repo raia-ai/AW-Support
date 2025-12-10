@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_5-3"
-source: "EN_AWBusiness_Sales_4_5-3.pdf"
-tags: ["Software Reference", "A+W Business Sales", "Item Data", "BOM", "Order Processing", "Pricing", "Shapes", "Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the 'Item Data' section of A+W Business Sales. It covers fields and functionalities related to order items, including pricing, contribution margin, surcharges, and product details."
-long_description: "This document is a detailed software reference manual for the A+W Business Sales application, specifically focusing on the 'Item Data' and related tabs within the order entry process. It provides comprehensive explanations for various fields, parameters, and functionalities that users will encounter when creating or editing sales orders. The guide covers topics such as proportionate surcharges, contribution margin (CM), unit costs, sales prices (SP), and purchase prices (PP). It details how to manage item properties like price codes, dimensions (width, height, thickness), and quantities. The manual also explains the functionalities within different tabs, including the 'Items - BOM' (Bill of Materials) tab for managing component pricing and display, and the 'Items - Shapes/processing' tab for defining custom shapes, processing steps (like edgework, drill holes, and bending), and handling complex product structures. It serves as a go-to resource for users to understand how calculations are performed, how data is adopted from master data, and how to use various context menus and options to customize order items."
+description: "EN_AWBusiness_Sales_4_5-3"
 ---
+
 
 ---
 ## Item Data

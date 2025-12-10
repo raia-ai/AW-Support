@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Lager 1.01"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Lager_1.01"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Lager              E                        deutsch             A+W Enterprise                                                                                                            Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part"
-source_file: "DE_AWEnterprise_Lager_1.01.pdf"
+description: "DE AWEnterprise Lager 1.01"
 ---
+
 
 
 # DE AWEnterprise Lager 1.01

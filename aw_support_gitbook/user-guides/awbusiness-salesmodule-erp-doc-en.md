@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_1-1"
-source: "EN_AWBusiness_Sales_4_1-1.pdf"
-tags: ["A+W Business", "Sales Module", "ERP", "Software Documentation", "Glass Industry", "Windows and Doors", "Tutorial", "Order Management", "Quotation", "Invoicing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual and tutorial for the A+W Business Sales module. This document covers the basic principles of sales, document entry, order processing, and other key functionalities for managing sales of glass, windows, and doors."
-long_description: "This document is a comprehensive guide to the Sales module of the A+W Business software, a specialized ERP solution for the glass, windows, and doors industry. It begins with an introduction outlining the document's structure, revision history, and editorial notes. The core of the document is a detailed tutorial section designed for end-users. The tutorial covers an overview of the sales module, its documentation, and display conventions. It then delves into the basic principles of the sales process, explaining the flow from quotation to invoicing, including handling purchase orders, deliveries, and complaints. The guide provides step-by-step instructions and explanations for creating and managing various sales documents, such as quotations, orders, credit notes, and reminders. The document is structured to build knowledge progressively, making it suitable for both new and experienced users of A+W Business. It also serves as a reference for specific functions within the sales workflow."
+description: "EN_AWBusiness_Sales_4_1-1"
 ---
+
 
 # A+W Sales: A+W Business
 

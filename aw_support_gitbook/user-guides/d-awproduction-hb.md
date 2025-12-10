@@ -1,15 +1,7 @@
 ---
-title: "D A+WProduction HB"
-category: "user_manuals"
-product: "A+WProduction"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+WProduction"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Handbuch                 Deutsch     A+W Production                                                                                                      Vorspann                                       Vorspann                                   In diesem Teil der Dokumentation finden Sie editorische Notizen.                                     Revisionsübersicht                                   Gesamt-Handbuch          Beschreibung                                   Version / Datum"
-source_file: "D-A+WProduction-HB.pdf"
+description: "D A+WProduction HB"
 ---
+
 
 
 # D A+WProduction HB

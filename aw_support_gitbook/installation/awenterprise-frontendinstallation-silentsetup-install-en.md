@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_Frontend"
-source: "EN-INST-AW_Enterprise_Frontend.pdf"
-tags: ["A+W Enterprise", "Frontend Installation", "Software Installation", "Configuration Guide", "Silent Setup", "Unattended Installation", "SSH Proxy", "A+W"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation and configuration instructions for the A+W Enterprise 6 Frontend software. It covers system requirements, step-by-step procedures, configuration settings, and advanced options like silent installation and SSH proxy setup."
-long_description: "A comprehensive technical guide for installing the A+W Enterprise 6 Frontend, a client application for A+W Enterprise 6. The document begins with a change history and outlines the prerequisites, including hardware, network, and software requirements. It details the step-by-step installation procedure using the A+W SetupLauncher, followed by an in-depth guide to configuring the application via the Config Tool. Configuration topics include common settings (language, font), server and site connections, and SSH connect options. The manual also addresses advanced installation alternatives, such as 'Silent Setup' or 'Unattended Installation' using an `awefrontend.config` file. It explains the setup and purpose of the SSH proxy service, details the directory structure post-installation, and provides troubleshooting tips for known errors, such as firewall port issues and IP masquerading problems. Finally, it covers the process for uninstalling the software."
+description: "EN-INST-AW_Enterprise_Frontend"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 Frontend
 

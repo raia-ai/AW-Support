@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_FinAc_Export"
-source: "EN-FUNC-AW_Enterprise_FinAc_Export.pdf"
-tags: ["A+W Enterprise", "Financial Accounting", "Data Export", "FinAc", "Master Data", "Document Data", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description for the 'Export of master data and document data for processing in financial accounting' module within the A+W Enterprise software. This document outlines the module's purpose, requirements, functions, and restrictions for exporting data to external financial accounting systems."
-long_description: "This document provides a detailed functional description of the A+W Enterprise FinAc Export module. Its primary function is to facilitate the export of master data (customers, suppliers) and document data (invoices, credit notes) from the A+W Enterprise system for processing in third-party financial accounting software. The document specifies that the export format is customer-specific and can be configured for various formats like XML, ASCII, or web services (SOAP/REST). It details the requirements for implementation, including the need for the customer to provide documentation for their financial accounting system's import interface. The list of functions includes configurable export settings (directory, FTP, timers), handling of various document types, consistency checks, and automatic updating of open items in A+W Enterprise. The document also notes the process is managed by a Windows service (AWE FinAc Service), is programmed customer-specifically, and requires an extensive testing phase."
+description: "EN-FUNC-AW_Enterprise_FinAc_Export"
 ---
+
 
 # A+W Functional Description
 

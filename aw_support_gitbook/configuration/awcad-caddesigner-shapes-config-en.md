@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_CAD_Designer_Shapes"
-source: "EN-CONFIG-AW_CAD_Designer_Shapes.pdf"
-tags: ["A+W", "CAD Designer", "Shapes", "Configuration", "SN.INI", "Drawing Configurator", "Profile View", "Software for Glass", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An internal configuration guide for the A+W CAD Designer (Shapes) software. This document details how to configure the software using the SN.INI file, including adding tools to views, using the Drawing Configurator for layout adjustments, and setting up the Profile View feature."
-long_description: "This document serves as a technical configuration guide for the A+W CAD Designer (Shapes) application, specifically for internal use. It provides instructions on how to customize the software's behavior and appearance. The guide focuses on modifications made through the `SN.INI` configuration file. Key topics covered include the 'General Information' section, which explains how to add extra tools to different views within the application. The 'Drawing Configurator' section introduces a dedicated tool for modifying the layout of SN drawings, explaining its location and usage, with a warning to back up configurations. Finally, the 'Profile View' section details the extensive set of parameters available in the `[Picture]` section of the `SN.INI` file to control the display of a unit's profile view, covering aspects like size, position, appearance, and the visibility of specific features such as drillings, coatings, and miters. The document is intended for technicians and developers responsible for setting up and maintaining the A+W CAD Designer software."
+description: "EN-CONFIG-AW_CAD_Designer_Shapes"
 ---
+
 
 # A+W Configuration
 # A+W CAD Designer (Shapes)

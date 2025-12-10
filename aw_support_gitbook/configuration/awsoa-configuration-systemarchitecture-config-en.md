@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_SOA_Dependencies"
-source: "EN-CONFIG_AW_SOA_Dependencies.pdf"
-tags: ["A+W", "AWSOA", "Software Dependencies", "Configuration", "System Architecture", "SOA", "Glass Industry", "Module Dependencies", "Database Schema", "Service-Oriented Architecture"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a technical overview of the A+W Service-Oriented Architecture (AWSOA) as of March 2025. It details the dependencies between different software modules, offers short descriptions of various services, maps services to their corresponding database tables, and provides a high-level domain overview of the system architecture. It is intended for system administrators and developers working with the A+W software suite for the glass industry."
-long_description: "This technical configuration document, \"AWSOA Dependencies (as of 03/2025),\" serves as a comprehensive guide to the A+W Service-Oriented Architecture. It is designed for technical personnel, including system architects, administrators, and developers, who are responsible for installing, configuring, and maintaining the A+W software ecosystem. The document is structured into several key sections. It begins by outlining the \"Module Dependencies,\" specifying which core AWSOA services are required for various A+W application modules like CIM.Web, Corporate.Web, iQuote, and the CX suite to function correctly. The \"Services Short Description\" section provides a functional summary of services across different categories such as Infrastructure, Facility, CAD, CIM, Commercial, and Planning. A significant portion of the document is dedicated to \"Access to databases and tables,\" which meticulously maps each SOA service to the specific databases (e.g., AWSOA, AWProduction, AlcimDB) and tables it interacts with, offering crucial insights for database administration and troubleshooting. Finally, the \"Domain Overview\" section presents a high-level architectural view, grouping services into logical domains like Infrastructure, Corporate, Commercial, Planning, and CIM, illustrating the overall structure of the software."
+description: "EN-CONFIG-AW_SOA_Dependencies"
 ---
+
 
 # A+W Configuration: AWSOA Dependencies (as of 03/2025)
 

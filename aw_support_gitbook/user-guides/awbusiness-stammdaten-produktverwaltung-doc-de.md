@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Stammdaten_9_7"
-source: "DE_AWBusiness_Stammdaten_9_7.pdf"
-tags: ["A+W Business", "Stammdaten", "Produktverwaltung", "Preiskalkulation", "Lagerverwaltung", "ERP", "Software-Referenz", "technische Dokumentation", "Glasindustrie"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for A+W Business, focusing on master data management within the Product Management module. It covers topics such as creating and configuring products, countersinks, pricing, surcharges, inventory parameters, and production data."
-long_description: "This document is a comprehensive software reference manual for the \"A+W Business\" ERP system, specifically detailing the \"Stammdaten\" (Master Data) section of the \"Produktverwaltung\" (Product Management) module. It provides step-by-step instructions and explanations for configuring various product attributes. Key areas covered include: defining countersinks with specific parameters; managing prices and surcharges, including tax settings, discounts, and rounding rules; setting up inventory and purchasing parameters, such as procurement types, stock management, and CE/CPIP data for compliance; configuring models and processing steps, including parameters, restrictions, and pricing for different shapes and machining; managing bill of materials (BOM) for complex products like insulated glass units (IGUs); assigning texts and language-specific descriptions; and integrating with A+W Production for manufacturing control. The manual is intended for system administrators and power users responsible for setting up and maintaining the product master data, which is fundamental for sales, purchasing, and production processes within the A+W Business software."
+description: "DE_AWBusiness_Stammdaten_9_7"
 ---
+
 
 # Produktverwaltung
 

@@ -1,18 +1,7 @@
 ---
-title: "AW_DynOpt_Smart_Factory_automation_USPs" 
-source: "AW_DynOpt_Smart_Factory_automation_USPs.docx" 
-tags: ['A+W DynOpt', 'A+W Smart Factory', 'Dynamic Optimization', 'Pulling-Mode', 'Pushing-Mode', 'Glass Manufacturing', 'MES', 'Shopfloor Control', 'Industry 4.0', 'USPs']
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document outlines the unique selling propositions (USPs) of A+W Smart Factory and A+W DynOpt (Dynamic Optimization) for flat-glass manufacturing. It contrasts traditional push-based, batch-centric production with A+W’s pull-based, real-time shopfloor control driven by software agents/digital twins. The approach automates late changes, optimizes buffers and racks, and improves yield while reducing manual interventions. It also explains the industry context around brittle material, breakage, residuals, and batching constraints, and summarizes observed differences versus alternative solutions from vendors such as Lisec, Fenetech, Hegla-Hanic, Optima, Synerglass, and Chinese “blackbox” sorting systems."
-long_description: "This document presents a structured view of the USPs of A+W Smart Factory and A+W DynOpt (Dynamic Optimization) within the flat-glass industry. It frames the central paradigm shift from push-based, batch-oriented production—still common even when planning is done Just-In-Time—to a true pull-based mode of shopfloor control. In push mode, production quantities are prepared upstream (e.g., at cutting) and pushed through subsequent processes, with late changes typically handled manually. By contrast, the A+W approach orchestrates production in real time using a system of software agents or digital twins that communicate process needs and current states across the line. What starts next is decided by the holistic, moment-to-moment situation; short-term changes such as delivery updates are incorporated automatically.
-
-The document explains why this matters in glass production: lot sizes are small, product mix varies continuously, and glass is brittle, with breakage at cutting and additional losses through heat treatment. Traditional batching creates rigidity, extra handling for exceptions, and residual plates that can degrade yield if not effectively reused. While many systems digitize paperwork via terminals and data collection, they still rely on batches and push execution. A+W’s pull-mode concept removes much of that rigidity, enabling dynamic optimization of buffers, improved yield by exploiting available buffer slots, and significant reductions in manual planner effort—illustrated, for example, by the A+W Rack Optimizer’s automation compared with more manual rack allocation approaches.
-
-A practical perspective is provided through observations from operations such as Pressglass: areas like buffer loading and table distribution are frequently still manually supervised in some competitor setups, whereas A+W automates these functions. The document compares A+W’s capabilities with alternatives from Lisec (Autofab, GPS-Rack), Fenetech/Fenevision, Hegla-Hanic, Optima, Synerglass, and Chinese equipment manufacturers that often implement a “blackbox” push approach with limited ability to resequence or respond to real-time changes. European sorting systems combined with A+W automation support true pull operation, dynamic re-sorting, and real-time re-optimization, aligning production with actual demand.
-
-Overall, the content highlights that moving from pushing to pulling is not incremental but a paradigm change that requires substantial software re-engineering. A+W Smart Factory is designed around this pulling paradigm, with parts of the approach protected by patents, making short-term imitation difficult and underpinning the USPs described throughout the document."
+description: "AW_DynOpt_Smart_Factory_automation_USPs"
 ---
+
 
 ## A+W DynOpt and/or Smart Factory automation USPs
 

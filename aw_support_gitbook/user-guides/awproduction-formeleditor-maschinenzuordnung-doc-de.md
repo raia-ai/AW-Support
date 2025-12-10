@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_8"
-source: "D-AWProduction-HB_8.pdf"
-tags: ["A+W Production", "Formeleditor", "Maschinenzuordnung", "Software Tutorial", "Technical Manual", "Formula Editor", "Machine Assignment", "Glass Manufacturing", "Windows and Doors Software", "Production Logic"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive guide to the A+W Production Formula Editor and Machine Assignment modules. This document provides tutorials and software references for creating, managing, and applying formulas, conditions, sets, and assignments to control production processes, particularly for glass, windows, and doors manufacturing."
-long_description: "This document serves as a detailed technical manual for the A+W Production software, focusing on two key components: the Formula Editor (Formeleditor) and Machine Assignment (Maschinenzuordnung). The first part is a tutorial and software reference for the Formula Editor, explaining its elements like formulas, comparisons, conditions, sets, and assignments across different complexity levels (Stufe I, II, III). It details how to construct logical expressions to control software behavior, including examples for filtering, calculations, and data manipulation. The second part of the document covers Machine Assignment (MZO), providing a tutorial on how to define and manage machines, logical machines, and work processes. It explains how to map the physical machine park into the software, define machine properties and restrictions, and assign work steps. This enables optimized production planning, capacity management, and cost calculation. The manual is intended for system administrators and advanced users responsible for configuring the production logic within A+W Production. It includes step-by-step instructions, diagrams, UI screenshots, and syntax references (Notation Formula.dll)."
+description: "D-AWProduction-HB_8"
 ---
+
 
 # Tutorial: Der Formeleditor
 

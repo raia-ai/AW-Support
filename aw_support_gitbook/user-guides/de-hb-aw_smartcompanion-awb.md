@@ -1,15 +1,7 @@
 ---
-title: "DE HB AW SmartCompanion AWB"
-category: "user_manuals"
-product: "AW_SmartCompanion"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AW_SmartCompanion", "AWB"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Smart Companion  Handbuch     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              06-2024      Überarbeitung Überblick              03-2021      Ersterstellung               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W Smart             Companion gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz             vergeben und darf nur gemäß dieser Lizenz"
-source_file: "DE-HB-AW_SmartCompanion-AWB.pdf"
+description: "DE HB AW SmartCompanion AWB"
 ---
+
 
 
 # DE HB AW SmartCompanion AWB

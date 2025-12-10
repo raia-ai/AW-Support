@@ -1,12 +1,7 @@
 ---
-title: "A+W Business / ALFAK - Short Description Stock & Inventory"
-source: "ShortDescription_Stock_Inventory.pdf"
-tags: ["A+W Business", "ALFAK", "ERP", "Software", "Glass Industry", "Stock Management", "Inventory Control", "Master Data", "BOM", "Stocktaking"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a short description of the Stock & Inventory module for the A+W Business / ALFAK software. It covers master data setup, stock management processes, stocktaking procedures, and order entry for stock articles, specifically tailored for the glass industry."
-long_description: "This is a technical guide for end-users of the A+W Business software, focusing on the Stock & Inventory module. The document details the necessary configurations and operational procedures for effective inventory management. It begins with the 'Revision Overview' and legal notices. The core content explains how to configure 'Default Settings in Master Data,' including stock definitions and company-level settings. It then delves into 'Definitions in Product Master Data,' explaining how to classify products as stock articles, manage stock sizes, and handle purchase prices. The guide provides a comprehensive walkthrough of 'The Stock Management Module,' covering the creation of stock articles, handling stock movements, using queries for reporting, and managing stock purchase orders. Additional sections are dedicated to 'Stock keeping on BOM Level,' 'Order Entry of Stock Articles,' and detailed 'Stocktaking' procedures. The annex offers practical steps for initializing the stock module and tables explaining stock modes and procurement types. The document is supplemented with numerous screenshots to illustrate the user interface and system functionalities."
+description: "A+W Business / ALFAK - Short Description Stock & Inventory"
 ---
+
 
 # A+W Business / ALFAK - Short Description Stock & Inventory
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Inventory_Management_6_2-1"
-source: "EN_AWBusiness_Inventory_Management_6_2-1.pdf"
-tags: ["A+W Business", "Inventory Management", "Stock Management", "Purchase Order", "P.O. Proposal", "Stock Search", "Future Stock", "Automatic P.O.", "Manual P.O.", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial on stock management within the A+W Business software. This guide covers viewing future stock, handling automatic and manual purchase orders (P.O.s), transferring P.O. proposals to purchasing, comparing supplier prices, and managing stock articles within documents like sales orders."
-long_description: "This document is a detailed tutorial from the A+W Business Inventory Management guide, focusing on stock management processes. It begins by explaining how to view future stock on hand, which helps in planning and forecasting. The guide then delves into the creation of Purchase Orders (P.O.s), differentiating between automatic and manual methods. It provides step-by-step instructions on how automatic P.O. proposals are generated when stock levels fall below a defined minimum and how these proposals can be reviewed, modified, and transferred to the purchasing department. The tutorial also covers how to manually create a stock P.O. The document details the process of comparing supplier prices for a P.O. proposal, allowing users to select the best supplier based on price or delivery time. Furthermore, it explains how to integrate stock articles into documents such as sales orders, including searching for available stock, handling reservations, and what happens to stock bookings when an order is modified. The guide uses screenshots and numbered steps to walk the user through various dialogs like 'Stock Search,' 'Stock P.O. - Order pool,' and 'Price Comparison.' It's designed for users who need to learn the practical application of inventory control features within the A+W Business software."
+description: "EN_AWBusiness_Inventory_Management_6_2-1"
 ---
+
 
 ---
 ## Tutorial: Stock Management

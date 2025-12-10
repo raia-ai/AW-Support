@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_Export_Service"
-source: "EN-INST-AW_Enterprise_Export_Service.pdf"
-tags: ["A+W", "Enterprise 6", "Export Service", "Installation Guide", "Configuration", "Software", "Glass Manufacturing", "Windows Server", "Informix"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation and configuration instructions for the A+W Enterprise 6 Export Service, a software component for the glass and window industry."
-long_description: "This is a detailed installation manual for the A+W Enterprise 6 Export Service. It outlines the entire process from pre-installation checks to final configuration. The guide covers system requirements, including supported Windows Server versions, necessary software dependencies like Informix Client SDK and .NET Framework, and network prerequisites. It provides a step-by-step procedure for installation using the A+W Setup Launcher, followed by detailed instructions for configuring the service using the Config Tool. Configuration topics include setting common parameters like polling intervals, configuring database connections for single or multiple databases, setting up trace and log levels for diagnostics, and configuring the Windows service user. The document also includes information on the directory structure, how to verify a successful installation, tips for auto-updates, and instructions for uninstallation."
+description: "EN-INST-AW_Enterprise_Export_Service"
 ---
+
 
 # Installation Instructions A+W Enterprise 6 Export Service
 

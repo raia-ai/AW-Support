@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Barcode_Manager_EL"
-source: "EN-FUNC-AW_Barcode_Manager_EL.pdf"
-tags: ["A+W", "Barcode Manager", "Software for Glass", "ERP", "Logistics", "Inventory Management", "Warehouse Management", "Barcode Scanning", "Android"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description for the A+W Barcode Manager (EL) module. This document outlines the features, requirements, and limitations of this entry-level solution for direct, wireless barcode booking using Android scanners in conjunction with A+W Business or A+W Business Pro software."
-long_description: "This document provides a detailed functional description of the A+W Barcode Manager (EL), a module designed as an integrated, entry-level solution for wireless barcode booking. It is intended for use with A+W Business v5 / A+W Business Pro v5 and later versions. The module facilitates various warehouse and production logistics processes by enabling users to perform real-time data entry via Android-based barcode scanners. The document covers the core functionalities, including receipt of goods, stock bookings (additions, removals, rebookings), rack management for shipping, and generating completion or breakage reports for order items. It specifies the technical requirements, such as the need for an Android scanner with an RDP client and a Terminal Server. The document also details specific limitations and notes, such as the requirement for an additional module for advanced breakage processing. Legal notices, copyright information, and contact details for A+W Software GmbH are also included."
+description: "EN-FUNC-AW_Barcode_Manager_EL"
 ---
+
 
 # A+W Functional Description: A+W Barcode Manager (EL)
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_Interne_Mandantentrennung"
-source: "EN-CONFIG-AW_Enterprise_Interne_Mandantentrennung.pdf"
-tags: ["A+W Enterprise", "Configuration", "Internal Client Separation", "Multi-Client System", "Software for Glass", "System Administration", "EDI", "Master Data", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Enterprise software, specifically focusing on the setup and management of Internal Client Separation. It details how to configure the system to handle multiple clients (sites or legal entities) on a single database."
-long_description: "This internal A+W configuration guide outlines the process for implementing the Internal Client Separation module in A+W Enterprise. This functionality allows a single database instance to serve multiple, distinct clients (representing different companies, sites, or legal units) while maintaining logical data separation. The document covers two stages of expansion, with the second stage activated by the `MP_SITE_EXACT` environment variable, enabling more advanced features. Key topics include system configuration for servers, number ranges, and directory structures; master data management for companies, market partners, and items with client-specific attributes; and transactional data handling in sales, purchasing, and pricing. It also details the setup for a call center solution, multilingual operations for employees, and the configuration of environment variables that control the behavior of the multi-client system. The guide is intended for technical personnel and system administrators responsible for configuring the A+W Enterprise environment."
+description: "EN-CONFIG-AW_Enterprise_Interne_Mandantentrennung"
 ---
+
 
 # A+W Enterprise Internal Client Separation
 

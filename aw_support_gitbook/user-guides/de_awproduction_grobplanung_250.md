@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Grobplanung 2.50"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Grobplanung_2.50"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Grobplanung              E                              deutsch                   A+W Production                                        Revisionsübersicht                                        Part                    Beschreibung                                        Version / Datum                                         2.50 / 01-2023          Vorgang suchen ergänzt.                                         2.01 / 01-2017          Produkt- und Firmennamen angepasst."
-source_file: "DE_AWProduction_Grobplanung_2.50.pdf"
+description: "DE AWProduction Grobplanung 2.50"
 ---
+
 
 
 # DE AWProduction Grobplanung 2.50

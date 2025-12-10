@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_21"
-source: "D-HB-AWBusiness_21.pdf"
-tags: ["A+W Business", "Einkauf", "Purchasing", "Software Manual", "ERP", "Deckungsbeitrags-Analyse", "Mahnwesen", "Bestellungen", "Wareneingang", "Verkauf"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business system, covering functionalities within the Sales (Verkauf) and Purchasing (Einkauf) modules. It provides detailed descriptions of evaluations, contribution margin analysis, internal controls, credit notes, dunning processes, and inventory management."
-long_description: "This document serves as a comprehensive software reference and tutorial for the A+W Business ERP system, with a specific focus on the 'Verkauf' (Sales) and 'Einkauf' (Purchasing) modules. It is divided into two main parts. The first part (Part C) details various evaluation and reporting functions within the sales process, including contribution margin analysis (Deckungsbeitrags-Analyse), calculated freight cost analysis (Kalkulatorische Frachtkosten), and internal control reports on credit notes, customer master data changes, and late deliveries. It also covers the management of credit notes (Gutschrift), journal entries, inventory lists (Bestandslisten), dunning procedures (Mahnwesen), and inventory search (Lagersuche). The second part (Part D) is a tutorial for the purchasing module (Einkauf). It outlines the fundamental purchasing workflow, from creating inquiries and orders to receiving goods and verifying invoices. This section provides step-by-step instructions for managing master data (products, suppliers, pricing), creating different types of orders (manual, automated, stock), handling supplier order confirmations, monitoring delivery dates, and processing goods receipts, including for special cases like crates. It also covers electronic document interchange (EDI/openTRANS). The manual is designed to guide users through daily workflows, explaining system prerequisites, dialog box options, filter settings, and data fields in detail."
+description: "D-HB-AWBusiness_21"
 ---
+
 
 # Teil C: A+W Business Verkauf
 

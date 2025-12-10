@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_CapaView"
-source: "EN-INST-AW_CapaView.pdf"
-tags: ["A+W", "CapaView", "Installation", "Software", "Glass", "Windows", "Setup", "Configuration", "Technical Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for the A+W CapaView software, a solution for the glass and windows industry. It covers system requirements, installation procedures, configuration settings, and uninstallation steps."
-long_description: "This is a comprehensive installation guide for A+W CapaView, a software product by A+W designed for the glass and windows industry. The document begins with a change history, detailing versions from 1.0 to 1.3. It outlines the necessary steps for a new installation, assuming no prior version exists. Key sections include system requirements (network and software), time estimations for installation, and a detailed procedural walkthrough. The guide specifies that an A+W Infrastructure ProcessServer and IIS Version 8 are prerequisites. It details the components to be selected in the A+W SetupLauncher, such as 'A+W Planning 6 Web' and 'A+W Planning 6 Job Services'. It also provides guidance on post-installation database configuration, troubleshooting steps if CapaView doesn't appear, and the process for uninstalling the software via the Windows 'Programs and Features' utility."
+description: "EN-INST-AW_CapaView"
 ---
+
 
 # Installation Instructions A+W CapaView
 

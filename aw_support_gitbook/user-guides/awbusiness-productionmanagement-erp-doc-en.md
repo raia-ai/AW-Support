@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_2-4"
-source: "EN_AWBusiness_Production_2-4.pdf"
-tags: ["A+W Business", "Software Reference", "Production Management", "ERP", "Glass Industry", "Transfer Settings", "Barcode Transfer", "Rack Load", "Production Data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference guide for the Production module in A+W Business. It covers settings for transferring data to production, managing shape lists, rack loads, barcode transfers, and entering production data."
-long_description: "This document serves as a comprehensive software reference for the Production module within the A+W Business ERP system. It provides detailed explanations of various functionalities and settings related to manufacturing processes, primarily in the glass industry. The guide is structured into several key sections. It begins with 'Settings for Transfer to Production,' which elaborates on transfer parameters, additional interfaces (like RONA/LIOPT), and text/attachment handling. It then moves to specialized tools like 'Shape List' for viewing orders with specific shapes, and 'Rack Load' for checking and managing rack allocation for produced orders. A significant portion is dedicated to 'Barcode Transfer,' explaining how to use scanners to transfer individual items to production. Finally, the 'Production Data' section details how to enter and book all necessary data for production orders, including materials, machine usage, and waste. The document is intended for system administrators and advanced users responsible for configuring and operating the A+W Business Production module."
+description: "EN_AWBusiness_Production_2-4"
 ---
+
 
 # Production
 

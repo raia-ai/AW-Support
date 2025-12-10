@@ -1,15 +1,7 @@
 ---
-title: "DE HB A+W iShape"
-category: "user_manuals"
-product: "A+W iShape"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W iShape"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W iShape   Handbuch     Deutsch Editorial                 Editorial             Revisionsübersicht der Dokumentation              08-2023      Aktualisierung des Kapitels XTREAM              06-2022      App-Freigabe in der Version 2.0              03-2021      Ersterstellung               Anmerkungen             Diese Veröffentlichung ist ausschließlich für Endanwender von A+W iShape             gedacht.             Diese Dokumentation und die darin beschriebene Software wird nur in Lizenz"
-source_file: "DE-HB-A+W iShape.pdf"
+description: "DE HB A+W iShape"
 ---
+
 
 
 # DE HB A+W iShape

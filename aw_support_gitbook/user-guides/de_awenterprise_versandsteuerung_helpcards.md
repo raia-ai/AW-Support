@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Versandsteuerung HelpCards"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Versandsteuerung_HelpCards"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Versandsteuerung                G                           Help Cards                        A+W Enterprise                  Help Cards                                                                           Versandsteuerung                      Versandsteuerung                  Die Darstellungen in den Help Cards basieren auf der Auslieferversion A+W Enterprise 6. Einzelne                  Schritte in den Workflows können je nach Konfiguration abweichen, z. B. das Arbeiten mit oder ohne"
-source_file: "DE_AWEnterprise_Versandsteuerung_HelpCards.pdf"
+description: "DE AWEnterprise Versandsteuerung HelpCards"
 ---
+
 
 
 # DE AWEnterprise Versandsteuerung HelpCards

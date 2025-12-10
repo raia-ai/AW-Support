@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Realtime_Optimizer"
-source: "EN-FUNC-AW_Realtime_Optimizer.pdf"
-tags: ["A+W", "Realtime Optimizer", "Glass Software", "Functional Description", "Production Control", "Cutting Process", "Optimization", "Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This functional description details the A+W Realtime Optimizer, a software module for controlling and optimizing the glass cutting process in production. It covers its core features, different versions (Standard, Stand-alone, EL), prerequisites, and integration with other A+W modules."
-long_description: "This document provides a comprehensive functional description of the A+W Realtime Optimizer, a control station designed to improve yield and efficiency in the glass cutting process. The software allows for the visualization of cutting patterns, management of rejects, and re-optimization of residual sheets. It describes the various versions of the product, including the standard module for A+W Production, a Stand-Alone version, and an Entry Level (EL) version. Key functionalities detailed include BDE bookings, batch identification, manual cutting plan editing, reject entry, defect optimization, residual stock management, and various optimization modes like re-optimization, quick optimization, and table optimization. The document also outlines the necessary prerequisites, such as the requirement of an A+W Production module for the standard version, and lists the specific functions available in each product variant. It concludes with a section on restrictions and provides contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Realtime_Optimizer"
 ---
+
 
 # A+W Functional Description: A+W Realtime Optimizer
 

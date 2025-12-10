@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Defect Optimizer"
-category: "configuration"
-product: "A+W Defect Optimizer"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Defect Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Defect Optimizer                                                                          english        A+W Software GmbH   EN-CONFIG-A+W Defect Optimizer.docx   - INTERNAL -                                                                      1 Change history                 Autho  Date                   Changes/Comments                                                 Version               r   08/24/201    KM        Release (#279490)"
-source_file: "EN-CONFIG-A+W Defect Optimizer.pdf"
+description: "EN CONFIG A+W Defect Optimizer"
 ---
+
 
 
 # EN CONFIG A+W Defect Optimizer

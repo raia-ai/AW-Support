@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Analytics"
-source: "EN-INST-AW_Analytics.pdf"
-tags: ["A+W Analytics", "QLIK Sense", "Installation", "BI Solution", "Software", "Glass and Windows", "Setup", "Configuration", "Update"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for A+W Analytics powered by QLIK Sense®. It covers the requirements, procedure, and configuration for a new installation, as well as instructions for updating an existing installation. The guide is intended for system administrators or technical personnel responsible for deploying the BI solution on a dedicated server."
-long_description: "This is a detailed technical manual outlining the installation and update procedures for A+W Analytics, a Business Intelligence (BI) solution based on QLIK Sense® technology, specifically designed for the glass and windows industry. The document begins with a change history and a comprehensive table of contents. The 'New Installation' section provides a step-by-step guide, starting with an overview of the tasks involved, such as installing QLIK Sense® Server, A+W Analytics, and necessary database drivers. It details the system requirements, including hardware, network port configurations, software dependencies like ODBC drivers, and licensing information for QLIK Sense®. The manual explains the installation procedure using the A+W SetupLauncher, discusses product incompatibilities, and illustrates the required directory structure. It also highlights the manual configuration process, emphasizing the importance of the `CU_Config.xlsx` file. The 'Update' section describes how to apply updates, noting that most files are overwritten except for the main configuration file, and explains how to merge new settings from templates."
+description: "EN-INST-AW_Analytics"
 ---
+
 
 # Installation Instructions: A+W Analytics powered by QLIK Sense®
 

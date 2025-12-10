@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise B2B Service ERP WS"
-category: "configuration"
-product: "A+W Enterprise B2B Service ERP WS"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise B2B Service ERP WS"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Enterprise B2B Service feat. ERP Webservice                                                                               english        A+W Software GmbH                                             - -INTERNAL-                        EN-CONFIG-A+W Enterprise B2B Service ERP WS.docx   1 Change history             Date         Author               Remarks                                  Version           2019-02-05   Original version     Transfer from Dokuware docum"
-source_file: "EN-CONFIG-A+W Enterprise B2B Service ERP WS.pdf"
+description: "EN CONFIG A+W Enterprise B2B Service ERP WS"
 ---
+
 
 
 # EN CONFIG A+W Enterprise B2B Service ERP WS

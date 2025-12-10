@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_12"
-source: "DE-HB-AWCADDesignerShapes_12.pdf"
-tags: ["A+W CAD Designer", "Shapes", "Index", "Technical Manual", "German", "Software", "Glass", "Windows", "Doors", "CAD"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the alphabetical index for the 'A+W CAD Designer (Shapes)' software manual. It provides a quick reference to key terms, features, and procedures, along with their corresponding page numbers, covering topics from basic operations to advanced functionalities like CAD design, data exchange, and machine integration."
-long_description: "This document serves as a comprehensive alphabetical index for the 'A+W CAD Designer (Shapes)' user manual. Written in German, it is designed to help users quickly locate information on specific topics within the main guide. The index covers a wide range of functionalities, including basic drawing and editing (e.g., creating shapes, dimensioning), advanced operations (e.g., working with complex contours, nesting, and CAM/DXF data exchange), and integration with other A+W products like A+W Business and A+W Production. Key terms are listed alphabetically, followed by the relevant page or section number (e.g., 'A-312'). This structured format is essential for users who need to find instructions on tasks such as dimensioning arcs, exporting data, managing toolpaths, or configuring machine start points. The index covers everything from fundamental concepts like 'Grundlagen' (basics) to specific features like 'Ausgleichsbogen' (compensation arc) and 'Kantenbearbeitung' (edge processing)."
+description: "DE-HB-AWCADDesignerShapes_12"
 ---
+
 
 # A+W CAD Designer (Shapes) Index
 

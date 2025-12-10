@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_LogisticsOptimizer_2_2"
-source: "EN_AWBusiness_LogisticsOptimizer_2_2.pdf"
-tags: ["logistics", "route planning", "optimization", "A+W Business", "software tutorial", "fleet management", "packaging types", "data import", "route optimization", "user manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business Logistic Optimizer software, focusing on administration, route planning, and route optimization. It provides step-by-step instructions for managing packaging types, importing data, creating and editing routes and destinations, and analyzing costs."
-long_description: "This document serves as a detailed user guide and training module for the A+W Business Logistic Optimizer software. It is structured as a tutorial that walks users through key functionalities of the application. The guide begins with the 'Administration' section, detailing how to manage packaging types, including creating, editing, and deleting them, and how to import data in CSV format for customers, departments, drivers, and vehicles. The core of the document is the 'Planning Routes' section, which explains the two operational modes (standard and dynamic), the process of importing and geolocating destinations, and managing routes and their associated destinations. It provides instructions on creating, saving, loading, copying, and deleting routes. The tutorial then moves into 'Optimizing Routes', demonstrating how to use the software to find the most efficient sequence of waypoints based on various factors like distance, weight, and time. It covers how to interpret the optimization results, use different map modes, and adjust optimization parameters. Finally, the guide covers 'Checking Results' and 'Driving and Tracking Routes', explaining how to finalize routes, input real-world cost data after a trip, and use the companion GDC (Goods Delivery Control) app for drivers to track progress and manage documents in the cloud. The document is highly practical, featuring screenshots of the user interface and step-by-step instructions for all major tasks."
+description: "EN_AWBusiness_LogisticsOptimizer_2_2"
 ---
+
 
 ---
 ## Administration

@@ -1,15 +1,7 @@
 ---
-title: "ShortDescription Stock Inventory"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["ShortDescription_Stock_Inventory"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Business / ALFAK  Short Description Stock & Inventory                                           English Revision Overview  Part                                      Version / Date                       Changes  Short Guide                               1.0 / 13.06.2013                     Initial Version   Notes on this Document  This document is intended for end users of A+W Business. This documentation and the software it describes are issued only in connection with licenses and must be u"
-source_file: "ShortDescription_Stock_Inventory.pdf"
+description: "ShortDescription Stock Inventory"
 ---
+
 
 
 # ShortDescription Stock Inventory

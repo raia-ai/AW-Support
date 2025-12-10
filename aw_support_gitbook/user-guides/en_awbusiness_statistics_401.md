@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Statistics 4.01"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Statistics_4.01"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Statistics             F                            english                  A+W Business                                                                                                                 Introduction                                                Introduction                                            This section of the documentation contains editorial notes.                                              Revision overview                                            Section"
-source_file: "EN_AWBusiness_Statistics_4.01.pdf"
+description: "EN AWBusiness Statistics 4.01"
 ---
+
 
 
 # EN AWBusiness Statistics 4.01

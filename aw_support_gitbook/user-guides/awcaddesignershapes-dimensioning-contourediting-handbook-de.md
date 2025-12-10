@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_6"
-source: "DE-HB-AWCADDesignerShapes_6.pdf"
-tags: ["A+W CAD Designer", "CAD Software", "Technical Manual", "Dimensioning", "Contour Editing", "German", "Shapes", "Drilling", "Mirroring", "Offsetting"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive guide from the A+W CAD Designer (Shapes) user manual, detailing the use of various tools for creating, modifying, and dimensioning geometric contours. It covers functions like offsetting edges, mirroring shapes, closing gaps, and creating ellipses."
-long_description: "This document is an excerpt from the A+W CAD Designer (Shapes) technical manual, focusing on the 'Werkzeuge' (Tools) section. It provides detailed, step-by-step instructions for a wide range of functions essential for CAD drawing and modification. The guide is broken down into several key areas: basic contour modifications (edge shifting, parallel offsetting, mirroring), closing incomplete contours imported from DXF files, and an extensive section on dimensioning. The dimensioning tools cover segments, angles, circles, and arcs, explaining how to define distances, coordinates, lengths, and angles. It also describes automatic dimensioning functions and specific tools for creating and positioning drill holes. Each tool's function is explained with procedural steps, icons, and often illustrated with example diagrams. Important notes and best practices, such as avoiding dimensioning relative to the coordinate system if the shape will be rotated, are highlighted. This manual is intended for users of the A+W CAD software to master its powerful drawing and dimensioning capabilities."
+description: "DE-HB-AWCADDesignerShapes_6"
 ---
+
 
 # Werkzeuge
 

@@ -1,15 +1,7 @@
 ---
-title: "A+W iShape Handbuch"
-category: "training"
-product: "AWiShape"
-doc_type: "User Manual"
-language: "DE"
-tags: ["AWiShape", "Handbuch", "Glass", "Handbook"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "DE-HB-AW_iShape" source: "DE-HB-AW_iShape.pdf" tags: ["A+W iShape", "Handbuch", "Software", "Glass", "Windows", "Doors", "Digitalisierung", "Schablonen", "CAD", "XTREAM"] version: "1.0" last_updated: "2025-10-03" short_description: "This is the German user manual (Handbuch) for A+W iShape, a software solution for digitizing non-rectangular glass, window, and door templates (shapes). It explains how to use a smartphone camera with L-shaped reference objects to capture templates, process t"
-source_file: "AWiShape-Handbuch-Glass-Handbook-DE.md"
+description: "A+W iShape Handbuch"
 ---
+
 
 
 title: "DE-HB-AW_iShape"

@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kapazitaetsplanung_4_1"
-source: "DE_AWBusiness_Kapazitaetsplanung_4_1.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "ERP", "Software", "Glasfertigung", "Fensterfertigung", "Produktionsplanung", "Zeitwirtschaft", "Stammdaten"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for the A+W Business Pro capacity planning module (Kapazitätsplanung), detailing master data setup, planning processes, and production monitoring for the glass, windows, and doors industry."
-long_description: "This document serves as a comprehensive tutorial and software reference for the Kapazitätsplanung (Capacity Planning) module within the A+W Business Pro ERP system. It is designed for end-users responsible for planning and monitoring production capacities and machine utilization. The manual covers the foundational concepts of capacity planning, including the setup and management of master data such as machines (aggregates), production areas, work types, shifts, and calendars. It provides step-by-step instructions on defining time specifications, surcharges, and factors to accurately calculate production times. The tutorial section guides users through the entire process, from setting up master data to scheduling orders, handling capacity problems, and monitoring production status via the control center (Leitstand). The software reference section offers a detailed breakdown of all dialogs, menus, and functions within the module. The document is specifically tailored for the glass, windows, and doors manufacturing industries."
+description: "DE_AWBusiness_Kapazitaetsplanung_4_1"
 ---
+
 
 # A+W Kapazitätsplanung
 

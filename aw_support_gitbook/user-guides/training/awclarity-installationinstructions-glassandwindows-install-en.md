@@ -1,15 +1,7 @@
 ---
-title: "AWClarity InstallationInstructions GlassAndWindows Install EN"
-category: "training"
-product: "AWClarity"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWClarity", "InstallationInstructions", "GlassAndWindows", "Install"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Text file: AWClarity-InstallationInstructions-GlassAndWindows-Install-EN.md Latest content with line numbers: 2	source: "EN-INST-AW_Clarity_Experience.pdf" 3	tags: ["A+W Clarity Experience", "Installation Instructions", "Software Installation", "Glass and Windows", "A+W Enterprise", "Version 6", "Linux/AIX", "Dependencies", "Setup"] 4	version: "1.0" 5	last_updated: "2025-10-03" 6	short_description: "This document provides installation instructions for A+W Clarity Experience, a software for the g"
-source_file: "AWClarity-InstallationInstructions-GlassAndWindows-Install-EN.md"
+description: "AWClarity InstallationInstructions GlassAndWindows Install EN"
 ---
+
 
 
 Text file: AWClarity-InstallationInstructions-GlassAndWindows-Install-EN.md

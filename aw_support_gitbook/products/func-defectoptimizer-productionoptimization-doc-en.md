@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Defect_Optimizer"
-source: "EN-FUNC-AW_Defect_Optimizer.pdf"
-tags: ["A+W", "Defect Optimizer", "Software for Glass", "Production Optimization", "Cutting Plan", "Realtime Optimizer", "Viprotron", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description for the A+W Defect Optimizer, a software module for glass production. It details how the software identifies, visualizes, and optimizes cutting plans to avoid defects on glass stock dimensions, thereby reducing waste and improving process efficiency."
-long_description: "This document provides a detailed functional description of the A+W Defect Optimizer, a module designed to work with A+W Production and A+W Realtime Optimizer 5.4 or later. The optimizer processes defect data from scanners (e.g., Viprotron) to improve glass cutting yields. It operates in two stages: a 'Pure display functionality' mode that visualizes defects on the cutting pattern without altering it, and a 'Complete defect optimization' mode that actively restructures the cutting plan. The complete optimization uses degrees of freedom like shifting lites and residuals to move planned cuts away from detected defects. The document outlines the module's data, presentation, system requirements (including the A+W Realtime Optimizer module), a list of functions, and its limitations. It also includes standard legal notices regarding trademarks, copyrights, and liability."
+description: "EN-FUNC-AW_Defect_Optimizer"
 ---
+
 
 # A+W Functional Description
 # A+W Defect Optimizer

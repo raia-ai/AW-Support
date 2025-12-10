@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_6"
-source: "EN-CONFIG-AW_Enterprise_6.pdf"
-tags: ["A+W Enterprise", "Software Configuration", "Glass Manufacturing", "BOM", "iTOE Rules", "Environment Variables", "Technical Documentation", "Order Processing", "Release Pool", "Limit Check"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical configuration guide for the A+W Enterprise software, detailing rules for processing laminated glass (LAMI), inheritance logic for bill of materials (BOM), iTOE (interface to external systems) rules, and various environment variables that control system behavior. It covers specific configurations for drilling, edge polishing, order release procedures, and customer limit checks."
-long_description: "This document is an excerpt from a comprehensive configuration manual for A+W Enterprise, a specialized software solution for the glass manufacturing industry. It provides in-depth guidance on configuring specific processes related to laminated (LAMI), tempered (TG), and insulated (IG) glass units. A significant portion is dedicated to defining 'inheritance' rules, which dictate how processing steps (like drilling or polishing) applied to a composite product (e.g., a LAMI unit) are managed in relation to its individual components (lites). This includes both passing processes down to sub-components and inheriting them upward for pricing or flagging. The guide extensively details the setup for different processing types, such as stepped and countersunk drilling, using iTOE (Interface To External Systems) exchange rules. It is rich with practical examples, including screenshots from the A+W CAD Designer and various configuration dialogs. Furthermore, the document serves as a reference for numerous environment variables that control system behavior, such as 'INTAUF_BEARBCOPY_BA_HALTEN', 'VBEA_KUNR', and others affecting order processing, limit checks, and the automatic generation of text for production documents. It also explains the functionality of the 'Release Pool,' where orders are held for review, and the 'Limit Check' feature for managing customer credit."
+description: "EN-CONFIG-AW_Enterprise_6"
 ---
+
 
 | | | | |
 | :--- | :--- | :--- | :--- |

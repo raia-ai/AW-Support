@@ -1,12 +1,7 @@
 ---
-title: "A+W iCut (EL) Functional Description"
-source: "EN-FUNC-AW_iCut.pdf"
-tags: ["A+W iCut", "Glass Software", "Cutting Optimization", "Functional Description", "A+W Software", "EL Version", "Manual Cutting", "Software for Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description of A+W iCut (EL), an integrated optimization and cutting software designed for small glass companies. It covers features for order entry, optimization, stock management, and control of cutting tables."
-long_description: "This document provides a detailed functional description of A+W iCut (EL), a software solution by A+W Software GmbH. A+W iCut (EL) is a 2-station system designed for small companies that manage their glass cutting processes manually. It facilitates order entry for various glass types (insulated, LAMI, TG, single glass), optimization of cutting plans, and control of standard cutting tables. The software includes features for managing stock, handling residual plates, and calculating cutting dimensions for standard shapes. It offers two working modes: a standard mode for quick processing and an expert mode for detailed control over optimization. The document outlines the system's core functions, requirements (Windows 10/Server 2019, .NET Framework 3.5), optional enhancements like the A+W Barcode Manager, and notable limitations, such as the lack of support for advanced processing, price calculation, or integration with external production systems. It also lists modules that are not compatible with A+W iCut (EL)."
+description: "A+W iCut (EL) Functional Description"
 ---
+
 
 # A+W iCut (EL)
 

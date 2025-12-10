@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Feinplanung_3_5"
-source: "DE_AWProduction_Feinplanung_3_5.pdf"
-tags: ["A+W", "Production", "Feinplanung", "Index", "Technical Manual", "ERP", "Manufacturing", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An alphabetical index for the 'A+W Production Feinplanung' technical manual. It lists key terms and concepts with corresponding page references (F-numbers) to help users quickly locate information within the documentation."
-long_description: "This document is the 'Partindex' or part index for the A+W Production Feinplanung software manual. It serves as a comprehensive, alphabetical reference guide for users. The index is structured by letters of the alphabet, from L to Z, listing key terms, features, parameters, and dialogs within the production planning system. Each entry is associated with a specific page number, formatted as 'F-xxx', enabling users to efficiently navigate the main manual and find detailed information on topics such as `Master-Orga`, `Produktionsreihenfolge` (production sequence), `Abstellplatz` (storage location), and `Optimierungsverhalten` (optimization behavior). This index is crucial for both new and experienced users to quickly access documentation on system configuration, operation, and optimization settings."
+description: "DE_AWProduction_Feinplanung_3_5"
 ---
+
 
 # A+W Production Feinplanung - Partindex
 

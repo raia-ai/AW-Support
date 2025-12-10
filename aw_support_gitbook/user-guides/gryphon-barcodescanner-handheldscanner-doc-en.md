@@ -1,12 +1,7 @@
 ---
-title: "Gryphon_4500_Series_-_English"
-source: "Gryphon_4500_Series_-_English.pdf"
-tags: ["barcode scanner", "handheld scanner", "datalogic", "gryphon 4500", "2d scanner", "cordless scanner", "healthcare scanner", "retail", "logistics"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Product datasheet for the Datalogic Gryphon 4500 series, premium handheld scanners for corded or cordless applications using 2D barcodes, featuring wireless charging and disinfectant-ready enclosures."
-long_description: "This document provides a comprehensive overview of the Datalogic Gryphon™ 4500 Series, a premium line of handheld scanners designed for value-added applications. It details the product's advanced imaging technology, including a Megapixel sensor with white-illumination for superior performance. The datasheet covers key benefits such as ease of use, omnidirectional reading of 1D, 2D, postal, and digital watermarking codes, and excellent performance on mobile device screens. It highlights features important for modern environments, like Disinfectant-Ready enclosures for healthcare and wireless charging technology to reduce maintenance and improve reliability. The document also includes detailed technical specifications covering communication protocols (Bluetooth®, Datalogic STAR Cordless System™), decoding capabilities, electrical characteristics for both corded and cordless models, physical dimensions, reading performance (including depth of field for Standard Range and High Density models), safety and regulatory compliance, and available software utilities. It concludes with a list of target industries and applications, and an overview of available accessories like base stations, chargers, and mounts."
+description: "Gryphon_4500_Series_-_English"
 ---
+
 
 # GRYPHON™ 4500 SERIES
 ## Premium handheld scanners for corded or cordless value added applications using 2D barcodes

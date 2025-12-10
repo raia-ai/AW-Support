@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_3-3"
-source: "EN_AWBusiness_Production_3-3.pdf"
-tags: ["A+W Business Production", "Software Reference", "Rack Management", "Date Overview", "Capacity Overview", "Production Planning", "Inventory Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Production software, focusing on the 'Rack Management,' 'Date Overview,' and 'Capacity Overview' modules. It details dialogs, fields, and functions for managing production racks, viewing production schedules, and analyzing capacity."
-long_description: "This document serves as a detailed software reference for the A+W Business Production system, specifically covering Part E, pages 251-275. It begins with an in-depth look at 'Rack Management,' a feature for planning and controlling the packaging of produced orders on racks. This section explains how to define rack types, manage individual racks, track their status (e.g., off-site, blocked, lost), and handle customer consignments. It also covers functionalities like reallocating racks between partners and assigning specific order items to racks. The document then transitions to the 'Date Overview' module, which allows users to check production requirements over a specific time frame. It details the various selection criteria, breakdown levels, and evaluation modes for generating reports. Finally, it touches upon the 'Capacity Overview,' providing a preview of the resources needed to produce certain product groups, and the 'Export' function for further data analysis. The guide includes screenshots and field-level descriptions for each dialog."
+description: "EN_AWBusiness_Production_3-3"
 ---
+
 
 # Software Reference
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_ERP_Stock_Service"
-source: "EN-INST-AW_ERP_Stock_Service.pdf"
-tags: ["A+W ERP", "Stock Service 6", "Installation Guide", "Software Configuration", "Database Setup", "Hegla", "Lisec", "Bystronic", "ERP Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation and configuration instructions for the A+W ERP Stock Service 6. It covers new installations, updates, system requirements, and integration with various ERP systems and communication protocols like Hegla, Lisec, and Bystronic."
-long_description: "A detailed technical manual for software planners and administrators on installing and configuring A+W ERP Stock Service 6. The document outlines the entire process, starting with a change history and a table of contents. It provides step-by-step procedures for new installations, including hardware and software prerequisites, time requirements, and directory structures. A significant portion is dedicated to configuration, covering trace settings, database connections (Informix, SQLBase, SQLServer), and communication settings for specific third-party systems like Hegla, Lisec, and Bystronic. The guide includes screenshots of configuration dialogs and detailed explanations of each setting. It also addresses update procedures, troubleshooting common errors, and setting up service dependencies. The appendix sections are placeholders for checklists, parameter lists, and INI files. This guide is essential for ensuring a successful deployment and integration of the Stock Service within a glass and windows manufacturing environment."
+description: "EN-INST-AW_ERP_Stock_Service"
 ---
+
 
 # Installation Instructions: A+W ERP Stock Service 6
 

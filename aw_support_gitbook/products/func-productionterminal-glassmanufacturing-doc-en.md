@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Production_Terminal"
-source: "EN-FUNC-AW_Production_Terminal.pdf"
-tags: ["A+W Software", "Production Terminal", "Glass Manufacturing", "Software", "Functional Description", "Production Control", "MES"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Production Terminal, a software module from A+W Software GmbH designed for the glass industry. It outlines the purpose, features, and various terminal types used for controlling and displaying production processes at different stations."
-long_description: "This functional description details the A+W Production Terminal, a control and display program for production environments, specifically for glass manufacturing, starting from A+W Production v6. The document covers the various terminal versions tailored for different process steps, such as cutting, furnace operations (TG), laminated glass (LG) production, and insulated glass (IG) unit assembly. It describes basic functions like displaying lite information, booking lites at registration points, handling breakage, printing labels, and logging machine states. The prerequisites, including the need for A+W Production batch formation and the A+W Production Booking service, are specified. Each terminal type (e.g., Terminal Edit, Terminal Order, Terminal Processing, TG-In/Out, LG-In/Assembly, IG-In/Out, etc.) is explained with its specific functionalities. The document also touches upon limitations, such as those related to terminal server environments and machine activation protocols. Legal notices, including trademarks, copyrights, and a disclaimer of liability, are also included."
+description: "EN-FUNC-AW_Production_Terminal"
 ---
+
 
 # A+W Production Terminal Functional Description
 

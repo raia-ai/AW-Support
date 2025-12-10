@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_2"
-source: "EN-CONFIG-AW_Enterprise_2.pdf"
-tags: ["A+W Enterprise", "Configuration", "ERP", "Software", "Article Search", "Shipping Routes", "Master Data", "Sealing Depth", "EDI", "Discount Logic", "CAD Designer"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed configuration instructions for various modules within the A+W Enterprise software. It covers settings for articles, supply types, article search, shipping routes, market partner master data, and employee rights. It also includes technical specifications for features like sealing depth calculation, CAD/SN macro integration, and the comprehensive Discount Logic 2005 system."
-long_description: "This is a technical configuration guide for the A+W Enterprise system. The document details a wide range of settings and environment variables that control the software's behavior. Key areas covered include article and product management, such as adding elements to the Bill of Materials (BOM) and managing supply types for EDI orders. It explains how to configure the article search functionality, including case-sensitivity and search parameters. A significant portion is dedicated to the setup of shipping areas and routes, detailing how the system suggests and optimizes routes based on postal codes, partner data, and site information. The guide also covers market partner master data, including the management of addresses with special logic (e.g., Dutch address logic), canceled partners, and EDI types. It delves into advanced functionalities like the 'Sealing Depth' feature, providing the motivation, key terms, and configuration for calculating sealant requirements in insulating glass units. The integration with A+W CAD Designer via SN macro files for complex processing is thoroughly explained, covering macro types, parameter mapping to OrderXML, and data replication. The document also specifies employee cancellation rights with detailed tables outlining permissions based on order status. Finally, it provides an in-depth look at the 'Discount Logic 2005' system, explaining its structure, hierarchy, environment variables, and the various criteria and types of discounts that can be configured, from rush orders to weight-based surcharges."
+description: "EN-CONFIG-AW_Enterprise_2"
 ---
+
 
 ---
 ## 3.1.13. Additional element for the item article/product type

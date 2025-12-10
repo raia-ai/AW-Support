@@ -1,15 +1,7 @@
 ---
-title: "Constellation Software CSI KPIs Financial Bootcamp"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Constellation Software CSI KPIs Financial Bootcamp"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: ""Financial Fundamentals for Non-Financials" by Julia Schmidt – CFO Comas Portfolio 1:     The presentation aims to explain the importance of measuring business performance and    introduces key financial concepts and metrics from A+W's mother company, Constellation    Software Inc. (also known as CSI, here is the website for more details:    https://www.csisoftware.com/). Inside CSI, A+W is part of the COMAS group (https://comas-    group.com/de/), led by Eric Herrmann as its CEO. COMAS is a"
-source_file: "Constellation Software CSI KPIs Financial Bootcamp.pdf"
+description: "Constellation Software CSI KPIs Financial Bootcamp"
 ---
+
 
 
 # Constellation Software CSI KPIs Financial Bootcamp

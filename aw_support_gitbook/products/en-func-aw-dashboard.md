@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Dashboard"
-category: "functional_descriptions"
-product: "A+W Dashboard"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Dashboard"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Dashboard                                  english 1. Content 1.   Content                                                      3 2.   Notes on this document                                       4      2.1. Trademarks                                              4      2.2. Copyrights                                              4      2.3. Disclaimer of Liability                                 4 3.   Performance Description"
-source_file: "EN-FUNC-A+W Dashboard.pdf"
+description: "EN FUNC A+W Dashboard"
 ---
+
 
 
 # EN FUNC A+W Dashboard

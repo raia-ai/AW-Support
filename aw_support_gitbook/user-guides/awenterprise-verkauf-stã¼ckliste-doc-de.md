@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_5"
-source: "DE_AWEnterprise_Verkauf_4_5.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Stückliste", "Software-Referenz", "Auftragserfassung", "Packmittelplanung", "Sprossenerfassung", "ERP", "Glasindustrie", "Bedienungsanleitung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist eine Softwarereferenz für das Modul A+W Enterprise Verkauf. Es beschreibt detailliert die Funktionalitäten rund um die Stücklistendarstellung, Auftragserfassung, Bearbeitungsparameter, Sprossenerfassung und Packmittelplanung. Es richtet sich an Anwender und Administratoren des Systems."
-long_description: "Diese Softwarereferenz bietet eine umfassende Beschreibung des A+W Enterprise Verkaufsmoduls, Version 4.00/02-2020. Der Schwerpunkt liegt auf der Erstellung und Verwaltung von Stücklisten (Stückliste) und den damit verbundenen Prozessen in der Auftragserfassung. Das Dokument gliedert sich in mehrere Hauptbereiche. Zunächst wird die 'Stücklistendarstellung' erläutert, die den Produktaufbau und die Produktionsskizze umfasst und visuelle Darstellungen sowie Bemaßungen von Artikeln und Bearbeitungen zeigt. Es werden die verschiedenen Register wie 'Produktaufbau', 'Produktionsskizze' und 'Akt. Stücklistenebene' mit ihren jeweiligen Feldern und Funktionen detailliert beschrieben. Ein weiterer großer Abschnitt widmet sich den Bearbeitungsparametern, in dem Dialoge wie 'Alle Parameter/Skizze' erklärt werden. Hier können Benutzer spezifische Einstellungen für verschiedene Bearbeitungsarten wie Bohrungen, Kantenschliffe, Siebdruck und mehr vornehmen. Themen wie 'Kantenzuordnung', 'Einstand' und 'Stufenerfassung' für Spezialgläser werden ebenfalls behandelt. Das Dokument geht auch intensiv auf die 'Sprossenerfassung' ein, die die Konstruktion von Sprossen in ISO-Artikeln ermöglicht. Es werden der 'Sprosseneditor' und zugehörige Dialoge zur Definition von Bohrpunkten und Abstandsmaßen vorgestellt. Abschließend wird die 'Packmittelplanung' behandelt, mit der die benötigten Packmittel (z. B. Gestelle) für einen Auftrag automatisch geplant werden können, basierend auf verschiedenen Algorithmen und benutzerdefinierten Vorgaben. Ergänzt wird die Referenz durch eine Beschreibung der 'Anmerkungen'-Funktion, die es erlaubt, interne Informationen zu Vorgängen, Kunden oder Artikeln zu hinterlegen. Das Dokument dient als Nachschlagewerk für die tägliche Arbeit mit der Software und zur Konfiguration spezifischer Parameter."
+description: "DE_AWEnterprise_Verkauf_4_5"
 ---
+
 
 # Softwarereferenz: Stückliste
 

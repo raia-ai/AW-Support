@@ -1,15 +1,7 @@
 ---
-title: "A+W AWSOA Dependencies (as of 10/2023)"
-category: "training"
-product: "AWSOA"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWSOA", "Dependencies", "Soa", "Install"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-INST-AW_SOA_Dependencies" source: "EN-INST-AW_SOA_Dependencies.pdf" tags: ["A+W", "AWSOA", "Software", "Dependencies", "SOA", "Technical Documentation", "Glass Industry", "Module Dependencies", "Database Access"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical document from A+W Software GmbH, detailing the dependencies for the A+W Service-Oriented Architecture (AWSOA). It outlines required setup dependencies for various modules, provides short descriptions of"
-source_file: "AWSOA-Dependencies-Soa-Install-EN.md"
+description: "A+W AWSOA Dependencies (as of 10/2023)"
 ---
+
 
 
 title: "EN-INST-AW_SOA_Dependencies"

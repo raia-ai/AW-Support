@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_CX_Stock"
-source: "EN-CONFIG-AW_Enterprise_CX_Stock.pdf"
-tags: ["A+W", "Clarity Experience", "Stock Forecast", "Configuration", "Software", "ERP", "Glass Manufacturing", "Inventory Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Clarity Experience - Stock Forecast module. It details the necessary prerequisites for the frontend, backend, and middleware components, and outlines specific configuration settings for user-defined fields, oversize indicators, order suggestions, and inventory forecasting for unreleased orders."
-long_description: "This is an internal configuration guide for the 'A+W Clarity Experience - Stock Forecast' software module, part of the A+W Enterprise system for glass manufacturing. The document outlines the essential prerequisites and setup procedures required for proper functionality. It begins by detailing the necessary installations for the Windows-based frontend (A+W Clarity Suite and Clarity Suite Stock) and the Linux-based backend (stockservice), as well as middleware configuration. The main section focuses on specific configuration parameters, including setting up user-defined fields in the article view using system switches and a custom procedure. It also explains how to configure oversize indicators for consumption, evaluate purchase order (PO) suggestions, and calculate announced vs. non-announced quantities in POs. Furthermore, it covers how to adjust for past consumptions and enable the inventory forecast feature for unreleased orders, detailing the required system variables, background processes, and WebService interactions."
+description: "EN-CONFIG-AW_Enterprise_CX_Stock"
 ---
+
 
 # A+W Clarity Experience - Stock Forecast
 

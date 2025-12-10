@@ -1,15 +1,7 @@
 ---
-title: "Gryphon I GD4100   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Gryphon I GD4100 ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "GRYPHON™ I GD4100   ADVANCED READING PERFORMANCE The Gryphon™ product series from Datalogic represents the premium level of data collection equipment for general purpose applications. The Gryphon I linear imaging readers provide advanced reading performance and decoding for a wide variety of applications. The Gryphon GD4100 readers’ ability to capture bar codes from near contact to over 1.0 m / 3.2 ft increases productivity and improves ergonomics for users. A wide scan angle reads very wide cod"
-source_file: "Gryphon I GD4100 - English.pdf"
+description: "Gryphon I GD4100   English"
 ---
+
 
 
 # Gryphon I GD4100   English

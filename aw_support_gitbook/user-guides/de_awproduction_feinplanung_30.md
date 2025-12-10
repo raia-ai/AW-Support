@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Feinplanung 3.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Feinplanung_3.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Feinplanung               F                              deutsch                   A+W Production                                        Revisionsübersicht                                        Part                     Beschreibung                                        Version / Datum                                         3.00 / 01-2023          Komplette Überarbeitung.                                         2.02 / 01-2017          Produkt- und Firmennamen angepasst, Felder ergänzt."
-source_file: "DE_AWProduction_Feinplanung_3.0.pdf"
+description: "DE AWProduction Feinplanung 3.0"
 ---
+
 
 
 # DE AWProduction Feinplanung 3.0

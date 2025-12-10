@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Capacity_Planning_4_3"
-source: "EN_AWBusiness_Capacity_Planning_4_3.pdf"
-tags: ["capacity planning", "A+W Business Pro", "software reference", "master data", "scheduling", "production planning", "machine restrictions", "default times", "organisation", "reporting"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference manual for the A+W Business Pro Capacity Planning module. It provides detailed guidance on configuring and utilizing the system's features for production scheduling, resource management, and reporting. The manual covers master data setup, including machines, calendars, and technical restrictions, as well as the definition of default times and allocations for various work types."
-long_description: "This software reference manual offers an in-depth guide to the A+W Business Pro Capacity Planning module, designed for system administrators, production planners, and power users. The document is structured to walk users through the entire process of setting up and managing capacity planning within the A+W Business Pro environment. It begins with the 'Organisation' section, which details the setup of core master data such as machines, registration points, calendars, and machine-specific restrictions. This includes defining technical parameters like dimensions, weight limits, and processing capabilities. The manual then moves to 'Default Times,' explaining how to configure the time calculations for various production processes using matrices, vectors, and individual time entries. It also covers the setup of special times and priority rules to handle different production scenarios. The 'Allocation' section describes how to link products, product classes, and work types, ensuring that the system correctly sequences production steps. The 'Lock' and 'Skip' functionalities are detailed, showing how to create rules to prevent certain machines from being used for specific products or to skip redundant processes. Finally, the 'Overviews' and 'Production Reports' sections explain how to generate and interpret various statistics, graphics, and reports to monitor machine utilization, track production progress, and manage scheduling bottlenecks. The manual serves as an essential tool for optimizing production workflows and making informed scheduling decisions."
+description: "EN_AWBusiness_Capacity_Planning_4_3"
 ---
+
 
 # Software Reference
 

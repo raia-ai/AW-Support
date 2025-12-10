@@ -1,15 +1,7 @@
 ---
-title: "A+W Smart Companion Handbuch"
-category: "training"
-product: "AW"
-doc_type: "User Manual"
-language: "DE"
-tags: ["Handbuch", "GlassManufacturing", "Handbook"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "DE-HB-AW_SmartCompanion-AWB" source: "DE-HB-AW_SmartCompanion-AWB.pdf" tags: ["A+W Smart Companion", "Handbuch", "Software", "Glass Manufacturing", "Window Production", "Door Manufacturing", "Barcode Scanning", "BDE", "Betriebsdatenerfassung", "Lagerverwaltung"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is the German user manual for the 'A+W Smart Companion,' a mobile software application for operational data collection in the glass, window, and door man"
-source_file: "AW-Handbuch-GlassManufacturing-Handbook-DE.md"
+description: "A+W Smart Companion Handbuch"
 ---
+
 
 
 title: "DE-HB-AW_SmartCompanion-AWB"

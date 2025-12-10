@@ -1,15 +1,7 @@
 ---
-title: "AWProduction MultiSiteConfiguration Archiving Config EN"
-category: "training"
-product: "AWProduction"
-doc_type: "Configuration"
-language: "EN"
-tags: ["AWProduction", "MultiSiteConfiguration", "Archiving", "Config"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-CONFIG-AW_Production_4" source: "EN-CONFIG-AW_Production_4.pdf" tags: ["A+W Production", "Multi-Site Configuration", "Software Manual", "Archiving", "PDC", "Database Configuration", "Technical Documentation", "A+W IoT Smart Trace", "Production Monitor"] version: "1.0" last_updated: "2025-10-03" short_description: "This technical document details the configuration and operation of A+W Production in a multi-site environment. It covers the setup of services and web services using the Mul"
-source_file: "AWProduction-MultiSiteConfiguration-Archiving-Config-EN.md"
+description: "AWProduction MultiSiteConfiguration Archiving Config EN"
 ---
+
 
 
 title: "EN-CONFIG-AW_Production_4"

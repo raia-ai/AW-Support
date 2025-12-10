@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_16"
-source: "D-AWBusiness-HB_16.pdf"
-tags: ["A+W Business", "ERP", "Verkauf", "Bestellung", "Angebot", "Gutschrift", "Datenübergabe", "Archivierung", "FiBu", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a German-language tutorial for the A+W Business sales module, covering the creation and management of credit notes, purchase orders, offers, and the process of data transfer to other systems."
-long_description: "This comprehensive tutorial serves as a user guide for the 'A+W Business Verkauf' (Sales) module of the A+W Business ERP software. The document is structured into several learning blocks, each focusing on a key aspect of the sales process. It begins with exercises on creating credit notes for incorrectly recorded order items. The main sections cover 'Bestellung' (Orders), detailing how to handle order items that require purchasing parts, including order handovers to the purchasing department, managing the order pool, and handling internal orders. The 'Dokumentendaten' (Document Data) section explains how to collectively manage and modify data for multiple documents, such as delivery dates. The 'Angebote' (Offers) part of the tutorial explains how to create and manage offers, including alternative positions and entire alternative offers, and how to track them using a follow-up system. 'Datenübergabe' (Data Transfer) describes the process of transferring financial data to accounting systems (FiBu), exporting data for statistical analysis, and archiving old documents. Finally, 'Zusatzfunktionen' (Additional Functions) covers topics like importing documents via EDI, generating inventory lists, and using the system journal. The document includes step-by-step instructions, screenshots, learning objectives, and practical exercises."
+description: "D-AWBusiness-HB_16"
 ---
+
 
 # Tutorial: Dokumente kopieren
 

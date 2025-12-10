@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise Print Service"
-category: "installation"
-product: "A+W Enterprise Print Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise Print Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 Print Service    Change history:     Date          Edited by                 Remarks                                     Version     16.04.12      MP                        New creation                                1.0     16.08.26      MP                        Std. report environment                     1.1     16.12.13      MP                        AutoUpdate                                  1.2     17.06.12      MP"
-source_file: "EN-INST-A+W Enterprise Print Service.pdf"
+description: "EN INST A+W Enterprise Print Service"
 ---
+
 
 
 # EN INST A+W Enterprise Print Service

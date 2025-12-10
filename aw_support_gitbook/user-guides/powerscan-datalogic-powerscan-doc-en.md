@@ -1,12 +1,7 @@
 ---
-title: "PowerScan PBT9501 - English"
-source: "PowerScan_PBT9501_-_English.pdf"
-tags: ["Datalogic", "PowerScan", "PBT9501", "barcode scanner", "industrial scanner", "Bluetooth", "area imager", "data capture", "logistics", "manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a product datasheet for the Datalogic PowerScan PBT9501, a rugged, cordless industrial barcode scanner. It details the scanner's features, technical specifications, and applications in industries like manufacturing and logistics."
-long_description: "This product datasheet provides a comprehensive overview of the Datalogic PowerScan™ PBT9501 series of industrial handheld area imaging scanners. The document highlights the scanner's core value proposition: an intuitive and effortless scanning experience summed up as 'AIM, TRIGGER, DECODE: IT'S THAT SIMPLE!'. It details the PBT9501's features, which include omnidirectional reading of any barcode, Bluetooth® wireless technology for enhanced mobility, and a rugged design built to withstand harsh industrial environments (IP65 rated). The datasheet emphasizes user-centric design elements such as an ergonomic shape, well-balanced weight, and a soft-pulsed white illumination light that is gentle on the eyes. It also covers performance aspects like the high-performance Liquid Lens, long-lasting battery life with a quick 3-second replacement system, and various connectivity options including standard and industrial Ethernet. The document includes a detailed technical specifications table covering cordless communications, decoding capabilities, electrical properties, environmental resistance, reading performance ranges for different models (PBT9501 and PBT9501-HP), physical characteristics, and safety/regulatory information. It also lists suitable industries and applications, from manufacturing shop floors to warehouse and logistic centers. Finally, a list of available accessories such as base stations, chargers, holsters, and mounts is provided."
+description: "PowerScan PBT9501 - English"
 ---
+
 
 # POWERSCAN™ PBT9501
 

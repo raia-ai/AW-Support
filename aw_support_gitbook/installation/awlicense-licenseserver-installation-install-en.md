@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_License_Server"
-source: "EN-INST-AW_License_Server.pdf"
-tags: ["A+W", "License Server", "Installation", "Software", "Windows", "Setup", "Configuration", "Sentinel", "AnywhereUSB", "Technical Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation instructions for the A+W License Server, Version 5 SP4. It covers system requirements, installation procedures, configuration settings, and troubleshooting steps for both new installations and updates. The guide is intended for system planners and administrators responsible for setting up and maintaining the A+W software environment."
-long_description: "This is a comprehensive installation manual for the A+W License Server. The document begins by outlining the change history and a general overview of the installation process. It details the specific system requirements, including hardware (such as the mandatory A+W dongle and optional AnywhereUSB devices), network configurations (fixed IP, open TCP ports), and software prerequisites (Windows Server versions, .NET Framework 3.5). The core of the manual is a step-by-step guide for a new installation of Version 5 SP4 using the A+W SetupLauncher. This includes selecting the correct modules, configuring infrastructure services, importing the license file, and setting up optional email notifications for server events. The guide also covers the installation and configuration of the AnywhereUSB driver for virtualized environments. Post-installation topics include checking the installation result, understanding the directory structure, and configuring protocol settings. The manual concludes with instructions for updating and uninstalling the license server, and an appendix on using the License Service Monitor tool to check license status and usage."
+description: "EN-INST-AW_License_Server"
 ---
+
 
 # Installation Instructions: A+W License Server
 

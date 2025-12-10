@@ -1,12 +1,7 @@
 ---
-title: "A+W Production Feinplanung - Tutorial und Softwarereferenz"
-source: "D-AWProduction-HB_4.pdf"
-tags: ["A+W Production", "Feinplanung", "Tutorial", "Optimierungsmodi", "Abstellplätze", "Orgas", "Produktionsreihenfolge", "Softwarereferenz", "Glasproduktion"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein umfassendes Tutorial und eine Softwarereferenz für die Feinplanungsfunktionen in A+W Production. Es behandelt die Konfiguration von Abstellplätzen, verschiedene Optimierungsmodi und die Organisation der Produktionsreihenfolge."
-long_description: "Dieses Handbuch dient als detaillierte Anleitung und Referenz für die A+W Production Feinplanung. Der erste Teil ist ein Tutorial, das Benutzer durch praktische Übungen führt, um Abstellplätze wie Fächerwagen und feste Abstellplätze zu konfigurieren. Es erklärt ausführlich die verschiedenen Optimierungsmodi (z.B. 6.2 Feste Reihenfolge, 6.1 Kunden zusammenhalten, 5.2 Standard, 5.1 Freie Optimierung), deren Anwendungsfälle, Auswirkungen auf Ausbeute, Reihenfolge und Flexibilität sowie die notwendigen Einstellungen im System. Ein weiterer Schwerpunkt des Tutorials liegt auf der Definition und Verwaltung von Organisationen (Orgas), Master-Orgas, Produktionsreihenfolgen und der Einrichtung von Standard-Orgas für spezifische Produktionsszenarien wie SZR, Versand oder Fächerwagen. Der zweite Teil des Dokuments ist eine Softwarereferenz, die eine systematische Übersicht über alle relevanten Dialoge, Registerkarten und Felder in der Feinplanung bietet. Dies umfasst detaillierte Erläuterungen zu den Stammdaten für Organisationen, Gruppierungen, Sortierungen und Abstellplätze, einschließlich technischer Feldnamen und deren Funktionen. Das Handbuch richtet sich an technische Anwender und Planer, die die Produktionsprozesse in der Glasindustrie effizient steuern und optimieren möchten."
+description: "A+W Production Feinplanung - Tutorial und Softwarereferenz"
 ---
+
 
 # Tutorial: Abstellplätze und -modi
 

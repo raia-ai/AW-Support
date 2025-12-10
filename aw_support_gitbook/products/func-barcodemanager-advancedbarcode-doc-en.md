@@ -1,12 +1,7 @@
 ---
-title: "A+W Barcode Manager (EL) - Advanced Barcode"
-source: "EN-FUNC-AW_Barcode_Manager_EL_Advanced_Barcode.pdf"
-tags: ["A+W", "Barcode Manager", "Advanced Barcode", "Software for Glass", "Functional Description", "EL", "Production Terminal", "Single Lite Barcoding"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Barcode Manager (EL) - Advanced Barcode module. It details the module's capability to print labels with a unique barcode for each lite, preventing duplicate bookings and improving traceability."
-long_description: "This is a functional description for the 'A+W Barcode Manager (EL) - Advanced Barcode' module, designed for use with A+W Business and A+W Business Pro software. The document outlines the purpose and functionality of the module, which is to enable the printing of labels with a unique barcode per individual glass piece (lite). This feature, known as single lite barcoding, enhances production control by allowing individual glass tracking and preventing accidental double bookings of the same piece on machines. The document specifies that the barcodes are often shorter for easier recognition and can be read by the A+W Business Scanner and Production Terminal (EL). It also lists the module numbers (210117 / 230117) and its availability starting from A+W Business v6 patch 2006. Prerequisites include the use of new Crystal Reports labels with the unique barcode feature activated and the base A+W Barcode Manager (EL) module. The document also contains standard legal notices regarding trademarks, copyrights, and exclusion of liability, along with contact information for A+W Software GmbH."
+description: "A+W Barcode Manager (EL) - Advanced Barcode"
 ---
+
 
 # A+W Functional Description: A+W Barcode Manager (EL) - Advanced Barcode
 

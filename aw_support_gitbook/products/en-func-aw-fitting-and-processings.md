@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Fitting and Processings"
-category: "functional_descriptions"
-product: "A+W Fitting and Processings"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Fitting and Processings"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Business (PRO) - Door Entry: Fitting and Processings                                           english 1. Content 1.   Content                                                                  3 2.   Notes on this Document                                                   4      2.1. Trademarks                                                          4      2.2. Copyrights                                                          4      2.3. Exclusion of liabil"
-source_file: "EN-FUNC-A+W Fitting and Processings.pdf"
+description: "EN FUNC A+W Fitting and Processings"
 ---
+
 
 
 # EN FUNC A+W Fitting and Processings

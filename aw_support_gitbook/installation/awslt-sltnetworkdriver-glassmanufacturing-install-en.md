@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_SLT_Network_Driver"
-source: "EN-INST-AW_SLT_Network_Driver.pdf"
-tags: ["A+W", "SLT Network Driver", "Installation Guide", "Software", "Glass Manufacturing", "Windows Software", "FBTreiber", "SetupLauncher", "FireBird"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for the A+W SLT Network Driver, a component required for running A+W SLT software in network mode. It details system requirements, step-by-step installation procedures using the A+W SetupLauncher, and uninstallation guidance."
-long_description: "This document serves as a comprehensive installation manual for the A+W SLT Network Driver, also known as FBTreiber (FireBird driver). It is intended for system planners and IT administrators responsible for deploying A+W software for the glass and window industries. The guide clarifies that this driver is only necessary when the A+W SLT application operates in a network configuration, connecting a client computer to a main A+W SLT installation. The instructions cover a complete new installation, which is identical to the process for updating an earlier version. The document outlines prerequisites, including hardware specifications for a reference device (3000 MHz CPU, 4 GB RAM) and the software requirement of having A+W SLT in network mode. It provides a detailed, step-by-step procedure for installation using the proprietary A+W SetupLauncher, including a screenshot showing the exact component to select. It also specifies the expected installation time of approximately 5 minutes. Finally, it confirms the default installation directory and provides clear, illustrated instructions for uninstalling the driver via the Windows Control Panel."
+description: "EN-INST-AW_SLT_Network_Driver"
 ---
+
 
 # Installation Instructions: A+W SLT Network Driver
 

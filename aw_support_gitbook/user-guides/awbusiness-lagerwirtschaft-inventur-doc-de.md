@@ -1,12 +1,7 @@
 ---
-title: "A+W Business - Lagerwirtschaft Tutorial & Softwarereferenz"
-source: "D-AWBusiness-HB_28.pdf"
-tags: ["AW Business", "Lagerwirtschaft", "Inventur", "Bestandsführung", "ERP", "Tutorial", "Software-Referenz", "Bestellwesen", "Produktionsauftrag"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein umfassendes Handbuch für das Modul Lagerwirtschaft in der A+W Business Fertigungssoftware. Es enthält einen Tutorial-Teil, der Benutzer durch verschiedene Prozesse wie Lagerabfragen, Inventur und Bestellungen führt, sowie einen Softwarereferenz-Teil, der die Dialoge und Funktionen detailliert beschreibt."
-long_description: "Dieses Dokument dient als detaillierte Anleitung und Referenz für das Modul Lagerwirtschaft der A+W Business Fertigungssoftware. Es ist in zwei Hauptteile gegliedert: ein Tutorial und eine Softwarereferenz. Der Tutorial-Teil (gekennzeichnet durch 'Tutorial' in der Kopfzeile) bietet schrittweise Anleitungen für praxisnahe Anwendungsfälle. Dazu gehören das Durchführen von Lagerabfragen, das Anzeigen von Buchungsjournalen und Lagerhistorien, das Drucken von reservierten Artikeln, das Analysieren von Lagerstatistiken zur Identifizierung von 'Rennern und Pennern', und die Durchführung von Lagerbewertungen. Ein weiterer Schwerpunkt liegt auf der Verwaltung von Lagerinformationen, der Anzeige von Beständen in der Lagersuche und der Interpretation des zukünftigen Lagerbestands unter Berücksichtigung von Reservierungen und Bestellungen. Es werden sowohl automatische als auch manuelle Lagerbestellungen sowie die Erstellung von Produktionsaufträgen zur Auffüllung des Eigenbestands behandelt. Der zweite Teil, die Softwarereferenz (gekennzeichnet durch 'Softwarereferenz' in der Kopfzeile), bietet eine systematische Beschreibung aller Dialoge, Menüs und Felder des Moduls. Hier finden Benutzer detaillierte Erklärungen zu den Funktionen der Inventur (periodisch und Erstinventur), der Lagerverwaltung, der Lagerbewegungen, der Abfragen und der Bestellungen. Dieser Teil dient als Nachschlagewerk, um spezifische Einstellungen und Optionen zu verstehen. Das gesamte Dokument ist für Anwender konzipiert, die für die Bestandsführung, den Einkauf und die Produktionsplanung verantwortlich sind."
+description: "A+W Business - Lagerwirtschaft Tutorial & Softwarereferenz"
 ---
+
 
 # Tutorial - Lagerwirtschaft
 

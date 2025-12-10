@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise Export Service"
-category: "installation"
-product: "A+W Enterprise Export Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise Export Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Enterprise 6 Export Service    Change history:     Date          Edited by                 Remarks                                    Version     16.04.22      MP                        New creation                               1.0     16.10.04      SVH                       Addition                                   1.1     16.12.13      MP                        AutoUpdate                                 1.2     17.12.14      MP"
-source_file: "EN-INST-A+W Enterprise Export Service.pdf"
+description: "EN INST A+W Enterprise Export Service"
 ---
+
 
 
 # EN INST A+W Enterprise Export Service

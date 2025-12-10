@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG QR Code Integration"
-category: "configuration"
-product: "Unknown"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "QR Code Integration"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   QR Code Integration                                  english                           - INTERN - Änderungshistorie  Date      Author    Modification/remarks                     Version 27.01.2015 DLA      First draft (after experience from AS)   1.0 11.05.2022 PK       Update for new fonts and parameter       2.0 20.05.2022 PK       Configuration A+W Production             3.0 11.10.2023 PK       Update for SMC                           4.0 Content  1.   What is a QR Code"
-source_file: "EN-CONFIG-QR Code Integration.pdf"
+description: "EN CONFIG QR Code Integration"
 ---
+
 
 
 # EN CONFIG QR Code Integration

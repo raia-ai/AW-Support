@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Discovery"
-category: "installation"
-product: "A+W Discovery"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Discovery"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Description of the Config Tool                                                      A+W Discovery  Change history   Date             Edited by                 Remarks                                                                           Version  2013-08-16 MISC                            Initial version                                                                   1.0  2013-09-10 RI                              Addition"
-source_file: "EN-INST-A+W Discovery.pdf"
+description: "EN INST A+W Discovery"
 ---
+
 
 
 # EN INST A+W Discovery

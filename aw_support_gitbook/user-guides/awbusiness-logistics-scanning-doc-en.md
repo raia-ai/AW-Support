@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Production_2-1"
-source: "EN_AWBusiness_Production_2-1.pdf"
-tags: ["Logistics", "Scanning", "Barcode", "Picking", "Shipping", "Vehicle Management", "Driver Management", "Inventory", "A+W Business Production", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the Logistics module of the A+W Business Production software. It provides step-by-step instructions on creating barcode scanning templates, managing shipping and picking processes, defining vehicles and drivers, and generating material and capacity overview reports."
-long_description: "This tutorial provides a comprehensive guide to the Logistics functionalities within the A+W Business Production software. It is designed to walk users through various essential tasks for managing the dispatch and delivery of goods. The document begins with instructions on how to create a template for scanning status updates using barcodes, including prerequisites and a step-by-step process. It then moves into the 'Picking' module, explaining its objectives and benefits for organizing dispatch through a company's vehicle fleet. Key sections cover Shipping Organization, how to define vehicles and enter driver details into the master data. The tutorial provides detailed procedures for compiling a vehicle load, allocating orders to trucks, and handling potential overloads. It also covers printing critical documents for drivers, such as loading lists and acknowledgement of receipt lists. The final part of the document focuses on generating analytical reports, specifically the 'Date Overview' for assessing material requirements over a period and the 'Capacity Overview' for previewing production quantities against delivery dates. Each section includes 'How to' guides, explanations of UI elements, exercises, and references to related software documentation."
+description: "EN_AWBusiness_Production_2-1"
 ---
+
 
 # Logistics Tutorial
 

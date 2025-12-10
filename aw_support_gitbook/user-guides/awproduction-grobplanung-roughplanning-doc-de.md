@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Grobplanung_2.50"
-source: "DE_AWProduction_Grobplanung_2.50.pdf"
-tags: ["A+W Production", "Grobplanung", "Rough Planning", "Glass Manufacturing", "Window Manufacturing", "Production Planning", "ERP Software", "User Manual", "Software Tutorial", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the 'Grobplanung' (Rough Planning) module of the A+W Production software, version 2.50. It provides a comprehensive tutorial and software reference for production planners in the glass, window, and door manufacturing industries. The guide covers key processes such as creating and managing orders, views, runs (Läufe), and pots (Töpfe) to optimize production workflows."
-long_description: "This is a detailed guide for end-users of A+W Production's 'Grobplanung' (Rough Planning) module. The document is split into two main parts: a Tutorial and a Software Reference. The Tutorial section is designed for production preparation managers and offers a step-by-step introduction to the core concepts of rough planning. It explains how to configure views, manage orders from the ERP system in the 'Pool,' group them into 'Pots' (Töpfe) for intermediate storage, and finally combine them into 'Runs' (Läufe) for optimized production. It details various strategies for creating runs based on criteria like glass type, product type, or production date. The Software Reference section provides an in-depth explanation of every dialog, field, context menu, and function within the Grobplanung module. It serves as a comprehensive resource for understanding the specifics of dialogs such as Orders (Aufträge), Runs (Läufe), Positions (Positionen), Operations (Bearbeitungen), and more. The document emphasizes the configuration of views (Ansichten) with custom columns, summaries, and filters to provide users with the exact information they need to make informed planning decisions. It is essential for users responsible for organizing and optimizing the production flow from order entry to final production release."
+description: "DE_AWProduction_Grobplanung_2.50"
 ---
+
 
 # A+W Grobplanung E
 

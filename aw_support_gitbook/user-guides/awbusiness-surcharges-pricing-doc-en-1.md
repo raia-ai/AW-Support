@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_4-1"
-source: "EN_AWBusiness_Master_Data_9_4-1.pdf"
-tags: ["A+W Business Master Data", "Surcharges", "Pricing", "Shape Processing", "Miscellaneous Surcharges", "Automatic Surcharges", "Software Tutorial", "Glass Processing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial from the A+W Business Master Data guide, focusing on the configuration and function of various surcharges within the system. It covers shape surcharges, miscellaneous surcharges, and automatic surcharges, providing detailed instructions, examples, and exercises."
-long_description: "This document serves as a comprehensive guide to understanding and implementing surcharges in the A+W Business Master Data software. It is structured as a tutorial, divided into three main sections: Shape Surcharges, Miscellaneous Surcharges, and Automatic Surcharges. The first section explains how to apply additional charges for processing non-rectangular lites (shapes), based on factors like edge length, surface area, or piece count. It provides step-by-step instructions on defining these surcharges, including screenshots of the user interface and explanations of segment-based calculations. The second section details Miscellaneous Surcharges, which are applied in addition to other charges for special cases like oversizes, small quantities, transport, or specific material thicknesses. It includes numerous examples and tables illustrating how these surcharges are calculated based on different types (e.g., Basic Price, Basic Item, Previous Processing). The final section introduces Automatic Surcharges, which are used for costs like transport or waste disposal and are added as separate line items to an order. The document explains their function, how they are allocated, and how they interact with product and customer master data. Throughout the tutorial, practical exercises and detailed calculation examples are provided to solidify the user's understanding."
+description: "EN_AWBusiness_Master_Data_9_4-1"
 ---
+
 
 # Surcharges
 

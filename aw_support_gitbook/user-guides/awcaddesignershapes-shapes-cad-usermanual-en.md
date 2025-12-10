@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerShapes_4"
-source: "EN-UM-AWCADDesignerShapes_4.pdf"
-tags: ["A+W CAD Designer", "Shapes", "Software Reference", "CAD", "CNC", "Technical Manual", "File Handling", "Key Combinations", "User Interface", "Software Operation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed software reference manual for the A+W CAD Designer (Shapes) application. It covers software operation, user interface elements, file handling procedures, and various editing and transformation functions."
-long_description: "This comprehensive user manual provides an in-depth software reference for the A+W CAD Designer (Shapes) program. The document begins with an overview of basic software operation, including how to start and close the program, and defines key software terms and user interface components like buttons, hotkeys, combo boxes, and menu bars. It features a detailed list of key combinations for quick access to commands. The manual extensively covers file management under 'Handling of Files,' detailing procedures for creating, opening, inserting, saving, importing, and exporting various file formats such as SN, DXF, IGES, and CAMXML. It also explains how to manage global and local shape data, set passwords, and use the print and preview functions. Further sections describe the 'Temporary Stacker' for editing operations like undo, redo, copy, paste, and shape correction. The manual outlines how to create products, apply technology-related processing (e.g., cutting, grinding), control machinery, work with BOMs, and transform contours. Finally, it details the different 'Views' and 'Tools' available to the user, providing a complete guide to operating the A+W CAD Designer software effectively."
+description: "EN-UM-AWCADDesignerShapes_4"
 ---
+
 
 # Software Reference
 

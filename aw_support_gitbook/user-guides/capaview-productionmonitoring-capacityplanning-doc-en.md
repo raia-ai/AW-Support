@@ -1,12 +1,7 @@
 ---
-title: "A+W Capa View"
-source: "EN_CapaView.pdf"
-tags: ["A+W Capa View", "Software Documentation", "Production Monitoring", "Capacity Planning", "Glass Industry", "Windows and Doors", "Tutorial", "User Guide", "Web-based Interface"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user guide for A+W Capa View, a web-based software for visualizing production capacities and progress. The document provides a tutorial on how to operate the program, interpret data displays, and configure settings."
-long_description: "This document is the official user manual for A+W Capa View, a software solution designed for the glass, windows, and doors industry. A+W Capa View provides a web-based interface to display and monitor data from A+W Production, focusing on production capacities and real-time progress. The guide is structured as a tutorial aimed at employees who need an overview of current production, such as sales staff and order entry personnel. It covers the core functionalities, including the Monitor View for an overview of machine and shift capacities, and the Detailed View for order and batch-specific progress. The manual explains how to interpret bar charts representing scheduled, unscheduled, and produced orders. It also details how to operate the program using a touchscreen or mouse, configure various settings like language and color schemes, and integrate the tool with other A+W products like A+W Business and A+W Dashboard using URLs. The importance of accurate barcoding for meaningful data visualization is emphasized throughout the document."
+description: "A+W Capa View"
 ---
+
 
 # A+W Capa View
 

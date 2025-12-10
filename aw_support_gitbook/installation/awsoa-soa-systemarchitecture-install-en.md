@@ -1,12 +1,7 @@
 ---
-title: "A+W AWSOA Dependencies"
-source: "EN-INST-AW_SOA_Dependencies.pdf"
-tags: ["A+W", "AWSOA", "Software Dependencies", "SOA", "System Architecture", "Database Schema", "Technical Documentation", "Glass Industry Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Technical document detailing the module dependencies, service descriptions, and database table access for the A+W AWSOA software suite as of March 2022. It covers various domains including Infrastructure, CIM, Planning, and Commercial."
-long_description: "This document provides a comprehensive overview of the A+W Service-Oriented Architecture (AWSOA) dependencies, effective as of March 2022. It is intended for system administrators, developers, and technical consultants involved in the setup, configuration, and maintenance of A+W software solutions for the glass industry. The document begins by outlining the dependencies between various software modules, specifying which services are required for each component to function correctly. It then provides short descriptions for each service, categorized by domain (e.g., Infrastructure, CAD, CIM, Commercial, Planning). A significant portion of the document is dedicated to detailing the database access layer, listing the specific database tables accessed by each SOA service. This provides crucial information for database administration and troubleshooting. Finally, a high-level domain overview is presented, illustrating the logical grouping of services into domains like Infrastructure, Corporate, Commercial, and Planning. This helps in understanding the overall system architecture and the relationships between different functional areas."
+description: "A+W AWSOA Dependencies"
 ---
+
 
 # A+W AWSOA Dependencies (as of 03/2022)
 

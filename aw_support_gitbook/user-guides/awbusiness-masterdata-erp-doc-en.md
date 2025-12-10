@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_1-2"
-source: "EN_AWBusiness_Master_Data_9_1-2.pdf"
-tags: ["A+W Business", "Master Data", "ERP", "Tutorial", "Customer Data", "Product Data", "Order Management", "Pricing", "Dispatch", "Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business software, detailing the setup and management of master data. It covers key areas such as products, prices, partners (customers and suppliers), dispatch, and production, providing an overview of how this data forms the basis for all commercial transactions within the system."
-long_description: "This document serves as a comprehensive tutorial (Tutorial 1) for setting up and managing master data within the A+W Business software system. It is designed to guide users through the foundational data organization required for the effective operation of various modules. The tutorial begins with a high-level overview of the main master data sections: Products, Prices, Stock, Partners, Dispatch, and Production. It explains the purpose of each section and its sub-menus. The document uses diagrams to illustrate the basic concepts and interrelations of master data, showing how modules like Sales, Purchasing, and Statistics access a central repository of information for customers, products, and prices. It details the process of entering an order, highlighting how master data for the customer, product, and pricing is automatically pulled into the order entry screen. A key focus is on the recommended sequence for data input to ensure logical dependencies are met. The guide provides step-by-step instructions for creating and managing basic tables, using supplier groups as an example. A significant portion is dedicated to 'Customer Data', which also applies to suppliers. It covers the partner management dialog, address data, group allocations, and route definitions. The tutorial includes numerous screenshots of the A+W Business interface, callouts for important notes, and definitions to aid user understanding."
+description: "EN_AWBusiness_Master_Data_9_1-2"
 ---
+
 
 ---
 ## Overview

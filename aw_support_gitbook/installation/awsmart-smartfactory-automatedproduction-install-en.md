@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Smart_Factory"
-source: "EN-INST-AW_Smart_Factory.pdf"
-tags: ["A+W Clarity", "Smart Factory", "Automated Production", "Installation Instructions", "Software", "Glass Manufacturing", "MAPS", "HEGLA Sortjet", "Furnace Control"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation and configuration instructions for the A+W Clarity Smart Factory, a multi-step automated production system for the glass and windows industry. It covers system requirements, database setup, master data configuration, and integration of various components like the HEGLA Sortjet, North-Glass furnace, and shopfloor clients."
-long_description: "This is a comprehensive technical manual detailing the setup process for the A+W Clarity Smart Factory - Multistep Automated Production system (MAPS). It is intended for planners and service technicians responsible for installing and configuring the software environment. The document begins with a detailed change history, tracking versions from 1.0 to 2.57. It then outlines the prerequisites, including A+W Production SingleSite environment, specific AWSOA services, and database configurations for Informix. The core of the manual is the 'Installation' section, which guides the user through database schema creation, master data population, and the setup of key services like the MAPS Service, Furnace Service, and Sorter Service. It provides in-depth configuration details for various shopfloor clients, such as the Dynopt Filler Client for optimization, the HEGLA Sortjet Client for sorting, and the North-Glass furnace client. The manual explains the intricacies of the ticket and lite status system within the Smart Factory, the structure of the production timeline, and how to handle events like breaks and remakes. It also covers the user interface, including call and supply dialogs, and the connection to the A+W Production PDC for booking and status updates. The document is rich with technical details, including SQL scripts, XML configuration examples, and screenshots of administrative interfaces."
+description: "EN-INST-AW_Smart_Factory"
 ---
+
 
 # Software for Glass and Windows
 ---

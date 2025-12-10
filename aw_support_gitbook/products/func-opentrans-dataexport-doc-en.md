@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Business_OpenTRANS_Export"
-source: "EN-FUNC-AW_Business_OpenTRANS_Export.pdf"
-tags: ["A+W", "openTRANS", "Data Export", "ERP", "Software", "Functional Description", "Glass Industry", "A+W Business", "EDI", "Document Transfer"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Business software module, 'Export of documents in the openTRANS format 2.1'. It details the module's capability to export key business documents such as order confirmations, invoices, credit notes, and delivery notices using the standardized openTRANS 2.1 format. The document outlines the module's functions, requirements, restrictions, and provides essential notes for implementation."
-long_description: "This functional description provides a comprehensive overview of the A+W Business module designed for exporting business documents in the openTRANS 2.1 format. The module, named 'Document Transfer in openTRANS Format 2.1,' is available starting with A+W Business v6. It facilitates electronic data interchange (EDI) between trading companies by allowing for the automated and standardized export of critical documents, including order confirmations, invoices, credit notes, and delivery notices. The document specifies the scope of the module, listing the exact functions provided, such as the export of specific document types. It also clearly states the restrictions, noting that other document types included in the openTRANS 2.1 standard are not supported and that the exported documents are not electronically signed. Additionally, it highlights requirements, like the necessity of having A+W Business v6, and includes important notes regarding potential needs for for-fee adjustments due to different interpretations of the standard by various providers. The document concludes with legal disclaimers, copyright information, and contact details for A+W Software GmbH."
+description: "EN-FUNC-AW_Business_OpenTRANS_Export"
 ---
+
 
 # A+W Functional Description: Export of documents in the openTRANS format 2.1
 

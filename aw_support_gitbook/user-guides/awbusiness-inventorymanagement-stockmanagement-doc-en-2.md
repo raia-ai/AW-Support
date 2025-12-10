@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Inventory_Management_6_2-4"
-source: "EN_AWBusiness_Inventory_Management_6_2-4.pdf"
-tags: ["inventory management", "stock management", "A+W Business", "software reference", "final inventory", "stock movement", "queries", "booking journal", "average price calculation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference guide for the A+W Business Inventory Management software. It covers procedures for finalizing inventory counts, managing stock articles and prices, booking stock movements (dispatches, additions, transfers), and running queries like booking journals and stock histories."
-long_description: "This document is a detailed software reference manual for the A+W Business Inventory Management module. It provides step-by-step instructions and field-level descriptions for several key inventory processes. The guide begins with the 'Final Inventory' process, explaining how to conclude inventory taking and finalize stock counts. It then moves to 'Stock Management,' detailing how to view, add, and manage stock articles, including their prices and supplementary data. This section covers the calculation of average purchase prices (average PP). The manual also explains 'Stock Movement,' which includes manually booking dispatches, additions, transfers, correcting sheet counts in boxes, and opening boxes. Finally, it describes the 'Queries' section, which allows users to generate reports like the Booking Journal and Stock History for a quick overview of stock on hand, movements, and values. The document is intended for users who need to perform and manage inventory tasks within the A+W Business software."
+description: "EN_AWBusiness_Inventory_Management_6_2-4"
 ---
+
 
 ---
 ## Final Inventory

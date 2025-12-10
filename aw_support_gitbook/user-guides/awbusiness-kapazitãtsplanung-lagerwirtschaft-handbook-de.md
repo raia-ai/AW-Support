@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Software Reference - Warehouse Management and Capacity Planning"
-source: "D-HB-AWBusiness_30.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Lagerwirtschaft", "ERP", "Software Reference", "Warehouse Management", "Inventory Valuation", "Capacity Planning", "LIFO", "FIFO"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for A+W Business Pro, covering modules for warehouse management (Lagerwirtschaft) and capacity planning (Kapazitätsplanung). It details functionalities like stock ordering, inventory valuation (LIFO/FIFO), and production capacity management."
-long_description: "This document is a comprehensive software reference manual for A+W Business Pro, specifically focusing on the Warehouse Management (Lagerwirtschaft) and Capacity Planning (Kapazitätsplanung) modules. The first section on Warehouse Management details processes for stock ordering, including menu functions in the order pool and handling supplier information. It also provides an in-depth guide to inventory valuation, explaining the periodic LIFO and FIFO methods with clear examples and tables. The manual describes the dialogs for setting valuation criteria and reviewing the calculated inventory values. The second major part of the document is a tutorial and reference for the Capacity Planning module. It outlines the fundamental concepts, master data setup (machines, production areas, work shifts, time specifications), and the process of scheduling and monitoring production capacities. It covers how to handle capacity problems, use the control station (Leitstand), and manage production feedback. The guide is structured to help users understand the interplay of various master data components to accurately model and plan their production workflow."
+description: "A+W Business Software Reference - Warehouse Management and Capacity Planning"
 ---
+
 
 # Softwarereferenz
 

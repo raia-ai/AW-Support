@@ -1,12 +1,7 @@
 ---
-title: "D_AWDashboard_1.0"
-source: "D_AWDashboard_1.0.pdf"
-tags: ["A+W Dashboard", "Software Manual", "Production Monitoring", "KPI", "Data Visualization", "Tutorial", "German", "Glass Manufacturing", "Window Manufacturing", "Door Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the German user manual for A+W Dashboard, version 1.00 from April 2014. It serves as a tutorial for end-users, guiding them on how to configure and use the dashboard to visualize production data and Key Performance Indicators (KPIs) from A+W's ERP and production systems."
-long_description: "This is the official documentation for the A+W Dashboard software, specifically version 1.00 released in April 2014. The document is written in German and is intended for end-users who are responsible for monitoring and controlling production processes in the glass, window, and door manufacturing industries. It provides a comprehensive tutorial on using the web-based A+W Dashboard to display real-time Key Performance Indicator (KPI) data. The manual details the system's architecture, which consists of Controls (individual data visualizations like gauges, charts, and traffic lights), Pages (collections of Controls), and Views (sequences of Pages). It provides step-by-step instructions for creating and configuring these components using the Control Editor, Page Editor, and View Editor. The document explains various data visualization types (e.g., traffic light, pie chart, line graph, bar chart, and tachometer) and how to connect them to different data sources like production bookings (BDE) and KPI databases. It also covers basic operations, settings, and navigation within the dashboard interface, which is optimized for both touchscreens and mouse-based interaction. Copyright and contact information for A+W Software GmbH are also included."
+description: "D_AWDashboard_1.0"
 ---
+
 
 # A+W Dashboard
 

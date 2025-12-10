@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W SetupLauncher"
-category: "installation"
-product: "A+W SetupLauncher"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W SetupLauncher"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Operating instructions          A+W Setup Launcher         Change history:              Date       Edited by      Remarks                                    Version              2008-01-06 André Münch    Original version                           1.0.1000              2009-12-15 André Münch    Auto Update                                1.0.1001              2010-01-05 André Münch    Installation Directory                     1.0.1002              2010-05-28 André Münch    Prerequisites a"
-source_file: "EN-INST-A+W SetupLauncher.pdf"
+description: "EN INST A+W SetupLauncher"
 ---
+
 
 
 # EN INST A+W SetupLauncher

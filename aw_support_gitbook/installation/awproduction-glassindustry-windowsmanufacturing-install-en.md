@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Production"
-source: "EN-INST-AW_Production.pdf"
-tags: ["A+W Production", "installation guide", "software setup", "glass industry", "windows manufacturing", "database configuration", "licensing", "troubleshooting"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual providing step-by-step installation and configuration instructions for the A+W Production 6 software, designed for the glass and windows industry. It covers system prerequisites, setup procedures, component selection, licensing, and troubleshooting."
-long_description: "This document is the official installation guide for A+W Production 6, a specialized software solution for glass and windows manufacturing. It is intended for consultants and system administrators responsible for deploying the software. The guide begins by outlining the necessary prerequisites, including hardware, network, software (Windows 7/Server 2008 R2), database (Informix/SQL Server 2008), and directory permissions. The core of the document details the installation process using the A+W SetupLauncher, covering component selection, module-based configuration dialogs for settings like exchange directories and database connections, and service user setup. It provides a structured sequence for installing various packages like the Process Server and Terminal Server. A significant portion is dedicated to the configuration of A+W ProductionComServer, protocolling, and various parameters from the production database. The guide also covers the multi-step licensing process for the A+W Production Terminal, explaining the roles of the PPS Webservice, AWSOA service, and LicenseClient. A detailed troubleshooting section offers guidance on resolving common licensing issues, including how to use tools like the Service Locator Administration and Protocolling Config Tool to diagnose problems. Finally, it provides technical tips, such as how to manually edit the machine.config file when uninstalling the Informix driver."
+description: "EN-INST-AW_Production"
 ---
+
 
 # Installation Instructions A+W Production 6
 

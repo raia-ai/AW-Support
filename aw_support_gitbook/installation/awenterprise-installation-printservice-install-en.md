@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_Print_Service"
-source: "EN-INST-AW_Enterprise_Print_Service.pdf"
-tags: ["Installation", "A+W Enterprise", "Print Service", "Software", "Configuration", "Crystal Reports", "Database", "Windows Server", "Setup Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Installation and configuration guide for A+W Enterprise 6 Print Service. This document outlines the system requirements, installation steps, and configuration settings for deploying the print service, including database connections, Crystal Reports runtime, and maintenance tasks."
-long_description: "This document provides comprehensive installation instructions for the A+W Enterprise 6 Print Service, a component of the A+W software suite for glass and windows manufacturing. It is intended for system planners and administrators responsible for deploying and maintaining the software. The guide covers the entire process, starting with pre-installation checks, system requirements (including supported Windows Server versions, network access, and prerequisite software like Informix Client SDK and .NET Framework), and a detailed, step-by-step procedure for installation using the A+W Setup Launcher. The document delves into the configuration of the Print Service using the Config Tool, explaining common settings, database connections, Crystal Reports runtime versions, maintenance settings, and external tool integration. It details how to set up site-specific properties, connect to databases, manage environment variables (ALENV), and configure email notifications for error reporting. It also addresses potential incompatibilities, known issues, and workarounds. The guide concludes with instructions for uninstalling the software and notes on post-installation tasks like report setup and directory structure management."
+description: "EN-INST-AW_Enterprise_Print_Service"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 Print Service
 

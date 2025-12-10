@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Stammdaten_9_1"
-source: "DE_AWBusiness_Stammdaten_9_1.pdf"
-tags: ["A+W Business", "Stammdaten", "Master Data", "ERP", "Glass Industry", "Windows", "Doors", "Software Tutorial", "Kundendaten", "Produktdaten"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and reference guide for the master data module (Stammdaten) of A+W Business, an ERP software for the glass, windows, and doors industry. It covers the creation and management of customer, supplier, product, and financial data."
-long_description: "This document serves as a comprehensive guide to the 'Stammdaten' (Master Data) module within the A+W Business software suite. It is intended for end-users responsible for setting up and maintaining the foundational data of the ERP system. The guide is structured into a preface, two tutorials, and a software reference section. The first tutorial, which is the main focus of this document, provides a step-by-step introduction to creating and managing core data entities. This includes detailed instructions on handling market partners (customers, suppliers), address data, order and invoicing rules, employee and branch information, text management, and financial settings like credit limits, calendars, and payment terms. It uses a combination of conceptual explanations, procedural guides, screenshots, and diagrams to facilitate understanding. The document explains the logical connections between different data types and their impact on business processes such as sales, purchasing, and production planning. It also covers the setup of basic tables, the use of classifiers for data segmentation, and the configuration of pricing, discounts, and charges."
+description: "DE_AWBusiness_Stammdaten_9_1"
 ---
+
 
 # A+W Stammdaten B
 

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_10"
-source: "DE-HB-AWCADDesignerShapes_10.pdf"
-tags: ["CAD", "A+W CAD Designer", "Technical Manual", "Digitizing", "Shapes", "Konturerfassung", "Zeichnungserstellung", "Bauglas", "Modellerstellung", "Software-Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for A+W CAD Designer (Shapes), providing detailed instructions on various advanced functions. It covers topics such as digitizing complex inner contours and drill holes, virtual digitization from photos, post-processing of contours, creating and dimensioning sketches, and working with parametric models and variables. It also details the integration with other A+W software like Enterprise and Business."
-long_description: "This comprehensive user guide for A+W CAD Designer (Shapes) offers in-depth, step-by-step instructions for a range of advanced features related to creating and editing shapes, particularly for the glass industry. The manual is structured around concrete examples and questions. Key sections include:
+description: "DE-HB-AWCADDesignerShapes_10"
 ---
+
 
 - **Digitizing Contours**: Detailed procedures for digitizing both outer and inner contours, including complex shapes and drill holes, using a digitizing table. It explains how to handle post-processing tasks like smoothing critical points and aligning contours.
 - **Virtual Digitizing**: Instructions on how to digitize a contour from a digital photograph (*.jpg) using the Virtual Digitizing (VD) add-on software.

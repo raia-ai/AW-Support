@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W ERP Stock Service"
-category: "installation"
-product: "A+W ERP Stock Service"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W ERP Stock Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W ERP Stock Service 6    Change history:     Date           Edited by                Remarks                                       Version     13.07.17       SVH                      Original version                              0.9     15.09.21       SVH                      AWDesk #338820                                1.1     16.12.13       MP                       AutoUpdate                                    1.2     2018-04-13     SVH"
-source_file: "EN-INST-A+W ERP Stock Service.pdf"
+description: "EN INST A+W ERP Stock Service"
 ---
+
 
 
 # EN INST A+W ERP Stock Service

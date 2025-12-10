@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_17"
-source: "D-AWBusiness-HB_17.pdf"
-tags: ["A+W Business", "Software Manual", "Angebot", "Quote Management", "Dokumentenverwaltung", "Document Management", "Angebotsstatistik", "Alternativangebot", "Positionsdaten", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Verkauf module, focusing on offer (Angebot) and document management (Dokumentenverwaltung). It details functionalities for creating, managing, and analyzing offers, including resubmissions, alternative offers, and offer statistics. It also covers the comprehensive document management system for various document types like orders, invoices, and credit notes."
-long_description: "This comprehensive software reference manual provides in-depth documentation for the 'Angebot' (Offer) and 'Dokumentenverwaltung' (Document Management) sections of the A+W Business Verkauf software. The guide begins with functions related to offers, explaining how to manage resubmissions, restrict views, and handle offer history and alternative offer overviews. It details the process for creating offer statistics, allowing users to filter and analyze offers based on various criteria like date, customer, and reason for rejection. A significant portion is dedicated to 'Alternativen' (Alternatives), where users can create and manage alternative offers, including alternative positions, models, and constructions. The manual provides step-by-step instructions for each register, from 'Original' to 'Sprossen' (muntins). The document then transitions to the broader topic of 'Dokumentenverwaltung,' which applies to all document types (offers, orders, invoices, etc.). It describes the main user interface, including header data (Kopfdaten) and item data (Positionsdaten). The guide meticulously explains every field and option available in the document header, such as identification, addresses, conditions, technical parameters, and attachments. The second major part focuses on 'Positionsdaten,' detailing how to enter and manage line items within a document. This includes managing the bill of materials (Stückliste), applying models and processing steps (Modelle/Bearbeitungen), and configuring specific elements like stepped units (Stufung) and bent glass (Gebogenes Glas). The manual is highly structured, with clear navigation paths, field descriptions, and references to related tutorials and master data settings, serving as a complete functional guide for users of the A+W Business sales module."
+description: "D-AWBusiness-HB_17"
 ---
+
 
 ---
 ## Angebot

@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kapazitaetsplanung_4_2"
-source: "DE_AWBusiness_Kapazitaetsplanung_4_2.pdf"
-tags: ["A+W Business Pro", "Capacity Planning", "ERP", "Glass Manufacturing", "Production Scheduling", "Master Data", "Software Tutorial", "Technical Manual", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language technical manual for A+W Business Pro Capacity Planning software. It includes a tutorial on master data management, production sequencing, capacity planning, and order scheduling, as well as a software reference guide for administrative settings."
-long_description: "This document is a comprehensive guide for the A+W Business Pro Capacity Planning module, version 4.02. It is structured into two main parts: a Tutorial and a Software Reference. The Tutorial section provides step-by-step instructions and practical examples on how to use the software for production management. Key topics include setting up and assigning master data, defining production sequences, handling different product types, and managing capacity. It details the process of scheduling orders, both manually and automatically, dealing with bottlenecks, splitting production orders, and monitoring production progress and costs. The guide also covers the use of the 'Leitstand' (Control Center) for a high-level overview and management of production. The Software Reference section offers detailed descriptions of all relevant dialogs, settings, and administrative functions. It covers master data administration, organizational setup (like production areas, machines, and shifts), and system configurations for capacity planning and production feedback. This manual is intended for system administrators, production planners, and advanced users of the A+W Business Pro software in the glass, windows, and doors manufacturing industry."
+description: "DE_AWBusiness_Kapazitaetsplanung_4_2"
 ---
+
 
 # Tutorial
 

@@ -1,12 +1,7 @@
 ---
-title: "Constellation_Software_CSI_KPIs_Financial_Bootcamp"
-source: "Constellation_Software_CSI_KPIs_Financial_Bootcamp.pdf"
-tags: ["Financial KPIs", "Constellation Software", "CSI", "EBITA", "BQR", "SaaS Metrics", "Financial Ratios", "Business Performance", "Non-Financials", "Corporate Finance"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A summary of the 'Financial Fundamentals for Non-Financials' presentation by Julia Schmidt, CFO of Comas Portfolio. This document outlines the key financial concepts, metrics, and Key Performance Indicators (KPIs) used within Constellation Software Inc. (CSI) and its subsidiaries to measure and benchmark business performance."
-long_description: "This document provides a detailed breakdown of the financial metrics used by Constellation Software Inc. (CSI), a major player in the vertical market software industry. It originates from a presentation titled 'Financial Fundamentals for Non-Financials' by Julia Schmidt, CFO of the Comas Portfolio. The content is designed to educate non-financial professionals on how business performance is measured, managed, and benchmarked within the complex corporate structure of CSI. The document first establishes the corporate hierarchy, showing how A+W fits into the COMAS group, which is a subsidiary of FOG Software, itself a part of VELA Software, a direct subsidiary of the parent company, Constellation Software Inc. It then systematically introduces core financial concepts starting with the Profit & Loss (P&L) statement and moving to key metrics like EBITA (Earnings before Interest, Taxes, and Amortization), Revenue Growth, and the unique Business Quality Ratio (BQR). It also details various departmental ratios for Sales & Marketing, Maintenance, R&D, and G&A, providing specific formulas and benchmarks used within CSI to evaluate efficiency and profitability. The document serves as a practical guide to understanding the financial reporting and performance evaluation framework that underpins CSI's successful decentralized business model."
+description: "Constellation_Software_CSI_KPIs_Financial_Bootcamp"
 ---
+
 
 # "Financial Fundamentals for Non-Financials" by Julia Schmidt – CFO Comas Portfolio
 

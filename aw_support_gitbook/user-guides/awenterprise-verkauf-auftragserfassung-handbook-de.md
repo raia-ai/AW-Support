@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_11"
-source: "DE-HB-AWEnterprise_11.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Auftragserfassung", "Stückliste", "Sprossenerfassung", "Produktaustausch", "Preislose Erfassung", "Tutorial", "Software Referenz", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein umfassendes deutsches Handbuch für das Vertriebsmodul der A+W Enterprise Software. Es enthält einen Tutorial-Teil mit schrittweisen Anleitungen für wichtige Aufgaben wie Auftragserfassung und Stücklistenverwaltung sowie einen detaillierten Software-Referenzteil, der alle Funktionen und Dialoge systematisch beschreibt."
-long_description: "Dieses Dokument dient als umfassende Anleitung für das Modul „Verkauf“ der A+W Enterprise Software. Es gliedert sich in zwei Hauptteile: ein „Tutorial“ und eine „Softwarereferenz“. Der Tutorial-Abschnitt bietet praktische, schrittweise Anleitungen zur Durchführung wesentlicher Aufgaben. Dazu gehören das Erstellen und Verwalten von Aufträgen („Aufträge“), die Bearbeitung von Auftragspositionen („Positionserfassung“), das Erstellen und Ändern von Stücklisten („Stückliste“), die Verwaltung von Sprossen („Sprossenerfassung“) und die Durchführung von Produktaustauschen. Es werden auch spezielle Funktionen wie iTOE (integrierte CAD-basierte Positionserfassung) und die Verarbeitung von Stufenglas („Stufenerfassung“) behandelt. Der Abschnitt „Softwarereferenz“ bietet eine systematische und detaillierte Beschreibung aller Funktionen, Dialoge und Felder innerhalb des Vertriebsmoduls und dient als technisches Nachschlagewerk. Es enthält detaillierte Beschreibungen von Suchfunktionen, administrativen Aufgaben und verschiedenen Datenverwaltungsmenüs. Diese Anleitung richtet sich an Benutzer von A+W Enterprise, um die Fähigkeiten der Software zu erlernen und als Referenz für spezifische Funktionen und Verfahren zu dienen."
+description: "DE-HB-AWEnterprise_11"
 ---
+
 
 # A+W Enterprise Verkauf: Tutorial
 

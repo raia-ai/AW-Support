@@ -1,12 +1,7 @@
 ---
-title: "AW_Sales_Tool_2025_1-1-1"
-source: "AW_Sales_Tool_2025_1-1-1.pdf"
-tags: ["A+W", "ERP", "fenestration software", "glass industry", "production control", "sales tool", "A+W Clarity", "A+W Cantor", "software solutions"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A sales presentation for A+W's 'SALES TOOL 2025,' outlining the company's software solutions for the glass, windows, and doors industry. It covers company information, global presence, product scalability, and detailed process flows for its key software suites, A+W Clarity (for glass) and A+W Cantor (for fenestration)."
-long_description: "This document is the A+W 'SALES TOOL 2025,' a comprehensive presentation detailing the company's software offerings for the flat glass and fenestration industries. It begins by introducing A+W as a global market leader since 1976, part of the Constellation Software group, with over 1,100 customers in 75 countries. The presentation showcases the company's global reach with a map of its offices and commercial partners. A significant portion is dedicated to explaining the process flows managed by its software. It provides detailed diagrams for 'A+W Clarity' (glass processing) and 'A+W Cantor' (fenestration), both individually and in combination, illustrating a complete, integrated workflow from web shop and order entry through production, monitoring, and delivery. The document also includes a scalability chart that maps A+W's product portfolio—including A+W Enterprise, Business, Business Pro, Smart Factory, Production, and iCut—to different company sizes and production needs, from small manual operations to large automated corporations. The presentation concludes with a main menu of all available solutions, categorized into commercial, production, and other solutions like logistics and mobile applications."
+description: "AW_Sales_Tool_2025_1-1-1"
 ---
+
 
 # A+W SALES TOOL 2025
 ---

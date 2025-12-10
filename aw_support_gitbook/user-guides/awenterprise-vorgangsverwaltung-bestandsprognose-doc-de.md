@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_4"
-source: "DE_AWEnterprise_Verkauf_4_4.pdf"
-tags: ["A+W Enterprise", "Vorgangsverwaltung", "Bestandsprognose", "Produktaustausch", "Stückliste", "Auftragserfassung", "Software-Referenz", "ERP-System", "Verkaufsmodul"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist eine Softwarereferenz für das Verkaufsmodul von A+W Enterprise. Es beschreibt detailliert die Funktionen der Vorgangsverwaltung, einschließlich Bestandsprognose, Produktaustausch, Stücklistenverwaltung, und der Erfassung technischer Werte."
-long_description: "Dieses Referenzhandbuch bietet eine umfassende Dokumentation für das Verkaufs- und Vorgangsverwaltungsmodul der A+W Enterprise Software. Es richtet sich an Anwender und Administratoren, die die Funktionalitäten des Systems im Detail verstehen und nutzen möchten. Das Dokument gliedert sich in mehrere Hauptbereiche: Die Bestandsprognose ermöglicht eine vorausschauende Planung von Lagerartikeln durch die Analyse von Verbräuchen, Bestellungen und geplanten Mengen. Der Abschnitt zum Produktaustausch erläutert, wie Artikel innerhalb von Stücklisten einfach ersetzt werden können, sowohl für einzelne als auch für mehrere Positionen. Ein weiterer zentraler Teil ist die detaillierte Beschreibung der Reklamations- und Auftragsartenverwaltung. Das Dokument erklärt ausführlich die Erfassung und Verwaltung von technischen Werten und Leistungserklärungen, inklusive der Anbindung an externe Berechnungsprogramme. Ein großer Schwerpunkt liegt auf der Stücklistenverwaltung, die den hierarchischen Aufbau von Produkten (z.B. ISO-Gläser) darstellt und die Bearbeitung von Komponenten, Bearbeitungen, Sprossen und Stufen ermöglicht. Abgerundet wird die Referenz durch Anleitungen zum Datenimport (Fremddaten, DXF), zur Verwaltung von Dokumenten und zur Nutzung von Protokollen wie dem Änderungs- und Lieferterminänderungs-Protokoll. Zahlreiche Screenshots und Tabellen illustrieren die Dialoge und Funktionen des Systems."
+description: "DE_AWEnterprise_Verkauf_4_4"
 ---
+
 
 # Softwarereferenz Vorgangsverwaltung
 

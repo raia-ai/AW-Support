@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Production_MachineControl"
-source: "EN-CONFIG-AW_Production_MachineControl.pdf"
-tags: ["A+W", "Production Control", "Machine Control", "Glass Software", "Cutting Table", "Bender", "Sealer", "Georgian Bars", "Processing Machines", "Configuration", "JobRelease"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical configuration manual for A+W's Production Machine Control software. It details the setup and integration of various machines like cutting tables, benders, sealers, and processing machines within the A+W Production and A+W Business Pro environments."
-long_description: "This document, titled \"A+W Production Machine Control,\" is an internal configuration guide for A+W's software solutions for the glass industry. It provides detailed, step-by-step instructions for technicians on how to set up, configure, and integrate a wide range of production machinery with the A+W Production and A+W Business Pro software suites. The manual covers various machine types, including cutting tables from manufacturers like Bystronic, LISEC, HEGLA, and Bottero, as well as benders, sealers, Georgian Bar saws, and other processing machines (XL and SN types). Key topics include machinery allocation (MZO), driver configuration, job release processes, label printing, laser marking, and machine control via A+W Realtime Optimizer, CutTV, and A+W Production Terminals. The guide also addresses specific configurations for different machine protocols and software versions, provides troubleshooting tips for common issues, and explains the directory structures and scripts involved in generating and transferring machine code."
+description: "EN-CONFIG-AW_Production_MachineControl"
 ---
+
 
 # A+W Production Machine Control
 - -INTERNAL-

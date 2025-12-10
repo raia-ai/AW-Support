@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Pro Kapazitätsplanung Referenz"
-source: "D-HB-AWBusiness_32.pdf"
-tags: ["A+W Business Pro", "Kapazitätsplanung", "Software-Referenz", "Fertigungssteuerung", "Stammdaten", "Verwaltung", "Einlastung", "Produktionsplanung", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Pro capacity planning module. It details the setup and administration of master data, including shifts, machines (aggregates), work types, and production areas. It covers the configuration of time calculations, restrictions, and special rules for production processes."
-long_description: "This is a comprehensive software reference guide for the \"A+W Business Pro Kapazitätsplanung\" (Capacity Planning) module. The document is structured into several main parts, starting with \"Verwaltung\" (Administration), which covers the initial setup of master data. This includes defining completion message history, shift schedules, machine types (Aggregattypen), work types (Arbeitsarten), and transition times between operations. It provides detailed instructions on configuring parameters that influence automatic scheduling, such as splitting large orders, delivery date searches, and production data transfer via OrderXML. The \"Organisation\" section describes how to structure the production environment, including defining production areas, individual machines (Aggregate) with their specific technical restrictions and costs, and setting up calendars for workdays and shifts. The \"Vorgabezeiten\" (Standard Times) section explains how to define the time required for various operations, using matrices, vectors, or cubes to handle dependencies on factors like material thickness or size. The \"Zuordnen\" (Assignment) section details how to link products, product groups, and special processing types to specific work steps and machines. The \"Sperren\" (Blocking) functionality allows users to define rules to prevent certain operations on specific machines for particular products or customers. Finally, the \"Übersichten\" (Overviews) and \"Kapazitätsplanung\" (Capacity Planning) sections cover the application of these settings, including reporting, statistical analysis, and the actual process of scheduling orders (Einlastung) into the production plan."
+description: "A+W Business Pro Kapazitätsplanung Referenz"
 ---
+
 
 # Softwarereferenz Verwaltung
 

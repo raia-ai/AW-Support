@@ -1,12 +1,7 @@
 ---
-title: "A+W Business (PRO) - Door Entry: Fitting and Processings"
-source: "EN-FUNC-AW_Fitting_and_Processings.pdf"
-tags: ["A+W Business", "Door Entry", "Fitting", "Processings", "Software", "Glass Industry", "ERP", "Functional Description"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description for the 'Door Entry: Fitting and Processings' module within the A+W Business (PRO) software. This document outlines the module's purpose, which is to simplify and automate the entry of glass door fittings and their associated processings into the Bill of Materials (BOM). It covers the module's data, requirements, functions, restrictions, and legal notices."
-long_description: "This document provides a detailed functional description of the 'Door Entry: Fitting and Processings' module for the A+W Business (PRO) enterprise resource planning (ERP) software, starting from version 6.0. The module is designed specifically for the glass industry to streamline the process of adding fittings (like locks, hinges) and their required processings (cutouts, holes) to glass door orders. The document explains how fittings can be predefined in the master data with their corresponding processings. When a fitting is added to an order's Bill of Materials (BOM), the system automatically includes the necessary processings, calculating values based on dimension formulas. Key features include automatic updates to the BOM when fittings are changed or deleted, handling of different hinge sides for studio doors, and the ability to manage multiple processings for a single fitting based on priority. The document also lists system requirements, such as needing the A+W Business core module, and outlines several restrictions, for example, that the logic is primarily supported for rectangular shapes and is implemented during processing entry, not for EDI. It concludes with standard copyright and liability disclaimers and contact information for A+W Software GmbH."
+description: "A+W Business (PRO) - Door Entry: Fitting and Processings"
 ---
+
 
 # A+W Functional Description
 # A+W Business (PRO) - Door Entry: Fitting and Processings

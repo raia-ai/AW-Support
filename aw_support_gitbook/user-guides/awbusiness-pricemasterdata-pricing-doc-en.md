@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Master Data - Price Master Data Tutorial"
-source: "EN_AWBusiness_Master_Data_9_3-3.pdf"
-tags: ["A+W Business", "Price Master Data", "Pricing", "Tutorial", "ERP", "Glass Industry", "Processing Index", "Vector Pricing", "Matrix Pricing", "Cube Pricing", "Surcharges"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial on configuring price master data in the A+W Business software, covering various pricing models like Processing Index, Vector, Matrix, and Cube, as well as surcharges and price calculation by product group (PGR)."
-long_description: "This document provides a detailed tutorial for setting up and managing price master data within the A+W Business software system, which is commonly used in the glass manufacturing and processing industry. It explains several methods for defining prices based on product complexity and dimensions. The tutorial covers the 'Processing Index' for rating work difficulty, 'Vector' pricing for single-limit graduated prices (e.g., by surface area), 'Matrix' pricing for two-limit dependencies (e.g., width and height), and 'Cube' pricing for three-limit structures (e.g., width, height, and thickness). It includes step-by-step instructions on how to define limits, enter prices, and use features like triangular matrices to simplify data entry. The document also details how to perform price calculations using an external Product Group (PGR) key and how to define and apply various types of surcharges, including group surcharges for product exchanges. This guide is intended for system administrators or users responsible for configuring the pricing logic in A+W Business."
+description: "A+W Business Master Data - Price Master Data Tutorial"
 ---
+
 
 # Tutorial 1: Price Master Data
 

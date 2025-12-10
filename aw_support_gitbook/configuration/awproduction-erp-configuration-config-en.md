@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-A+W Production"
-source: "EN-CONFIG-A+W Production.docx"
-tags: ["A+W Production", "ERP", "Configuration", "Feedback", "Scheduling", "Rush Order", "Remake Handling", "Barcoding", "ALCIM", "A+W Cantor"]
-version: "1.0"
-last_updated: "2024-10-03"
-short_description: "A technical configuration guide for the A+W Production software, detailing settings for order scheduling, rush orders, high-priority orders, and system feedback mechanisms. It covers integration with ERP systems, including fileless reporting, batch status updates, and rack allocation."
-long_description: "This document, 'EN-CONFIG-A+W Production.docx,' serves as a detailed configuration manual for A+W Software GmbH's production management system. It outlines various switch positions and parameters that control the software's behavior in different scenarios, such as order scheduling, rush orders, and handling high-priority tasks. Key sections cover the logic for DD (Due Date) postponement, the use of a 'rush grid,' and how the system weighs costs to determine the most effective production path. The document provides in-depth information on the 'Feedback' module (Chapter 6), explaining the transition from file-based synchronization to a more streamlined, fileless reporting system. This includes the configuration of ALCIMBOOK services for reporting batch, production, and rack status directly to an ERP system. It details the necessary switches, parameters, and database tables (e.g., `ERP_RUECKMELDUNG`, `ERP_GEST_MELDUNG`) involved in this process. Furthermore, the guide explains how to configure remake handling for partial defects (Chapter 9), including the setup of PDC master data, status types, and parameter administrator dialogs. It also covers integrations with other A+W products like A+W Business, A+W Enterprise, and A+W Cantor, providing configuration steps for each."
+description: "EN-CONFIG-A+W Production"
 ---
+
 
 ---
 ### Switch DD postponement = YES, x days

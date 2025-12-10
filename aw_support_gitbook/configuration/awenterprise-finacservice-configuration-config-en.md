@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_FinAc_Service"
-source: "EN-CONFIG-AW_Enterprise_FinAc_Service.pdf"
-tags: ["A+W Enterprise", "FinAc Service", "Configuration", "Intrastat", "XML Export", "ERP", "Database", "Software for Glass", "eGecko", "SAP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Enterprise FinAc Service, a module for providing financial and accounting (FinAc) data to third-party systems. It covers installation, configuration using the FinAc Service Config Tool, logging, and the structure of control tables. The document also details specific functions like exporting documents, master data, and handling open items."
-long_description: "This is a comprehensive internal guide for the A+W Enterprise FinAc Service. The document details the setup, configuration, and operation of this service, which acts as a bridge to export financial and accounting data from the A+W Enterprise system to external systems like eGecko, SAP, and proAlpha. It begins with a version history and an overview of the service's architecture. The guide provides step-by-step installation instructions, including manual steps for older versions and specific setups for Intrastat export. The core of the document focuses on configuration, covering the FinAc Service Config Tool, environment variables, and setting up automatic service restarts. It explains the logging mechanisms (service log, database log) for troubleshooting. Detailed descriptions of the key control tables, `fibutransfer` and `intrastat`, are provided, including field definitions and status codes to help diagnose processing errors. The document outlines the logic for various functions, such as exporting invoices, master data, stock transactions, and processing payment plans. A significant portion is dedicated to the Intrastat export functionality for Germany, Austria, and Slovakia, with specific data mapping tables for each country's requirements. Finally, it includes extensive troubleshooting sections for common issues like processing failures, database connection problems, and rounding errors."
+description: "EN-CONFIG-AW_Enterprise_FinAc_Service"
 ---
+
 
 # A+W Enterprise FinAc Service
 **-INTERNAL-**

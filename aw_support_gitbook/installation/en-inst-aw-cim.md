@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W CIM"
-category: "installation"
-product: "A+W CIM"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W CIM"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W CIM     Change history:       Date            Edited by              Remarks                                    Version      2016-07-05      MME                    Original version                           1.0      2016-07-21      DLA                    Reworking                                  1.1      2018-05-03      DLA                    MultiSite and SmartTerminal                1.2          The installation instructions will assist the p"
-source_file: "EN-INST-A+W CIM.pdf"
+description: "EN INST A+W CIM"
 ---
+
 
 
 # EN INST A+W CIM

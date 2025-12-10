@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Realtime Optimizer 3.30"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_Realtime_Optimizer_3.30"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W Realtime Optimizer      J                                deutsch                     A+W Production                                                                                                              Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Part"
-source_file: "DE_AWProduction_Realtime_Optimizer_3.30.pdf"
+description: "DE AWProduction Realtime Optimizer 3.30"
 ---
+
 
 
 # DE AWProduction Realtime Optimizer 3.30

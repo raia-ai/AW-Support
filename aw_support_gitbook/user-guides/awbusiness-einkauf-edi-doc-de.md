@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Einkauf_3_4"
-source: "DE_AWBusiness_Einkauf_3_4.pdf"
-tags: ["A+W Business", "Einkauf", "EDI", "openTRANS", "Dokumentenaustausch", "Software-Referenz", "Tutorial", "Bestellung", "Rechnung", "Import/Export"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial and software reference for the A+W Business Einkauf (Purchasing) module, focusing on electronic document interchange (EDI) via openTRANS and ASC format. It covers setup, configuration, import/export processes, and document control for orders, invoices, and order confirmations."
-long_description: "This document serves as a comprehensive guide for the A+W Business Einkauf (Purchasing) module. It is divided into a tutorial section and a software reference section. The tutorial provides step-by-step instructions on setting up and using the electronic document interchange (EDI) functionality, specifically focusing on the openTRANS and ASC formats. It covers learning objectives such as understanding the workflow, configuring prerequisites, identifying mandatory fields, and sending/reading electronic documents. Key topics include data formats, import/export procedures, handling of document references, partial deliveries, and rounding differences. The tutorial also details the necessary system services, status assignments, and configurations in master data (firm data, currencies, partners) and B2B settings. It walks users through the process of reading, checking, and accepting electronic documents like order confirmations and invoices, including how to handle discrepancies, create partial deliveries, and assign positions manually. The software reference section provides a detailed overview of the various menus, dialogs, and functions within the purchasing module, such as inquiries, orders, order confirmations, goods receipt, and invoicing. It acts as a reference for the user interface elements, explaining the purpose of each field, button, and option in the document management system."
+description: "DE_AWBusiness_Einkauf_3_4"
 ---
+
 
 # Tutorial: Elektronischer Dokumentenaustausch
 

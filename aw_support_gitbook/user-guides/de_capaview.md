@@ -1,15 +1,7 @@
 ---
-title: "DE CapaView"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_CapaView"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Capa View                           Deutsch                 A+W Capa View                  Vorspann                                 Vorspann                             In diesem Teil der Dokumentation finden Sie editorische Notizen.                               Revisionsübersicht                             A+W Capa View            Beschreibung                             Version / Datum                              1.00 / 04-2015           Ersterstellung                                Editor"
-source_file: "DE_CapaView.pdf"
+description: "DE CapaView"
 ---
+
 
 
 # DE CapaView

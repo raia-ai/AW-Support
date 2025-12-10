@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Einkauf"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Einkauf"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Einkauf              E                          deutsch               A+W Enterprise                                                                                                                  Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Part"
-source_file: "DE_AWEnterprise_Einkauf.pdf"
+description: "DE AWEnterprise Einkauf"
 ---
+
 
 
 # DE AWEnterprise Einkauf

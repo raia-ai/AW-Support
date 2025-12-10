@@ -1,14 +1,7 @@
 ---
-title: "AUW_Description_File-less_Feedback"
-source: "AUW_Description_File-less_Feedback.docx"
-tags: ["A+W Production", "file-less feedback", "ERP integration", "manufacturing", "rack feedback", "stockplates", "A+W Business", "A+W Enterprise", "A+W Cantor"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document describes the A+W file-less feedback concept for integrating A+W Production with ERP and related A+W systems. It explains motivation, required configuration, supported feedback types (batch, production, intermediate production, rack, and stock plates), processing mechanics, and resulting data structures. Implementation notes, attention callouts, and tables clarify status mappings, parameters, and database tables across A+W Production, A+W Business, A+W Enterprise, and A+W Cantor."
-long_description: "This configuration and process guide documents A+W’s file-less feedback mechanism used to synchronize production states with ERP and other enterprise applications without exchanging flat files. It begins with the historical context and motivation for replacing legacy file-based signals (e.g., STSL, STSD, STSB, STSG/STSK, PRODDAZ/PRODDUZ), outlining the operational benefits and limitations of the approach. The document then details how A+W Production captures state changes in dedicated feedback tables (ERP_RUECKMELDUNG, ERP_GEST_MELDUNG, XOPT_RUECKMELDUNG) and forwards them via an ERP WebService. Configuration chapters enumerate the parameters necessary to activate and control feedback for batch status, production status, intermediate production states, rack assignment, and stock plates. Clear status mappings, preconditions, and processing notes are provided, including cautions for release versions and manual updates.
-
-Further sections explain how A+W Business consumes and presents this feedback, including table-level results (FS_POOL) and processing states, along with example overviews and views. A+W Enterprise considerations and parameters required for proper communication and locking are listed to ensure consistent downstream behavior. The A+W Cantor integration is covered in depth, including AV system setup, CIM master data (part additions, terminal groups), system queue options, and the structure of the rack feedback XML created by A+W Production for out-of-house booking scenarios. Throughout, the guide highlights relevant database fields and sources, provides table schemas, and identifies configuration locations in the UI. This document serves as a reference for administrators and integrators implementing, maintaining, or troubleshooting file-less feedback across the A+W product suite."
+description: "AUW_Description_File-less_Feedback"
 ---
+
 # File-less Feedback
 
 > Document is transferred into configuration manual!

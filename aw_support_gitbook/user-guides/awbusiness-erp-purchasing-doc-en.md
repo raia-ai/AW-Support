@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_2-3"
-source: "EN_AWBusiness_Purchasing_3_30_2-3.pdf"
-tags: ["A+W Business", "ERP", "Purchasing", "Electronic Document Exchange", "openTRANS", "EDI", "Invoice Control", "Order Confirmation", "Data Import", "Data Export"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business Purchasing module, focusing on the electronic document exchange feature. It covers the configuration and use of openTRANS and EDI for exporting and importing order confirmations, invoices, and other business documents."
-long_description: "This tutorial provides detailed instructions on setting up and utilizing the electronic document exchange capabilities within the A+W Business Purchasing software. It covers both the export and import processes for key business documents like order confirmations and invoices. The guide explains how to configure document exchange using the openTRANS format, which requires compatible A+W Business versions between trading partners. It details document export settings, including mode (email or file), format, and document types. The tutorial also covers the import process, explaining how to handle openTRANS and XML files, and how to use the A+W openTRANS ImportTool. A significant portion is dedicated to the document check and control processes, including the Price control and Invoice control dialogs. It explains how to handle discrepancies, allocate items, manage footer surcharges/discounts, and create partial deliveries. The document also walks through necessary system configurations, such as checking services (A+W Interface Service, ERP-WebService), setting status points and allocations, defining company data parameters, and verifying currency settings. Finally, it touches upon data exchange using the older ASC format via EDI, covering its setup and configuration."
+description: "EN_AWBusiness_Purchasing_3_30_2-3"
 ---
+
 
 ---
 ## Electronic document exchange

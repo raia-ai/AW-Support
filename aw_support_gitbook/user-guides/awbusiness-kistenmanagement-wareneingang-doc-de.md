@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Kistenmanagement_1_3"
-source: "DE_AWBusiness_Kistenmanagement_1_3.pdf"
-tags: ["Kistenmanagement", "Wareneingang", "Warenausgang", "Lagerverwaltung", "Identnummer", "Bestellung", "A+W Business", "ERP", "Glasindustrie", "Software-Referenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Crate Management module. It details the processes for handling stock orders, goods receipt (Wareneingang), and goods issue (Warenausgang) for crates, including the assignment and tracking of unique identification numbers (IDs)."
-long_description: "This comprehensive software reference guide provides detailed instructions on using the A+W Business Crate Management module. It covers the entire lifecycle of crate handling within the system, starting with stock orders and moving through goods receipt and goods issue. The guide explains how to configure number ranges and assign orders to specific mandates or work areas. The core of the document focuses on the 'Goods Receipt (Crates)' process, broken down into several tabs: 'Selection' for filtering orders, 'Complete' for booking in full deliveries, 'By Position' for handling partial deliveries and discrepancies, and 'ID Number' for assigning unique system-generated IDs to individual crates. It also covers the settings for configuring these ID formats and logging their creation. The final section describes the 'Goods Issue Crates' process for booking crates out of inventory. This guide is intended for users responsible for inventory, logistics, and purchasing within the glass, window, and door industries."
+description: "DE_AWBusiness_Kistenmanagement_1_3"
 ---
+
 
 ---
 ## Softwarereferenz Lagerbestellung

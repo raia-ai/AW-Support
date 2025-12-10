@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-5"
-source: "EN-CONFIG-AW_Business-5.pdf"
-tags: ["A+W Business", "Crystal Reports", "Troubleshooting", "Configuration", "Reporting Service", "PDF Generation", "DMS", "OAuth2", "Office365", "Technical Guide"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical guide for configuring and troubleshooting A+W Business software, focusing on the Reporting Service, Crystal Reports forms, and integration with external systems like Twinfax, DMS, and Office 365. It provides solutions to known problems, including printing, data formatting, and authentication."
-long_description: "This document serves as a detailed configuration and troubleshooting manual for A+W Business, specifically addressing known issues and their solutions related to the Reporting Service and Crystal Reports. It covers a wide range of topics, including fixing form dispatch issues with Twinfax print drivers, correcting calculation formulas for net prices and totals in reports, and resolving collective printing discrepancies. The guide provides step-by-step instructions with UI screenshots for tasks such as restarting the queue manager, correcting database joins, and managing report group optimizations. It also details advanced configurations, such as accessing previous/subsequent data records in Crystal Reports, generating PDF files for DMS archiving with dynamic naming conventions, and handling user authentication for print jobs. Furthermore, it explains how to set up email dispatch with attachments, individual cover letters, and integration with Office 365 using OAuth2. The document is intended for system administrators and technical support personnel responsible for maintaining and customizing the A+W Business reporting environment."
+description: "EN-CONFIG-AW_Business-5"
 ---
+
 
 ---
 ## 3.10.11. Known problems and their solutions

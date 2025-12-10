@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_BMECat_Import"
-source: "EN-CONFIG-AW_Enterprise_BMECat_Import.pdf"
-tags: ["A+W Enterprise", "BMECat", "Data Import", "Configuration", "Software Manual", "ERP", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides configuration instructions for the A+W Enterprise BMECat Import tool. It covers installation, licensing, configuration of master data for various suppliers, operation of the import dialog, and troubleshooting common issues."
-long_description: "A comprehensive guide for configuring and using the A+W Enterprise BMECat Import application. This tool is designed to import supplier article master data from suppliers like Dorma, Schlechtendahl, KL-Megla, Pauli, and others into the A+W Enterprise (AWE) customer system. The manual details the entire process, starting from the initial development history and installation requirements, including necessary components like the Microsoft Visual J# Redistributable Package and AWB2B licensing. It provides in-depth configuration steps for master data replication, setting up supported suppliers, using the config tool, and defining master data such as sample articles and price lists. The document outlines special configurations within A+W Enterprise, explaining control types and environment variables. It also describes the operational workflow, from the login and import dialogs to handling import settings and data sources. The 'Functions' section explains the logic behind quantity unit conversion, article number determination, color number assignment (FarbOffset), and price handling. Finally, a detailed troubleshooting section addresses common problems like missing suppliers, incorrect file formats, database connection exceptions, and issues with specific master data imports."
+description: "EN-CONFIG-AW_Enterprise_BMECat_Import"
 ---
+
 
 # A+W Enterprise BMECat Import
 **A+W Configuration Instructions**

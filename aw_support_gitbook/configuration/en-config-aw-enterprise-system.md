@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise System"
-category: "configuration"
-product: "A+W Enterprise System"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise System"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise System                                          english                                  - INTERNAL - Change history  Date             Author           Remarks                                Version 2021-01-28       Ina Seifert      Original version                       1.0                                   5.11     A+W Commercial 6 2021-04-23       Alexander Weil   Converter Service                      1.1                                   5.12"
-source_file: "EN-CONFIG-A+W Enterprise System.pdf"
+description: "EN CONFIG A+W Enterprise System"
 ---
+
 
 
 # EN CONFIG A+W Enterprise System

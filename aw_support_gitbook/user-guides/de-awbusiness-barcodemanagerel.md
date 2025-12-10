@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness BarcodeManagerEL"
-category: "user_manuals"
-product: "AWBusiness"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWBusiness", "BarcodeManagerEL"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Barcode Manager (EL)       A                                Deutsch                       A+W Business                                                                                                           Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie editorische Notizen.                                          Revisionsübersicht                                        Version/Datum Beschreibun"
-source_file: "DE-AWBusiness-BarcodeManagerEL.pdf"
+description: "DE AWBusiness BarcodeManagerEL"
 ---
+
 
 
 # DE AWBusiness BarcodeManagerEL

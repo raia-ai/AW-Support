@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_2-2"
-source: "EN_AWBusiness_Sales_4_2-2.pdf"
-tags: ["A+W Business Sales", "Document Entry", "Invoicing", "Pricing", "Order Management", "BOM", "Surcharges", "Tutorial", "User Guide", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial segment from the A+W Business Sales software manual, detailing comprehensive document entry up to the invoicing stage. It covers adding patterns, managing surcharges for special services, editing Bill of Materials (BOM) structures, and handling order items."
-long_description: "This document is an excerpt from the 'Comprehensive Document Entry up to the Invoicing Stage' tutorial for the A+W Business Sales software. It provides step-by-step instructions for advanced order entry and management tasks. Key topics include applying patterns with proportional scaling, entering and managing surcharges for special services, and modifying the Bill of Materials (BOM) for an order item by adding or deleting components. The guide also covers editing, copying, and deleting order items. A significant portion is dedicated to pricing, explaining how to display, edit, and calculate prices for items, BOM components, replacement sheets, and grills. It details various pricing concepts like implicit vs. explicit pricing, fixed prices, price recorders, and minimum value definitions. The document uses screenshots and annotated diagrams to guide the user through the software's interface, making it a practical training module for users responsible for order processing and invoicing."
+description: "EN_AWBusiness_Sales_4_2-2"
 ---
+
 
 # Comprehensive Document Entry up to the Invoicing Stage: Tutorial
 

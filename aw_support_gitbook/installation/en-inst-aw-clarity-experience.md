@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Clarity Experience"
-category: "installation"
-product: "A+W Clarity Experience"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Clarity Experience"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Clarity Experience     Change history:       Date            Edited by              Remarks                                    Version      2019-02-01      André Münch            Original Version                           1.0      2020-12-04      André Münch            Back end dependencies in Chapter 1.3       1.1          The installation instructions will assist the planner with the installation and      configuration of the software named. P"
-source_file: "EN-INST-A+W Clarity Experience.pdf"
+description: "EN INST A+W Clarity Experience"
 ---
+
 
 
 # EN INST A+W Clarity Experience

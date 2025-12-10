@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise Sales Software Reference - Notes, Texts, Prices, Conditions, and Release"
-source: "EN-UM-AWEnterprise_14.pdf"
-tags: ["software reference", "A+W Enterprise", "sales module", "order entry", "pricing", "notes management", "technical writing", "user manual", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed software reference guide for the A+W Enterprise Sales module, covering functionalities related to Notes, Texts, Prices and Conditions, and Order Release. It provides step-by-step instructions and technical details for managing customer, article, and project-specific information within the system."
-long_description: "This comprehensive software reference manual details various features within the A+W Enterprise Sales application, specifically focusing on the management of supplemental information and pricing structures. The 'Notes' section explains how to create, display, and edit different types of notes, such as customer notes, article notes, project notes, and document notes, detailing when and how they are displayed to the user. The 'Texts' section covers the management of additional document information, including header/footer texts, article/item texts, special texts (like spacer, product code, logo), and phrases, explaining how these are generated, edited, and printed on various forms. The 'Prices and Conditions' section provides an in-depth look at the price calculation engine, describing how to manage order-specific conditions, various price types (order prices, muntin prices, exchange prices, sub-part prices), and conditions for PCD (Price Code Determination) processing for different glass and article types. Finally, the 'Release' section outlines the process for manually releasing orders that were not automatically processed due to system constraints, such as exceeding credit limits, and the authorization procedures required. The guide includes navigation paths, field descriptions with technical database information, and explanations of system dialogs and configurations."
+description: "A+W Enterprise Sales Software Reference - Notes, Texts, Prices, Conditions, and Release"
 ---
+
 
 # Software Reference
 

@@ -1,12 +1,7 @@
 ---
-title: "A+W Smart Terminal Functional Description"
-source: "EN-FUNC-AW_Smart_Terminal.pdf"
-tags: ["A+W Smart Terminal", "Functional Description", "Software for Glass", "Production Booking", "Web-based Interface", "CIM", "SOA", "A+W Production"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Smart Terminal, a web-based interface for making simple production bookings. It details the product's purpose, requirements, functions, and limitations for use with A+W Production software."
-long_description: "This document provides a comprehensive functional description of the A+W Smart Terminal, a software module for A+W Production v6 and later. The A+W Smart Terminal is a web-based interface designed to simplify production booking processes, such as assigning frames to registration points or sheets to racks. It can be operated on mobile devices like tablets. The document outlines the product's data, provides a detailed description of its functionality, and lists the necessary technical requirements, including SOA infrastructure, CIM Barcoding Service, CIM Web, and the Production Booking Engine. It also includes a detailed list of available booking functions with corresponding symbols, explains limitations like the need for manual data entry, and provides notes on device compatibility. Legal information, including trademarks, copyrights, and a disclaimer of liability, is also included, along with contact information for A+W Software GmbH."
+description: "A+W Smart Terminal Functional Description"
 ---
+
 
 # A+W Smart Terminal Functional Description
 

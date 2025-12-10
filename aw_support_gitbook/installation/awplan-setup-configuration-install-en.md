@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Plan_Editor"
-source: "EN-INST-AW_Plan_Editor.pdf"
-tags: ["software installation", "A+W Plan Editor", "installation guide", "technical documentation", "setup", "configuration", "glass and windows software", "A+W SetupLauncher", "ConfigTool"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for A+W Plan Editor version 5.4. It details system requirements, a step-by-step guide through the installation process using the A+W Setup Launcher, and post-installation configuration of settings like language, logging, and file paths using the A+W Plan Editor Config Tool."
-long_description: "This is a comprehensive installation manual for the A+W Plan Editor, a software solution for glass and windows. The guide is intended for system administrators or users responsible for installing the software. It begins by outlining the prerequisites in the 'Overview and Basics' section, covering hardware, network, software (Windows 7/Windows Server 2008 R2 minimum, .NET Framework 3.5 SP1), and database requirements (Microsoft Access 97). The core of the document is the 'Installation' section, which provides a detailed, step-by-step walkthrough of the installation process using the A+W Setup Launcher. This includes screenshots and descriptions for creating a new diskset, specifying directories, selecting the A+W Plan Editor component, and completing the setup. Following installation, the 'Settings' section explains how to configure the application using the A+W Plan Editor Config Tool. This covers setting up logging protocols, selecting the user interface language, and defining paths for critical files like the BLOCK file for shapes and the shape catalog. The guide also briefly touches on where settings are stored (Registry), how to run the program after installation, patches, and how to uninstall the software via the Control Panel."
+description: "EN-INST-AW_Plan_Editor"
 ---
+
 
 # Installation Instructions: A+W Plan Editor
 

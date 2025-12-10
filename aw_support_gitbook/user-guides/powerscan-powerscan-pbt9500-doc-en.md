@@ -1,12 +1,7 @@
 ---
-title: "PowerScan_PBT9500_-_English"
-source: "PowerScan_PBT9500_-_English.pdf"
-tags: ["PowerScan", "PBT9500", "Datalogic", "barcode scanner", "area imager", "wireless scanner", "Bluetooth", "industrial", "logistics", "manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a product datasheet for the Datalogic PowerScan PBT9500, a rugged, wireless area imaging barcode scanner. It details the scanner's omnidirectional reading capabilities, Bluetooth mobility, ergonomic design, and suitability for various industrial applications."
-long_description: "A detailed product brochure for the Datalogic PowerScan PBT9500 series of area imagers. This document outlines the scanner's key selling points, such as its intuitive 'Aim, Trigger, Decode' operation, omnidirectional reading capabilities for any barcode type, and long-range scanning from contact to over 1 meter. It highlights the productivity enhancements from Bluetooth wireless technology, offering up to 100 meters of freedom, long-lasting battery life, and a quick 3-second battery replacement for 24/7 operation. The document emphasizes the scanner's ergonomic design and user-friendly soft-pulsed white illumination, which is gentle on the eyes. Built for durability, the PBT9500 is described as rugged, with an IP65 rating and resistance to repeated shocks, making it suitable for tough indoor and outdoor environments. The brochure also lists detailed technical specifications, including cordless communication protocols, decoding capabilities for 1D/2D/Postal/Stacked codes, physical characteristics, reading performance (including depth of field), electrical information, environmental tolerances, and available interfaces. Finally, it showcases a list of industry applications ranging from entertainment and manufacturing to warehouse and logistics centers, and lists compatible accessories like base stations, holsters, and mounts."
+description: "PowerScan_PBT9500_-_English"
 ---
+
 
 # POWERSCAN™ PBT9500
 

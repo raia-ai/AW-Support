@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Verkauf 4.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Verkauf_4.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Verkauf            C                        deutsch               A+W Business                                                                                                                   Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part             Beschreibung"
-source_file: "DE_AWBusiness_Verkauf_4.0.pdf"
+description: "DE AWBusiness Verkauf 4.0"
 ---
+
 
 
 # DE AWBusiness Verkauf 4.0

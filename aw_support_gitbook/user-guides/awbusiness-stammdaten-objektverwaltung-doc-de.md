@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Stammdaten_9_6"
-source: "DE_AWBusiness_Stammdaten_9_6.pdf"
-tags: ["A+W Business", "Stammdaten", "Software-Tutorial", "Objektverwaltung", "Preisberechnung", "ERP-System", "Glasindustrie", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Auszug aus einem Tutorial und einer Softwarereferenz für A+W Business Stammdaten. Es behandelt Themen wie Objektverwaltung, Rahmenaufträge, Preisberechnung, Kostenkalkulation und die Konfiguration verschiedener Stammdaten wie Produktarten, Grenztypen und Systemvariablen. Es dient als Anleitung und Nachschlagewerk für Anwender der A+W Software."
-long_description: "Dieses Dokument kombiniert Inhalte aus dem 'Tutorial 2' und der 'Softwarereferenz' für das Modul A+W Business Stammdaten. Der erste Teil ist ein praktisches Tutorial, das schrittweise Anleitungen zur erweiterten Objektverwaltung, zum Umgang mit Rahmenaufträgen und zur Erstellung von Forderungsrechnungen bietet. Anwender lernen, wie sie Objekte anlegen und verwalten, Aufträge erfassen, Summen prüfen und Rahmenaufträge abrechnen. Detaillierte Screenshots illustrieren die Benutzeroberfläche und die erforderlichen Schritte. Der zweite Teil des Dokuments ist eine umfassende Softwarereferenz. Hier werden zentrale Konzepte und Stammdaten detailliert beschrieben, darunter verfügbare Dokumententypen, Grenztypen für die Preisdefinition, Systemtexte und Variablen (Platzhalter). Es werden auch spezifische Konfigurationen wie die Änderungsüberwachung, der Datentransfer zu A+W Production und spezielle Preisberechnungsmethoden (Mischkalkulation, französische Preisberechnung) erläutert. Ein großer Abschnitt widmet sich der Kosten- und Aufschlagskalkulation, inklusive der Festlegung von Deckungsbeitrags-Grenzwerten. Ein komplexes Beispiel zur Kalkulation von Isolierglas (ISO) schlüsselt die Berechnung von Scheiben, Rahmen, Gas und Verbrauchsmaterialien auf. Die Referenz schließt mit einer detaillierten Beschreibung der Produktverwaltung und der Konfiguration allgemeiner Stammdaten wie Sprachen, Kalender und Nummernkreise."
+description: "DE_AWBusiness_Stammdaten_9_6"
 ---
+
 
 # Tutorial 2: Zusatzinformationen
 

@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Customizing"
-category: "configuration"
-product: "A+W Enterprise Customizing"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Customizing"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   Customizing                                                                          english        A+W Software GmbH                                         - -INTERNAL-                        EN-CONFIG-A+W Enterprise Customizing.docx     1 Change history              Date         Author                Comments                               Version            2003-09-01 Frauke Ruppert          Initial version includes description of 3.1"
-source_file: "EN-CONFIG-A+W Enterprise Customizing.pdf"
+description: "EN CONFIG A+W Enterprise Customizing"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Customizing

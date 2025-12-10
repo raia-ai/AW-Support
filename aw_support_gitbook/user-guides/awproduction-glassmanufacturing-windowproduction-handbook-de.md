@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_1"
-source: "DE_HB_AWProduction_1.pdf"
-tags: ["A+W Production", "Software Manual", "Glass Manufacturing", "Window Production", "Door Production", "ERP", "PPS", "Production Planning", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the German-language user manual for A+W Production, a software solution for planning and controlling production in the glass, window, and door industries. It provides a comprehensive overview of the system's modules, features, and functionalities."
-long_description: "This is the complete user manual (\"Handbuch\") for A+W Production, a specialized Production Planning and Control (PPC/PPS) software by A+W Software GmbH. The manual is intended for end-users, including ISO, ESG, and VSG producers, as well as processing and finishing companies in the flat glass industry. It details the entire workflow, from order entry (Einlastung) and rough planning (Grobplanung) to detailed planning (Feinplanung), machine assignment (Maschinenzuordnung), and capacity planning (Kapazitätsplanung). The document is structured into several major parts, each covering a specific module or function. These include a general overview, tutorials, and software reference sections for core modules. It also covers advanced and optional modules like Realtime Optimizer, Barcode Manager, Production Terminals, and statistical systems like A+W Discovery. The manual explains key concepts, user interface conventions, and provides step-by-step instructions, making it an essential resource for configuring and operating the A+W Production system effectively."
+description: "DE_HB_AWProduction_1"
 ---
+
 
 # A+W Production Handbuch
 

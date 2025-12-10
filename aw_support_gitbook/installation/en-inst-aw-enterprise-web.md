@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise Web"
-category: "installation"
-product: "A+W Enterprise Web"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise Web"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Enterprise 6 Web    Change history:     Date           Edited by                Remarks                                    Version     16.04.22       MP                       Creation                                   1.0     16.05.31       MP                       SSH proxy                                  1.1     16.12.15       MP                       AutoUpdate                                 1.2          The installation instructions will a"
-source_file: "EN-INST-A+W Enterprise Web.pdf"
+description: "EN INST A+W Enterprise Web"
 ---
+
 
 
 # EN INST A+W Enterprise Web

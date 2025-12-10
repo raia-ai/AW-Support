@@ -1,15 +1,7 @@
 ---
-title: "A+W AWSOA Dependencies (as of 03/2022)"
-category: "training"
-product: "AWSOA"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWSOA", "Soa", "SystemArchitecture", "Install"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "A+W AWSOA Dependencies" source: "EN-INST-AW_SOA_Dependencies.pdf" tags: ["A+W", "AWSOA", "Software Dependencies", "SOA", "System Architecture", "Database Schema", "Technical Documentation", "Glass Industry Software"] version: "1.0" last_updated: "2025-10-03" short_description: "Technical document detailing the module dependencies, service descriptions, and database table access for the A+W AWSOA software suite as of March 2022. It covers various domains including Infrastructure, CIM, Pla"
-source_file: "AWSOA-Soa-SystemArchitecture-Install-EN.md"
+description: "A+W AWSOA Dependencies (as of 03/2022)"
 ---
+
 
 
 title: "A+W AWSOA Dependencies"

@@ -1,15 +1,7 @@
 ---
-title: "EN UM A+W SmartCompanion 1.20"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_UM_A+W SmartCompanion_1.20"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "English     A+W Smart Companion                                                                                                   Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision Overview                                        Part             Description                                        Version / Date"
-source_file: "EN_UM_A+W SmartCompanion_1.20.pdf"
+description: "EN UM A+W SmartCompanion 1.20"
 ---
+
 
 
 # EN UM A+W SmartCompanion 1.20

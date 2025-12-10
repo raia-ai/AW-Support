@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_14"
-source: "D-AWProduction-HB_14.pdf"
-tags: ["A+W Production Terminal", "Tutorial", "Glass Production", "Manufacturing Software", "IG-Assembly", "Terminal IG-In", "Manual Cutting", "Georgian Bars", "Terminal Order", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial for the A+W Production Terminal software, a system used in glass manufacturing. It provides step-by-step instructions for various modules, including those for Insulating Glass (IG), Tempered Glass (TG), and Laminated Glass (LG) production, covering workflows from job loading to final processing."
-long_description: "This user manual serves as a detailed tutorial for operators and technical staff using the A+W Production Terminal in a glass manufacturing environment. The document is structured into several major sections, each providing an overview and operational guide for a specific software module. These modules include Terminal IG (Insulating Glass), Terminal TG (Tempered Glass), Terminal LG (Laminated Glass), Manual Cutting, Georgian Bars, Order, and Processing. For each module, the tutorial covers its user interface, core functionalities, and standard operating procedures. Key topics include logging in, loading production lots (Lose), producing or processing glass units, handling exceptions like breakages (Bruch) or remakes (Nachläufer), managing machine status (e.g., ready, maintenance, pause), and working with specific unit components like spacers or foils. The manual uses screenshots, tables, and color-coded diagrams to explain complex processes, such as the assembly of IG units or the layout of glass on an oven bed. It aims to help users efficiently manage the production workflow, minimize errors, and correctly document all production steps."
+description: "D-AWProduction-HB_14"
 ---
+
 
 ---
 ## Überblick A+W Production Terminal IG

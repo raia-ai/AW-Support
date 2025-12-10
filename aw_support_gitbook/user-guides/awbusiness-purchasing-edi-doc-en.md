@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_2-4"
-source: "EN_AWBusiness_Purchasing_3_30_2-4.pdf"
-tags: ["A+W Business", "Purchasing", "Software Manual", "EDI", "Electronic Document Exchange", "Purchase Order", "Software Reference", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A guide for the A+W Business Purchasing module, covering electronic document exchange (EDI) setup and the process of exporting purchase orders. It also serves as a software reference for inquiries, purchase orders, and order confirmations."
-long_description: "This document is an excerpt from the A+W Business Purchasing manual, version 3.30. It provides a detailed tutorial and software reference for managing purchasing-related tasks. The first part is a tutorial on 'Electronic document exchange' (EDI), guiding users through the setup of interface management, including specifying file paths and interface versions for data export. It explains how to export purchase orders as ASC files for suppliers. The second part is a 'Software Reference' section that gives an overview of document management in purchasing. It details menus and dialogs for handling inquiries, purchase orders (including creation, replenishment orders, and EDI export), and supplier order confirmations (OC). The document includes screenshots, step-by-step instructions, and cross-references to other sections of the A+W Business manual."
+description: "EN_AWBusiness_Purchasing_3_30_2-4"
 ---
+
 
 # Tutorial
 

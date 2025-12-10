@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Realtime Optimizer"
-category: "installation"
-product: "A+W Realtime Optimizer"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Realtime Optimizer"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation instructions for test          purposes   A+W Realtime Optimizer                                                                               English        A+W Software GmbH   EN-INSTALL Develop- A+W Realtime Optimizer.docx    1                                                                     - INTERNAL - Content   1.   Prerequisite                                                          3 2.   Provision of the test database                                        4"
-source_file: "EN-INST-A+W Realtime Optimizer.pdf"
+description: "EN INST A+W Realtime Optimizer"
 ---
+
 
 
 # EN INST A+W Realtime Optimizer

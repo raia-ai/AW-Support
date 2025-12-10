@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Capacity Planning 4.02"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Capacity_Planning_4.02"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Capacity Planning          H                                 English                   A+W Business Pro                                                                                                                   Introduction                                             Introduction                                         This part of the documentation contains editorial notes.                                           Revision Overview                                         Part"
-source_file: "EN_AWBusiness_Capacity_Planning_4.02.pdf"
+description: "EN AWBusiness Capacity Planning 4.02"
 ---
+
 
 
 # EN AWBusiness Capacity Planning 4.02

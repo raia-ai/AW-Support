@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_PMO"
-source: "EN-CONFIG-AW_Enterprise_PMO.pdf"
-tags: ["A+W", "PMO", "Enterprise", "Configuration", "Software for Glass", "Rack Optimization", "Planning Web", "Realtime Optimizer", "ALCIB", "PackView"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical configuration manual for the A+W Enterprise PMO (Packmitteloptimierung / Rack Optimization) module. It details system requirements, environment variable setup, SQL script execution, and manual/automatic installation procedures for client and server components, including integration with PackView for graphical display."
-long_description: "This document provides comprehensive instructions for configuring the A+W Enterprise PMO (Packmitteloptimierung / Rack Optimization) module, a component of the A+W software suite for the glass industry. It is an internal guide intended for technical personnel responsible for setup and maintenance. The guide covers initial requirements, such as setting environment variables (e.g., GESTPLAN_PMO, GESTPLAN_PMO_SERVER) and running necessary SQL scripts to prepare the database. It outlines system prerequisites, including Windows Script Host and Script Encoder, and provides specific instructions for installation on both 32-bit and 64-bit systems. The manual details the configuration of database connections (Informix Client, ODBC), automatic and manual installation procedures for the rack optimization components on client PCs, and the setup of the graphical display tool, PackView. It also explains the ongoing operational procedures for starting and stopping the PMO service. Further sections are dedicated to configuring related modules like the A+W Planning Web for defining rack types and stock, the Realtime Optimizer via the xopton.cfg file, and the infrastructure web for label printing. The final section provides practical examples of how to execute rack optimization from within the A+W Enterprise (ALCIB) application, including master data setup and interpreting the PMO results."
+description: "EN-CONFIG-AW_Enterprise_PMO"
 ---
+
 
 # A+W Configuration
 # A+W Enterprise PMO

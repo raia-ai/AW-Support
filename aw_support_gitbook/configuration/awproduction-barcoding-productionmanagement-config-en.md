@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Barcoding_2.01"
-source: "EN_AWProduction_Barcoding_2.01.pdf"
-tags: ["A+W Production", "Barcoding", "Software Manual", "Production Management", "Glass Manufacturing", "Window Manufacturing", "ERP", "PPS", "Scanner Configuration", "Booking"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for the A+W Production Barcoding module. It provides a tutorial and software reference for end-users, covering basic concepts, booking elements, data entry with scanners, and production monitoring. The guide explains how to track products, racks, and staff through the production process using barcodes."
-long_description: "This document is the official user guide for the A+W Production Barcoding module, version 2.01. It serves as both a tutorial for new users and a experienced operators in the glass, window, and door manufacturing industries. The manual details the system's purpose: to collect real-time data on production statuses and processes, thereby increasing transparency and efficiency. It begins with an introduction covering the document's revision history and scope. The tutorial section explains fundamental concepts like direct and indirect objects, booking types (movement, processing, status), and key booking elements such as products, racks, staff, and registration points (e.g., machines, trucks). It provides step-by-step instructions for data entry using various scanner types (online, offline, serial) and includes practical booking examples for common scenarios like loading trucks, handling rejects, and correcting errors. The guide also covers the use of Production Terminals for different workstations (e.g., cutting, IG line, furnace). The software reference section provides detailed descriptions of master data dialogs, including settings for barcode options, registration points, racks, employees, and status values. Finally, it touches upon statistics and monitoring tools like A+W Dashboard and A+W Discovery for analyzing production data."
+description: "EN_AWProduction_Barcoding_2.01"
 ---
+
 
 # A+W Barcoding: A+W Production
 

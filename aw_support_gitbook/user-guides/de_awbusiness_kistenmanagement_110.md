@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Kistenmanagement 1.10"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Kistenmanagement_1.10"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Kistenmanagement            K                                 Deutsch                        A+W Business                                                                                                           Vorspann                                           Vorspann                                       In diesem Teil der Dokumentation finden Sie editorische Notizen.                                         Revisionsübersicht                                       Part            Beschreibu"
-source_file: "DE_AWBusiness_Kistenmanagement_1.10.pdf"
+description: "DE AWBusiness Kistenmanagement 1.10"
 ---
+
 
 
 # DE AWBusiness Kistenmanagement 1.10

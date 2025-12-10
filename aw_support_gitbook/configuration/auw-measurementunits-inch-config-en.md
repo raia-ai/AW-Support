@@ -1,18 +1,7 @@
 ---
-title: "AUW_Configuration_measurement"
-source: "AUW_Configuration_measurement.docx"
-tags: ["A+W Production", "A+W Business", "measurement units", "inch", "metric", "configuration", "SQL updates", "ToolTV", "formats"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "This document describes how to configure measurement units (metric vs. imperial) across A+W applications. It details SQL parameter changes for ALCIM/A+W Production to switch between mm and inch, POOL display format conversions, and a comprehensive list of available numeric and date formats. It also covers A+W Production Terminal (ToolTV) local and global settings and provides guidance for A+W Business databases, including weight handling, customer/supplier unit flags, and master data updates."
-long_description: "This configuration guide consolidates the settings and database adjustments required to standardize measurement units throughout the A+W software landscape. It begins with A+W Production, showing how to switch global ALCIM parameters so that lengths, areas, thicknesses, and timestamps are formatted for either metric (mm, m²) or imperial (inch, sqft) usage. Clear, executable SQL snippets are provided for both conversion directions (mm → inch and inch → mm), allowing administrators to update system behavior quickly and consistently.
-
-A dedicated section addresses the POOL display and database field formats, with targeted SQL to align list and field renderings to a chosen locale (for example, U.S. date and timestamp conventions). Examples include changing display formats for date, length, and area values in both directions. A catalog of supported format codes follows, summarizing numeric, imperial/metric, date, time, boolean-like flags, and domain-specific codes (e.g., glass processing attributes). This reference helps teams select and apply consistent formatting across lists, screens, and reports.
-
-The guide then focuses on A+W Production Terminal (ToolTV), distinguishing between local field-level settings and global format parameters. It explains when to rely on global formats (e.g., ALXF_TOOLTV_AREA, ALXF_ToolTV_DIMENSION, ALXF_ToolTV_THICKNESS) and includes screenshots illustrating where to configure these options. SQL examples demonstrate how to redirect ToolTV formats to imperial or metric presets, enabling consistent display of area, dimension, and thickness in line with organizational standards.
-
-Finally, the A+W Business section outlines best practices for projects using separate metric and inch databases. It documents the company/system settings that govern weight units (kg vs. lb), notes a temporary reporting consideration related to pounds, and details how to normalize customer and supplier measurement flags via SQL. It emphasizes the need to revise master data so that stored measurements match the selected unit system—either metric millimeters or integer-based inch fractions (e.g., 32, 64, 128 factors). Together, these instructions ensure a coherent, auditable approach to measurement configuration across A+W solutions."
+description: "AUW_Configuration_measurement"
 ---
+
 
 ## History
 | Date | Author | Modification/remarks | Version |

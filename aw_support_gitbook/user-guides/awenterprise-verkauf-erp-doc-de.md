@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_1"
-source: "DE_AWEnterprise_Verkauf_4_1.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Software Documentation", "ERP", "Glass Industry", "Windows and Doors", "Sales Module", "User Manual", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the 'Verkauf' (Sales) module of the A+W Enterprise software, a specialized ERP system for the glass, windows, and doors industry. It provides a detailed reference for all functions, dialogs, and menus within the sales module, including order entry, pricing, invoicing, and customer management."
-long_description: "This is the software reference guide for the 'Verkauf' (Sales) module of A+W Enterprise, version 4.00, as of February 2020. A+W Enterprise is an ERP software solution tailored for manufacturers and processors in the flat glass, windows, and doors sectors. This document, written in German, serves as a comprehensive manual for end-users, detailing the features and functionalities of the sales process. It covers a wide range of topics, starting with an overview of the module's structure and menu navigation, including main menus, context menus, and sub-menus for specific tasks like invoicing and creating quotes. A significant portion is dedicated to the various search functions ('Suchfunktionen'), which allow users to find orders, customers (Marktpartner), articles, and projects based on numerous criteria. The manual then explains the core process of 'Vorgangsverwaltung' (transaction management), covering everything from quick order entry ('Schnellerfassung') to detailed order processing ('Auftragserfassung'), handling of item lists ('Stückliste'), and managing technical specifications. It also provides guidance on pricing, delivery, invoicing, and generating credit notes. The document is highly structured, with clear references to specific dialogs, fields, and functions, making it an essential tool for day-to-day operations and training on the A+W Enterprise sales module."
+description: "DE_AWEnterprise_Verkauf_4_1"
 ---
+
 
 # A+W Enterprise
 **A+W - Software for Glass, Windows and Doors**

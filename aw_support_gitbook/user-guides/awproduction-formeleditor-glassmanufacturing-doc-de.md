@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction-Formeleditor"
-source: "DE_AWProduction-Formeleditor.pdf"
-tags: ["A+W Production", "Formeleditor", "Software Manual", "Glass Manufacturing", "Window Production", "Formula Editor", "Technical Documentation", "German", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for the A+W Formula Editor, a component of the A+W Production software suite. It details the principles, operation, and software reference for creating formulas and conditions to manage production processes in the glass, window, and door manufacturing industries."
-long_description: "This comprehensive user guide provides detailed instructions for the A+W Formeleditor, a powerful tool within the A+W Production software designed for the glass, window, and door manufacturing sectors. The manual is written in German and is structured into several key sections: 'Vorspann' (Preface), 'Funktionsprinzip' (Functional Principle), 'Bedienung' (Operation), 'Softwarereferenz' (Software Reference), and a 'Partindex' (Index). The 'Funktionsprinzip' section explains the core concepts and goals of the Formula Editor, breaking down its elements into three complexity levels (Stufe I, II, III). It covers the syntax for creating formulas, comparisons, conditions, and sets. The 'Bedienung' section offers practical, step-by-step examples for applying these principles, such as defining conditions for storage locations, organizational groups, and production sections. The 'Softwarereferenz' section serves as a detailed reference for all user interface dialogs, fields, and functions within the editor, explaining how to access and use each component. The document is intended for end-users of A+W Production, enabling them to customize and automate logic for tasks like machine allocation, label generation, and production flow management."
+description: "DE_AWProduction-Formeleditor"
 ---
+
 
 # A+W Formeleditor
 

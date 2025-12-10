@@ -1,12 +1,7 @@
 ---
-title: "AW_Sales_Tool_2025_1-1-3"
-source: "AW_Sales_Tool_2025_1-1-3.pdf"
-tags: ["A+W Software", "ERP", "PPS", "Business Intelligence", "Manufacturing", "Glass Industry", "Logistics", "Production Planning", "Conformity", "Sales Tool"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "A brief overview of several A+W software modules, including Statistics/BI, Extended Workbench, Product Regulation, Capa View, and CX Dispatch. It details features and specifications for business intelligence, production workflow, compliance, capacity planning, and logistics management."
-long_description: "This document is a sales and marketing presentation detailing key add-on modules for the A+W software ecosystem, which is targeted at the glass, window, and door manufacturing industries. It provides a high-level overview of the features and specifications for five distinct modules. 'Statistics/BI' covers data evaluation, reporting, and KPI visualization. 'Extended Workbench' outlines the process for managing external processing steps, including transport and goods receipt, within a single production order. 'Product Regulation – Conformity Pack I+II' describes the integration with Sommer Informatik to handle technical specifications and create Declarations of Performance for regulatory compliance. 'A+W Capa View' offers a tool for real-time capacity and machine usage monitoring, aiding in delivery date negotiation. Finally, 'A+W CX Dispatch' presents a modern graphical interface for managing dispatches, identifying critical items, and tracking production status. The document is designed to showcase the capabilities and benefits of these modules to potential and existing customers."
+description: "AW_Sales_Tool_2025_1-1-3"
 ---
+
 
 ---
 ## Statistics/BI

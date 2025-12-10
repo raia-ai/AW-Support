@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_32"
-source: "EN-UM-AWBusiness_32.pdf"
-tags: ["Capacity Planning", "Production Scheduling", "Order Management", "Software Reference", "A+W Business Pro", "Manufacturing ERP", "Bottleneck Management", "Production Reporting", "Control Station"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Business Pro Capacity Planning module. It provides detailed instructions and descriptions for scheduling orders, managing production resources, and generating reports."
-long_description: "This comprehensive software reference guide details the functionalities of the A+W Business Pro Capacity Planning module. The document is intended for users responsible for production scheduling and management. It covers the entire workflow from manual order scheduling to detailed production reporting. Key topics include the 'Order scheduling (dialog)' for manually placing individual orders into the production plan, handling capacity bottlenecks through the 'Machine selection' dialog, and splitting large orders into manageable packages using the 'Split items' feature. The guide also explains how to manage machine downtimes and transfer residual quantities from previous production days. A significant portion of the document is dedicated to 'Production Reports,' outlining how to report batch completions, manual completions, and view production status graphically or in lists. The 'Control Station' feature is extensively covered, presenting it as a central hub for monitoring and adjusting the entire production schedule. It describes how to view machine utilization, reschedule orders or items, manage shifts, and check the status of purchased elements. The document provides step-by-step navigation paths, explanations of all fields and options within each dialog, and references to related tutorials."
+description: "EN-UM-AWBusiness_32"
 ---
+
 
 # Software Reference: Scheduling
 

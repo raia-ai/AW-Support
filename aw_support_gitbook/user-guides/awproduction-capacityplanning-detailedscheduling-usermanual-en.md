@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_5"
-source: "EN_UM_AWProduction_5.pdf"
-tags: ["A+W Production", "Capacity Planning", "Detailed Scheduling", "Batch Processing", "Lots", "Racks", "Optimization", "Software Reference", "Master Data", "Production Monitoring"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference and tutorial for the A+W Production system, focusing on Lots, Detailed Scheduling of Batches, and Capacity Planning. It provides detailed instructions on configuring and managing production processes, including lot creation, rack allocation, and various optimization settings."
-long_description: "This document serves as an in-depth software reference and user guide for A+W Production, a software solution for glass, windows, and doors manufacturing. The guide is divided into two main parts. The first part details the management of 'Lots' and the process of 'Detailed Scheduling of Batches.' It explains the behavior of lots in scheduling, the configuration of processing steps via the 'Processings Tab' and 'Implicit Processing Tab,' and the various options available within the detailed scheduling dialog for batches. These options include managing glass types, rack loads, optimization parameters (Free Optimization, Options), handling special cases (Nested Shapes, Filler Orders, Rejects), and selecting stockplates. The second part of the document is a tutorial on 'Capacity Planning.' It covers basic principles, date optimization, and scheduling rules. It provides a thorough guide to the 'Production Monitor' for viewing and adjusting machine capacity and work shifts. The tutorial explains how to manage campaigns, reserve capacities for specific customers or projects, and create detailed processing steps to build a complete Bill of Materials (BOM) for accurate time and cost calculation. The document is intended for production schedulers, administrators, and technical personnel responsible for configuring and optimizing the production workflow in the A+W Production environment."
+description: "EN_UM_AWProduction_5"
 ---
+
 
 # Lots
 

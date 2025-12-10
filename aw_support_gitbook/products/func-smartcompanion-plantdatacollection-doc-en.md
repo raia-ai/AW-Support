@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Smart_Companion"
-source: "EN-FUNC-AW_Smart_Companion.pdf"
-tags: ["A+W", "Smart Companion", "Software for Glass", "Plant Data Collection", "Inventory Management", "Production Software", "Mobile App", "ERP", "Barcode Scanning"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a functional description of the A+W Smart Companion, a mobile application for iOS and Android. It details the software's purpose in plant data collection, stock management, and inventory processes for the glass industry, outlining its various modules, features, requirements, and limitations."
-long_description: "This is a functional description for the A+W Smart Companion, a mobile application designed by A+W Software GmbH to work as a smart tool for the glass manufacturing industry. The application is available for both iOS and Android devices and serves as a modern replacement for classic barcode scanners. It facilitates plant data collection, management of incoming goods, warehouse maintenance, and inventory tracking. The document outlines the different modules available: Basic License, Production, Production – Rack Inventory, Stock, and Inventory. Each module's specific functionalities are listed, such as user login, product entry, breakage reports, and status queries for the Production module; or goods booking, stock movements, and inventory counting for the Stock module. It also specifies the minimum hardware and software requirements for end-user devices, including operating system versions, display size, and CPU power. Furthermore, the document details operational restrictions, such as the need for a WLAN connection to the back end, and lists the countries where the app is available for download. Legal information, including trademarks, copyrights, and liability exclusions, is also provided."
+description: "EN-FUNC-AW_Smart_Companion"
 ---
+
 
 # A+W Functional Description
 ---

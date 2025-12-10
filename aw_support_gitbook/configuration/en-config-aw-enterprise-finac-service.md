@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise FinAc Service"
-category: "configuration"
-product: "A+W Enterprise FinAc Service"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise FinAc Service"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise FinAc Service                                           english                                   - -INTERNAL- Change history  Date         Author   Remarks                                  Version 2012-11-26   SVH      Initial version                          1.0 2013-01-09   MP       Addition of transfer logic               1.1                       Documentation Intrastat export 2021-12-16   SVH                       Germany 2022-05-24   SVH"
-source_file: "EN-CONFIG-A+W Enterprise FinAc Service.pdf"
+description: "EN CONFIG A+W Enterprise FinAc Service"
 ---
+
 
 
 # EN CONFIG A+W Enterprise FinAc Service

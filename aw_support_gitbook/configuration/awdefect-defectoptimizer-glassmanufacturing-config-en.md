@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Defect_Optimizer"
-source: "EN-CONFIG-AW_Defect_Optimizer.pdf"
-tags: ["A+W", "Defect Optimizer", "Software Configuration", "Glass Manufacturing", "Realtime Optimizer", "Technical Manual", "XOPTON.CFG", "XOPT.CFG"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical configuration guide for the A+W Defect Optimizer, a software module for glass manufacturing that works with the A+W Realtime Optimizer to detect and manage defects on stock plates."
-long_description: "This document provides detailed instructions for the installation, activation, licensing, and configuration of the A+W Defect Optimizer. It is intended for technical personnel and system administrators. The guide covers prerequisites including hardware, network, software, and database requirements. It outlines a step-by-step installation process, from remote testing preparations to on-site acceptance tests. The manual details licensing procedures and how to verify license updates. The configuration section provides in-depth guidance on setting up the DefectOpti environment, cut drivers, and various configuration files like XOPTON.CFG and XOPT.CFG, with specific examples for Hegla and Bystronic cutting tables. It also explains parameters for handling defect data, re-optimization, and visual display in the XTV interface."
+description: "EN-CONFIG-AW_Defect_Optimizer"
 ---
+
 
 # A+W Configuration
 # A+W Defect Optimizer

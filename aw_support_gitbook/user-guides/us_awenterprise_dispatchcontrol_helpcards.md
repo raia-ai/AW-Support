@@ -1,15 +1,7 @@
 ---
-title: "US AWEnterprise DispatchControl HelpCards"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["US_AWEnterprise_DispatchControl_HelpCards"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Dispatch Control                G                           Help Cards                        A+W Enterprise                  Help Cards                                                                                    Dispatch Control                      Dispatch Control                  The depictions in the Help Cards are based on delivery version A+W Enterprise 6. Individual steps in the                  workflows may differ depending on the configuration, e.g. working with or without Dis"
-source_file: "US_AWEnterprise_DispatchControl_HelpCards.pdf"
+description: "US AWEnterprise DispatchControl HelpCards"
 ---
+
 
 
 # US AWEnterprise DispatchControl HelpCards

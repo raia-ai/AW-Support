@@ -1,15 +1,7 @@
 ---
-title: "A+W Production Packing Optimization - Software Reference"
-category: "training"
-product: "AWProduction"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWProduction", "RealtimeOptimizer", "GlassManufacturing", "UserManual"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_UM_AWProduction_12" source: "EN_UM_AWProduction_12.pdf" tags: ["A+W Production", "Realtime Optimizer", "Software Reference", "Glass Manufacturing", "Windows and Doors", "Cutting Optimization", "Packing Optimization", "Software Tutorial"] version: "1.0" last_updated: "2025-10-03" short_description: "A user manual for the A+W Production Realtime Optimizer and Packing Optimization software. This document serves as a software reference and tutorial, detailing functionalities for optimizin"
-source_file: "AWProduction-RealtimeOptimizer-GlassManufacturing-UserManual-EN.md"
+description: "A+W Production Packing Optimization - Software Reference"
 ---
+
 
 
 title: "EN_UM_AWProduction_12"

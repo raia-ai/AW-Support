@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_34"
-source: "EN-UM-AWBusiness_34.pdf"
-tags: ["A+W Business", "Software Reference", "Barcode Manager", "Receipt of Goods", "Shipping", "Inventory Management", "ERP", "Technical Manual", "Index"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical reference manual for A+W Business software. This document details procedures for the receipt and shipping of boxes, including item-based and ID-based goods receipt. It also provides a comprehensive guide for the A+W Business Barcode Manager (EL) module, covering setup, functions for inventory management, and barcode specifications. A full alphabetical index is included."
-long_description: "This document is a composite of several A+W Business software manuals. The first section, \"Receipt and Shipping of Boxes,\" provides detailed instructions on managing goods receipt through the software interface. It covers processes like receiving goods by item, handling surpluses or shortfalls, assigning storage places, and using the ID numbers tab for box-specific tracking. It explains how to set up automatic ID allocation for boxes. The second major section is a complete tutorial for the \"A+W Business Barcode Manager (EL)\" module. This guide explains how to perform online shop floor data collection using a Windows-CE based scanner. It details the initial setup and configuration of the scanner, registration points within A+W Business, employee management for barcode use, and capacity planning settings. It then walks through all functions available on the scanner, including login, receipt of goods, production reports (completion and breakage), stock movements (withdrawal, addition, transfer), and managing boxes and racks. The final part of the document is a comprehensive alphabetical index, providing quick references to topics and functions across the A-W Business software suite, linking terms to their respective section codes (e.g., C-1649, K-3103, Y-3111)."
+description: "EN-UM-AWBusiness_34"
 ---
+
 
 # Software Reference: Receipt and Shipping of Boxes
 

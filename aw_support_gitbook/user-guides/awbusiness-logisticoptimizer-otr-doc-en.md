@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_LogisticsOptimizer_2_1"
-source: "EN_AWBusiness_LogisticsOptimizer_2_1.pdf"
-tags: ["A+W", "Logistic Optimizer", "OTR", "Route Planning", "ERP", "Software Manual", "Glass Industry", "Windows and Doors", "Tutorial", "Fleet Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual and tutorial for the A+W Logistic Optimizer (OTR) software, version 2.01. It covers the basic principles, administration, route planning, optimization, and tracking features of the software designed for the glass, windows, and doors industry."
-long_description: "This document is a comprehensive guide for the A+W Logistic Optimizer (OTR - Optimizer of Transport Routes), version 2.01, dated January 2017. It serves as both a tutorial for new users and a software reference for experienced operators. The guide is structured into two main parts: a tutorial and a software reference. The tutorial section provides a step-by-step introduction to the system, covering basic principles, database connections, the user interface, and the core workflow of planning, optimizing, and tracking delivery routes. It details administration tasks such as managing master data for users, customers, vehicles, and drivers. The software reference section offers a detailed description of every function, dialog, and parameter within the OTR module. The primary goal of the software is to optimize transportation routes to reduce time, fuel consumption, and costs, while increasing productivity for businesses in the glass, windows, and doors sector. The manual explains how to use the system's features, including dynamic route grouping, map-based planning, and integration with a mobile app for drivers."
+description: "EN_AWBusiness_LogisticsOptimizer_2_1"
 ---
+
 
 # A+W Logistic Optimizer
 **A+W Business**

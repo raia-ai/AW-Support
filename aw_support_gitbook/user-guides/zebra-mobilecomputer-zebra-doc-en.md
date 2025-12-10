@@ -1,12 +1,7 @@
 ---
-title: Zebra TC20 Mobile Computer
-source: Zebra_TC20_-_Englisch.pdf
-tags: ["mobile computer", "Zebra", "TC20", "small business", "retail technology", "inventory management", "barcode scanner", "rugged device"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A brochure detailing the features, benefits, and technical specifications of the Zebra TC20 Mobile Computer, a rugged device designed for small business applications in retail, hospitality, and light warehousing."
-long_description: "This document is a comprehensive product brochure for the Zebra TC20 Mobile Computer. It positions the device as an easy-to-use, durable, and affordable tool for small businesses looking to improve efficiency, productivity, and customer service. The brochure covers the key benefits, such as its robust built-in barcode scanner, all-day power options, walkie-talkie functionality, and seamless app integration. It contrasts the TC20 with consumer-grade smartphones, highlighting its superior durability and scanning performance. The document concludes with a detailed specification sheet covering physical characteristics, performance metrics, environmental ratings, connectivity options, and available software solutions (Mobility DNA). It is intended for potential buyers in small business environments like retail stores, hospitality venues, and small warehouses."
+description: "Zebra TC20 Mobile Computer"
 ---
+
 
 > Running a small business is hard work.
 > Finding the tool to help you run it better is easy.

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_14"
-source: "DE-HB-AWEnterprise_14.pdf"
-tags: ["A+W Enterprise", "Verkauf", "Packmittelplanung", "Auftragserfassung", "Preise und Konditionen", "Software-Referenz", "Lieferscheine", "Rechnungen", "ERP", "Benutzerhandbuch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Software-Referenzhandbuch für das A+W Enterprise Verkaufsmodul. Es beschreibt Funktionen wie die Packmittelplanung, die Verwaltung von Anmerkungen, die Textbearbeitung, die Konfiguration von Preisen und Konditionen, die Auftragsfreischaltung, die Lieferungs- und Rechnungsstellung."
-long_description: "Dieses Dokument dient als umfassendes Referenzhandbuch für das Verkaufsmodul der ERP-Software A+W Enterprise. Es bietet detaillierte Beschreibungen der Benutzeroberflächen, Dialoge, Felder und Funktionen, die für die Auftragsabwicklung relevant sind. Das Handbuch ist in mehrere Hauptabschnitte gegliedert. Der Abschnitt 'Packmittelplanung' erklärt, wie Artikel auf Gestelle geplant und Fütterungen sowie Abstände konfiguriert werden. Der Abschnitt 'Anmerkungen' beschreibt, wie interne Informationen zu Vorgängen, Marktpartnern, Artikeln und Objekten mit unterschiedlichen Prioritäten hinterlegt werden. Der Abschnitt 'Texte' behandelt die Verwaltung von Kopf-, Fuß-, Artikel- und Positionstexten, die auf verschiedenen Formularen gedruckt werden können, einschließlich der Verwendung von Floskeln und speziellen Texten wie Kistignaturen. Ein umfangreicher Teil des Dokuments widmet sich den 'Preisen und Konditionen' und erläutert die verschiedenen Dialoge zur Definition von auftragsbezogenen Preisen für Glasarten, Sprossen, Zubehör und Bearbeitungen. Dies schließt Auftragskonditionen, Auftragspreise, Nachkalkulationen und Stufenpreise mit ein. Weitere Abschnitte behandeln die 'Freischaltung' von Aufträgen, die aus verschiedenen Gründen gesperrt sein können, sowie die 'Lieferung' mit der Erstellung von Lieferplänen und Lieferscheinen. Schließlich wird die 'Rechnungen'-Funktionalität detailliert, die die automatische und manuelle Erstellung von Rechnungen, Abschlagsrechnungen und Schlussrechnungen abdeckt. Jeder Abschnitt enthält technische Informationen zu den Datenbankfeldern und Navigationspfade zur jeweiligen Funktion."
+description: "DE-HB-AWEnterprise_14"
 ---
+
 
 # Softwarereferenz: A+W Enterprise Verkauf
 

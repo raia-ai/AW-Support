@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Business iQuote"
-category: "functional_descriptions"
-product: "A+W Business iQuote"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Business iQuote"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W iQuote (G)                                   english 1. Content 1.   Content                                                      3 2.   Notes on this Document                                       4      2.1. Trademarks                                              4      2.2. Copyrights                                              4 3.   Performance Description                                      5      3.1. Data"
-source_file: "EN-FUNC-A+W Business iQuote.pdf"
+description: "EN FUNC A+W Business iQuote"
 ---
+
 
 
 # EN FUNC A+W Business iQuote

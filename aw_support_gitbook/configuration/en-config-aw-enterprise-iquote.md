@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise iQuote"
-category: "configuration"
-product: "A+W Enterprise iQuote"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise iQuote"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise iQuote                                                                           english        A+W Software GmbH   EN-CONFIG-A+W Enterprise iQuote.docx   - -INTERNAL-                                                                       1 Change history  Date         Author                Remarks                                 Version                                    Creation/transfer from Enterprise 2022-03-15   Alexander Weil"
-source_file: "EN-CONFIG-A+W Enterprise iQuote.pdf"
+description: "EN CONFIG A+W Enterprise iQuote"
 ---
+
 
 
 # EN CONFIG A+W Enterprise iQuote

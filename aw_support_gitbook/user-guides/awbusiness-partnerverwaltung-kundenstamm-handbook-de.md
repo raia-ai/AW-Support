@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_10"
-source: "D-HB-AWBusiness_10.pdf"
-tags: ["A+W Business", "Partnerverwaltung", "Kundenstamm", "Stammdaten", "Software-Referenz", "ERP", "Klassifikatoren", "Finanzen", "Kreditlimit", "Rabatte"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Technisches Referenzhandbuch für das Modul 'Partnerverwaltung' der A+W Business Software. Es beschreibt die Konfiguration und Verwaltung von Stammdaten für Kunden, Lieferanten und andere Marktpartner."
-long_description: "Dieses Dokument ist ein umfassendes Referenzhandbuch für das Modul 'Partnerverwaltung' innerhalb der A+W Business Software. Es richtet sich an Anwender, die für die Pflege und Verwaltung von Stammdaten für Kunden, Lieferanten und andere Geschäftspartner verantwortlich sind. Das Handbuch bietet detaillierte Beschreibungen der verschiedenen Register und Dialoge, die zur Erfassung und Bearbeitung von Partnerdaten verwendet werden. Zu den behandelten Themen gehören die Verwaltung von Textblöcken und Rahmentexten, die Verwendung von Klassifikatoren zur Segmentierung von Partnern, die Konfiguration von Finanzdaten wie Bankverbindungen, Fälligkeitsberechnungen und Steuerinformationen. Weitere wichtige Abschnitte behandeln das Kreditlimitmanagement, die Einrichtung von Rabatten und individuellen Preisen, die Vertriebsdatenerfassung sowie produktions- und versandrelevante Einstellungen. Das Dokument enthält zahlreiche Screenshots zur Veranschaulichung der Benutzeroberfläche und Querverweise auf zugehörige Tutorials und andere Stammdatenbereiche, um eine ganzheitliche Einarbeitung in die Materie zu gewährleisten."
+description: "D-HB-AWBusiness_10"
 ---
+
 
 # Softwarereferenz - Partnerverwaltung
 

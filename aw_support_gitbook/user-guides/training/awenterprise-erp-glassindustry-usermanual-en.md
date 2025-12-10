@@ -1,15 +1,7 @@
 ---
-title: "A+W Enterprise Manual"
-category: "training"
-product: "AWEnterprise"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWEnterprise", "Erp", "GlassIndustry", "UserManual"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-UM-AWEnterprise_1" source: "EN-UM-AWEnterprise_1.pdf" tags: ["A+W Enterprise", "ERP", "User Manual", "Glass Industry", "Windows and Doors", "Software Documentation", "Master Data", "Sales", "Production", "Logistics"] version: "1.0" last_updated: "2025-10-03" short_description: "This document is the official user manual for A+W Enterprise, an ERP software solution tailored for the glass, windows, and doors industry. It provides a comprehensive overview of the system's modules, features"
-source_file: "AWEnterprise-Erp-GlassIndustry-UserManual-EN.md"
+description: "A+W Enterprise Manual"
 ---
+
 
 
 title: "EN-UM-AWEnterprise_1"

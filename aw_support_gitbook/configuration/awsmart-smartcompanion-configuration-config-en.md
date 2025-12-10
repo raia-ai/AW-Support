@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Smart_Companion"
-source: "EN-CONFIG-AW_Smart_Companion.pdf"
-tags: ["A+W", "Smart Companion", "Configuration", "Software", "Glass Industry", "Scanner", "Barcode", "Backend", "Licensing", "Hardware Requirements"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A configuration manual for the A+W Smart Companion, a scanner solution that uses smartphones or dedicated hardware like the Zebra TC20. This document covers hardware requirements, backend installation, licensing procedures, and detailed configuration settings for the application."
-long_description: "This is the internal configuration guide for the A+W Smart Companion, a versatile scanner solution designed for the glass industry. The document provides comprehensive instructions for setting up and managing the application. It begins with an introduction to the product's benefits and limitations, followed by detailed hardware requirements for both iOS and Android devices, including a list of tested models. The guide then walks through the necessary backend installation, listing all required A+W infrastructure and application modules. A significant portion is dedicated to licensing, explaining how to apply for, enter, and confirm licenses within the A+W Infrastructure Web interface. It also covers the configuration of individual scanner devices, detailing settings such as application modes, barcode types, and data acquisition points. The manual uses screenshots to illustrate the configuration interface, explaining functions like token switches for device-specific settings."
+description: "EN-CONFIG-AW_Smart_Companion"
 ---
+
 
 # A+W Configuration: A+W Smart Companion
 

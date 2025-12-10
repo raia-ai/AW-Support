@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Realtime_Optimizer_3_3"
-source: "DE_AWProduction_Realtime_Optimizer_3_3.pdf"
-tags: ["A+W Realtime Optimizer", "software reference", "glass cutting", "optimization", "production planning", "DynOpt", "Tischoptimierung", "Zuschnitt", "Erfassung", "glass manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Realtime Optimizer, version 3.30/01-2023. It details functionalities for data entry (Erfassung), optimization (Optimierung), and cutting (Zuschnitt) processes in glass manufacturing, providing explanations of user interface elements, dialogs, and parameters."
-long_description: "This document serves as a comprehensive software reference guide for the A+W Realtime Optimizer, version 3.30, updated in January 2023. It is designed for users and administrators of the system, offering detailed instructions on how to navigate and utilize the software for glass production workflows. The manual is structured into several key sections, including 'Erfassung' (Data Entry), which covers batch designation; 'Optimierung' (Optimization), which explains the creation and management of table optimizations, glass selection, and handling of remnant stock; and 'Zuschnitt' (Cutting), which outlines the process for preparing and executing cutting jobs. The guide provides step-by-step explanations of various dialog boxes, fields, buttons, and parameters, supplemented with screenshots of the user interface. It also covers advanced features such as managing broken panes in the 'Bruchpool,' dynamic optimization with 'DynOpt,' and configuring system settings for tables and optimizations. This document is an essential resource for operating the software efficiently and understanding its complex settings for effective production planning and execution in the glass industry."
+description: "DE_AWProduction_Realtime_Optimizer_3_3"
 ---
+
 
 # Softwarereferenz
 

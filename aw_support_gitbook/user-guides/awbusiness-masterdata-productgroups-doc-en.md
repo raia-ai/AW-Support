@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_2-3"
-source: "EN_AWBusiness_Master_Data_9_2-3.pdf"
-tags: ["A+W Business", "Master Data", "Product Groups", "PGR", "BOM", "Production Settings", "Pricing", "Stock Management", "ERP", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical tutorial on managing product master data within the A+W Business software. It covers defining product groups (PGR), combining them, setting up production parameters, handling pricing and surcharges, and managing stock and purchasing settings."
-long_description: "This document is a detailed tutorial from the A+W Business Master Data guide, focusing on the configuration of 'Product data.' It provides step-by-step instructions for defining and managing various aspects of products within the system. Key topics include the creation and purpose of Product Groups (PGR), Main Product Groups (MPG), and Product Super Groups (PSG) for structuring articles and statistical analysis. The tutorial explains how to combine these groups, define Top PGRs for reporting, and set up production-specific parameters like size allowances, patterns, coatings, and grill constructions. It also delves into the financial aspects, covering the setup of price parameters, surcharges, pricing codes, and different price view options (implicit vs. explicit). Finally, it addresses stock and purchasing settings, including procurement types, stock booking types, and the use of different product codes for various order areas. The document uses screenshots from the A+W Business interface to guide the user through the necessary dialogs and fields."
+description: "EN_AWBusiness_Master_Data_9_2-3"
 ---
+
 
 # Tutorial 1: Product data
 

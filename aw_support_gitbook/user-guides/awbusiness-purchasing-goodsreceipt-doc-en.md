@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_2-2"
-source: "EN_AWBusiness_Purchasing_3_30_2-2.pdf"
-tags: ["A+W Business", "Purchasing", "Goods Receipt", "Invoice Control", "Box Management", "EDI", "openTRANS", "Software Tutorial", "Inventory Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W Business Purchasing module, covering the processes for handling deliveries, including complete and partial receipt of goods, managing box inventory with IDs, checking deliveries for completeness, and controlling prices and invoices."
-long_description: "This document provides a detailed, step-by-step tutorial for the A+W Business Purchasing software, focusing on the 'Deliveries in receipt of goods' functionality. It guides users through various critical processes, starting with how to enter both complete and partial receipts of goods. The guide explains how to use the Number Manager and search by P.O. number. A significant portion is dedicated to the receipt and management of boxes, detailing how to deal with virtual item numbers, assign box IDs either automatically or manually, and print box labels. The tutorial also covers procedures for checking the completeness of deliveries and identifying quantity discrepancies. Furthermore, it explains price and invoice control, including how to check a supplier's invoice against purchase orders, handle price corrections, surcharges, and foreign currencies. The document concludes with an introduction to electronic document exchange (EDI) via openTRANS, outlining the benefits and prerequisites for exchanging purchase orders, order confirmations, and invoices electronically."
+description: "EN_AWBusiness_Purchasing_3_30_2-2"
 ---
+
 
 ---
 ## Deliveries in receipt of goods

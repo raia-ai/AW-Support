@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerBars"
-source: "EN-UM-AWCADDesignerBars.pdf"
-tags: ["A+W", "CAD Designer", "Bars", "Muntins", "Software Manual", "Glass", "Windows", "Doors", "Tutorial", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the official user manual for the A+W CAD Designer (Bars) software, a program designed for creating muntin patterns for glass, windows, and doors. It provides comprehensive guidance on using the software, from basic operations to advanced features. The manual includes a detailed tutorial, a complete software reference, and quick-access help cards to assist users in mastering the design and configuration of muntin bars."
-long_description: "This is the complete English manual for the A+W CAD Designer (Bars) software, intended for end users who design and manufacture windows and doors with muntin bars. The document is structured into several key parts to facilitate learning and quick reference. The 'Editorial' section outlines the document's scope, copyright information, and display conventions. A main 'Overview' section introduces the software's purpose and structure. The core of the manual is the 'Tutorial' section, a step-by-step guide that walks users through the entire process of using the software. This includes navigating the user interface, managing settings, defining master data for different muntin types (glass-dividing, internal, fitted), creating new designs, positioning muntins, and working with special patterns like diamonds, suns, and stars. It also covers the creation and use of macros for recurring patterns and explains data exchange processes. Following the tutorial, the 'Software Reference' provides an exhaustive A-Z guide to every menu, dialog, tool, and function within the application, serving as a detailed technical dictionary for users. Finally, the 'Help Cards' section offers task-oriented, quick-reference guides for the most common operations, such as creating a house front, loading a macro, or protecting master data. This manual equips users with the knowledge to efficiently create both simple and complex, true-to-scale muntin patterns for production."
+description: "EN-UM-AWCADDesignerBars"
 ---
+
 # A+W CAD Designer (Bars) Manual
 
 ---

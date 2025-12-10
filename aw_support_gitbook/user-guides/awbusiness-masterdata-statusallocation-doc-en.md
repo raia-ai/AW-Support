@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_5-2"
-source: "EN_AWBusiness_Master_Data_9_5-2.pdf"
-tags: ["A+W Business", "Master Data", "Status Allocation", "Lock Codes", "Number Ranges", "Rounding Rules", "Software Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a series of tutorials for configuring master data within the A+W Business software. It covers key setup processes including status allocation, defining and enabling lock codes to control document processing, setting up number ranges for various document types, and configuring rounding rules for financial calculations."
-long_description: "This technical document serves as a tutorial guide for system administrators and power users of the A+W Business software, focusing on the setup and management of critical master data. The guide is divided into several key sections. The 'Status Allocation' section explains how to allocate status points and user statuses to documents, which control their lifecycle and processing steps. 'Allocation of Lock Codes' details how to create and apply lock codes to exclude documents from specific automatic processes, such as invoicing for partial shipments, and provides a step-by-step guide to enabling these codes in the company data settings. The 'Number Ranges' section offers an in-depth look at defining unique number sequences for different document types (e.g., orders, invoices, credit notes) across various organizational areas like clients and order areas, emphasizing the importance of non-overlapping ranges to ensure data integrity. Finally, the 'Roundings' section explains how to define and allocate rounding rules for calculated values like prices, taxes, and surcharges. It covers the creation of rounding methods (commercial, upwards, downwards) and their application to specific rounding points, clients, or partners, ensuring financial data accuracy and compliance with different currency requirements."
+description: "EN_AWBusiness_Master_Data_9_5-2"
 ---
+
 
 ---
 ## Status Allocation

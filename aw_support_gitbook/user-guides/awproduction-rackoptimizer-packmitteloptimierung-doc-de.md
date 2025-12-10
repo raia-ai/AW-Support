@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_RackOptimizer"
-source: "DE_AWProduction_RackOptimizer.pdf"
-tags: ["A+W Software", "Rack Optimizer", "Packmitteloptimierung", "Glass Production", "Window Manufacturing", "Logistics", "ERP", "A+W Production", "Software Manual", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user manual for the A+W Rack Optimizer, a software component of A+W Production. It details the operating principles, user interface, and reference materials for optimizing the loading of racks and transport containers for glass, windows, and doors."
-long_description: "This document is the official user manual for A+W Rack Optimizer, a specialized software module integrated into the A+W Production suite. The software is designed for manufacturers of glass, windows, and doors to optimize the packing of finished products onto transport racks (Gestelle) and shipping crates. The primary goal of the Rack Optimizer (also known as Packmitteloptimierung or PMO) is to maximize the use of transport capacity, minimize space requirements, and streamline the entire production process from manufacturing to shipping. The manual is written in German and is intended for end-users. It covers the fundamental concepts, master data setup (including rules and parameters), and the visualization and manual adjustment of packing results. The document is divided into three main parts: \"Funktionsprinzip\" (Operating Principle), which explains the software's logic and features; \"Bedienung\" (Operation), which provides step-by-step instructions for common tasks; and \"Softwarereferenz\" (Software Reference), which offers a detailed guide to all menus, dialogs, and UI elements. It explains how to create packing groups, run optimizations, and use the `PackView` tool to visualize and modify the packed racks in 3D."
+description: "DE_AWProduction_RackOptimizer"
 ---
+
 
 # A+W Rack Optimizer
 

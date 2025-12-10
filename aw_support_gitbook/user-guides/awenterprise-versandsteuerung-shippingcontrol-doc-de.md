@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Versandsteuerung_HelpCards"
-source: "DE_AWEnterprise_Versandsteuerung_HelpCards.pdf"
-tags: ["A+W Enterprise", "Versandsteuerung", "Shipping Control", "ERP", "Software Guide", "Help Cards", "Logistics", "Tour Planning"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A collection of \"Help Cards\" providing step-by-step instructions for the \"Versandsteuerung\" (Shipping Control) module of the A+W Enterprise software. It covers tasks like managing tours, orders, and items, preparing shipments, and using various system functions."
-long_description: "This document serves as a user guide in the form of \"Help Cards\" for the \"Versandsteuerung\" (Shipping Control) module within the A+W Enterprise 6 software, a system designed for the glass, windows, and doors industry. It provides concise, task-oriented instructions for logistics and shipping personnel. The guide details workflows for key shipping operations, distinguishing between different operational modes like with or without the \"Versand-Explorer\" (Shipping Explorer). Core topics include editing tours (rescheduling or rerouting), managing orders and positions (moving items to different dates or routes), and preparing shipments (checking for shortfalls, correcting packaged quantities, changing delivery addresses, and creating delivery notes). It also covers advanced functions such as managing the loading sequence, canceling processes, and visualizing tour capacity. Each help card clearly outlines the objective, prerequisites, additional information, and a step-by-step workflow for a specific task."
+description: "DE_AWEnterprise_Versandsteuerung_HelpCards"
 ---
+
 
 # A+W Versandsteuerung Help Cards
 

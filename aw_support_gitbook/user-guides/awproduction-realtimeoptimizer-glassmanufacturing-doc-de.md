@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Realtime_Optimizer_3_1"
-source: "DE_AWProduction_Realtime_Optimizer_3_1.pdf"
-tags: ["A+W", "Realtime Optimizer", "A+W Production", "glass manufacturing", "window production", "software manual", "optimization", "cutting control", "production management", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a German-language user manual for the A+W Realtime Optimizer software, version 3.30. It serves as a tutorial and software reference for end-users in the glass, window, and door manufacturing industries. The manual details the functionalities for production optimization, cutting control, and data management."
-long_description: "This comprehensive user manual, written in German, provides detailed instructions for operating the A+W Realtime Optimizer software, a component of the A+W Production suite. The document is structured into a tutorial and a software reference section. The tutorial covers the fundamental concepts, key features, and step-by-step workflows. It explains how to work with the software, including data transfer from upstream systems like A+W Production or in a stand-alone configuration. Key processes such as manual data entry for broken or rush items, creating cutting plans, optimization, and cutting machine control are thoroughly explained. The manual details various types of optimization, including table optimizations and quick optimizations, and how to handle remnants and link production runs. It also describes the integration with other A+W modules like A+W Residual Stock Manager, A+W Pattern Viewer, and A+W PlanEditor to enhance production efficiency. The software reference section, detailed in the table of contents, provides an in-depth look at the user interface, menus, and specific dialogs for tasks like data entry, optimization parameter settings, and cutting management. This guide is essential for operators and production managers using A+W software to optimize material usage, reduce waste, and streamline the cutting process in glass, window, and door manufacturing."
+description: "DE_AWProduction_Realtime_Optimizer_3_1"
 ---
+
 
 # A+W Realtime Optimizer J
 

@@ -1,12 +1,7 @@
 ---
-title: "US-CAD_Designer_Bars_HC"
-source: "US-CAD_Designer_Bars_HC.pdf"
-tags: ["A+W", "CAD Designer", "Bars", "Muntins", "Software Guide", "Help Cards", "Technical Documentation", "Glass Design", "Window Design", "Macros"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A collection of help cards for the A+W CAD Designer (Bars) software, version 2014. This guide provides step-by-step instructions for managing master data, creating and positioning muntins, and working with special patterns and macros."
-long_description: "This document serves as a practical user guide, formatted as a series of 'Help Cards,' for the A+W CAD Designer (Bars) software, based on the 2014 version. It is designed for users involved in the design and manufacturing of glass, windows, and doors. The guide is structured into three main sections: Master Data, Muntins, and Special Patterns. The 'Master Data' section covers fundamental setup tasks, including an overview of design tools, the use of catch points, the creation of muntin articles in the database, and how to password-protect master data. The 'Muntins' section provides detailed workflows for defining lite properties and positioning muntins, from simple grid patterns to placing them with precise values and applying them to complex shapes. The 'Special Patterns' section focuses on advanced features, explaining how to create a multi-lite 'house front,' load and modify existing macros, and build a custom macro from scratch. Each help card clearly states its objective and provides a numbered workflow, making it a comprehensive and accessible quick-reference tool for designers and technicians."
+description: "US-CAD_Designer_Bars_HC"
 ---
+
 
 # A+W CAD Designer (Bars) Help Cards
 

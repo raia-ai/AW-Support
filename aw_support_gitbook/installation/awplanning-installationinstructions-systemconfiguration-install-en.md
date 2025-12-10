@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Planning_Stock"
-source: "EN-INST-AW_Planning_Stock.pdf"
-tags: ["A+W Planning Stock", "Software Installation", "Installation Instructions", "Technical Documentation", "Glass and Windows Software", "System Configuration", "Uninstallation", "A+W Infrastructure", "Job Service", "Stock Service"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation, configuration, update, and uninstallation instructions for the A+W Planning Stock software, a component of the A+W software suite for glass and windows manufacturing."
-long_description: "This technical guide details the complete lifecycle management for the A+W Planning Stock software. It is intended for system planners and administrators responsible for deploying and maintaining the application. The document begins with an overview of the installation process, outlining prerequisites such as the A+W Infrastructure ProcessServer and IIS Version 8. It specifies system requirements for a reference device, including processor, RAM, and operating system, and provides an estimated installation time of 30 minutes. The guide walks through the installation procedure using the A+W_SetupLauncher, detailing the necessary components to install, including Planning Stock Services, Planning Web, and Job Services. It covers post-installation configuration, specifically how to set up the A+W Production database connection within the A+W Infrastructure. The document also provides instructions for verifying a successful installation by accessing the web interface and checking services in the Service Locator Administration. Furthermore, it includes a comprehensive section on uninstalling the software, with a recommended order for removing dependent components and a manual cleanup process for Windows services if they are not removed automatically. Finally, the guide addresses the update process, noting that automatic updates are not possible and manual uninstallation may be required. It highlights key checks and troubleshooting steps for updates, such as verifying service registration and database connections."
+description: "EN-INST-AW_Planning_Stock"
 ---
+
 
 # Installation Instructions: A+W Planning Stock
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_6-3"
-source: "EN_AWBusiness_Master_Data_9_6-3.pdf"
-tags: ["A+W Business", "Master Data", "Software Reference", "ERP", "Glass Manufacturing", "Window Production", "Door Production", "General Settings", "Product Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for the A+W Business 'Master Data' module. It details the configuration of core data used across all other modules, including general settings, product data, pricing, partners, and company information."
-long_description: "This document is a comprehensive software reference for the 'Master Data' module within the A+W Business software suite, which is designed for the glass, window, and door manufacturing industries. The guide provides detailed instructions on how to enter and maintain all foundational data that is used comprehensively by all other A+W Business modules. It is structured into several key sections, starting with 'General' settings like languages, calendars, and country codes. It then moves to the 'Products' section, covering the definition of product types, classes, groups (PGR), variants, colors, and other product-related attributes. The document serves as a crucial manual for system administrators and power users responsible for the initial setup and ongoing maintenance of the ERP system's core data, ensuring consistency and accuracy across the entire software platform."
+description: "EN_AWBusiness_Master_Data_9_6-3"
 ---
+
 
 # A+W Master Data B
 ---

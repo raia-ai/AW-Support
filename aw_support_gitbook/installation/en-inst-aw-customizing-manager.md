@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Customizing Manager"
-category: "installation"
-product: "A+W Customizing Manager"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Customizing Manager"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions             A+W Customizing Manager    Change history:       Date              Edited by                  Remarks      2018-09           DLA                        First draft      2018-10           DLA                        Second draft     This document enables the competent reader to install the described software. You should generally stick to this procedure:       1.     Check the installation requirements.      2.     Compile the required data, additio"
-source_file: "EN-INST-A+W Customizing Manager.pdf"
+description: "EN INST A+W Customizing Manager"
 ---
+
 
 
 # EN INST A+W Customizing Manager

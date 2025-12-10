@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Softlock"
-category: "installation"
-product: "A+W Softlock"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Softlock"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Dongle News  Jürgen Makowka  Pohlheim, January 19, 2018     Software  Softwarefor           forGlass               Glassand                     andWindows                         Windows  Bedenket, worum Ihr bittet …                Bedenket worum Ihr bittet,          Es könnte Euch gewährt werden     © A+W                    2  Be Careful What You Wish For         Be careful what you wish for,     for the gods may grant you!                        Marion Zimmer Bradley: “The Mists of Avalon”"
-source_file: "EN-INST-A+W Softlock.pdf"
+description: "EN INST A+W Softlock"
 ---
+
 
 
 # EN INST A+W Softlock

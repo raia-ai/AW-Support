@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_2"
-source: "DE-HB-AWEnterprise_2.pdf"
-tags: ["A+W Enterprise", "Stammdaten", "Marktpartner", "Mitarbeiter", "Software Referenz", "Benutzerhandbuch", "ERP", "Konfiguration", "Datenmanagement"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Software-Referenzhandbuch für das A+W Enterprise ERP-System, das sich auf die Verwaltung von Stammdaten konzentriert. Es behandelt die Module Marktpartner, Mitarbeiter und die dazugehörigen Schlüssel-Tabellen."
-long_description: "Dieses Dokument ist ein umfassendes technisches Software-Referenzhandbuch für das A+W Enterprise ERP-System. Es bietet eine detaillierte Erläuterung der Stammdaten-Module, mit einem Schwerpunkt auf „Marktpartner“ (Market Partner), „Mitarbeiter“ (Employee) und „Marktpartnerschlüssel“ (Market Partner Keys). Das Handbuch führt Benutzer durch die verschiedenen Dialoge, Registerkarten und Felder, die für die Erstellung und Verwaltung dieser Stammdaten erforderlich sind. Für Marktpartner werden Aspekte wie Adressverwaltung, Kontaktinformationen, Identifikationsnummern, finanzielle Daten (z. B. Fakturierung, Zahlungsbedingungen, Limits), Lieferlogistik und spezielle auftragsbezogene Konfigurationen behandelt. Jeder Abschnitt erklärt den Zweck der Felder, ihre technischen Details (Datentyp, Datenbankfeld) und die Verwendung zugehöriger Funktionen. Das Handbuch ist mit Screenshots und schrittweisen Erläuterungen strukturiert und dient als umfassende Anleitung für Administratoren und fortgeschrittene Benutzer, die für die Pflege der Stammdaten im A+W Enterprise-System verantwortlich sind. Es deckt auch die Konfiguration von Berechtigungen und Zugriffsrechten im Mitarbeitermodul sowie die Verwaltung von zentralen Schlüssel- und Wertetabellen ab."
+description: "DE-HB-AWEnterprise_2"
 ---
+
 
 # Marktpartner
 

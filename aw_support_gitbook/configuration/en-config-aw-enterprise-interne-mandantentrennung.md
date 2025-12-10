@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Enterprise Interne Mandantentrennung"
-category: "configuration"
-product: "A+W Enterprise Interne Mandantentrennung"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Enterprise Interne Mandantentrennung"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W Enterprise Internal Client Separation                                           english                                   - -INTERNAL- Change history   Date            Author                 Remarks                                                Version 2018-02-15      Ina Seifert            Initial version                                        1.0 2018-10-18      Ina Seifert            Extension MP_SITE_EXACT 2019-03-20      Elena Tempelfeld       Takeov"
-source_file: "EN-CONFIG-A+W Enterprise Interne Mandantentrennung.pdf"
+description: "EN CONFIG A+W Enterprise Interne Mandantentrennung"
 ---
+
 
 
 # EN CONFIG A+W Enterprise Interne Mandantentrennung

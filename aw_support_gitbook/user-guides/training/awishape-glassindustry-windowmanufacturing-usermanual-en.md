@@ -1,15 +1,7 @@
 ---
-title: "A+W iShape Manual"
-category: "training"
-product: "AWiShape"
-doc_type: "User Manual"
-language: "EN"
-tags: ["AWiShape", "GlassIndustry", "WindowManufacturing", "UserManual"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-UM-AW_iShape" source: "EN-UM-AW_iShape.pdf" tags: ["software manual", "A+W iShape", "glass industry", "window manufacturing", "door manufacturing", "digitalization", "CAD", "template processing", "smartphone app", "XTREAM"] version: "1.0" last_updated: "2025-10-03" short_description: "This manual provides comprehensive instructions for using A+W iShape, a software solution for digitalizing non-rectangular templates (lites) for the glass, window, and door industry. It details the proce"
-source_file: "AWiShape-GlassIndustry-WindowManufacturing-UserManual-EN.md"
+description: "A+W iShape Manual"
 ---
+
 
 
 title: "EN-UM-AW_iShape"

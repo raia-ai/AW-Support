@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_5-2"
-source: "EN_AWBusiness_Sales_4_5-2.pdf"
-tags: ["A+W Business Sales", "Software Reference", "Document Management", "Order Entry", "Item Data", "Header Data", "Pricing", "BOM", "ERP", "Window Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Sales, focusing on document management features. It details the various fields, tabs, and settings within the order entry and item data modules, including header data, technical parameters, attachments, pricing settings, and item-specific configurations."
-long_description: "This document serves as a detailed software reference manual for the A+W Business Sales application, specifically covering the \"Document Management\" and \"Item Data\" sections. It provides comprehensive explanations for managing orders and related documents. The first part focuses on \"Header Data,\" which includes defining payment terms, rabbet deductions, sales and purchase price settings, technical parameters for spacers and labels, and managing attachments and customer-specific information. The second part delves into \"Item Data,\" explaining the item entry menus (Start, View, Functions, Options, Structure) and the various tabs for defining individual order items. This includes managing Bill of Materials (BOM), shapes and processing, grills, supplements, and other technical values. The guide is intended for users who need to understand the detailed functionality of creating, editing, and managing sales documents like quotations, orders, and credit notes within the A+W Business Sales system. It includes navigation paths, field definitions, and references to master data settings."
+description: "EN_AWBusiness_Sales_4_5-2"
 ---
+
 
 # Document Management & Software Reference
 

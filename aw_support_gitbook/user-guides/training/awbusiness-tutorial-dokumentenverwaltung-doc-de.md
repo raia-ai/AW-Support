@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_2-4"
-source: "DE_AWBusiness_Verkauf_4_2-4.pdf"
-tags: ["A+W Business Verkauf", "Tutorial", "Dokumentenverwaltung", "Faktura", "Nummernverwalter", "Druck", "Templates", "SN-Datei", "ERP-Software", "Software-Anleitung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W Business Verkauf software, detailing the complete process from document creation to invoicing. It covers working with templates, using Shaping + Nesting (SN) files, managing documents with the Nummernverwalter (number manager), and various printing functionalities."
-long_description: "This document is a detailed tutorial for the A+W Business Verkauf software, focusing on the end-to-end process of document management, from initial creation to final invoicing (Kompletterfassung von Dokumenten bis Faktura). The tutorial is divided into several key sections. It begins by explaining how to work with Shaping + Nesting (SN) files and templates, including steps for selecting, modifying, and saving models. It provides exercises for practical application. The next major section introduces the 'Nummernverwalter' (number manager), a tool for organizing and batch-processing documents like orders. It covers creating, filling, copying, and clearing these managers. The final extensive section is dedicated to 'Druck' (Printing), detailing how to print various documents such as order confirmations, delivery notes, and invoices. It explains settings for sketch printing, price display, direct printing, and using print jobs. The guide uses screenshots and step-by-step instructions to facilitate user learning."
+description: "DE_AWBusiness_Verkauf_4_2-4"
 ---
+
 
 # Kompletterfassung von Dokumenten bis Faktura - Tutorial
 

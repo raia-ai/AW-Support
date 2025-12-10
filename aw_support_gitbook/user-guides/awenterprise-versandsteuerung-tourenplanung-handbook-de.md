@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_20"
-source: "DE-HB-AWEnterprise_20.pdf"
-tags: ["A+W Enterprise", "Versandsteuerung", "Software-Referenz", "Tourenplanung", "Auftragsmanagement", "Gestellverwaltung", "Lagerverwaltung", "Logistik", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Dokument ist ein Software-Referenzhandbuch für das Modul A+W Enterprise Versandsteuerung. Es beschreibt detailliert die Menüs, Funktionen und Datenfelder, die auf der Touren-, Auftrags- und Positionsebene zur Verfügung stehen. Das Handbuch richtet sich an Anwender, die für die Planung, Steuerung und Verwaltung von Warentransporten und Lieferungen zuständig sind."
-long_description: "Dieses Software-Referenzhandbuch bietet eine umfassende Dokumentation für das Modul Versandsteuerung innerhalb der A+W Enterprise Software. Es dient als detaillierte Anleitung für Anwender, die mit der Verwaltung von Logistikprozessen, insbesondere der Tourenplanung, Auftragsabwicklung und dem Versand, betraut sind. Das Dokument ist hierarchisch gegliedert und behandelt die verschiedenen Ebenen der Versandsteuerung: die Tourenebene, die Auftragsebene und die Positionsebene. Für jede Ebene werden die spezifischen Zusatzmenüs, Infomenüs und verfügbaren Funktionen erläutert. Ein Schwerpunkt liegt auf der Beschreibung der einzelnen Registerkarten (wie TourenInfo, GestellInfo, AuftragsInfo, Lieferanschrift) und der darin enthaltenen Datenfelder. Zu jedem Feld werden technische Informationen wie der zugrunde liegende Datenbankfeldname sowie dessen Bedeutung und Anwendung im Systemkontext bereitgestellt. Darüber hinaus werden zentrale Funktionen wie das Suchen, Springen, Verschieben, Stornieren von Vorgängen, die Fehlmengenkontrolle, die Gestellverwaltung (Zuordnung, Auflösung) und der Druck von Versanddokumenten (Ladelisten, Lieferscheine) ausführlich beschrieben. Spezielle Konfigurationen wie die via-plant-Integration oder die Packmittelplanung werden ebenfalls erwähnt. Das Handbuch ist als Nachschlagewerk konzipiert, das dem Benutzer hilft, die volle Funktionalität der Versandsteuerung zu verstehen und effizient zu nutzen."
+description: "DE-HB-AWEnterprise_20"
 ---
+
 
 # Versandsteuerung – Menüs
 

@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Analytics"
-category: "installation"
-product: "A+W Analytics"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Analytics"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions          A+W Analytics powered by QLIK Sense®    Change history:      Date            Author       Comments                      Version      2018-04-03      DLA          Initial version and release   1.0     08.05.2018                    EN-INST-A+W Analytics.docx         1 Content     Installation Instructions ................................................................... 1     A+W Analytics powered by QLIK Sense® ...................................... 1"
-source_file: "EN-INST-A+W Analytics.pdf"
+description: "EN INST A+W Analytics"
 ---
+
 
 
 # EN INST A+W Analytics

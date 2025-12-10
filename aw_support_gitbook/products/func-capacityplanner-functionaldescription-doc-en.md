@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Capacity_Planner"
-source: "EN-FUNC-AW_Capacity_Planner.pdf"
-tags: ["A+W", "Capacity Planner", "Software", "Functional Description", "Glass Manufacturing", "ERP", "Production Planning", "Scheduling"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description of the A+W Capacity Planner, a software module for scheduling and managing production capacities in the glass industry. It details features, prerequisites, limitations, and setup notes."
-long_description: "This document provides a detailed functional description of the A+W Capacity Planner, a software module designed for the glass manufacturing industry. It integrates with A+W Production and ERP systems to manage and optimize production capacities. The manual outlines the module's core capabilities, including backward scheduling, cost calculation, transition time management, and campaign planning. It describes how the software handles reservations, shift plans, and production monitoring through a central graphic control station. The document also lists specific prerequisites for implementation, such as correct master data setup and system configuration. Furthermore, it enumerates the functional limitations of the software, covering aspects like scheduling, cost calculation, and production monitoring. Finally, it provides notes on the setup process and contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Capacity_Planner"
 ---
+
 
 # A+W Functional Description: A+W Capacity Planner
 

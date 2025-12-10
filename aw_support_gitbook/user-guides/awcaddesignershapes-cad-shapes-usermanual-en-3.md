@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerShapes_8"
-source: "EN-UM-AWCADDesignerShapes_8.pdf"
-tags: ["CAD", "A+W CAD Designer", "Shapes", "Technical Manual", "Glass Processing", "Automotive Glass", "Architectural Glass", "Auxiliary Cuts", "Breakout Paths"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for the A+W CAD Designer (Shapes) software, detailing the use of various tools for defining contours, auxiliary cuts, breakout paths, and other features for glass processing."
-long_description: "This document serves as a comprehensive user guide for the 'Tools' section of the A+W CAD Designer (Shapes) software. It provides step-by-step instructions for using a wide range of tools designed for both automotive and architectural glass processing. Key topics covered include creating and manipulating auxiliary cuts, defining breakout paths for automated breaking, positioning axes and stops for machinery control, setting measuring points for quality control, and editing sketch printouts for clarity. The manual explains how to handle specific machine requirements, such as those for offset cutting wheels, master/slave cutting lines, and specialized breakout equipment. It also details how to prepare cutting table controls, align contours, and optimize nested shapes to minimize waste. The guide is intended for CAD operators and technicians who use the A+W software to design and prepare complex glass shapes for manufacturing."
+description: "EN-UM-AWCADDesignerShapes_8"
 ---
+
 
 # The Use of Tools
 

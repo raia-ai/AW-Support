@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_ShortGuide_ConformityPack"
-source: "EN_AWBusiness_ShortGuide_ConformityPack.pdf"
-tags: ["A+W Business", "Conformity Pack", "Declaration of Performance", "DoP", "CE Marking", "Construction Products Regulation", "Software Guide", "ERP", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A short guide for end-users of A+W Business on implementing the Conformity Pack. It details the setup and management of Declarations of Performance (DoP) and CE Marking as required by the European Construction Products Regulation."
-long_description: "This document, the 'Implementation of the Conformity Pack in A+W Business' short guide, provides comprehensive instructions for users of the A+W Business software. It addresses the legal requirements of the European Construction Products Regulation (CPR) effective from July 1, 2013, which mandates the creation, management, and provision of Declarations of Performance (DoP) for construction products. The guide explains the entire workflow, from the initial registration of DoPs in the system to their application in various business processes. It covers master data setup, including company, product, and partner data configurations. Key features like the Utilities Module for defining product structures, management of forms for automated dispatch, and user rights management are detailed. The guide also illustrates the practical application in document management, showing how DoPs are assigned to order items, and explains the process for printing forms and transferring DoP data to the A+W Production system. This guide is essential for ensuring compliance with CPR using the A+W Business software suite."
+description: "EN_AWBusiness_ShortGuide_ConformityPack"
 ---
+
 
 # A+W Short Guide: Implementation of the Conformity Pack in A+W Business
 

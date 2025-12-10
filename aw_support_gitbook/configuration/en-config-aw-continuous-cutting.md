@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Continuous Cutting"
-category: "configuration"
-product: "A+W Continuous Cutting"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Continuous Cutting"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Continuous Cutting Multi-step Automated Production System                                                                    english                     - INTERNAL -    A+W Software GmbH   EN-CONFIG-A+W Continuous Cutting.docx   1 Change history           Date        Author         Remarks                       Version         2021-07-12 Anna Bremkamp Draft                           1.0     A+W Software GmbH        EN-CONFIG-A+W Continuous Cutting.docx             2"
-source_file: "EN-CONFIG-A+W Continuous Cutting.pdf"
+description: "EN CONFIG A+W Continuous Cutting"
 ---
+
 
 
 # EN CONFIG A+W Continuous Cutting

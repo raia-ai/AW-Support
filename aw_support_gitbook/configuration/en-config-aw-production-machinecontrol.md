@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Production MachineControl"
-category: "configuration"
-product: "A+W Production MachineControl"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Production MachineControl"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Production Machine Control                                                                           english        A+W Software GmbH                                          - -INTERNAL-                        EN-CONFIG-A+W Production MachineControl.docx   1 CHANGE HISTORY              Date          Author:                 Remarks                                 Version                                                  Cutting, GeorgianBars,            2018-05-18 DL"
-source_file: "EN-CONFIG-A+W Production MachineControl.pdf"
+description: "EN CONFIG A+W Production MachineControl"
 ---
+
 
 
 # EN CONFIG A+W Production MachineControl

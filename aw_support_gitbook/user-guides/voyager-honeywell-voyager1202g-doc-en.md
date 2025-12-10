@@ -1,12 +1,7 @@
 ---
-title: "Voyager 1202g Wireless Single-Line Laser Scanner"
-source: "Voyager_-_English.pdf"
-tags: ["Honeywell", "Voyager 1202g", "barcode scanner", "wireless scanner", "single-line laser", "Bluetooth scanner", "technical specifications", "data sheet"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A data sheet for the Honeywell Voyager 1202g, a wireless single-line laser scanner. It highlights key features like Bluetooth technology, long battery life, and excellent poor-quality code reading."
-long_description: "This document provides a comprehensive overview and technical specifications for the Honeywell Voyager™ 1202g wireless single-line laser scanner. It details the product's features, including its Bluetooth® wireless technology which offers movement up to 10 meters (33 feet) from the base, and a field-replaceable lithium-ion battery providing over 12 hours of use. The data sheet covers its aggressive linear bar code scanning capabilities, even on poorly printed or damaged codes, and its user-friendly aspects like a tool-free battery removal and automatic interface configuration. The second page presents detailed technical specifications in tabular format, covering wireless, mechanical, electrical, and environmental properties for both the scanner and its communication base. It also includes scan performance metrics, decode capabilities, warranty information, and typical depth of field performance for various barcode resolutions."
+description: "Voyager 1202g Wireless Single-Line Laser Scanner"
 ---
+
 
 # Voyager 1202g Wireless Single-Line Laser Scanner
 

@@ -1,12 +1,7 @@
 ---
-title: "D-AWProduction-HB_13"
-source: "D-AWProduction-HB_13.pdf"
-tags: ["A+W Realtime Optimizer", "A+W Production Terminal", "glass manufacturing", "software reference", "optimization", "cutting", "data entry", "DynOpt", "ERP", "production management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive software reference manual for A+W Realtime Optimizer and A+W Production Terminal. It details functionalities for data entry, optimization, cutting, and stock management in glass production environments."
-long_description: "This document serves as a detailed software reference guide for two key A+W software products: the A+W Realtime Optimizer and the A+W Production Terminal. The first part of the manual focuses on the A+W Realtime Optimizer, providing in-depth information on its core modules. This includes 'Erfassung' (Data Entry) for inputting rush orders (Eilscheiben) and creating manual plans; 'Optimierung' (Optimization) for setting up and running table optimizations based on standard criteria or production deadlines; and 'Zuschnitt' (Cutting) for managing and executing cutting runs. It also covers related features like the 'A+W Residual Stock Manager' for handling leftover glass sheets. The second part of the document transitions to the A+W Production Terminal, a system designed to control and monitor specific process steps on the production floor. It begins with a tutorial section explaining the system's architecture, objectives, and the function of various terminals (e.g., for insulated glass, manual cutting, processing). The manual provides detailed UI presentations, workflow descriptions, and definitions for each terminal, aiming to equip production staff with the knowledge to operate the software efficiently."
+description: "D-AWProduction-HB_13"
 ---
+
 
 # A+W Realtime Optimizer Softwarereferenz
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_10"
-source: "EN_UM_AWProduction_10.pdf"
-tags: ["A+W Production", "Barcoding", "Software Manual", "ERP", "Glass Manufacturing", "Window Production", "Production Control", "Scanner Configuration", "Breakage Management", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Production Barcoding module, a software solution designed for the glass, windows, and doors industry. It serves as both a tutorial for new users and a detailed software reference for experienced personnel. The manual covers the fundamental concepts of production data collection, booking elements, data entry procedures using scanners, breakage management, and the generation of statistics and reports."
-long_description: "This is a detailed technical manual for the A+W Production Barcoding (AWP) software module, which is part of the A+W software suite for glass, windows, and doors manufacturing. The document is structured into two main parts: a Tutorial and a Software Reference.
+description: "EN_UM_AWProduction_10"
 ---
+
 
 The Tutorial section is designed for production employees who work at various stations and use the barcoding system to track production flow. It begins with an overview of the system's purpose, followed by basic concepts of barcoding in a production environment. It then explains the core 'Booking Elements' of the system, including products, booking places (like registration points and error racks), storage locations (racks and boxes), personnel, and status values. The tutorial provides step-by-step instructions for data entry using different types of scanners and offers practical booking examples for various scenarios, such as scanning units, handling dispatch, and loading trucks. It also covers the use of Production Terminals, breakage management procedures, and how to utilize the system's reporting and monitoring capabilities through tools like A+W Dashboard and A+W Discovery.
 

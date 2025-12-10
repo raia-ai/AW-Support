@@ -1,15 +1,7 @@
 ---
-title: "PowerScan PD9531   English"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["PowerScan PD9531 ", " English"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "POWERSCAN™ PD9531                                                                         AIM, TRIGGER, DECODE: IT’S THAT SIMPLE!                                                                        An intuitive and effortless scanning experience is the target of the                                                                        PowerScan™ 9501 family. It combines omnidirectional reading                                                                        capabilities, which is typic"
-source_file: "PowerScan PD9531 - English.pdf"
+description: "PowerScan PD9531   English"
 ---
+
 
 
 # PowerScan PD9531   English

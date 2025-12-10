@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_EDI_Export"
-source: "EN-FUNC-AW_Enterprise_EDI_Export.pdf"
-tags: ["A+W Enterprise", "EDI Export", "Functional Description", "Software for Glass", "Data Format", "Interface", "PO Export", "A+W Standard Format"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the 'Export in the A+W standard format' module for the A+W Enterprise software. It details how Purchase Orders (POs) are exported, the specific data format used, system requirements, available functions, and notable restrictions."
-long_description: "This document provides a complete functional description of the A+W Enterprise EDI Export module (Article no. 200012). It outlines the process for exporting Purchase Orders (POs) into the proprietary A+W standard format. The document begins with standard legal notices, including trademarks, copyrights, and liability exclusions. The core 'Performance Description' section specifies the product details, requirements (A+W Enterprise core module), and a comprehensive list of functions. This includes the creation of interface files, the export of defined data records, and a list of all supported record types (e.g., File header, Header records for customer/delivery addresses, Item records, BOM, Shape records). A significant portion is dedicated to 'Restrictions,' detailing which data elements are or are not exported under specific conditions (e.g., only POs are exported, limitations on BOM elements like glass, foils, and muntins). It clarifies incompatibilities, such as the non-importability of certain exported data into other A+W products like A+W Business. The document concludes with contact information for A+W Software GmbH. It is intended for users and developers who need to understand the specifics of the EDI export functionality."
+description: "EN-FUNC-AW_Enterprise_EDI_Export"
 ---
+
 
 # A+W – Enterprise: Export in the A+W standard format
 ---

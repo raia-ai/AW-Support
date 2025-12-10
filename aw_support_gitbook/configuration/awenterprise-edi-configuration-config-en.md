@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Enterprise_EDI"
-source: "EN-CONFIG-AW_Enterprise_EDI.pdf"
-tags: ["A+W Enterprise", "EDI", "Configuration", "Software", "Glass Industry", "PO Transfer", "Order Linking", "Master Data Replication", "SAP Coupling", "System Integration"]
-version: "1.0"
-last_updated: "2025-10-08"
-short_description: "This document provides comprehensive configuration instructions for the A+W Enterprise EDI (Electronic Data Interchange) software. It details the setup and management of various data exchange functions within a company, including master data replication, order processing, and system integration."
-long_description: "The A+W Enterprise EDI configuration manual is a detailed technical guide for system administrators and planners responsible for setting up and maintaining data exchange processes in the A+W Enterprise software, which is tailored for the glass industry. The document covers a wide range of functionalities, including the replication of master data (articles, market partners, keys), the transfer of purchase orders (PO transfer) and sales orders (order linking), and the generation of invoices. It outlines the basic configuration prerequisites, such as setting up the 'xhaus' table for site management, defining directory structures, and configuring environment variables. A significant portion of the manual is dedicated to error research and troubleshooting, providing detailed status codes, problem descriptions, and remedies. It also explains the processes for purchase order generation, including configurations for pure trade sites, handling of delivery addresses, and document takeovers. The manual differentiates between internal PO transfers and external PO exports, and provides in-depth instructions for both. Furthermore, it covers advanced topics like status reporting from production clients, balance scheduling, external order interface/EDI import, and coupling with external systems like SAP Oxygen. The document is intended to ensure seamless, automated, and company-wide data communication between different branch offices or with external partners."
+description: "EN-CONFIG-AW_Enterprise_EDI"
 ---
+
 
 ---
 ## Change history

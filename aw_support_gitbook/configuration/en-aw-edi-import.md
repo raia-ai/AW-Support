@@ -1,15 +1,7 @@
 ---
-title: "EN A+W EDI Import"
-category: "configuration"
-product: "A+W EDI Import"
-doc_type: "Unknown"
-language: "EN"
-tags: ["A+W EDI Import"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Interface Description     Import/export interface of orders and purchase orders                                        english                                  - -INTERNAL-         Date         Edited by      Remarks                                                           Version                      Andreas Noll   Original version                                                  2.0.000                                     New fields K1/13, K1/14, P1/19, P1/20, P1/21, P2/14, P2/15,"
-source_file: "EN-A+W EDI Import.pdf"
+description: "EN A+W EDI Import"
 ---
+
 
 
 # EN A+W EDI Import

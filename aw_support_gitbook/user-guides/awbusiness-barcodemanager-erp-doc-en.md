@@ -1,12 +1,7 @@
 ---
-title: "EN-AWBusiness-BarcodeManagerEL"
-source: "EN-AWBusiness-BarcodeManagerEL.pdf"
-tags: ["A+W Business", "Barcode Manager", "Software Manual", "ERP", "Shop Floor Data Collection", "Inventory Management", "Datalogic", "Code39"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the A+W Business Barcode Manager (EL). It details the setup, configuration, and functions for online shop floor data collection using a barcode scanner. The guide covers scanner settings, system integration with A+W Business, and various operational functions like receiving goods, production reporting, stock movements, and rack management."
-long_description: "This is a comprehensive guide for the A+W Barcode Manager (EL), a component of the A+W Business software suite designed for the glass, windows, and doors industry. The manual provides detailed instructions for end-users on how to perform online shop floor data collection using a Datalogic (Scorpio) Windows-CE based barcode scanner. It begins with an editorial overview, including document notes, copyrights, and contact information. The 'Settings' section covers the initial configuration of the scanner, the setup of registration points and employee management within A+W Business, and capacity planning. The 'Functions' section walks through the user workflow, starting from login to navigating the main menu, and executing tasks such as 'Receipt of goods', 'Production report' (including completion and breakage reports), 'Stock Movements' (withdrawal, addition, transfer, box management), 'Rack Management' (loading, emptying, displaying), and 'Miscellaneous' information queries. A dedicated 'Barcodes' section provides a detailed table of the required Code39 barcode structures, prefixes, and data formats for various operations, along with instructions on how to print them from different modules within A+W Business. The manual concludes with information on the booking history feature for analyzing completion and breakage reports."
+description: "EN-AWBusiness-BarcodeManagerEL"
 ---
+
 
 # A+W Barcode Manager (EL)
 

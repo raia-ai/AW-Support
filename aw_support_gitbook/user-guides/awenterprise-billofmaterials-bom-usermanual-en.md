@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_5"
-source: "EN-UM-AW_Enterprise-Sales_4_5.pdf"
-tags: ["A+W Enterprise Sales", "Bill of Materials", "BOM", "Software Reference", "Muntin Entry", "Packaging Planning", "Product Structure", "Order Entry", "Sales Module", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the Bill of Materials (BOM) module within the A+W Enterprise Sales software, version 4.00. It details the functionalities for viewing, creating, and managing BOMs, including product structures, production sketches, and processing parameters."
-long_description: "This comprehensive software reference manual provides an in-depth guide to the Bill of Materials (BOM) section of the A+W Enterprise Sales application, version 4.00. The document systematically walks users through the various dialogs, tabs, and fields related to BOM management. Key areas covered include the BOM View, which allows for examination of product structures and production sketches, and the Current BOM Level tab for editing individual articles and their properties. It provides detailed explanations of parameters for numerous processing types, such as edge work, drilling, tempering, and surface treatments like silk-screening. The guide also covers specialized functionalities like Muntin Entry for defining muntin patterns in insulated glass units, Stepped Entry for managing stepped glass, and Edge Allocation for shaped lites. Furthermore, a significant portion is dedicated to Packaging Planning, detailing how to specify sorting algorithms, rack types, and loading parameters to generate an optimized packaging plan. The final sections describe how to manage internal notes associated with documents, articles, projects, and market partners. Each function is explained with its corresponding navigation path, keyboard shortcuts, and technical database field information, making it an essential resource for advanced users, system administrators, and technical support staff."
+description: "EN-UM-AW_Enterprise-Sales_4_5"
 ---
+
 
 # Bill of Materials (BOM)
 

@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_9"
-source: "EN-UM-AW_Enterprise-Sales_4_9.pdf"
-tags: ["A+W Enterprise Sales", "Quotation Display", "Resubmission", "Completion Report", "Document Change", "Order Management", "Sales Software", "ERP", "Software Reference", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical reference for the A+W Enterprise Sales software, detailing the functionality of various dialogs and overviews within the 'Sales' and 'Overview' modules. It covers informational displays like the Quotation Display, task management features such as Resubmission, and operational processes like the Completion Report and bulk Document Change."
-long_description: "This software reference manual provides detailed instructions and field descriptions for several key features within the A+W Enterprise Sales application. The document is structured to guide users through specific user interface dialogs. It begins with the 'Quotation Display,' explaining its read-only nature for informational purposes. It then moves to 'Resubmission,' a feature for creating reminders and follow-up tasks related to documents, detailing different resubmission types and associated fields. The 'Completion Report' section describes how to mark order items as complete, outlining the fields in the header, overview, and footer of the dialog. The 'Document Change' feature is explained as a tool for simultaneously correcting multiple documents, with a comprehensive breakdown of its two-view table and all associated fields for batch updates. Finally, the 'Overview of Documents' section details how to access various lists, such as 'Orders not Invoiced' and 'Incomplete Deliveries.' Throughout the manual, navigation paths, technical field information (DB fields), and keyboard shortcuts are provided to assist users. The document is intended for trained users of the A+W Enterprise system."
+description: "EN-UM-AW_Enterprise-Sales_4_9"
 ---
+
 
 ---
 ## Quotation Display

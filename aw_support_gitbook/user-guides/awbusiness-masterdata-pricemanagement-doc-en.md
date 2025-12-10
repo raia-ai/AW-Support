@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_8-1"
-source: "EN_AWBusiness_Master_Data_9_8-1.pdf"
-tags: ["A+W Business", "Master Data", "Price Management", "Software Reference", "Insurance Pricing", "Grill Pricing", "Price Matrix", "Price Cube"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the 'Prices' and 'Price Management' modules within the A+W Business software. It details the configuration of various pricing structures, including standard prices, insurance-specific rates for repair and emergency glazing, and complex pricing for elements like grills."
-long_description: "This document serves as a detailed technical reference for managing pricing within the A+W Business Master Data module. It covers a wide range of pricing functionalities, starting with basic price unit definitions and moving to complex, multi-dimensional pricing structures. The guide explains how to configure 'Insurance Prices' for specific providers like Frankfurter Versicherung and Gothaer Versicherung, distinguishing between repair glazing, emergency glazing, surcharges, and additional services. It also details the setup for 'Price Elements of Grills,' linking pricing to elements defined in A+W CAD Designer. The core of the document focuses on the 'Price Management' section, which allows users to define prices using matrices (up to two dimensions), vectors (single dimension), cubes (up to three dimensions), and custom formulas. It describes the various tabs for price selection, matrix, vector, individual price, shape, grills, cube, and price formula. Additionally, it covers utility functions for changing, copying, deleting, importing, and exporting prices in bulk. The reference is intended for system administrators and power users responsible for setting up and maintaining the product pricing catalog in the A+W Business system."
+description: "EN_AWBusiness_Master_Data_9_8-1"
 ---
+
 
 # Software Reference - Prices
 

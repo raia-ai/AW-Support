@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_8-4"
-source: "EN_AWBusiness_Master_Data_9_8-4.pdf"
-tags: ["A+W Business", "Master Data", "Partner Management", "Software Reference", "Customer Data", "Supplier Data", "Financial Accounting", "Credit Limit", "Sales Data", "Production Settings"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the Partner Management module within A+W Business Master Data. It details the configuration of customer and supplier data, including financial settings, tax data, credit limits, and sales information."
-long_description: "This is a detailed software reference manual for the Partner Management section of A+W Business Master Data. It provides comprehensive instructions and explanations for managing partner (customer and supplier) information within the system. The guide covers a wide range of settings organized into various tabs. Key areas include defining payment terms, solvency, and lock codes for partners. It explains how to configure tax data, including settings for Brazilian taxation and compound taxes. A significant portion is dedicated to the 'Balance' tab, which covers setting and checking credit limits, comprehensive checks for subsidiaries, and managing financial values like receivables and liabilities. The document also details the 'Sales' tab for tracking quotations and orders, and the 'Production' tab for setting up production-related parameters like capacity areas, labels, shipping, and packing optimization. Additional dialogs and functions such as managing subsidiaries, employees, file attachments, and transaction documents are also thoroughly explained. The guide serves as a complete reference for users responsible for maintaining accurate and detailed partner master data in the A+W Business system."
+description: "EN_AWBusiness_Master_Data_9_8-4"
 ---
+
 
 # Partner Management
 

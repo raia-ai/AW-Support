@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_5-4"
-source: "EN_AWBusiness_Sales_4_5-4.pdf"
-tags: ["A+W Business Sales", "Software Reference", "Item Data", "Glass Processing", "ERP", "Grooving", "Enamel", "Grills", "Stepping", "Curved Glass"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for A+W Business Sales, detailing the 'Item Data' section. It covers various processing steps for glass products, including grooving, regrinding, logos, macros, enamel application, and edge deletion. It also explains how to configure complex items like stepped units, curved glass, leaded designs, and grills. The guide provides field-level descriptions for parameters, quantities, dimensions, and other settings within the software interface, assisting users in accurately defining product specifications."
-long_description: "This document serves as a detailed software reference manual for the A+W Business Sales application, specifically focusing on the 'Item Data' and 'Shapes/Processing' tabs. It provides a comprehensive guide to defining various attributes and processing steps for glass and related products. The manual is structured to walk users through functionalities such as Grooving, Regrinding, applying Logos/Stamps, and using Macros for corners and edges. It also covers surface treatments like Enamel application, Masking, and Edge Deletion. A significant portion of the document is dedicated to complex product configurations. This includes 'Items - Stepping' for insulated glass (IG) units, 'Items - Curved glass' for bent glass specifications, and 'Items - Leaded designs'. The guide also features an in-depth section on 'Items - Grills,' explaining how to define standard patterns, set prices, omit specific bars, and create custom patterns using the A+W CAD Designer. Throughout the document, parameter fields such as Quantity, Dimensions (X/Y, Width, Height), Angle, and processing levels are explained in detail. It includes instructions for navigating the user interface, with references to specific dialogs and tabs for entering data related to pricing, surcharges, and production-specific details like CPIP codes and supplier information."
+description: "EN_AWBusiness_Sales_4_5-4"
 ---
+
 
 # Item Data Software Reference
 

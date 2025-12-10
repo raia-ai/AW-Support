@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W BoraIdent LaserBird"
-category: "configuration"
-product: "A+W BoraIdent LaserBird"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W BoraIdent LaserBird"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Production Terminal - BoraIdent Laserbird Interface                                     english                               -INTERNAL- Change history  Date       Author       Comments              Version 2024-02-21 Peter Kühn   First Draft Version   1.0 Content  1.   General                                                          4 2.   Configuration                                                    4      2.1. A+W Business"
-source_file: "EN-CONFIG-A+W BoraIdent LaserBird.pdf"
+description: "EN CONFIG A+W BoraIdent LaserBird"
 ---
+
 
 
 # EN CONFIG A+W BoraIdent LaserBird

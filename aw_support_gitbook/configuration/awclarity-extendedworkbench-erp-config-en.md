@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Clarity_Extendend_Workbench"
-source: "EN-CONFIG-AW_Clarity_Extendend_Workbench.pdf"
-tags: ["A+W Clarity", "Extended Workbench", "ERP", "Glass Manufacturing", "Software Configuration", "BOM", "Purchase Order", "Production Scheduling", "Process Generation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This internal configuration document outlines the setup and functionality of the A+W Clarity Extended Workbench module. It details how to manage external processing of goods, such as screen printing or lamination, by integrating A+W Enterprise and A+W Production. The guide covers order entry, purchase order generation, dispatch control, and master data configuration required to handle outsourced manufacturing steps seamlessly within a single production order."
-long_description: "This comprehensive technical guide provides internal configuration instructions for the A+W Clarity Extended Workbench feature. The document is intended for technical consultants and system administrators responsible for setting up and maintaining the A+W software suite for glass manufacturing. It explains the interplay between A+W Enterprise (ERP) and A+W Production (MES) to manage scenarios where specific processing steps (e.g., tempering, screen printing, lamination) are outsourced to external suppliers. Key topics include configuring order entry to handle external processings, generating correctly-scheduled purchase orders, managing direct shipments between suppliers, and calculating costs. The document details necessary master data setup, including processing types, machine allocation, and required processing articles. It also covers the logic for process generation, handling of intermediate packing, and the effects on production lists and labels. The guide uses diagrams, screenshots, and specific configuration parameters to illustrate the end-to-end workflow, from order creation to the return of externally processed goods."
+description: "EN-CONFIG-AW_Clarity_Extendend_Workbench"
 ---
+
 
 # A+W Clarity Extended Workbench
 **-INTERNAL-**

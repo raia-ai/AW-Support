@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_5"
-source: "EN-UM-AWEnterprise_5.pdf"
-tags: ["A+W Enterprise", "Master Data", "ERP", "Software Reference", "Article Management", "BOM", "Pricing", "Stock Management", "Product Configuration", "Technical Specifications"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Enterprise Master Data module. It provides detailed explanations of the fields and settings for managing articles, pricing, stock, Bill of Materials (BOM), and various product configurations. It covers topics such as technical specifications, supplier allocation, and site-specific details, serving as a guide for system administrators and advanced users."
-long_description: "This comprehensive software reference guide details the Master Data module within the A+W Enterprise system. It is designed for system administrators and advanced users responsible for setting up and maintaining the core product and operational data. The document provides an in-depth exploration of the 'Article' management section, covering numerous configuration tabs such as Physical Properties, Prices, Stock, Technical Values, and Statistics. It explains how to define article attributes, including alternative types, production documentation, labeling, and inheritance rules for laminated or cast resin products. The pricing section outlines various methods for price calculation, recording, and presentation, including cost calculation, material loss, and tax rates. The stock management chapter describes how to configure default, box, and slot warehouses, and how to set up rules for stock changes and checks. Furthermore, the manual covers the setup of Bill of Materials (BOMs), including BOM restrictions and size inheritance formulas. It also details the configuration of product variants (size, color), compulsory dimensions, supplier allocations, market partner specific data, and other site-specific settings. This guide is essential for leveraging the full capabilities of the A+W Enterprise Master Data module to ensure accurate product definition, pricing, and production planning."
+description: "EN-UM-AWEnterprise_5"
 ---
+
 
 # Software Reference
 

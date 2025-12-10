@@ -1,15 +1,7 @@
 ---
-title: "Zebra TC22 TC27   Englisch"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Zebra TC22", "TC27 ", " Englisch"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "PRODUCT SPEC SHEET TC22/TC27 MOBILE COMPUTERS     TC22/TC27 Mobile Computers The ultimate cost-effective tool for small businesses — with big business features Your small or mid-size business competes with industry giants that use the latest enterprise mobile devices to give workers a competitive edge — but the smartphones in your budget don’t offer the features you need. Introducing the equalizer — the TC22/TC27 mobile computers. The third generation of the highly successful TC2x Series, the TC"
-source_file: "Zebra TC22-TC27 - Englisch.pdf"
+description: "Zebra TC22 TC27   Englisch"
 ---
+
 
 
 # Zebra TC22 TC27   Englisch

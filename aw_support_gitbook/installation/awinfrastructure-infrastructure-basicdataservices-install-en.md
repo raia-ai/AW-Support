@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Infrastructure_BasicData"
-source: "EN-INST-AW_Infrastructure_BasicData.pdf"
-tags: ["A+W", "Infrastructure", "Basic Data Services", "Installation Instructions", "Software Installation", "Informix", "SQLServer", "Service Locator", "Windows Server", "Workflow"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for A+W Infrastructure and Basic Data Services software, detailing system requirements, server and client component setup, and database configuration for Informix and SQLServer."
-long_description: "This is a comprehensive installation guide for the A+W Infrastructure and Basic Data Services, a software solution for the glass and windows industry. The manual is intended for planners and system administrators responsible for deploying the software. It outlines the entire installation and configuration process, beginning with prerequisites such as hardware, network settings, and required software like .NET Framework and IIS. The guide provides step-by-step instructions for installing server and client components, including the setup of the Service Locator which manages access to all services. It details the preparation of various databases, including specific instructions for SQLServer, Informix, and Oracle, covering client installation and the creation of necessary functions and ODBC connections. The document also covers post-installation configuration, such as setting up access to the Service Locator Administrator, managing services, and configuring workflows through the Workflow Management Dialog. A dedicated section on troubleshooting provides solutions to common issues, such as services not appearing, application startup errors, and connectivity problems. Finally, it provides a clean uninstallation procedure, ensuring all components, directories, and registry keys are properly removed."
+description: "EN-INST-AW_Infrastructure_BasicData"
 ---
+
 
 # Installation Instructions: Infrastructure and Basic Data Services
 

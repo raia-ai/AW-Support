@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Sequence_Optimizer"
-source: "EN-FUNC-AW_Sequence_Optimizer.pdf"
-tags: ["A+W", "Sequence Optimizer", "Software for Glass", "Production", "Optimization", "Manufacturing", "Functional Description"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Sequence Optimizer, a software module for optimizing the sequence of glass types in production. It details the module's purpose, data, requirements, functions, and limitations within the A+W Production environment."
-long_description: "This document provides a detailed functional description of the A+W Sequence Optimizer, a software module designed to integrate with A+W Production software. The primary function of this module is to optimize the production sequence of all glass types within scheduled batches. It considers various factors such as sorting sequences, express sheets, filler items, standard shapes, and free shapes. The optimizer aims to find the best compromise between production restrictions and glass yield. The document outlines the module's data, including its product name (A+W Production) and module number (220014). It specifies the main requirement, which is the A+W Production software. The description highlights the optimizer's capabilities, including its use of over 100 strategies and multithread CPU processing to calculate variants quickly. It also covers advanced features like considering residuals, managing rack sequences, and coordinating with automatic de-stacking robots. The document includes standard legal notices regarding trademarks, copyrights, and liability, and provides contact information for A+W Software GmbH."
+description: "EN-FUNC-AW_Sequence_Optimizer"
 ---
+
 
 # A+W Functional Description: A+W Sequence Optimizer
 

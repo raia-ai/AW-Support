@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction PMO 2.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction_PMO_2.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Packmitteloptimierung        I                                deutsch                     A+W Production                                                                                                            Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part"
-source_file: "DE_AWProduction_PMO_2.00.pdf"
+description: "DE AWProduction PMO 2.00"
 ---
+
 
 
 # DE AWProduction PMO 2.00

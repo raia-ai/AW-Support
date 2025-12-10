@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Kapazitaetsplanung_4_4"
-source: "DE_AWProduction_Kapazitaetsplanung_4_4.pdf"
-tags: ["A+W Production", "Kapazitätsplanung", "Software-Referenz", "Einlastung", "Produktionsmonitor", "Umlastung", "Kampagnenplanung", "ERP", "Stückliste", "Maschinensteuerung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the \"Einlastung\" (scheduling/loading) module of the A+W Production Kapazitätsplanung software. It provides detailed descriptions of dialogs, settings, and functions related to production monitoring, capacity planning, order management, and machine scheduling. Key features covered include filtering and displaying machines, adjusting shift properties, managing backlogs, and rescheduling orders."
-long_description: "This comprehensive software reference manual details the functionalities of the A+-W Production Capacity Planning (Kapazitätsplanung) software, specifically focusing on the \"Einlastung\" (scheduling/loading) and related modules. The guide is intended for users and administrators responsible for managing production schedules and machine capacities. It covers a wide range of topics, starting with the \"Produktionsmonitor\" which provides a visual overview of machine loads and order statuses. The document explains how to interpret color-coded statuses for backlogs, configure machine and shift properties, and manage work shifts. It elaborates on various settings to customize the display, such as colors for different states (e.g., planned, overloaded, completed), and how to filter views by orders, runs, or custom criteria. A significant portion is dedicated to \"Umlastung\" (rescheduling), detailing the process of moving operations to different times or machines, handling constraints like bottlenecks, and managing dependencies. The manual also covers advanced topics like campaign planning (\"Kampagnenplanung\") for grouping specific work processes, and capacity reservation for customers or projects. Furthermore, it explains how to handle post-processing tasks for orders that failed to schedule correctly, manage bill of materials (BOM) configurations, and split large order positions."
+description: "DE_AWProduction_Kapazitaetsplanung_4_4"
 ---
+
 
 # Softwarereferenz Einlastung
 

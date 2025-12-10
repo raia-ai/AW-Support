@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Einkauf 3.2"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Einkauf_3.2"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Einkauf            D                        deutsch               A+W Business                                                                                                                 Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part             Beschreibung"
-source_file: "DE_AWBusiness_Einkauf_3.2.pdf"
+description: "DE AWBusiness Einkauf 3.2"
 ---
+
 
 
 # DE AWBusiness Einkauf 3.2

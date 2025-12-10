@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Clarity_SmartFactory"
-source: "EN-INST-AW_Clarity_SmartFactory.pdf"
-tags: ["A+W Clarity", "Smart Factory", "Installation Instructions", "Automated Production", "Software for Glass", "MAPS", "HEGLA Sortjet", "North-Glass Furnace", "Technical Documentation", "Software Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides installation instructions for the Beta version of A+W Clarity Smart Factory, a multistep automated production software for glass and windows. It details system requirements, installation procedures for core components like the database and MAPS service, and configuration for various shopfloor clients such as HEGLA Sortjet and North-Glass furnaces."
-long_description: "This document is a comprehensive installation guide for the \"A+W Clarity Smart Factory - Multistep Automated Production\" software, a multi-level automated production system (MAPS). It is intended for planners and technicians responsible for installing and configuring the software. The guide details system requirements, including necessary A+W Production, StockService, and OptimizationService components, and specific Informix database settings. It provides step-by-step instructions for installing the database schema, master data, MAPS service, and various shopfloor clients (e.g., Dynopt Filler, HEGLA Sortjet, North-Glass furnace). The document also explains the internal ticket system, lite statuses, and the flow of production within the Smart Factory. Key configuration areas, such as setting up sorters, furnace optimization, and integrating with Panorama clients, are covered in depth with XML examples. Finally, it addresses advanced topics like handling production sections (diving), breakage management, timeline structuring, and PDC connections."
+description: "EN-INST-AW_Clarity_SmartFactory"
 ---
+
 
 # Installation Instructions
 **Beta - A+W Clarity Smart Factory - Multistep Automated Production**

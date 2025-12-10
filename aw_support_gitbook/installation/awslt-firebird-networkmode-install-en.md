@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_SLT"
-source: "EN-INST-AW_SLT.pdf"
-tags: ["A+W SLT", "Installation Guide", "Software Installation", "Firebird", "Network Mode", "Uninstallation", "Glass and Windows Software", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides detailed installation instructions for the A+W SLT software, a tool for calculating technical values for glass and windows. It covers new installations, system requirements, setup procedures, configuration, and uninstallation steps."
-long_description: "This is a comprehensive installation guide for the A+W SLT software, developed by A+W for the glass and windows industry. The document is intended for planners and system administrators responsible for deploying the software. It details the entire installation process, assuming no prior version is installed. Key topics include system requirements (hardware, network, and supported operating systems like Windows XP, 7, 8, Server 2008 R2, and 2012 R2), time estimates for installation, and a step-by-step procedural walkthrough. The guide covers both single workstation and network mode installations, explaining the necessary steps for sharing directories and installing the A+W SLT Network Driver for client access. It also describes the integrated installation of the Firebird 2.1 database. Post-installation configuration, such as licensing, user creation, and customer-specific settings, is also explained. Finally, the document provides instructions for completely uninstalling A+W SLT, Firebird, and the associated FBDriver from the system."
+description: "EN-INST-AW_SLT"
 ---
+
 
 # Installation Instructions A+W SLT
 

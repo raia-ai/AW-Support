@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_18"
-source: "D-HB-AWBusiness_18.pdf"
-tags: ["A+W Business", "Dokumentenverwaltung", "Positionsdaten", "Software Referenz", "Kopfdaten", "Auftragsverwaltung", "Preisberechnung", "Stammdaten", "Sprossen", "Bearbeitungen"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for the A+W Business Verkauf (Sales) module, focusing on document management and item data entry. It details the various fields, parameters, and functions available within the order processing workflow."
-long_description: "This comprehensive software reference guide provides detailed information on the Document Management (Dokumentenverwaltung) and Item Data (Positionsdaten) sections of the A+W Business Verkauf software. The guide begins by explaining the header data (Kopfdaten) for documents, covering fields such as rebate, document reference, pricing specifications, minimum quantities, dimension rounding, and various parameters for invoicing, muntin studs, and weight calculations. It then moves into specific tabs within the document header, including 'Texte' for adding notes, 'Anlagen' for attachments, 'Technische Parameter' for spacer and production label settings, and 'Kundeninfo' for customer-specific information. The second major part of the manual is dedicated to item data (Positionsdaten), explaining the various menus (Start, Ansicht, Funktionen, Optionen, Aufbau, Customizing) available in the item entry screen. It provides an in-depth breakdown of each tab for an order item: 'Position', 'Stückliste' (Bill of Materials), 'Modelle/Bearbeitungen' (Models/Machinings), 'Sprossen' (Muntins), 'Leistung' (Services), 'Zusatz' (Additional Data), 'Weitere Angaben' (Further Information), 'Texte', 'Anlagen', 'Technische Werte' (Technical Values), and 'Klassifikatoren' (Classifiers). The document concludes with a description of the 'Summen' (Totals) screen, which summarizes costs, contribution margins, credit limits, and other financial data for the entire document."
+description: "D-HB-AWBusiness_18"
 ---
+
 
 # Softwarereferenz: Dokumentenverwaltung
 

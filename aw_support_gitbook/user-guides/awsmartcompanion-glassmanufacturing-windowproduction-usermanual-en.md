@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW-SmartCompanion-AWB"
-source: "EN-UM-AW-SmartCompanion-AWB.pdf"
-tags: ["A+W Smart Companion", "Software Manual", "Glass Manufacturing", "Window Production", "Door Manufacturing", "ERP", "Production Management", "Stock Management", "Barcode Scanning", "Inventory"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This is the official user manual for A+W Smart Companion, a mobile application designed for plant data collection in the glass, windows, and doors industry. It details the functionalities of the Production and Stock modules."
-long_description: "The A+W Smart Companion Manual provides comprehensive instructions for end-users on how to operate the mobile application for plant data collection. The manual is divided into three main sections: Overview, Production, and Stock. The Overview section introduces the software, its different license modules (Basic, Production, Stock), and general operating principles, including hardware modes (smartphone, Zebra scanner), messages, and filter functions. The Production module section offers a detailed tutorial on logging in, navigating the user interface, scanning barcodes for various operations like tracking machine status, reporting breakages, and retrieving information on racks, orders, and registration points. The Stock module section guides users through managing inventory, including booking goods receipts, handling stock movements and withdrawals (both with and without order reference), performing inventories, and editing box contents. The manual is designed for customers who use the A+W software suite (A+W Business, A+W Enterprise, A+W Produktion) and assumes basic knowledge of smartphone operation. It aims to facilitate a completely digital, paperless workflow for production and stock management tasks."
+description: "EN-UM-AW-SmartCompanion-AWB"
 ---
+
 
 # A+W Smart Companion Manual
 

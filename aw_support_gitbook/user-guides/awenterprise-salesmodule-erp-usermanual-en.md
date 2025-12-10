@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_1"
-source: "EN-UM-AW_Enterprise-Sales_4_1.pdf"
-tags: ["A+W Enterprise", "Sales Module", "ERP", "Glass Manufacturing", "Window Manufacturing", "Order Entry", "User Manual", "Software Documentation", "Search Functions", "Invoicing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a user manual for the A+W Enterprise Sales module, version 4.00. It provides a comprehensive software reference for end-users, detailing functionalities for managing sales documents, including quotations, orders, invoices, and credit notes. The guide covers order entry, pricing, search functions, and document management."
-long_description: "This is the official user manual for the A+W Enterprise Sales module, a component of the A+W software suite designed for the glass, windows, and doors industry. The document serves as a detailed software reference, guiding end-users through the various features and functions of the Sales module. It begins with an introduction that includes a revision history, copyright information, and contact details for A+W Software GmbH. The core of the manual is the 'Software Reference' section, which provides an in-depth overview of managing sales-related documents such as quotations, orders, deliveries, and invoices. It meticulously documents the structure of the application's menus, including the main Sales Menu, Supplementary Menu, Info Menu, and various submenus for handling addresses, texts, prices, and product details. A significant portion is dedicated to 'Search Functions,' explaining how to efficiently find documents, market partners, articles, and products using various criteria. The manual also covers technical details, bill of materials (BOM) management, packaging planning, and document status tracking. It is intended to be a comprehensive resource for users to successfully navigate and utilize the full capabilities of the A+W Enterprise Sales module in their daily operations."
+description: "EN-UM-AW_Enterprise-Sales_4_1"
 ---
+
 
 # A+W Sales D
 

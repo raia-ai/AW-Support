@@ -1,12 +1,7 @@
 ---
-title: "DE_HB_AWProduction_3"
-source: "DE_HB_AWProduction_3.pdf"
-tags: ["A+W Production", "Grobplanung", "Feinplanung", "Softwarereferenz", "Benutzerhandbuch", "Felddefinition", "Export/Import", "Bearbeitungen", "Kontextmenü", "Help Cards"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference and help guide for the A+W Production software, focusing on the 'Grobplanung' (Rough Planning) and 'Feinplanung' (Detailed Planning) modules. It covers topics like field definitions, data import/export, editing processes, and provides step-by-step 'Help Cards' for common workflows."
-long_description: "This document serves as a comprehensive technical reference and user guide for A+W Production, a software solution for glass, windows, and doors manufacturing. It is divided into several key sections. The 'Softwarereferenz' part details the functionalities within the 'Grobplanung' (Rough Planning) module, explaining dialogs for field definitions, position views, and various processing steps. It provides detailed descriptions of UI elements, context menus, and database fields for managing orders, batches, and glass types. The document then transitions to 'Übergreifende Dialoge' (General Dialogs), covering features common across the application, such as register properties, column definitions, and filter creation. The second major part of the document consists of 'Help Cards,' which offer practical, step-by-step instructions for performing specific tasks like creating, merging, and archiving production runs ('Läufe'). It concludes with an introduction to the 'Feinplanung' (Detailed Planning) module, outlining its core concepts, such as grouping, sorting, and optimization modes, to prepare users for more advanced production scheduling. The guide is intended for trained users and system administrators, providing both conceptual explanations and actionable workflows."
+description: "DE_HB_AWProduction_3"
 ---
+
 
 # Softwarereferenz: Positionen in der Grobplanung
 

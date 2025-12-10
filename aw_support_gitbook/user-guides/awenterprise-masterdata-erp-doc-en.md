@@ -1,12 +1,7 @@
 ---
-title: "EN_AWEnterprise_MasterData_3.00"
-source: "EN_AWEnterprise_MasterData_3.00.pdf"
-tags: ["A+W Enterprise", "Master Data", "Software Documentation", "ERP", "Glass Industry", "Windows and Doors", "Software Reference", "Market Partner", "Product Keys", "BOM"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive software reference manual for the A+W Enterprise \"Master Data\" module, version 3.0. It details the configuration and management of core data entities required for the A+W ERP system. The manual covers the creation and maintenance of market partners (customers, suppliers), employees, products, articles, bills of materials (BOMs), and various system and product keys. It provides descriptions for every dialog, tab, and field within the Master Data module, serving as an essential guide for system administrators and end-users responsible for data setup in the glass, windows, and doors manufacturing industry."
-long_description: "The A+W Enterprise Master Data manual (Version 3.0) is an in-depth technical guide designed for users and administrators of the A+W Enterprise ERP software. This document focuses exclusively on the \"Master Data\" module, which forms the foundational data structure for all other operations within the system, including sales, purchasing, production, and financials. It outlines the procedures for creating, configuring, and managing essential business entities. Key sections include a detailed breakdown of \"Market Partners,\" covering everything from customer and supplier addresses to payment terms, discounts, and delivery routes. It also explains the setup for \"Articles\" and \"Products,\" which includes physical properties, size restrictions, bill of materials (BOM) management, pricing characteristics, and technical values like sound insulation and thermal properties. The manual systematically documents every user interface dialog, tab, and field, providing technical information, database field names, and usage notes. It also covers the configuration of system-wide parameters through \"System Keys\" and \"Product Keys,\" such as currencies, tax rates, units of measure, and processing rules. With screenshots and step-by-step descriptions, this reference is indispensable for ensuring accurate and consistent data management, which is critical for the seamless operation of the A+W Enterprise system in the specialized context of glass, windows, and doors manufacturing."
+description: "EN_AWEnterprise_MasterData_3.00"
 ---
+
 
 # A+W Master Data B
 

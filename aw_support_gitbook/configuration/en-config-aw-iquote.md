@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W iQuote"
-category: "configuration"
-product: "A+W iQuote"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W iQuote"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration Instructions   A+W iQuote v6                                         english                                 - -INTERNAL- Change history   Date       Author         Remarks                                                        Version 2015-01-14 D. Langsdorf   Release version                                                13.0.0 2015-09-01 D. Langsdorf   SN configuration                                               13.0.1 2015-10-05 D. Langsdorf   Print server configuration"
-source_file: "EN-CONFIG-A+W iQuote.pdf"
+description: "EN CONFIG A+W iQuote"
 ---
+
 
 
 # EN CONFIG A+W iQuote

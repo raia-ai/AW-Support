@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_9"
-source: "EN_UM_AWProduction_9.pdf"
-tags: ["Machine Allocation", "Work Process", "A+W Production", "Logical Machines", "Manufacturing Software", "Production Planning", "Formulas", "Conditions", "Restrictions", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the Machinery Allocation (MA) module of the A+W Production software. It serves as both a tutorial and a software reference, guiding users through the process of defining, managing, and allocating machines, work processes, and related manufacturing parameters to optimize production workflows in a glass, windows, and doors factory setting."
-long_description: "This document provides an in-depth guide to the Machinery Allocation (MA) functionality within the A+W Production software suite. It is structured into a tutorial, a detailed software reference, and a set of quick-reference help cards. The manual is designed for production planners, system administrators, and technical staff responsible for configuring the manufacturing environment. The tutorial section offers practical examples and step-by-step exercises on how to define physical and logical machines, create work processes, and establish allocation priorities to manage production flow and prevent bottlenecks. It covers complex scenarios, such as handling rare articles through campaigns, processing items with multiple steps on a single CNC machine, and using conditions to control a lite's progress on the shop floor. The software reference section provides a systematic breakdown of every dialog, field, and function within the MA editor. It details the management of machines, logical machines, work processes, processing types, and processing articles. It also explains the powerful use of formulas, conditions, and restrictions (expressed in SQL) to create highly specific and flexible rules for machine allocation, capacity planning, and processing time calculations. This allows for precise control over the production environment, aligning software logic with real-world factory constraints. The final section includes help cards for common tasks, such as adding a new machine or configuring a machine for the Production Terminal, offering a quick and actionable guide for users."
+description: "EN_UM_AWProduction_9"
 ---
+
 ---
 ## Machine Allocation
 

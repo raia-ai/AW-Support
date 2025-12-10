@@ -1,14 +1,7 @@
 ---
-title: "AW_Pattern_Viewer_-_WEIGHTREFERENCEMARK"
-source: "AW_Pattern_Viewer_-_WEIGHTREFERENCEMARK.docx"
-tags: ["A+W", "Pattern Viewer", "Workflow Studio", "Reference Mark", "Base64", "SQL Server", "Glass Cutting", "Manufacturing IT", "A+W Infrastructure"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document explains how to configure an A+W Pattern Viewer workflow to display a weight-based reference mark on stockplate cuts. Using a SQL statement that evaluates item weight in kilograms, the workflow shows a red or green indicator to signal manual handling requirements. It includes base64 image assets, guidance on converting images to and from base64, and detailed steps for adding the Reference Mark activity in A+W Infrastructure 6 Workflow Studio. The content also covers testing via order entry and how to swap indicator graphics."
-long_description: "This guide provides an end-to-end procedure for adding a weight-driven reference mark to A+W Pattern Viewer screens so operators can quickly recognize whether a glass piece exceeds a manual handling threshold. The workflow leverages a SQL Server statement that converts POOL_TEILE.GEWICHT_FORM from grams to kilograms and returns a categorical result used by the Reference Mark control to display either a red (manual handling prohibited) or green (single-person) indicator. The document supplies ready-to-use base64-encoded images for both red and green circles, along with examples sourced from emojipedia.org (Yellow Warning Sign and Grey OK) to demonstrate how to change icons. It also references free online tools for converting images to and from base64 for rapid prototyping.
-
-Within A+W Infrastructure 6 Workflow Studio, the instructions show how to add the AW.Clarity.CIM.Cutting.Facade.Activities library, place a Reference Mark activity into the Pattern Viewer workflow, set key properties (DisplayName, PatternIn/Out, and the SQL Statement), and relink variables so data flows correctly. Practical testing guidance describes creating an order with two differently sized 12 mm Clear Float items to validate that the Pattern Viewer displays the expected red/green indicators and the WEIGHT label at the specified corner and offsets. The guide concludes with steps to replace the indicator artwork by updating the Logo1Base64 and Logo2Base64 values, notes on image sizing (32×32 px), and reminders to save workflow changes. All original SQL snippets, configuration values, and example assets are retained to support accurate implementation."
+description: "AW_Pattern_Viewer_-_WEIGHTREFERENCEMARK"
 ---
+
 
 ## Overview
 

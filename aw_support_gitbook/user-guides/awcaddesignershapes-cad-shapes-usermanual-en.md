@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWCADDesignerShapes_2"
-source: "EN-UM-AWCADDesignerShapes_2.pdf"
-tags: ["CAD", "A+W CAD Designer", "Shapes", "Technical Drawing", "Geometry", "Dimensioning", "Tutorial", "Software Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed tutorial for the A+W CAD Designer (Shapes) software, guiding users through the process of defining and editing geometries. It covers creating various shapes, dimensioning, and using specific tools for tasks like adding cut-outs, drill holes, and internal contours."
-long_description: "This document is a comprehensive tutorial for A+W CAD Designer (Shapes), a software for creating technical drawings of geometries. It is structured as a series of progressive exercises, starting from basic shapes like rectangles and evolving to more complex patterns with sloping edges, rounded corners, cut-outs, and arcs. The tutorial provides step-by-step instructions, accompanied by diagrams and tool icon references, to teach users how to sketch, dimension, and edit shapes. Key topics include length dimensioning, measuring distances, defining angles, creating smooth connections between segments, and using reference lines. Later exercises introduce advanced concepts such as defining edge cut-outs, drill holes, and internal contours, either by drawing them directly or by inserting pre-saved geometries. The guide also explains how to use context-sensitive help and check the correctness of a contour. It's an essential resource for new users to learn the fundamental and advanced features of the A+W CAD Designer (Shapes) software."
+description: "EN-UM-AWCADDesignerShapes_2"
 ---
+
 
 ---
 ## Defining and editing of geometries

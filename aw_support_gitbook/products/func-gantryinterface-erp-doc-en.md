@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Gantry_Interface"
-source: "EN-FUNC-AW_Gantry_Interface.pdf"
-tags: ["A+W", "Gantry Interface", "ERP", "stock management", "inventory synchronization", "Hegla", "Bystronic", "Lisec", "software interface", "glass industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Functional description for the A+W Gantry Interface, a module for synchronizing stock between A+W ERP systems (Enterprise, Business, Business Pro) and third-party gantry storage systems from Hegla, Bystronic, and Lisec. It enables precise, automated inventory management."
-long_description: "This document provides a detailed functional description of the A+W Gantry Interface module. This interface is designed to synchronize stock data between A+W's ERP systems (A+W Enterprise, A+W Business, and A+W Business Pro) and the physical stock systems of third-party gantry providers, specifically Bystronic, Hegla, and Lisec. The primary goal is to achieve a more precise and automated inventory management process, ensuring that the ERP stock levels accurately reflect the physical inventories in the glass stocks. The document outlines specific software version requirements for both the A+W ERP Stock Service and the third-party interfaces to ensure compatibility. It details a list of functions, including integrated incoming and outgoing goods processes, automatic daily stock comparison, support for complex connections to multiple external systems, and special handling for cover sheets and broken sheets. A feature compatibility matrix is provided to show which functions are available with each third-party system. The document also covers important restrictions, such as how bookings are recorded and the limitations on certain functionalities with specific connections (e.g., Bystronic). It concludes with notes on optional configurations and legal disclaimers regarding software changes and liability."
+description: "EN-FUNC-AW_Gantry_Interface"
 ---
+
 
 # A+W Functional Description
 # A+W Gantry Interface

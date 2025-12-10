@@ -1,15 +1,7 @@
 ---
-title: "EN FUNC A+W Production Terminal (EL)"
-category: "functional_descriptions"
-product: "A+W Production Terminal (EL)"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Production Terminal (EL)"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Description   A+W Production Terminal (EL)                                    english 1. Content 1.   Content                                                               3 2.   Notes on this Document                                                4      2.1. Trademarks                                                       4      2.2. Copyrights                                                       4      2.3. Disclaimer of liability                                          4"
-source_file: "EN-FUNC-A+W Production Terminal (EL).pdf"
+description: "EN FUNC A+W Production Terminal (EL)"
 ---
+
 
 
 # EN FUNC A+W Production Terminal (EL)

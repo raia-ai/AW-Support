@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Purchasing_3_30_1-3"
-source: "EN_AWBusiness_Purchasing_3_30_1-3.pdf"
-tags: ["A+W Business", "Purchasing", "Purchase Orders", "Order Management", "Supplier Management", "P.O. Transfer", "Order Pool", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial on managing purchase orders within the A+W Business Purchasing software. It covers creating, changing, and transferring purchase orders, managing suppliers, and using the order pool for processing."
-long_description: "This document provides a detailed tutorial for the A+W Business Purchasing module, focusing on the complete lifecycle of purchase orders (P.O.s). It explains how to create P.O. items within a customer order, assign procurement types, and manage bill of materials (BOM) elements. The guide details the process for changing ordered items, including modifications to prices, quantities, and sizes, and explains how to handle locked items. It covers changing the supplier for all P.O. items in an order and the procedure for transferring orders to the P.O. pool. The tutorial elaborates on the P.O. transfer process, its objectives, benefits, and the various checks involved, such as delivery date verification and supplier route consideration. It also describes how to handle collective orders, change P.O.s within the order pool, and perform price comparisons between different suppliers to select the most favorable option. The document is illustrated with screenshots and step-by-step instructions to guide users through the A+W software interface."
+description: "EN_AWBusiness_Purchasing_3_30_1-3"
 ---
+
 
 # Tutorial: Purchase orders
 

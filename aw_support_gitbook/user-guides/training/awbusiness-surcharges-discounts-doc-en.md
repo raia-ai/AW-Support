@@ -1,15 +1,7 @@
 ---
-title: "AWBusiness Surcharges Discounts Doc EN"
-category: "training"
-product: "AWBusiness"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWBusiness", "Surcharges", "Discounts", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN_AWBusiness_Master_Data_9_4-2" source: "EN_AWBusiness_Master_Data_9_4-2.pdf" tags: ["surcharges", "discounts", "pricing", "A+W Business Master Data", "product management", "customer management", "price calculation", "software tutorial"] version: "1.0" last_updated: "2025-10-03" short_description: "A technical guide from the A+W Business Master Data tutorial series, focusing on the configuration and application of surcharges and discounts within the system. It covers automatic and manua"
-source_file: "AWBusiness-Surcharges-Discounts-Doc-EN.md"
+description: "AWBusiness Surcharges Discounts Doc EN"
 ---
+
 
 
 title: "EN_AWBusiness_Master_Data_9_4-2"

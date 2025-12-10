@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_3-3"
-source: "EN_AWBusiness_Sales_4_3-3.pdf"
-tags: ["A+W Business", "Sales Tutorial", "Copy Documents", "Partial Delivery", "Down Payment", "Order Management", "Invoicing", "Software Guide", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W Business Sales software, detailing procedures for copying documents, managing partial deliveries, and handling down payments. It provides step-by-step instructions for various sales and order processing tasks."
-long_description: "This document serves as a comprehensive training guide for users of the A+W Business Sales software, focusing on advanced document and order management functionalities. The tutorial is divided into three main sections: Copying Documents, Partial Deliveries, and Down Payments. The 'Copy Documents' section provides exercises on how to create exact duplicates of orders or copy them on an item-by-item basis with modifications. The 'Partial Deliveries' section explains the benefits and processes for handling partial shipments of a larger order. It covers system settings, prerequisites, and step-by-step instructions for creating partial deliveries by copying an order, with reference to completion reports, or per rack. It also details how to manage associated partial invoices. The final section, 'Down Payments,' outlines the procedures for entering and managing down payments, either as a separate invoice or as an item within an existing order. The guide includes numerous screenshots from the software interface to illustrate the steps, along with notes on master data configuration and system parameters required to enable these features."
+description: "EN_AWBusiness_Sales_4_3-3"
 ---
+
 
 ---
 ## Copy Documents

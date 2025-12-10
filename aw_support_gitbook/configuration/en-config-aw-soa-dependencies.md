@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W SOA Dependencies"
-category: "configuration"
-product: "A+W SOA Dependencies"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W SOA Dependencies"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration                      3    AWSOA Dependencies (as of 03/2025)                                 english 1. Content 1.   Content                                                         3 2.   Module Dependencies                                             4 3.   Services Short Description                                      9 4.   Access to databases and tables                                 11      4.1. Infrastructure                                            11      4.2. Fa"
-source_file: "EN-CONFIG-A+W SOA Dependencies.pdf"
+description: "EN CONFIG A+W SOA Dependencies"
 ---
+
 
 
 # EN CONFIG A+W SOA Dependencies

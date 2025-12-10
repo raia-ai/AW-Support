@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AW_Enterprise-Sales_4_2"
-source: "EN-UM-AW_Enterprise-Sales_4_2.pdf"
-tags: ["A+W Enterprise", "Sales", "Order Entry", "Software Reference", "Document Management", "Article Search", "Product Search", "Quotation", "User Manual", "Search Functions"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Enterprise Sales module, focusing on search functions and document management. It details procedures for finding articles, products, and projects, as well as managing sales documents like quotations and orders."
-long_description: "This comprehensive software reference manual provides detailed instructions for using the A+W Enterprise Sales application. The guide is divided into two main parts: Search Functions and Document Management. The Search Functions section covers various methods for locating information within the system. It explains how to use the 'Find Article' dialog, including searching by header/footer areas, names, article codes, and details. It also covers 'Find Product by Element' which allows searching for products based on their bill of materials (BOM) structure, and 'Find Project' for locating project-related data. The Document Management section offers a thorough guide to creating, editing, and managing sales documents. It begins with an explanation of symbols used throughout the application to indicate status and mode. Key processes covered include 'Quotation Entry,' 'Entry w/o Prices,' and a detailed breakdown of the 'Order Entry' dialog. The 'Order Entry' section is extensively detailed, covering header/footer areas, address management, properties, and various tabs for general information, pricing, status, and costs. The document provides menu paths, keyboard shortcuts, field descriptions, and technical database information for each function, making it an essential resource for users of A+W Enterprise Sales."
+description: "EN-UM-AW_Enterprise-Sales_4_2"
 ---
+
 
 ---
 ## Search Functions

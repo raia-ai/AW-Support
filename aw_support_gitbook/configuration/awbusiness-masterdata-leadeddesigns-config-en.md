@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_6-2"
-source: "EN_AWBusiness_Master_Data_9_6-2.pdf"
-tags: ["A+W Business", "Master Data", "Leaded Designs", "Cost Calculation", "Pricing", "Production Data Transfer", "Marginal Income", "System Configuration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial section from the A+W Business Master Data guide, providing additional information on various features. It covers patterns for leaded designs, monitoring system changes, transferring master data to A+W Production, and detailed methodologies for price calculations, including mixed, French, and cost-plus-surcharge models. "
-long_description: "This document, labeled 'Tutorial 2', is an excerpt from the A+W Business Master Data manual. It provides detailed supplementary information on several advanced configuration and data management topics within the A+W Business software. The first section illustrates the 14 default patterns available for leaded glass designs, such as Gothic, Stuart, and Windsor. The next major section details the 'Monitoring of Changes' feature, which allows administrators to track modifications to customer, supplier, price, and discount data at a granular level. It explains how to configure monitoring settings, define triggers, and analyze change history. A significant portion of the document is dedicated to the integration between A+W Business and A+W Production, outlining the process for transferring production-relevant master data. It provides extensive tables that map fields between the two systems for product management, glass types, cutting tables, and more. The final part of the tutorial focuses on various pricing and calculation methods. It covers 'Mixed Calculation', 'French Pricing', and a comprehensive guide to 'Cost and Surcharge Calculation'. This includes defining production costs, overheads, marginal income limits, and a complex, step-by-step example of an Insulated Glass (IG) unit cost calculation, breaking down the costs of lites, spacers, gas, and other consumables."
+description: "EN_AWBusiness_Master_Data_9_6-2"
 ---
+
 
 ---
 ## Additional Information

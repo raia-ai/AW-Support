@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Versandsteuerung"
-source: "DE_AWEnterprise_Versandsteuerung.pdf"
-tags: ["A+W Enterprise", "Versandsteuerung", "Logistik", "Software", "Handbuch", "Glas", "Fenster", "Türen", "shipping control", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the software reference manual for A+W Enterprise Versandsteuerung (Shipping Control), a module within the A+W Enterprise software suite. It provides detailed instructions and descriptions for managing shipping processes, from order entry to delivery, specifically tailored for the glass, windows, and doors industry."
-long_description: "This comprehensive software reference guide details the functionality of the A+W Enterprise Versandsteuerung (Shipping Control) module, part of the A+W software for the glass, windows, and doors industry. The document serves as a user manual for end-users, covering all aspects of shipping management. It begins with an editorial section, including a revision history and copyright information. The core of the manual is the 'Softwarereferenz,' which provides a detailed overview of the module's architecture, organized into four main levels: delivery dates, tours, orders, and positions. It explains the various start functions, such as program start, order search, and market partner search. A significant portion is dedicated to the 'Versand-Explorer,' a tree-structured interface for navigating shipping data. The manual meticulously describes the user interface elements, including menus, buttons, and registers (tabs) for different data levels like 'TourenInfo,' 'AuftragsInfo,' and 'PositionsInfo.' It covers a wide range of functions, such as searching, moving items, booking goods receipts, handling missing quantities, managing racks (Gestelle), printing documents (delivery notes, loading lists), and integrating with logistics optimizers. The document is highly structured, with clear references to page numbers, screenshots of the user interface, and detailed explanations of each field and function, including their technical database field names. It is an essential resource for planning, executing, and monitoring all shipping-related activities within the A+W Enterprise system."
+description: "DE_AWEnterprise_Versandsteuerung"
 ---
+
 
 # A+W Versandsteuerung
 

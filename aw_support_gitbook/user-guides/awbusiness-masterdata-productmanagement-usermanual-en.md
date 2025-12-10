@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_3"
-source: "EN-UM-AWBusiness_3.pdf"
-tags: ["A+W Business", "master data", "product management", "pricing", "BOM", "stock management", "PGR", "ERP", "tutorial", "software documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial for the A+W Business software, focusing on the management of product master data. It covers the creation and organization of products, product types, and product groups, as well as settings for pricing, stock, and production."
-long_description: "This tutorial provides a comprehensive guide to managing product-related master data within the A+W Business ERP system. It begins by explaining the fundamental concepts of products, product types, and the hierarchical structure of product groups (Main Product Group, Super Product Group, Product Group). The document details how these structures are used for pricing, cost calculation, and statistical analysis. It delves into advanced topics such as Product Group (PGR) combinations, which are crucial for discount calculations and sales analysis. A significant portion is dedicated to creating and managing Bills of Material (BOM) for complex products, including how to handle production-relevant versus price-relevant components, and how to pass on details like sizes and surcharges. The tutorial also covers the iTOE module for synchronizing processing data with A+W CAD Designer. Further sections explain production settings, including procurement types, size allowances, patterns, and grill constructions. The guide provides in-depth instructions on defining pricing parameters, such as price views, surcharges, and various pricing methods (unit price, exchange surcharges). Finally, it addresses stock management, covering stock sizes, variants (colors), procurement types, and the relationship between product data and stock on hand. The document includes numerous screenshots, examples, and step-by-step instructions to guide the user through the software's interface."
+description: "EN-UM-AWBusiness_3"
 ---
+
 
 # Tutorial 1: Product data
 

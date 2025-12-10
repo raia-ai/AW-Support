@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness ProductionManager 2.21"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_ProductionManager_2.21"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Produktionsmanager         I                              deutsch                 A+W Business Pro                                                                                                                Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie editorische Notizen.                                          Revisionsübersicht                                        Part            Beschrei"
-source_file: "DE_AWBusiness_ProductionManager_2.21.pdf"
+description: "DE AWBusiness ProductionManager 2.21"
 ---
+
 
 
 # DE AWBusiness ProductionManager 2.21

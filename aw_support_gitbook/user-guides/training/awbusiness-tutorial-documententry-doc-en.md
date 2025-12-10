@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_2-1"
-source: "EN_AWBusiness_Sales_4_2-1.pdf"
-tags: ["A+W Business Sales", "Tutorial", "Document Entry", "Invoicing", "Stock Management", "Grill Patterns", "Shape Entry", "Product Availability", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial from the A+W Business Sales software documentation. This guide provides step-by-step instructions for comprehensive document entry processes, covering topics from saving inquiries and checking product availability to entering detailed product specifications like grills, shapes, processing steps, and surface patterns up to the invoicing stage."
-long_description: "This document is a detailed tutorial for the A+W Business Sales software, specifically focusing on the 'Comprehensive Document Entry up to the Invoicing Stage.' It guides users through various advanced data entry functions required to create a complete sales or production document. The tutorial begins with saving a quick inquiry as a quotation or order. It then delves into a critical pre-production step: checking product availability, which involves analyzing stock shortfalls, reviewing Bills of Materials (BOM), and forecasting future stock on hand to prevent production delays. Subsequent sections provide granular instructions for customizing products, including how to define and enter both common and irregular grill patterns for insulating glass units, how to specify custom shapes and processing steps like edge work or stepping, and how to apply surface patterns with or without screen numbers. Each section is illustrated with screenshots from the software interface, complete with callouts explaining specific fields and functions. The guide aims to equip users with the skills to accurately and efficiently input complex order details, ensuring data integrity from initial entry through to the final invoicing process."
+description: "EN_AWBusiness_Sales_4_2-1"
 ---
+
 
 ---
 ## Comprehensive Document Entry up to the Invoicing Stage

@@ -1,15 +1,7 @@
 ---
-title: "EN AWProduction Terminal 1.50"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWProduction_Terminal_1.50"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Production Terminal                           english                                                                                                                 Introduction                                                Introduction                                            The introduction contains information on editorial notes.                                              Revision Overview                                            User Manual                Description"
-source_file: "EN_AWProduction_Terminal_1.50.pdf"
+description: "EN AWProduction Terminal 1.50"
 ---
+
 
 
 # EN AWProduction Terminal 1.50

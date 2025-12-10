@@ -1,15 +1,7 @@
 ---
-title: "US FUNC A+W Business Pro"
-category: "functional_descriptions"
-product: "A+W Business Pro"
-doc_type: "Functional Description"
-language: "EN"
-tags: ["FUNC", "A+W Business Pro"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Functional Specification   A+W Business Pro 6                                     english 1. Notes about this Document This documentation and the software it describes is only distributed with a license and may only be used and copied according to this license. The content of the documentation serves only as information and can be changed without prior notice at any time. The greatest care was used in compiling the texts and figures. However it is not possible to exclude errors completely"
-source_file: "US-FUNC-A+W Business Pro.pdf"
+description: "US FUNC A+W Business Pro"
 ---
+
 
 
 # US FUNC A+W Business Pro

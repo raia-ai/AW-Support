@@ -1,12 +1,7 @@
 ---
-title: "Wireless Button Dongle"
-source: "Wireless_Button_Dongle.pdf"
-tags: ["Wireless Button", "USB Dongle", "Key Configurator", "HID", "Macro", "ITB CompuPhase", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A user guide for the ITB CompuPhase Wireless Button Dongle. It explains how to connect the dongle and button, configure the button's function using the Key Configurator utility, and details the device's specifications and compliance information."
-long_description: "This document serves as a comprehensive user manual for the Wireless Button Dongle from ITB CompuPhase. It details the setup and configuration process for the device, which functions as a Human Interface Device (HID) keyboard. The guide covers the initial introduction, explaining that the dongle requires no special drivers and can be paired with up to six wireless buttons. It provides step-by-step instructions on connecting a button to the dongle using the 'Key Configurator' utility, which is available for download. The manual explains how to configure each button's behavior, including setting the mode to 'Standard' (repeats key press), 'Pulse' (single key press), or 'Macro' (a sequence of keys). It also includes information on starting programs or commands using key combinations, re-attaching buttons, or resetting the dongle. The document concludes with detailed specifications covering mechanical, operating, and electronic aspects, as well as compatibility, conformity, and legal disclaimers."
+description: "Wireless Button Dongle"
 ---
+
 
 # Wireless Button Dongle
 

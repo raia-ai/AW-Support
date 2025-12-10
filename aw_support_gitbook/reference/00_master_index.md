@@ -1,15 +1,7 @@
 ---
-title: "A+W Support AI Assistant - Knowledge Base Master Index"
-category: "index"
-product: "A+W Software"
-doc_type: "Master Index"
-language: "EN"
-tags: ["index", "taxonomy", "navigation", "knowledge-base"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Master index and taxonomy for the A+W Support AI Assistant knowledge base"
-total_documents: 1348
+description: "A+W Support AI Assistant - Knowledge Base Master Index"
 ---
+
 
 # A+W Support AI Assistant - Knowledge Base Master Index
 

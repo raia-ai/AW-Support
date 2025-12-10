@@ -1,15 +1,7 @@
 ---
-title: "A+W Support - Frequently Asked Questions (FAQ)"
-category: "faqs"
-product: "A+W Software"
-doc_type: "FAQ"
-language: "EN"
-tags: ["faq", "support", "common-issues", "troubleshooting"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Frequently asked questions and common issues derived from A+W support tickets"
-source: "Derived from 2888 support tickets"
+description: "A+W Support - Frequently Asked Questions (FAQ)"
 ---
+
 
 # A+W Support - Frequently Asked Questions (FAQ)
 

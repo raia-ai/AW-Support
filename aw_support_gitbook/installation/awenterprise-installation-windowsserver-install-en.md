@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Enterprise_Web"
-source: "EN-INST-AW_Enterprise_Web.pdf"
-tags: ["Installation", "Software", "A+W Enterprise 6 Web", "Windows Server", "Configuration", "IIS", "SSH Proxy", "Technical Documentation", "Setup Guide", "Firewall"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation instructions for the A+W Enterprise 6 Web software. It outlines the necessary prerequisites, step-by-step procedures for installation and configuration, and post-installation details for system planners and administrators."
-long_description: "This is a detailed technical manual for the installation of A+W Enterprise 6 Web, a software solution for the glass and windows industry. The document begins with a change history and an overview of the installation process. It specifies system requirements, including hardware (processor, RAM, disk space), network configurations (firewall ports 5000-5050, 512), and supported operating systems (Windows Server 2008 R2, 2012 R2). The core of the document is the step-by-step installation procedure, which involves using the 'A+W SetupLauncher' to select the 'A+W Enterprise 6 Web' module and its dependencies. Post-installation, the guide details the configuration process using the 'Config Tool'. This includes setting common parameters, configuring server and language settings, managing application pool identities, and setting up protocol/tracing levels. Special instructions are provided for configuring IIS on Windows Server 2008 R2, including manually creating CGI/ISAPI limitations. The manual also covers the setup of an optional SSH proxy service, directory structure, uninstallation, and adding new sites post-installation. It serves as a complete guide for deploying the A+W Enterprise 6 Web application."
+description: "EN-INST-AW_Enterprise_Web"
 ---
+
 
 # Installation Instructions: A+W Enterprise 6 Web
 

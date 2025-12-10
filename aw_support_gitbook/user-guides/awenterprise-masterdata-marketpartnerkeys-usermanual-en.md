@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_3"
-source: "EN-UM-AWEnterprise_3.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Master Data", "Market Partner Keys", "System Keys", "Product Keys", "ERP Configuration", "Technical Manual", "Discount Methods", "Complaint Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed software reference guide for the A+W Enterprise system, focusing on the configuration of Master Data. It provides comprehensive instructions on setting up 'Market Partner Keys,' 'System Keys,' and 'Product Keys.' Key areas covered include calendar settings, country and language management, quality assessment scales, complaint reasons, and discount method definitions. This guide is intended for system administrators and technical users responsible for configuring and maintaining the core data structures of the A+W Enterprise software."
-long_description: "This document serves as an in-depth technical manual for the A+W Enterprise software, specifically detailing the setup and management of various 'Keys' within the Master Data module. It is structured into three main parts: Market Partner Keys, System Keys, and Product Keys. The 'Market Partner Keys' section explains how to configure calendars (business days, production days), financial accounting clients, country codes, economic areas, and quality scales for assessing suppliers on metrics like dates, prices, and quantities. It also covers the setup for reasons for complaint and various discount methods, including detailed field descriptions for criteria, calculation, and application rules. The 'System Keys' section provides a comprehensive overview of system-wide settings, such as job titles, ZIP codes, language management, document types, quantity units, shape descriptions for manufacturing, and dispatch configurations (packing types, routes, vehicles, customs). The 'Product Keys' section details the configuration of product-specific attributes like color variants, dimension variants, size variants, and technical value groups for properties like sound protection and thermal transmission. This guide is essential for administrators and power users, offering technical information, database field names, and step-by-step instructions for ensuring the foundational data of the A+W Enterprise system is correctly configured."
+description: "EN-UM-AWEnterprise_3"
 ---
+
 
 # Market Partner Keys
 

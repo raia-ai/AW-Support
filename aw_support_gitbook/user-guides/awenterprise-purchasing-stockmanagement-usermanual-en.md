@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_17"
-source: "EN-UM-AWEnterprise_17.pdf"
-tags: ["A+W Enterprise", "Purchasing", "Stock Management", "Software Reference", "ERP", "Purchase Orders", "Receipt of Goods", "Invoicing", "Document Management"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference manual for the A+W Enterprise system, covering the Purchasing and Stock modules. It details procedures for purchase order entry, item management, goods receipt, invoicing, and provides overviews of various system functions."
-long_description: "This document is a comprehensive software reference guide for the A+W Enterprise system, specifically focusing on the Purchasing and Stock modules. The Purchasing section provides detailed instructions on managing the entire procurement lifecycle, including creating and managing purchase orders, defining totals, discounts, and surcharges. It covers the various tabs for purchase order items such as general details, properties, prices, order info, status, and evaluation. The guide also explains how to handle the receipt of goods, both automatically and manually, manage dispatch notifications, and log goods receipts. The section on Invoices and Credit Notes describes the process for invoice checking, automatic and manual invoice creation (including collective invoices), booking invoices, and managing credit notes. The document concludes the Purchasing module with overviews and search functionalities. The latter part of the document introduces the A+W Enterprise Stock module, providing a high-level overview of its menus and functions for stock bookings, master data management, inventory, evaluation, and system administration."
+description: "EN-UM-AWEnterprise_17"
 ---
+
 
 # A+W Enterprise Purchasing
 

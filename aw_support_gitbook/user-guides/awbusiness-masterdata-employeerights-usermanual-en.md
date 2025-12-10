@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_12"
-source: "EN-UM-AWBusiness_12.pdf"
-tags: ["A+W Business", "Master Data", "Employee Rights", "Form Management", "B2B Interface", "Commission Management", "CEKAL", "CE Code", "Software Reference", "User Settings"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the Company section within the Master Data module of A+W Business. It details the configuration of company-wide settings, user and employee management, interface services, and form customizations."
-long_description: "This comprehensive software reference manual covers the 'Company' area within the 'Master Data' module of the A+W Business software. It provides in-depth instructions for administrators and advanced users on configuring system-wide parameters. Key topics include setting up input parameters for document types and order areas, managing employee groups and granular access rights, and defining commission structures for sales representatives. The guide explains how to customize and manage forms for printing various documents like order confirmations, invoices, and delivery notes, including options for sketch printing and data archiving. It also details the configuration of interface services for data exchange with other programs, such as A+W Production, covering production reports, scheduling, and B2B data transfers via EDI and openTRANS. Furthermore, it covers specialized compliance features, including the setup for French CEKAL and general CE Code certifications for IG units, detailing the management of classes, assignments, results, and restrictions. The document serves as an essential tool for tailoring the A+W Business software to specific company requirements and workflows."
+description: "EN-UM-AWBusiness_12"
 ---
+
 
 # Company
 

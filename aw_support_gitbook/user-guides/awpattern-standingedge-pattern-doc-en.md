@@ -1,14 +1,7 @@
 ---
-title: "AW_Pattern_Viewer_-_HIDESTANDINGEDGE"
-source: "AW_Pattern_Viewer_-_HIDESTANDINGEDGE.docx"
-tags: ["standing-edge", "pattern", "hide", "workflow", "instructions", "cad", "viewer", "aw", "ui"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "**A+W ****PATTERN VIEWER ****-**** WORKFLOW STUDIO ****HIDE STANDING EDGE**
-In the document below we are going to show how to Hide the Standing Edge (Small Yellow Triangle) on the Pattern Viewer on each glass cut on the stockplate view. ### HIDE STANDING EDGE EXAMPLE
-In the example below we can see the Standing Edge marked by the yellow triangle on the right edge (edge 2) of the glass."
-long_description: "**A+W ****PATTERN VIEWER ****-**** WORKFLOW STUDIO ****HIDE STANDING EDGE** In the document below we are going to show how to Hide the Standing Edge (Small Yellow Triangle) on the Pattern Viewer on each glass cut on the stockplate view. ### HIDE STANDING EDGE EXAMPLE In the example below we can see the Standing Edge marked by the yellow triangle on the right edge (edge 2) of the glass. ![AW_Pattern_Viewer_-_HIDESTANDINGEDGE_image3](AW_Pattern_Viewer_-_HIDESTANDINGEDGE_image3.png) ### A+W PATTERN VIEWER WORKFLOW STUDIO CUSTOMISING Opening A+W Infrastructure 6 Workflow Studio - On the Process Server open the blue A+W Shortcut > Config Tools > A+W Infrastructure 6 Workflow Studio or run the Windows Executable 'C:\Program Files (x86)\A+W\Sandpiper1\InfrastructureWorkflowStudio\WorkflowStudio.exe' **IMPORTANT** - This is a global change which will affect all Pattern Viewer screens unless a Workflow has been configured for each Pattern Viewer. Next, we need to check how many Pattern Viewer Workflows are current configured by choosing Configuration > Workflow Management. In the list should be an Extension Point that has the wording - PatternViewer as shown below. **Single"
+description: "AW_Pattern_Viewer_-_HIDESTANDINGEDGE"
 ---
+
 
 **A+W ****PATTERN VIEWER ****-**** WORKFLOW STUDIO ****HIDE STANDING EDGE**
 In the document below we are going to show how to Hide the Standing Edge (Small Yellow Triangle) on the Pattern Viewer on each glass cut on the stockplate view.

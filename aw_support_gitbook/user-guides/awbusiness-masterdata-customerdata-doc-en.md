@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_1-3"
-source: "EN_AWBusiness_Master_Data_9_1-3.pdf"
-tags: ["A+W Business", "Master Data", "Customer Data", "ERP", "Software Tutorial", "Order Management", "Invoicing", "Subsidiaries", "Classifiers"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial from the A+W Business Master Data guide, focusing on entering and managing customer data. It covers creating new customer records, configuring order and invoice settings, managing subsidiaries and employees, and using text modules and classifiers."
-long_description: "This document is a detailed tutorial chapter from the A+W Business Master Data manual. It provides step-by-step instructions for users on how to manage customer information within the A+W Business software. The tutorial begins with the fundamental process of entering new customer data, including mandatory fields, addresses, and communication details. It then delves into more advanced configurations, such as setting up order and sales invoice parameters. This includes defining order priorities, standard rounding for pricing, minimum order values, and various invoicing methods like collective, monthly, and partial invoices. The guide also explains how to manage related entities, such as adding subsidiaries as additional shipping addresses and recording employee contact information for better customer relationship management. Furthermore, it covers the use of text modules for inserting standard or customized text into documents and the application of classifiers for filtering and analyzing customer data for purposes like turnover analysis. The document uses screenshots of the user interface with clear callouts to guide the user through each process."
+description: "EN_AWBusiness_Master_Data_9_1-3"
 ---
+
 
 # Tutorial 1: Customer Data
 

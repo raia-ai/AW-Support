@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Machinery_Allocation_2.10"
-source: "EN_AWProduction_Machinery_Allocation_2.10.pdf"
-tags: ["A+W Production", "Machine Allocation", "Software Manual", "Glass Manufacturing", "Window Production", "Door Production", "Production Scheduling", "MA Editor", "Work Process", "Logical Machine"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive user manual for the A+W Production Machine Allocation (MA) module. It provides a detailed tutorial and software reference for configuring and managing machines, work processes, and their allocations in a production environment for glass, windows, and doors."
-long_description: "This manual details the functionality of the A+W Production Machine Allocation (MA) module, a critical component for production scheduling in the glass, window, and door manufacturing industries. The document is divided into a Tutorial, a Software Reference, and an Index. The Tutorial section offers a hands-on guide for users responsible for organizing the production process. It covers fundamental concepts such as defining physical machines with their restrictions (size, thickness, shape), creating logical machines to represent different machine functions or operating modes, and establishing work processes that reflect the material flow. It provides step-by-step instructions on how to allocate these elements, set priorities, and use conditions and formulas to handle complex production scenarios. The Software Reference section provides a detailed, field-by-field explanation of the user interface, including the MA Editor, and various dialogs for creating and editing machines, work processes, processing types, and formulas. It serves as a comprehensive resource for understanding all parameters and settings within the Machine Allocation module. This guide is intended for end-users of A+W Production, particularly those in charge of production scheduling, and requires familiarity with the master data concept in A+W Production."
+description: "EN_AWProduction_Machinery_Allocation_2.10"
 ---
+
 
 # A+W Machine Allocation D
 

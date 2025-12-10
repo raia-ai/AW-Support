@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W License Client"
-category: "installation"
-product: "A+W License Client"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W License Client"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W License Client    Change history:     Date           Edited by               Remarks                                     Version     2014-07-18     J. Makowka              Original version                            1.0     2022-12-08     B. Hanewinkel           System requirements                         1.1          The installation instructions will assist the planner with the installation and      configuration of the software named. Please"
-source_file: "EN-INST-A+W License Client.pdf"
+description: "EN INST A+W License Client"
 ---
+
 
 
 # EN INST A+W License Client

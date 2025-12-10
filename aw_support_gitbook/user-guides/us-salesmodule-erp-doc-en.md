@@ -1,12 +1,7 @@
 ---
-title: "US_AWEnterprise_Sales_HelpCards"
-source: "US_AWEnterprise_Sales_HelpCards.pdf"
-tags: ["A+W Enterprise", "Sales Module", "Software Manual", "ERP", "Glass Manufacturing", "Window Manufacturing", "Quotation Management", "Order Entry", "Invoicing", "Price Calculation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a series of 'Help Cards' for the Sales module of the A+W Enterprise software. It serves as a user guide for performing common sales-related tasks, from creating quotations to generating invoices."
-long_description: "This document is a comprehensive user guide for the Sales module of A+W Enterprise, a specialized ERP software for the glass, windows, and doors industry. Presented as a collection of 'Help Cards,' it offers step-by-step instructions for a wide range of functionalities. The guide is based on A+W Enterprise V6 and covers key business processes including: Quotation management (quick entry, detailed entry, resubmissions), Order processing (creating orders, referencing quotations, specifying order types, editing properties), Order Item management (entering items, handling shapes, processing, CAD integration, Georgian bars), Price Calculations (editing conditions, prices, discounts, and checking costs), and Invoicing (manual and automatic creation, booking, printing, and credit notes). Each help card details the objective, prerequisites, workflow, and additional relevant information, often accompanied by screenshots of the user interface to aid comprehension. This manual is designed for end-users of the A+W Enterprise system, providing them with the necessary knowledge to operate the sales functions effectively."
+description: "US_AWEnterprise_Sales_HelpCards"
 ---
+
 
 # A+W Enterprise Sales: Help Cards
 

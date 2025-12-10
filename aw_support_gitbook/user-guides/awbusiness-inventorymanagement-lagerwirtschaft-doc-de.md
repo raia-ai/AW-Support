@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Lagerwirtschaft_6_2"
-source: "DE_AWBusiness_Lagerwirtschaft_6_2.pdf"
-tags: ["A+W Business", "Inventory Management", "Lagerwirtschaft", "ERP", "Purchase Price", "Einkaufspreis", "Bill of Materials", "Stückliste", "Inventory Posting", "Lagerbuchung", "Tutorial"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed tutorial from the A+W Business software manual, focusing on inventory and warehouse management (Lagerwirtschaft). It covers pricing, inventory control at the bill of materials (BOM) level, and general warehouse operations."
-long_description: "This comprehensive tutorial provides step-by-step instructions for managing inventory and pricing within the A+W Business Fertigung ERP system. The first section, 'Preise' (Prices), explains how to define and calculate purchase prices (Einkaufspreis), including the last purchase price and the average purchase price (Durchschnitts-EK). It details the necessary system settings, the price determination process via a flowchart, and provides examples. The second major section, 'Lagerführung auf Stücklistenebene' (Inventory Management at BOM Level), describes how to manage BOM components as stock items, including reservation and booking processes. The main chapter, 'Lagerwirtschaft' (Inventory Management), covers core warehouse operations. It explains how to create and manage stock items, handle manual and automatic inventory postings (receipts, issues, transfers), and utilize various queries to monitor stock levels, movements, and statistics. The tutorial is highly visual, with numerous screenshots illustrating the user interface and guiding users through specific tasks like creating stock items, performing manual bookings, and analyzing inventory data."
+description: "DE_AWBusiness_Lagerwirtschaft_6_2"
 ---
+
 
 # Tutorial: Stammdaten
 

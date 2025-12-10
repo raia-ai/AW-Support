@@ -1,15 +1,7 @@
 ---
-title: "AWProduction GlassManufacturing WindowProduction Doc EN"
-category: "training"
-product: "AWProduction"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWProduction", "GlassManufacturing", "WindowProduction", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Text file: AWProduction-GlassManufacturing-WindowProduction-Doc-EN.md Latest content with line numbers: 2	source: "EN_AWProduction_Terminal_1.50.pdf" 3	tags: ["A+W Production Terminal", "Software Manual", "Glass Manufacturing", "Window Production", "Door Manufacturing", "MES", "Production Control", "Tutorial", "Software Reference"] 4	version: "1.0" 5	last_updated: "2025-10-03" 6	short_description: "This document is a user manual for the A+W Production Terminal, a software solution for managing p"
-source_file: "AWProduction-GlassManufacturing-WindowProduction-Doc-EN.md"
+description: "AWProduction GlassManufacturing WindowProduction Doc EN"
 ---
+
 
 
 Text file: AWProduction-GlassManufacturing-WindowProduction-Doc-EN.md

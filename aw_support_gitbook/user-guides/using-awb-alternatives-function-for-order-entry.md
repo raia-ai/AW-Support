@@ -1,15 +1,7 @@
 ---
-title: "Using AWB alternatives function for order entry"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Using AWB alternatives function for order entry"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Using alternatives function  Contents Using alternatives function ............................................................................................................................ 1  1. Using alternative functions with processing .............................................................................................. 2     1.1 Create order: ..............................................................................................."
-source_file: "Using AWB alternatives function for order entry.pdf"
+description: "Using AWB alternatives function for order entry"
 ---
+
 
 
 # Using AWB alternatives function for order entry

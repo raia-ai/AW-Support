@@ -1,15 +1,7 @@
 ---
-title: "DE AWEnterprise Verkauf 4.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWEnterprise_Verkauf_4.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Verkauf              D                          deutsch               A+W Enterprise                                                                                                               Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Part"
-source_file: "DE_AWEnterprise_Verkauf_4.0.pdf"
+description: "DE AWEnterprise Verkauf 4.0"
 ---
+
 
 
 # DE AWEnterprise Verkauf 4.0

@@ -1,12 +1,7 @@
 ---
-title: "A+W Business v6 Configuration"
-source: "EN-CONFIG-AW_Business-1.pdf"
-tags: ["A+W Business", "Software Configuration", "Glass Industry", "ERP", "Master Data", "Production", "Crystal Reports", "Technical Documentation", "Internal Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An internal configuration manual for A+W Business v6, a software solution designed for the glass industry. This document details master data setup, document management, form printing with Crystal Reports, and various module configurations."
-long_description: "This is an extensive internal technical manual for A+W Business v6, an Enterprise Resource Planning (ERP) software tailored for the glass manufacturing and processing industry. The document serves as a comprehensive guide for configuring the system's various modules and features. It begins with a detailed change history, tracking updates and feature additions over several years. The core of the manual is structured around key business processes, including Master Data management (e.g., CE codes, product classifiers), Document handling (e.g., invoice management, order entry), and Production control (e.g., transfer to production, capacity planning). A significant portion is dedicated to form printing and reporting, with in-depth instructions for using Crystal Reports, managing PDF generation, and setting up email notifications. The guide also covers integrations with other systems like A+W Logistics Optimizer, Allgeier ECM scanview®, and various financial accounting interfaces. It is intended for internal A+W technicians, implementation specialists, and support staff responsible for setting up, customizing, and maintaining the A+W Business v6 software for clients."
+description: "A+W Business v6 Configuration"
 ---
+
 
 # A+W Configuration
 ---

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Box_Management_1_1-2"
-source: "EN_AWBusiness_Box_Management_1_1-2.pdf"
-tags: ["A+W Business", "Box Management", "ERP", "Stock Management", "BOM", "Order Management", "Inventory", "Tutorial", "Software Guide", "Glass Industry"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial guide for the A+W Business Box Management module. It covers creating and managing master data for boxes, including stock articles, pricing, and handling boxes with Bills of Materials (BOMs)."
-long_description: "This document is a detailed tutorial for the A+W Business Box Management software module, designed for users in the glass manufacturing and processing industry. It provides step-by-step instructions on managing master data for boxes, which are used to store and transport glass sheets. The guide begins with the creation of stock articles for simple boxes, covering settings like article numbers, sizes, storage locations, and procurement types. It then progresses to more complex scenarios, such as creating boxes with a Bill of Materials (BOM), where a pallet might contain multiple boxes of glass sheets. The tutorial explains how to structure these BOMs, set procurement types, manage pricing with price-relevant codes, and define stock sizes. Furthermore, the document details how to handle orders involving boxes, including sales orders for customers and internal production orders for replenishing stock. It also covers the stock management aspects, such as creating P.O. proposals, handling goods receipts via barcode scanning (PDC), and managing inventory levels. The guide is illustrated with screenshots and flowcharts to clarify processes like stock P.O. creation and order entry."
+description: "EN_AWBusiness_Box_Management_1_1-2"
 ---
+
 
 ---
 ## Master Data for Boxes

@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_6"
-source: "DE_AWBusiness_Verkauf_4_6.pdf"
-tags: ["A+W Business", "Software Reference", "Sales", "Order Management", "Positionsdaten", "Sprossen", "Kalkulation", "Dokumente kopieren", "ERP", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a detailed software reference manual for the A+W Business Verkauf (Sales) module, focusing on the management of position data within orders. It covers various functionalities such as configuring muntin bars (Sprossen), adding services (Leistung), managing additional data (Zusatz), and handling technical values and attachments for order items."
-long_description: "This comprehensive software reference guide provides an in-depth explanation of the A+W Business Verkauf (Sales) application, specifically detailing the 'Positionsdaten' (Position Data) section for managing order items. The manual is structured to guide users through the various tabs and functions available for each order position. Key topics include the configuration of horizontal and vertical muntins (Sprossen), including the use of the A+W CAD Designer for custom constructions. It describes how to add and manage services (Leistung) and their relation to order items, as well as how to handle additional data (Zusatz) such as mixed-price calculations (Mischkalkulation) used in specific regions, supplier information, tax settings, and product-specific markings like CE and CPIP. The document also covers adding texts, file attachments, and technical values to positions. Further sections detail the document summary screen, which aggregates costs, credit limits, and totals for an entire order. A significant portion of the manual is dedicated to overviews and reference dialogs, explaining how to search for documents using various criteria, copy documents (fully or selectively), view document history, manage status changes, and handle partial deliveries, complaints, and down payments. It also explains functionalities for capacity planning, cost calculation, and production status feedback. The guide is intended for users who manage sales orders and need a thorough understanding of the software's capabilities for detailed and accurate order processing."
+description: "DE_AWBusiness_Verkauf_4_6"
 ---
+
 
 ---
 ## Positionsdaten

@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_17"
-source: "D-HB-AWBusiness_17.pdf"
-tags: ["A+W Business", "ERP Software", "Sales Module", "Offer Management", "Financial Accounting Integration", "FiBu", "CRM", "Data Archiving", "User Manual", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a comprehensive tutorial and software reference for the A+W Business Verkauf (Sales) module. It guides users through creating and managing offers, handling alternative offers, tracking sales documents, analyzing success rates (statistics), and performing data transfers to financial accounting (FiBu) and archiving systems. It includes step-by-step instructions, exercises, and detailed descriptions of software dialogs and functions."
-long_description: "This document serves as an in-depth guide for the 'A+W Business Verkauf' (Sales) module, a component of the A+W ERP software for the glass, windows, and doors industry. It is structured into two main parts: a tutorial and a software reference. The tutorial section provides practical, step-by-step instructions and exercises on key sales processes. This includes creating standard offers, defining alternative positions within an offer (e.g., using different materials or constructions), generating a separate alternative offer, and converting offers into orders. It also covers the process of setting up and managing follow-ups (Wiedervorlage) to track open offers. The software reference section provides a detailed breakdown of all menus, dialogs, and functions within the sales module. It explains concepts like offer statistics (Erfolgsquote) for analyzing conversion rates, the data transfer process to financial accounting systems (FiBu), including setup for accounts (Erlöskonten) and handling of open items (Offene Posten). Furthermore, it details the document import/export capabilities via EDI interfaces and the critical process of archiving completed or old documents to maintain system performance. The guide is intended for users who manage the sales lifecycle, from initial quotation to final data hand-off and analysis."
+description: "D-HB-AWBusiness_17"
 ---
+
 
 ---
 ## Tutorial: Alternative Offers

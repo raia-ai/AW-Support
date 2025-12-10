@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Lagerwirtschaft_6_3"
-source: "DE_AWBusiness_Lagerwirtschaft_6_3.pdf"
-tags: ["Warehouse Management", "Inventory Control", "ERP Software", "A+W Business", "Tutorial", "Stock Replenishment", "Order Processing", "Purchasing", "Production Orders", "Stocktaking"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language tutorial for the A+W Business Manufacturing software, focusing on the Warehouse Management (Lagerwirtschaft) module. It covers procedures for checking stock availability, managing replenishment times, automatic and manual ordering, handling production orders for stock, and performing inventory counts (stocktaking)."
-long_description: "This document is a comprehensive tutorial from the A+W Business Manufacturing software documentation, detailing the functionalities of the 'Lagerwirtschaft' (Warehouse Management) module. It is intended for users who manage inventory, purchasing, and stock levels. The guide begins by explaining how to view current and future stock levels, including settings for availability and replenishment lead times. It then delves into the process of creating both automatic and manual warehouse orders. This includes generating order proposals when stock falls below a minimum level, handing over proposals to the purchasing department, and comparing supplier prices. A significant portion is dedicated to the integration of warehouse management with other modules, showing how to check stock availability during sales order entry and manage reservations. The tutorial also covers the creation and processing of production orders to replenish warehouse stock, explaining how to configure the system to trigger these automatically. Finally, the document provides a detailed walkthrough of the inventory (stocktaking) process, from creating and printing count lists to recording actual stock levels and finalizing the inventory to update system data. The content is structured as a series of step-by-step instructions, heavily supplemented with screenshots from the A+W Business user interface."
+description: "DE_AWBusiness_Lagerwirtschaft_6_3"
 ---
+
 
 # Tutorial Lagerwirtschaft
 

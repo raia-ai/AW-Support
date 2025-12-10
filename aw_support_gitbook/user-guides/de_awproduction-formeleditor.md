@@ -1,15 +1,7 @@
 ---
-title: "DE AWProduction Formeleditor"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWProduction", "Formeleditor"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Formeleditor              R                               deutsch                    A+W Production                                                                                                            Vorspann                                             Vorspann                                         In diesem Teil der Dokumentation finden Sie editorische Notizen.                                           Revisionsübersicht                                         Part"
-source_file: "DE_AWProduction-Formeleditor.pdf"
+description: "DE AWProduction Formeleditor"
 ---
+
 
 
 # DE AWProduction Formeleditor

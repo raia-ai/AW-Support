@@ -1,12 +1,7 @@
 ---
-title: "DE_AWProduction_Kapazitaetsplanung_HC"
-source: "DE_AWProduction_Kapazitaetsplanung_HC.pdf"
-tags: ["A+W Production", "Kapazitätsplanung", "Capacity Planning", "Schichtplanung", "Help Cards", "User Guide", "ERP", "Software Documentation", "German", "A+W Enterprise 2015"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document contains Help Cards for the Capacity Planning (Kapazitätsplanung) module of the A+W Production software. It provides step-by-step instructions for various configuration and management tasks."
-long_description: "This user guide, presented as a series of 'Help Cards,' details the functions of the Capacity Planning (Kapazitätsplanung) module within the A+W Production software, based on the A+W Enterprise 2015 version. The document is designed as a practical reference for users, offering concise, task-oriented instructions for managing production capacity. It covers a wide range of topics including the setup and management of shifts (Schichten), shift plans (Schichtpläne), shift rules (Schichtregeln), and shift groups (Schichtgruppen). It also explains how to handle non-working days, transition times (Übergangszeiten), and standard time formulas (Vorgabezeitformel). Further sections delve into managing campaigns (Kampagnen), capacity reservations (Reservierungen), cost calculations (Kostenkalkulation), machine groups (Maschinengruppen), load distribution (Lastverteilung), and post-processing of scheduling (Einlastung). Each 'Help Card' specifies the goal of an action, its prerequisites, additional information, and a clear, numbered workflow, enabling users to efficiently configure and operate the system."
+description: "DE_AWProduction_Kapazitaetsplanung_HC"
 ---
+
 
 # A+W Kapazitätsplanung: Help Cards
 ---

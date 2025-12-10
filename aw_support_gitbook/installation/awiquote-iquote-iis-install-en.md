@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_iQuote"
-source: "EN-INST-AW_iQuote.pdf"
-tags: ["software installation", "iQuote", "A+W Business", "IIS", "SQL Server", "DMZ", "technical documentation", "configuration", "setup", "firewall"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides comprehensive installation instructions for the A+W iQuote software, designed for use with A+W Business. It covers the complete setup process, system requirements, and configuration for new installations of version 6."
-long_description: "This technical manual details the installation and configuration procedures for A+W iQuote for A+W Business. It is intended for system planners and administrators responsible for deploying the software. The guide begins with a change history, followed by a detailed table of contents. The core of the document focuses on the new installation of version 6, outlining prerequisites such as hardware (Windows Server 2008+), network settings (firewall ports TCP 12000-12005, 65230-65235), and required software components like .NET Framework 4.5 and IIS 7+. It provides step-by-step instructions for installing server components, configuring HTTPS on IIS, and setting up firewalls for DMZ environments. The manual also explores different implementation variants, including in-house hosting and hosted solutions with VPN. Further sections cover system configuration, troubleshooting tips (FAQs, error analysis), handling breaking changes, and the specific process for installing the login page. The document is structured to be followed sequentially to ensure a successful installation."
+description: "EN-INST-AW_iQuote"
 ---
+
 
 # Installation Instructions: iQuote – for A+W Business
 

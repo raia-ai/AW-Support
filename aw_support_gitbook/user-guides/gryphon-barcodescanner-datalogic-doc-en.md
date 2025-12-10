@@ -1,12 +1,7 @@
 ---
-title: "Gryphon_I_GD_4200_-_Englisch"
-source: "Gryphon_I_GD_4200_-_Englisch.pdf"
-tags: ["barcode scanner", "Datalogic", "Gryphon GD4200", "linear imager", "1D codes", "POS", "healthcare scanner", "inventory management", "disinfectant-ready"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Datasheet for the Datalogic Gryphon I GD4200, a premium hand-held linear imager for general-purpose applications. It highlights its ergonomic design, advanced scanning performance on various 1D codes, and features like Motionix motion-sensing and Green Spot feedback. The device is also designed to be disinfectant-ready for healthcare environments."
-long_description: "This document provides a detailed overview and technical specifications for the Datalogic Gryphon™ I GD4200 series, a premium range of hand-held linear imaging scanners. It is designed for general-purpose applications in retail, commercial services, light manufacturing, and healthcare. The document emphasizes the scanner's user-centric design, ergonomic feel, and outstanding reading performance, capable of capturing high-density, low-resolution, damaged, and mobile device-based barcodes. Key features detailed include Datalogic's Motionix™ motion-sensing technology for automatic mode switching, a 'soft line viewfinder' for easy targeting, and the patented 'Green Spot' and 3GL™ (Three Green Lights) for clear good-read feedback. The scanner is built with a Disinfectant-Ready enclosure to withstand regular cleaning with harsh solutions. The technical specifications section covers decoding capabilities, electrical requirements, environmental tolerances (IP52 rating, drop resistance), interface options (USB-C, RS-232, etc.), physical dimensions, reading performance metrics (sensor, light source, angles), and safety and regulatory compliance."
+description: "Gryphon_I_GD_4200_-_Englisch"
 ---
+
 
 # GRYPHON™ | GD4200
 

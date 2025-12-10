@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_7-4"
-source: "EN_AWBusiness_Sales_4_7-4.pdf"
-tags: ["A+W Business Sales", "Software Reference", "Document Import", "Document Export", "Financial Accounting", "FinAcc Transfer", "Project Invoicing", "Blanket Order", "Claims Calculation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A software reference guide for A+W Business Sales, detailing procedures for transferring documents to financial accounting (FinAcc), importing and exporting documents and payments, archiving data, and managing project invoicing. It covers settings for currency, customers, sorting, and data conversion."
-long_description: "This document is a comprehensive software reference for the A+W Business Sales application, focusing on the 'Transfer, Document Import/Export' and 'Project Invoicing' modules. It provides step-by-step instructions and descriptions of various dialogs and settings. The first part covers transferring financial data, including debit entries, to external accounting systems (FinAcc). It explains options for handling currencies, customer accounts, data sorting, and special character conversion (OEM). The guide also details the process for importing and exporting payment information, particularly for Brazilian transactions, and procedures for archiving documents to manage database size and data retention. The second major section is dedicated to 'Project Invoicing,' which is available when project management is activated. It describes the functionalities for managing different types of projects, including standard, extended, and blanket orders. It details how to handle invoices, allocated orders, purchase orders (POs), and calculate claims. The document explains various tabs and dialogs, such as setting up estimated quantities, viewing project totals, and managing hour claims and purchases associated with a project."
+description: "EN_AWBusiness_Sales_4_7-4"
 ---
+
 
 # Transfer, Document Import/Export
 

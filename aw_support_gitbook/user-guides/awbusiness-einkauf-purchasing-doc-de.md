@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Einkauf_3_1"
-source: "DE_AWBusiness_Einkauf_3_1.pdf"
-tags: ["A+W Business", "Einkauf", "Purchasing", "ERP", "Software Manual", "Master Data", "Order Management", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for the 'Einkauf' (Purchasing) module of the A+W Business software, a solution for the glass, windows, and doors industry. It covers master data setup, order processing, and related workflows."
-long_description: "This document provides a comprehensive guide to the 'Einkauf' (Purchasing) module within the A+W Business ERP system. It serves as both a tutorial for new users and a software reference for experienced personnel. The manual begins with an introduction to the fundamental concepts of the purchasing process as implemented in the software, followed by a detailed walkthrough of the menu structure. It then delves into the critical area of master data management, explaining how to define products, set up suppliers (Lieferanten), manage purchase prices (EK-Preise), and configure document statuses. The second major part of the manual focuses on the practical application of this master data in creating and managing orders (Bestellungen). It explains the difference between automated and manual ordering, how to handle order items within a sales order, and how to configure the necessary system settings. The document uses a combination of conceptual explanations, step-by-step instructions, screenshots, and diagrams to guide the user through various processes, from creating a purchase request to managing supplier confirmations and checking prices. It is intended for end-users who are responsible for procurement and purchasing tasks within companies using A+W Business software."
+description: "DE_AWBusiness_Einkauf_3_1"
 ---
+
 
 # Vorspann
 

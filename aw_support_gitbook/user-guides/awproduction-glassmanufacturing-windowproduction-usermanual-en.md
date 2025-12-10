@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_1"
-source: "EN_UM_AWProduction_1.pdf"
-tags: ["A+W Production", "Software Manual", "Glass Manufacturing", "Window Production", "Door Production", "Production Planning", "Scheduling", "Optimization", "Barcode Management", "ERP Integration"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the official user manual for A+W Production, a comprehensive software solution designed for the glass, windows, and doors manufacturing industry. It provides a detailed guide on using the software for production planning, scheduling, optimization, and control."
-long_description: "The A+W Production Manual is an in-depth technical document intended for end-users of the A+W software suite. It covers the full scope of the A+W Production module, a powerful production planning and control system. The manual is structured to guide users from a general overview to specific, advanced functionalities. It begins with an editorial section outlining documentation conventions, copyrights, and notes. A detailed table of contents provides a roadmap to the various modules, including Rough Scheduling, Detailed Scheduling, Capacity Planning, Machinery Allocation, Barcoding, Realtime Optimization, and Production Terminals. The manual features a tutorial section that introduces the basic system and its supplements, explaining core concepts like the process flow from ERP order entry to production planning. It details various user interface 'views' (e.g., order view, bucket view, batch view) and explains how to perform critical tasks like batch creation, scheduling, and optimization. The document also covers supplementary modules for capacity planning, various optimization systems (Realtime, Sequence, Shape, Rack, Furnace), barcode management, and display systems. It serves as a complete reference for configuring, operating, and mastering the A+W Production software to achieve efficient and transparent manufacturing processes."
+description: "EN_UM_AWProduction_1"
 ---
+
 
 # A+W Production
 ---

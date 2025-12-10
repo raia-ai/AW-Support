@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Sales 4.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Sales_4.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Sales            C                       English             A+W Business                                                                                                              Introduction                                           Introduction                                       This part of the documentation contains editorial notes.                                         Overview of revisions                                       Part             Description"
-source_file: "EN_AWBusiness_Sales_4.0.pdf"
+description: "EN AWBusiness Sales 4.0"
 ---
+
 
 
 # EN AWBusiness Sales 4.0

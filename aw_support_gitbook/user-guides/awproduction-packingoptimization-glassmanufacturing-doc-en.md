@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_PMO_2.00"
-source: "EN_AWProduction_PMO_2.00.pdf"
-tags: ["A+W", "Packing Optimization", "Software Manual", "Glass Manufacturing", "Window Manufacturing", "Logistics", "PMO", "PackView"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical manual for A+W Packing Optimization, a software module for A+W Production. It details the processes for optimizing the packing of glass, windows, and doors onto racks and boxes to save space, reduce sorting time, and streamline logistics."
-long_description: "This document is a comprehensive guide to the A+W Packing Optimization (PMO) software, a component of the A+W Production suite. The manual is intended for end-users and provides a thorough overview of the software's functionality, from basic concepts to advanced features. It begins with a tutorial section that explains the core idea behind packing optimization: adapting the production process for direct packing to maximize the use of transport racks and boxes. It covers different packing structures (tree and matrix), the role of master data files like .RUL (Optimization Rules) and .VAL (Settings), and the various parameters that control the optimization. The guide walks users through the software's user interface, including the Packing Group View for managing packing jobs and the PackView tool for 3D visualization and manual editing of packing results. The software reference section provides a detailed breakdown of all menus, dialogs, icons, and fields, serving as a complete reference for users. This includes creating and managing packing groups, optimizing them, and manually adjusting the results in different editing modes (Full Screen, Edit, Expert, Free Edit)."
+description: "EN_AWProduction_PMO_2.00"
 ---
+
 
 # A+W Packing Optimization
 

@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_10"
-source: "DE-HB-AWEnterprise_10.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Pricing", "Conditions", "ERP", "Glass Industry", "Windows", "Doors", "German", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for the A+W Enterprise system, focusing on setting up special conditions and prices for articles, particularly within the glass, windows, and doors industry. It covers configurations for article factors, product group factors, and various special pricing models."
-long_description: "This document is a detailed software reference manual for the A+W Enterprise ERP system, written in German. It provides comprehensive instructions on configuring 'Spezielle Konditionen' (Special Conditions) and 'Spezielle Preise' (Special Prices). The guide is structured to walk users through various modules, including setting up article-specific factors that can apply discounts or surcharges, and defining conditions for specific product groups (Warengruppen). It details how to manage validity periods for these conditions. The manual then delves into a wide array of special pricing scenarios, such as standard article prices, prices for article variants, colored articles, glazing bars (Sprossen), and processing charges. It also covers complex pricing for insulated glass units (ISO-Scheiben), including exchange prices for single panes, base prices, and prices for laminated safety glass (VSG). Each section includes field descriptions, technical database information (DB-Feld), procedural steps, and UI screenshot examples to guide the user. The document is intended for administrators and power users responsible for price and condition management within the A+W Enterprise software."
+description: "DE-HB-AWEnterprise_10"
 ---
+
 
 # Softwarereferenz: Spezielle Konditionen
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_4-3"
-source: "EN_AWBusiness_Master_Data_9_4-3.pdf"
-tags: ["A+W Business", "Master Data", "Discounts", "Pricing", "System Settings", "Company Data", "Tutorial", "Software Guide", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial from the A+W Business Master Data guide, focusing on the configuration and management of discounts. It provides step-by-step instructions on defining, copying, and modifying various discount types, including standard, graduated, exchange, and rate diversions."
-long_description: "This tutorial provides a detailed guide on managing discounts and company-related settings within the A+W Business software. It begins by explaining the 'copy function,' which allows users to transfer and adjust discounts for different partners, products, or price keys. The document then offers comprehensive, step-by-step instructions for defining several types of discounts: standard discounts for products, graduated discounts based on quantity limits, exchange discounts for BOM substitutions, and rate diversions for project-specific pricing. Each process is illustrated with screenshots and clear explanations of the required fields. The tutorial also covers procedures for copying discounts between customers or groups and making general changes to all discounts at once, such as applying a percentage or fixed value increase. Following the discount management section, the document shifts to 'Additional Information on the Company,' detailing how to configure system-level settings. This includes an overview of company data, system settings for financial accounting (FinAcc) and archiving, and the management of clients, subsidiaries, and bank accounts. The purpose is to equip users with the knowledge to customize the A+W Business environment to fit their specific operational needs."
+description: "EN_AWBusiness_Master_Data_9_4-3"
 ---
+
 
 # Tutorial 1: Discounts
 

@@ -1,22 +1,7 @@
 ---
-title: "Zebra TC21/TC26 Touch Computer Product Spec Sheet"
-source: "Zebra_TC21-TC26_-_Englisch.pdf"
-tags:
-  - "Zebra"
-  - "TC21"
-  - "TC26"
-  - "Touch Computer"
-  - "Mobile Computer"
-  - "Android"
-  - "Barcode Scanner"
-  - "Rugged Device"
-  - "Data Capture"
-  - "Enterprise Mobility"
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A product spec sheet for the Zebra TC21/TC26 Touch Computers, detailing their features, benefits, and technical specifications. These cost-effective devices are built for small and big businesses, offering rugged design, advanced connectivity, and multiple configurations."
-long_description: "This document provides a comprehensive overview of the Zebra TC21 and TC26 Touch Computers. It positions them as a superior alternative to low-cost mobile phones for business use, emphasizing their ruggedness, enterprise-grade features, and affordability. The spec sheet covers key selling points such as the lightweight design, Android 10 OS, a large 5-inch HD touchscreen, and various wireless connectivity options (WiFi, cellular, Bluetooth, GPS, NFC). It details the different scanning options, camera capabilities, and battery life. The document also highlights the value of Zebra's complimentary and optional Mobility DNA software suites (including Mobility Extensions, StageNow, Enterprise Home Screen, DataWedge, and Device Diagnostics) which enhance security, manageability, and productivity. Detailed technical specifications are provided in tabular format, covering physical characteristics, performance, user environment, data capture, wireless communications (WAN and LAN), and more. The document concludes with information on service plans (Zebra OneCare), security updates (LifeGuard for Android), and available accessories."
+description: "Zebra TC21/TC26 Touch Computer Product Spec Sheet"
 ---
+
 
 # TC21/TC26 Touch Computer
 

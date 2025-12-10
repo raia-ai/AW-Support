@@ -1,15 +1,7 @@
 ---
-title: "EN UM AWCADDesignerShapes"
-category: "user_manuals"
-product: "AWCADDesignerShapes"
-doc_type: "Unknown"
-language: "EN"
-tags: ["AWCADDesignerShapes"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "A+W CAD Designer (Shapes)  Manual     English Editorial                 Editorial             Revision overview of the documentation              10-2024      Update of complete manual for PDF and HTML5 format.               Notes             This document is intended only for end users of A+W CAD Designer (Shapes).             The documentation and software described are licenses that must be used or             copied only in accordance with the conditions of our license agreement. The"
-source_file: "EN-UM-AWCADDesignerShapes.pdf"
+description: "EN UM AWCADDesignerShapes"
 ---
+
 
 
 # EN UM AWCADDesignerShapes

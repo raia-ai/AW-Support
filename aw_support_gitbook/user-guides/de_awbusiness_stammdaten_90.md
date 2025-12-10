@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Stammdaten 9.0"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Stammdaten_9.0"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Stammdaten            B                           Deutsch                  A+W Business                                                                                                               Vorspann                                           Vorspann                                       In diesem Teil der Dokumentation finden Sie editorische Notizen.                                         Revisionsübersicht                                       Part            Beschreibung"
-source_file: "DE_AWBusiness_Stammdaten_9.0.pdf"
+description: "DE AWBusiness Stammdaten 9.0"
 ---
+
 
 
 # DE AWBusiness Stammdaten 9.0

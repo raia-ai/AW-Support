@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Residual Stock Manager"
-category: "configuration"
-product: "A+W Residual Stock Manager"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Residual Stock Manager"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Residual Stock Manager                                                                          english        A+W Software GmbH                                         - -INTERNAL-                        EN-CONFIG-A+W Residual Stock Manager.docx     1 Content    1.   Requirement                                                         3 2.   Planning Web                                                        4      2.1. Rack types"
-source_file: "EN-CONFIG-A+W Residual Stock Manager.pdf"
+description: "EN CONFIG A+W Residual Stock Manager"
 ---
+
 
 
 # EN CONFIG A+W Residual Stock Manager

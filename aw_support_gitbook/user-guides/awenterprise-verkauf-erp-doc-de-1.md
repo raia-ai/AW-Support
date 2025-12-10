@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Verkauf_4_9"
-source: "DE_AWEnterprise_Verkauf_4_9.pdf"
-tags: ["A+W Enterprise", "Verkauf", "ERP", "Software Reference", "Fertigmeldung", "Vorgangsänderung", "Auftragserfassung", "German", "Index"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for the A+W Enterprise Sales (Verkauf) module, detailing functionalities such as transaction overviews, completion reporting (Fertigmeldung), and bulk transaction changes (Vorgangsänderung)."
-long_description: "This document is a section of the A+W Enterprise software reference manual, specifically focusing on the 'Verkauf' (Sales) module. It provides detailed descriptions of various functions and dialogs available to users. Key topics covered include an overview of transactions ('Übersichten zu Vorgängen'), the process for reporting production completion ('Fertigmeldung'), and the dialog for making simultaneous changes to multiple transactions ('Vorgangsänderung'). The guide explains UI elements, fields, their purposes, and associated technical database information (DB-Felder). It also includes a comprehensive alphabetical index ('Partindex') for quick reference to specific features and terms within the sales module documentation. This manual is intended for users and administrators of the A+W Enterprise system to understand and effectively utilize its sales-related functionalities."
+description: "DE_AWEnterprise_Verkauf_4_9"
 ---
+
 
 ---
 ## Übersichten zu Vorgängen

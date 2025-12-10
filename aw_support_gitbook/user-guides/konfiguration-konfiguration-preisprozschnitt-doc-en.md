@@ -1,20 +1,7 @@
 ---
-title: "Konfiguration_Preis_pro_Z-Schnitt"
-source: "Konfiguration_Preis_pro_Z-Schnitt.docx"
-tags: ["A+W Production", "Konfiguration", "Preis pro Z-Schnitt", "Lagerplatte", "Z-Schnitte", "MZO-Editor", "Feinplanung", "Tischoptimierung", "Maschinen", "Zuschnitt"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Diese Anleitung beschreibt, wie Sie in A+W Production Preise so konfigurieren, dass Z‑Schnitte gezielt reduziert werden. Sie zeigt zwei Stellhebel: den Preis pro m² für Lagerplatten sowie die Kosten pro Z‑Schnitt am Zuschnittstisch. Schrittweise wird erklärt, wo die Einstellungen in den Stammdaten (Artikel/Glasartikel, Maschinen/Tische, MZO‑Editor) zu finden sind und wie Werte angepasst werden. Abschließend erhalten Sie Empfehlungen, wie Sie die Parameter je nach Glasart und Prioritäten (Verschnitt vs. Zuschnittsdauer) sinnvoll wählen."
-long_description: "Dieses Dokument führt durch die Konfiguration von Preisparametern in A+W Production mit dem Ziel, die Anzahl der Z‑Schnitte bei der Optimierung zu verringern. Z‑Schnitte entstehen typischerweise bei Komplexität im Zuschnitt und können die Bearbeitungszeit erhöhen sowie den Materialfluss beeinflussen. Durch eine geeignete Gewichtung von Preis und Kosten in der Optimierung lässt sich das Ergebnis in Richtung weniger Z‑Schnitte steuern, ohne die grundsätzlichen Rahmenbedingungen der Produktion zu verändern.
-
-Zwei Parameter sind dafür zentral: Erstens der Preis pro Quadratmeter einer Lagerplatte, der im Kontext der Artikel- bzw. Glasartikelstammdaten gepflegt wird. Ein höherer Preis führt dazu, dass der Optimierer den Materialeinsatz stärker gewichtet. Zweitens die Kosten pro Z‑Schnitt am jeweiligen Zuschnittstisch. Erhöht man diese Kosten, wird ein Z‑Schnitt in der Optimierung ‚teurer‘ und folglich seltener gewählt – sofern dies mit den restlichen Restriktionen und Zielgrößen vereinbar ist.
-
-Die Anleitung beschreibt Schritt für Schritt, wie Sie zum gewünschten Einstellungsdialog navigieren: Für Lagerplattenpreise über Stammdaten > Artikel > (Glas-)Artikel bis hin zu den Lagermaßen, in denen der Preis je Maß angepasst wird. Für die Z‑Schnitt‑Kosten gelangen Sie über Stammdaten > Maschinen > Tische zum entsprechenden Tisch oder alternativ über Stammdaten > MZO > MZO‑Editor in die Eigenschaften des Tisches. Anschließend passen Sie die Felder ‚Preis‘ (pro Lagerplatte) bzw. ‚Kosten pro Z‑Schnitt‘ an.
-
-Im Anschluss finden Sie Empfehlungen zur Parametrierung in unterschiedlichen Szenarien. Bei teuren Glasarten, bei denen die Reduktion von Verschnitt gegenüber einer minimalen Zuschnittsdauer wichtiger ist, kann es sinnvoll sein, den Preis pro Lagerplatte zu erhöhen. Zudem lohnt es sich, mit den Kosten pro Z‑Schnitt zu experimentieren und die Ergebnisse im Mittel zu betrachten. Einzelne Optimierungsläufe können ohne sichtbare Wirkung bleiben; über mehrere Läufe hinweg sollte jedoch eine Reduktion der Z‑Schnitt‑Anzahl erkennbar sein. Die vorgenommenen Einstellungen wirken sowohl in der Feinplanung als auch in der Tischoptimierung.
-
-Dieses Dokument dient als praxisnaher Leitfaden für Einrichter und Produktionsplaner, die die Optimierungsergebnisse gezielt beeinflussen möchten – transparent, reproduzierbar und innerhalb der vorgesehenen Konfigurationsmöglichkeiten von A+W Production."
+description: "Konfiguration_Preis_pro_Z-Schnitt"
 ---
+
 ## Z-Schnitte reduzieren über Preise
 
 ## Einstellen der Preise pro Lagerplatte

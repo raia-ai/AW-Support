@@ -1,15 +1,7 @@
 ---
-title: "EN CONFIG A+W Production Filling Corner"
-category: "configuration"
-product: "A+W Production Filling Corner"
-doc_type: "Configuration"
-language: "EN"
-tags: ["CONFIG", "A+W Production Filling Corner"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Configuration   A+W Production: Filling corners and capillary tubes                                        english                               - -INTERNAL- 1. Contents Change history   Date            Author                Comment                                 Version 2021-02-11      D. Dreier             AWP installation and configuration      1.0 2021-03-17      D. Dreier             A+W Production Terminal Setup 2021-03-23      E. Tempelfeld         Document formatting, publicatio"
-source_file: "EN-CONFIG-A+W Production Filling Corner.pdf"
+description: "EN CONFIG A+W Production Filling Corner"
 ---
+
 
 
 # EN CONFIG A+W Production Filling Corner

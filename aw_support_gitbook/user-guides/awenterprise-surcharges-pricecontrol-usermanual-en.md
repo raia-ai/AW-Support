@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWEnterprise_9"
-source: "EN-UM-AWEnterprise_9.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Surcharges", "Price Control", "Conditions", "Pricing", "Glass Manufacturing", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for A+W Enterprise, focusing on the configuration of surcharges, price controls, and conditions. It details how to manage various types of surcharges like shape, size, thickness, and processing group surcharges, and explains the setup of price control rules, bonus rules, and price list logic."
-long_description: "This section of the A+W Enterprise Software Reference manual provides a comprehensive guide to configuring pricing structures, specifically focusing on surcharges, price controls, and various conditions. The document begins by explaining different types of surcharges, including shape, special shape, surcharge matrices, thickness vectors, and size surcharges. For each type, it describes the navigation path within the software, provides an overview of the user interface, and details the functionality of each field. This includes setting up percentage-based surcharges, minimum amounts, and surcharges for specific product groups or processing steps. The manual then transitions to 'Price Control,' where it outlines how to define rules for price calculations across different plants, set up discounts for bulk orders (e.g., Tmp price control), manage margins, and establish bonus rules. It also covers the logic for price list control and restrictions. The 'Conditions' section explains how to set up market-partner or product-group-specific conditions, distinguishing between daily, special, and product-group-specific rules. It covers general daily conditions, product group conditions, and then moves into 'Special Conditions,' which allows for more granular control over pricing for individual customers, suppliers, or objects. This includes special general conditions, product group conditions, article conditions, discount scaling, and various factor-based adjustments. The document concludes with 'Special Prices,' detailing how to override standard price lists for specific articles, variants, or processing types, ensuring flexible and precise pricing for any scenario within the A+W Enterprise system."
+description: "EN-UM-AWEnterprise_9"
 ---
+
 
 # Software Reference
 

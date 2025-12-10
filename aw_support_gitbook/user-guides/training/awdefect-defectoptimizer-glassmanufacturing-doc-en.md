@@ -1,15 +1,7 @@
 ---
-title: "A+W Defect Optimizer - Brief Description"
-category: "training"
-product: "AWDefect"
-doc_type: "Documentation"
-language: "EN"
-tags: ["AWDefect", "DefectOptimizer", "GlassManufacturing", "Doc"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-AWDefect_Optimizer_Short_Description" source: "EN-AWDefect_Optimizer_Short_Description.pdf" tags: ["A+W", "Defect Optimizer", "Glass Manufacturing", "Software", "Quality Control", "Optimization", "Viprotron", "Hegla", "Realtime Optimizer"] version: "1.0" last_updated: "2025-10-03" short_description: "This document provides a brief description of the A+W Defect Optimizer software. It outlines the software's purpose, which is to identify and optimize cutting patterns for glass sheets to"
-source_file: "AWDefect-DefectOptimizer-GlassManufacturing-Doc-EN.md"
+description: "A+W Defect Optimizer - Brief Description"
 ---
+
 
 
 title: "EN-AWDefect_Optimizer_Short_Description"

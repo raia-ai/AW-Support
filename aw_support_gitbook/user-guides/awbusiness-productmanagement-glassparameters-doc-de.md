@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_8"
-source: "D-AWBusiness-HB_8.pdf"
-tags: ["A+W Business", "Software Reference", "Product Management", "Glass Parameters", "Master Data", "ERP", "Technical Documentation", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference manual for A+W Business, focusing on product management (Produktverwaltung). It details the configuration of various product parameters, particularly for glass manufacturing, including master data for articles, pricing, and technical specifications."
-long_description: "This extensive technical document serves as a software reference guide for the A+W Business ERP system, specifically covering the 'Produktverwaltung' (Product Management) module. It provides a detailed breakdown of master data management for various articles, with a strong emphasis on glass products. The manual guides users through setting up A+W Production parameters, such as glass types, grinding groups, and processing times. It covers the management of technical specifications like U-values, g-values, and sound insulation ratings, as well as production-related settings for cutting tables and processing lines. The document also explains how to handle classifiers, attachments, pricing structures (including price lists, surcharges, and discounts), product variants, and bill of materials (BOM) components like mullions (Sprossen) and spacers (Abstandhalter). It is designed for system administrators and power users responsible for configuring and maintaining product data within the A+W Business environment to ensure accurate production planning, pricing, and order processing."
+description: "D-AWBusiness-HB_8"
 ---
+
 
 # Produktverwaltung
 

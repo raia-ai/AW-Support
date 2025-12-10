@@ -1,15 +1,7 @@
 ---
-title: "A+W Software - Common Issues Quick Reference"
-category: "troubleshooting"
-product: "A+W Software"
-doc_type: "Quick Reference"
-language: "EN"
-tags: ["quick-reference", "common-issues", "solutions"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Quick reference guide for the most common A+W software issues and solutions"
-source: "Derived from 2888 support tickets"
+description: "A+W Software - Common Issues Quick Reference"
 ---
+
 
 # A+W Software - Common Issues Quick Reference
 

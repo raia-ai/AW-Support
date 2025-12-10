@@ -1,12 +1,7 @@
 ---
-title: "A+W Realtime Optimizer Installation Instructions"
-source: "EN-INSTALL Develop- A+W Realtime Optimizer.docx"
-tags: ["A+W", "Realtime Optimizer", "Installation", "Test Environment", "SQL Server", "Database Setup", "Software Configuration", "Setup Launcher", "ODBC", "Internal Document"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides internal installation instructions for setting up a test environment for the A+W Realtime Optimizer. It covers prerequisites, database provisioning, software installation via the Setup Launcher, and system configuration."
-long_description: "This document is an internal guide for developers and testers at A+W - Software for Glass. It details the step-by-step process for installing and configuring the A+W Realtime Optimizer in a development environment for testing purposes. The instructions begin with system prerequisites, such as required SQL Server versions. The guide then walks the user through provisioning a test database, including importing the database, creating admin users, and setting up the ODBC connection. The core of the installation is performed using the A+W Setup Launcher, and the document provides detailed steps for its preparation, execution, and subsequent configuration of various components like the license client, CAD Designer, and other services. Finally, it covers post-installation system configuration, including setting up test files, user directories, environment variables, and building the source code from Visual Studio to enable debugging. It also includes a small troubleshooting section for common license issues."
+description: "A+W Realtime Optimizer Installation Instructions"
 ---
+
 
 # A+W Realtime Optimizer
 **Installation instructions for test**

@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-QR_Barcode_Integration"
-source: "EN-FUNC-QR_Barcode_Integration.pdf"
-tags: ["A+W", "QR Barcode", "Crystal Reports", "Software", "Functional Description", "Reporting Extension", "Module 786010", "SAP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W 'QR Barcode Integration' module (786010). This document outlines how to integrate and use QR barcodes within SAP Crystal Reports, including requirements, functions, and limitations."
-long_description: "This document provides a detailed functional description for the 'QR Barcode Integration' module from A+W Software GmbH. This module, identified as 786010, is a Third-Party Product extension for reporting. It enables users to generate and print QR barcodes on reports created with SAP Crystal Reports. The document covers the module's data, presentation, and technical requirements, such as the need for SAP Crystal Reports Runtime. It details the module's primary function, which is the output of QR barcodes on reports, and explicitly states its limitations, including a maximum character count of 800 for the QR code content and the exclusion of reading or evaluating QR codes within other A+W products like A+W Smart Companion or Production Terminals. The document also includes standard legal notices regarding trademarks, copyrights, and liability, and provides contact information for A+W Software GmbH."
+description: "EN-FUNC-QR_Barcode_Integration"
 ---
+
 
 # A+W Functional Description: QR Barcode Integration
 

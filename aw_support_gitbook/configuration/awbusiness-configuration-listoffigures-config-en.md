@@ -1,12 +1,7 @@
 ---
-title: "EN-CONFIG-AW_Business-17"
-source: "EN-CONFIG-AW_Business-17.pdf"
-tags: ["A+W Business", "Configuration", "Technical Manual", "List of Figures", "Table Directory", "Software Documentation", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a comprehensive list of figures and a table directory for the A+W Business software configuration manual. It serves as a quick reference guide, mapping figure and table titles to their corresponding page numbers within the main documentation."
-long_description: "This document is an excerpt from the 'Configuration A+W Business' technical manual, specifically containing the list of figures and the table directory. The list of figures spans from Fig. 153 to Fig. 357, covering topics such as stock management, logistics, formula management, data migration, and system integrations (e.g., Glass4U, AWDoor). The table directory, starting with a main 'Table directory' section, lists tables from Tab. 1 to Tab. 61. These tables detail various system parameters, variables, status codes, and configuration settings related to CPIP creation, form printing, production transfers, status points, and database settings. The document is an internal reference for users and configurators of the A+W Business software, providing a structured index for locating visual aids and data tables throughout the main manual."
+description: "EN-CONFIG-AW_Business-17"
 ---
+
 
 ---
 ## List of Figures

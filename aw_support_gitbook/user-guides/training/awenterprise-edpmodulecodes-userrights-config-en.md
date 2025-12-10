@@ -1,15 +1,7 @@
 ---
-title: "A+W Enterprise – EDP Module Code"
-category: "training"
-product: "AWEnterprise"
-doc_type: "Configuration"
-language: "EN"
-tags: ["AWEnterprise", "EdpModuleCodes", "UserRights", "Config"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "title: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes" source: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes.pdf" tags: ["A+W Enterprise", "EDP Module Codes", "User Rights", "Access Control", "Software Configuration", "Technical Manual", "Glass Software", "Permissions", "Multi-site"] version: "1.0" last_updated: "2025-10-08" short_description: "A technical guide detailing the module codes used in the A+W Enterprise software. This document explains the general logic for managing user rights and access per"
-source_file: "AWEnterprise-EdpModuleCodes-UserRights-Config-EN.md"
+description: "A+W Enterprise – EDP Module Code"
 ---
+
 
 
 title: "EN-CONFIG-AW_Enterprise_EDP_Module_Codes"

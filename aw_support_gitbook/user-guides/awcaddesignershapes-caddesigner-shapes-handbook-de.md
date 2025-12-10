@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_11"
-source: "DE-HB-AWCADDesignerShapes_11.pdf"
-tags: ["A+W", "CAD Designer", "Shapes", "Technical Documentation", "Glass Processing", "Software Manual", "A+W Enterprise", "A+W Business", "SN-Datei", "CNC"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a technical manual for the A+W CAD Designer (Shapes) software, detailing its integration with other A+W products like Enterprise, AWBroke, and Business. It covers limitations, workflows for creating and managing design files (SN-Dateien), and interaction with CNC machines."
-long_description: "This document is a comprehensive overview and user guide for the A+W CAD Designer (Shapes) software, a component of the A+W software suite for glass, windows, and doors manufacturing. The guide is structured into several key sections. It begins with 'Konkrete Fragestellungen' (Specific Questions), which details the software's important limitations, time requirements, and integration workflows with A+W Enterprise, AWBroke, and SNAuto for creating CAD files (.sn files). It outlines step-by-step procedures for creating these files, handling modifications, and describes the data flow between the different systems. The document explains different coupling methods, such as the interactive 'TAB' and the automated 'Hintergrund-TAB' via SNAuto, listing their respective prerequisites, capabilities, and limitations regarding glass types and processing. A significant portion is dedicated to the integration with A+W Business, explaining how to create SN-files from models, attach existing files, and use templates for parametric designs. The guide also covers the software's collaboration with A+W Production for generating machine-specific CNC and CAMDXF code and provides detailed information on various data formats like DXF, CAMDXF, and CAMXML. The latter part of the document, titled 'Help Cards,' offers practical, step-by-step tutorials for creating specific geometries (e.g., rectangles with cut-off corners, arrows), applying processing (e.g., cutouts, drillings), and creating macros and templates. These 'Help Cards' serve as quick-reference guides for common design tasks."
+description: "DE-HB-AWCADDesignerShapes_11"
 ---
+
 
 # A+W CAD Designer (Shapes) Überblick
 

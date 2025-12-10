@@ -1,12 +1,7 @@
 ---
-title: "D-AWBusiness-HB_29"
-source: "D-AWBusiness-HB_29.pdf"
-tags: ["A+W Business", "ERP", "Lagerverwaltung", "Kapazitätsplanung", "Software-Referenz", "Fertigungssteuerung", "Bestandsmanagement", "Produktionsplanung", "German"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A German-language software reference guide for the A+W Business production software, covering the modules for Inventory Management (Lagerverwaltung) and Capacity Planning (Kapazitätsplanung). It details functionalities, dialogs, and settings for managing stock, tracking inventory movements, running queries, and planning production capacities."
-long_description: "This document serves as a comprehensive technical reference and tutorial for the A+W Business Pro software, with a focus on two key modules: Inventory Management (Lagerverwaltung) and Capacity Planning (Kapazitätsplanung). The Inventory Management section details the processes for managing stock items, prices, and inventory movements such as goods receipts, issues, and transfers. It covers functionalities like creating stock articles, handling crate management, printing labels, and performing inventory valuations using methods like FIFO and LIFO. The guide also explains how to run various queries and reports, including booking journals, inventory history, and statistics. The Capacity Planning section provides a guide to setting up and using the module to plan and monitor production capacities. It explains how to define master data like machines (aggregate), work centers, work types, and shift schedules. It details the process of calculating production times, scheduling orders, identifying bottlenecks, and managing the production control center (Leitstand). The document is structured with both tutorial-style instructions and detailed software reference descriptions for each function, dialog, and setting, making it a crucial resource for end-users and administrators of the A+W Business system. The language of the document is German."
+description: "D-AWBusiness-HB_29"
 ---
+
 
 # Softwarereferenz Lagerverwaltung
 

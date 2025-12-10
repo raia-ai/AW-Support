@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_Capacity_Planning_4_3"
-source: "EN_AWProduction_Capacity_Planning_4_3.pdf"
-tags: ["capacity planning", "A+W Production", "transition times", "default times", "machinery groups", "load distribution", "manufacturing software", "production scheduling", "BOM", "master data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial and software reference for the A+W Production Capacity Planning module. This document details the setup and management of master data, including transition times, default processing times, machinery groups, and load distribution, which are essential for effective production scheduling."
-long_description: "This document serves as a detailed guide for configuring the Master Data of Capacity Planning within the A+W Production software suite. It is structured into two main parts: a Tutorial and a Software Reference. The Tutorial section provides step-by-step, illustrated instructions for administrators and power users on how to define, edit, and delete critical master data components. These components include: 'Transition Times', which define the time required for a part to move between machines; 'Default Times', which are complex, formula-based calculations for processing duration on a specific machine, considering variables like area, thickness, and shape; 'Machinery Groups', used to combine machines for collective capacity management and bottleneck analysis; and 'Load Distribution', for allocating a machine's capacity across different types of tasks. The tutorial is rich with examples, screenshots, and tips to ensure correct setup. The Software Reference section provides a functional overview of the core scheduling tools, primarily the 'Production Monitor'. It describes its interface, features, and how it is used for planning, organizing, and rescheduling production capacities, including batch formation and handling defective orders. This manual is an essential resource for ensuring that the capacity planning system is configured accurately to reflect real-world production constraints and capabilities."
+description: "EN_AWProduction_Capacity_Planning_4_3"
 ---
+
 
 # Tutorial: Master Data of Capacity Planning
 

@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_11-4"
-source: "EN_AWBusiness_Master_Data_9_11-4.pdf"
-tags: ["A+W Business", "Master Data", "CEKAL", "CE Code", "B2B", "EDI", "Product Management", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A technical software reference guide for A+W Business Master Data. This document details the configuration of CEKAL certifications, CE Code management including CPIP codes, and B2B data exchange settings for customers and suppliers via EDI. It covers restrictions, product texts, and data mapping for various business objects."
-long_description: "This document is a detailed software reference manual for the Master Data section of A+W Business. It provides comprehensive instructions on setting up and managing various data modules. The guide is divided into three main parts: CEKAL, CE Code, and B2B. The CEKAL section explains how to configure restrictions for technical value checks, ensuring products meet certification standards. The CE Code section focuses on the management of the CPIP code (Characteristic Performance Identification Paper), required in France, detailing its creation, size restrictions, and settings for data import. The B2B section provides an in-depth guide to setting up Electronic Data Interchange (EDI) for customers and suppliers. It covers the mapping of products, bill of materials, spacers, gases, and routes between business partners, and configuring interface parameters for data import/export, including handling of errors, complaints, and pricing. The manual includes screenshots of the user interface and detailed descriptions of each field and setting."
+description: "EN_AWBusiness_Master_Data_9_11-4"
 ---
+
 
 # CEKAL
 

@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise Lager Software Reference"
-source: "DE-HB-AWEnterprise_18.pdf"
-tags: ["ERP", "Warehouse Management", "Inventory Control", "Software Documentation", "A+W Enterprise", "Goods Receipt", "Goods Issue", "Stock Management", "Master Data", "Technical Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive technical reference manual for the A+W Enterprise Lager (Warehouse) software module. This document details functionalities for warehouse bookings, master data administration, inventory management, and the information system, providing descriptions of dialogs, fields, and technical database information."
-long_description: "This document serves as an in-depth software reference guide for the A+W Enterprise Lager (Warehouse) module, a component of the A+W Enterprise ERP system. It is designed for users, administrators, and technical staff who manage warehouse and inventory operations. The manual is divided into several key sections: 'Lager-Buchungen' (Warehouse Bookings), 'Stammdatenverwaltung' (Master Data Management), 'Inventurverwaltung' (Inventory Management), and 'Informationssystem' (Information System). The 'Lager-Buchungen' section explains how to process various inventory movements, including goods receipt (Lagereingang), goods issue (Lagerausgang), and transactions specific to different storage types like crates (Kistenlager), racks (Fachlager), stacks (Stapellager), and frames (Gestelllager). It provides detailed descriptions of user interface dialogs, data fields, and keyboard shortcuts. The 'Stammdatenverwaltung' section covers the setup and maintenance of warehouse master data, such as defining warehouse spaces, storage types, and setting stock level parameters (minimum, alarm, maximum). The 'Inventurverwaltung' section guides users through the process of conducting physical inventory counts and valuations, explaining how to reconcile system stock with physical stock. The 'Informationssystem' section describes the various reporting and query tools available for monitoring warehouse data, including stock levels, transaction history, order status, and forecasting. Throughout the document, 'Technische Info' provides valuable context for developers and administrators, referencing specific database fields (e.g., wlbv.g_anz) and system logic. This guide is essential for ensuring accurate and efficient use of the A+W Enterprise Lager module."
+description: "A+W Enterprise Lager Software Reference"
 ---
+
 
 # Softwarereferenz
 

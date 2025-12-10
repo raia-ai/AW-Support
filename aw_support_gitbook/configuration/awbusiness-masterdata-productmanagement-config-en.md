@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Master_Data_9_6-4"
-source: "EN_AWBusiness_Master_Data_9_6-4.pdf"
-tags: ["A+W Business", "Master Data", "Product Management", "Software Reference", "Glass Manufacturing", "ERP", "Configuration", "Pattern", "Coating", "Glass Types"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a software reference guide for managing product-related master data within the A+W Business ERP system. It covers the configuration of patterns, coatings, glass types, and detailed product management settings."
-long_description: "This comprehensive software reference guide details the procedures for configuring product master data in the A+W Business software, a specialized ERP for the glass manufacturing industry. The document provides step-by-step instructions and explanations for various master data dialogs, accessible through the 'Master Data > Products' path. Key sections include defining 'Pattern' and its properties like price key and short name; 'Pattern Side' and 'Coating Side' for configuring surfaces of IG or laminated units; and 'Coating Type' to specify coating characteristics. It also covers the setup of 'Glass Type Groups' for production analysis and reporting. The guide explains how to manage 'Quality Text' to be printed on spacers, including basic settings and restrictions. Furthermore, it details the management of 'Declaration of Performance' templates and the creation of 'Exchange Groups' to control which articles can be substituted in BOMs. The core of the document is the 'Product Management' section, which breaks down the numerous tabs available for defining every aspect of a product, from basic article information, production parameters, pricing, stock management, bill of materials (BOM), and more. It serves as an essential resource for administrators and power users responsible for setting up and maintaining the product catalog in A+W Business."
+description: "EN_AWBusiness_Master_Data_9_6-4"
 ---
+
 
 ---
 ## Products

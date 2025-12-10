@@ -1,20 +1,7 @@
 ---
-title: "AW_Business_Pro_-_Mark_Longest_Edge_Version_1.01"
-source: "AW_Business_Pro_-_Mark_Longest_Edge_Version_1.01.docx"
-tags: ["AW Business Pro", "Mark Longest Edge", "business documentation", "procedures", "guidelines", "version 1.01", "operations", "reference", "SOP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This Markdown file is a structured conversion of the original DOCX document titled “AW_Business_Pro_-_Mark_Longest_Edge_Version_1.01.” It preserves the document’s headings, lists, and tables for reliable indexing in a vector store. Major sections include: A+W BUSINESS PRO - MARKING LONGEST EDGE ON PLANEDIT. The introduction begins: **A+W****BUSINESS PRO****-****MARK****LONGEST****EDGE**"
-long_description: "This file provides a faithful, UTF-8–cleaned Markdown reconstruction of the source document “AW_Business_Pro_-_Mark_Longest_Edge_Version_1.01.docx.” The conversion process preserves the document’s logical structure, including hierarchical headings, bullet and numbered lists with nesting, and any tabular data transformed into GitHub Flavored Markdown tables. The content order follows the original, enabling accurate search, retrieval, and chunking for embedding-based systems.
-
-Top-level sections identified in the document include: A+W BUSINESS PRO - MARKING LONGEST EDGE ON PLANEDIT.
-
-Where the original layout implied structure—through typography, spacing, or list formatting—this Markdown expresses that structure using ## and ### headers, standard list syntax, and tables. Duplicated lines were removed where appropriate, stray control characters were eliminated, and common mojibake sequences were normalized for consistency. Inline emphasis such as bold and italics were retained where possible to reflect emphasis or sub-section cues present in the DOCX.
-
-The resulting Markdown is intended for ingestion into OpenAI’s vector store or similar retrieval systems. By preserving semantic groupings and converting tables into machine-readable rows, this file supports fine-grained chunking, metadata tagging, and context-rich retrieval. It does not alter or interpret the substantive content of the original; rather, it provides a clean, standardized format that mirrors the source while being more interoperable with developer tooling and LLM pipelines.
-
-Note: If the original document included embedded images, shapes, or complex numbering schemes, they are represented here in plain Markdown as text, lists, or notes, which ensures portability while maintaining the core informational content."
+description: "AW_Business_Pro_-_Mark_Longest_Edge_Version_1.01"
 ---
+
 
 
 

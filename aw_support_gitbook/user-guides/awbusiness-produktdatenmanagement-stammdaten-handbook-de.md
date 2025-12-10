@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Stammdaten - Tutorial 1: Produktdaten, Preise, Lager"
-source: "D-HB-AWBusiness_3.pdf"
-tags: ["A+W Business", "ERP-Software", "Produktdatenmanagement", "Stammdaten", "Warengruppen", "Preisverwaltung", "Stücklisten", "Lagerverwaltung", "Fertigungssteuerung", "Glasindustrie"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "Dieses Tutorial bietet eine umfassende Anleitung zur Verwaltung von Produktdaten im A+W Business ERP-System. Es behandelt die Erstellung und Organisation von Produkten, Produktarten, Warengruppen und Stücklisten sowie die Konfiguration von Fertigungs- und Preisparametern."
-long_description: "Dieses Dokument ist ein detailliertes Tutorial zur Stammdatenverwaltung innerhalb der A+W Business Software, das sich primär an Anwender in der Glasindustrie richtet. Es führt schrittweise durch die Konfiguration von Produktdaten, die für den gesamten Geschäftsprozess von der Auftragserfassung über die Fertigung bis zur Preisberechnung grundlegend sind. Das Tutorial beginnt mit der Definition von Produkten, Produktarten, Produktgruppen und Warengruppen, einschließlich ihrer hierarchischen Organisation und deren Bedeutung für die Preis- und Rabattfindung. Es werden Konzepte wie Kombi- und Top-Warengruppen erläutert, die für Auswertungen und Statistiken relevant sind. Ein weiterer Schwerpunkt liegt auf der Erstellung und Verwaltung von Stücklisten für komplexe Produkte wie Isolierglaseinheiten. Dabei werden die Preis- und Produktionsrelevanz von Komponenten sowie Vererbungsmechanismen für Maße und Zuschläge erklärt. Das Dokument beschreibt zudem die Konfiguration von fertigungsrelevanten Daten, wie Maßzuschläge, Strukturen, Beschichtungen und Sprossenkonstruktionen. Es wird detailliert auf die verschiedenen Preis- und Mengeneinheiten sowie deren Anwendung eingegangen. Die Verwaltung von Preisen wird in einem eigenen Kapitel behandelt, das die Definition von Preislisten, Preisjahrgängen, Preisschlüsseln und Tarifen umfasst. Verschiedene Preismethoden wie Einzelpreisberechnung, ISO-Preise mit Austauschzuschlägen und die Berücksichtigung von Mindestmengen werden vorgestellt. Schließlich behandelt das Tutorial die Lagerverwaltung, einschließlich der Unterscheidung zwischen Lagermaßen und Lagerartikeln, der Definition von Beschaffungsarten und der Verwaltung von Produktvarianten wie Farben."
+description: "A+W Business Stammdaten - Tutorial 1: Produktdaten, Preise, Lager"
 ---
+
 
 # Tutorial 1: Produkt
 

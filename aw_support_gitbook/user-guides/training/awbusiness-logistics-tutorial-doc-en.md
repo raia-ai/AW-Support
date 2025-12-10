@@ -1,12 +1,7 @@
 ---
-title: "A+W Business Logistic Optimizer Tutorial and Software Reference"
-source: "EN_AWBusiness_LogisticsOptimizer_2_3.pdf"
-tags: ["logistics", "software", "tutorial", "route optimization", "tracking", "A+W", "ERP integration", "user manual", "software reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial and software reference guide for the A+W Business Logistic Optimizer. This document covers driving and tracking routes, using the mobile app, managing booking data, and system administration. It is intended for both drivers and administrators."
-long_description: "This document serves as a detailed manual for the A+W Business Logistic Optimizer, a software designed for managing and optimizing logistics routes. The first part is a tutorial aimed at drivers, explaining the entire process from logging in to the driver app, operating the app or browser interface, to booking data at each destination. It covers updating delivery statuses (Accepted, Rejected, etc.), capturing signatures, and managing packaging information. This section also details how administrators can perform live tracking of vehicles and view route progress. The second part is a software reference guide for administrators. It provides in-depth information on system queries, reporting, configuration, and administration. Key topics include filtering and exporting route data, creating statistical reports for cost analysis, configuring database connections (OTR and ERP), setting system-wide parameters for route calculation, and managing master data such as users, vehicles, customers, and departments."
+description: "A+W Business Logistic Optimizer Tutorial and Software Reference"
 ---
+
 
 # Tutorial
 

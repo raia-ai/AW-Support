@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W iQuote"
-category: "installation"
-product: "A+W iQuote"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W iQuote"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            iQuote – for A+W Business    Change history:      Date            Edited by        Remarks      2018-01-10      D.Langsdorf      Release version      2018-07-16      D.Langsdorf      Firewall TCP 1.3.2, 1.6      2019-05-06      D.Langsdorf      Further screenshots      2020-06-18      D.Langsdorf      Breaking Changes      2020-07-15      D.Langsdorf      Browser cache and content reload      2020-11-04      D. Langsdorf     Addition for HTTPS/SSL 1.5      20"
-source_file: "EN-INST-A+W iQuote.pdf"
+description: "EN INST A+W iQuote"
 ---
+
 
 
 # EN INST A+W iQuote

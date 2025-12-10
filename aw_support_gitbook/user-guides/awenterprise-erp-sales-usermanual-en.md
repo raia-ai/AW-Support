@@ -1,12 +1,7 @@
 ---
-title: "A+W Enterprise Sales and Purchasing User Manual"
-source: "EN-UM-AWEnterprise_16.pdf"
-tags: ["A+W Enterprise", "ERP", "Sales", "Purchasing", "Order Management", "Invoice", "Price Calculation", "Glass Manufacturing", "Windows and Doors", "User Manual"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This user manual provides detailed instructions for using the A+W Enterprise Sales and Purchasing modules. It is structured as a series of 'Help Cards' that guide users through specific tasks, including order item management, price calculations, invoicing, and procurement processes. It covers functionalities from editing suppliers and handling complex product configurations like shaped or stepped glass, to managing financial documents and integrating with CAD systems."
-long_description: "This comprehensive document serves as a user guide for the A+W Enterprise software, focusing on the Sales and Purchasing modules. It is designed to assist users in navigating and utilizing the system's extensive features for the glass, windows, and doors industry. The manual is organized into distinct sections, each addressing a core area of the software. The 'Order Item' section details procedures for creating and modifying order items, such as editing suppliers, exchanging glass types, inputting custom shapes, adding processing steps, and integrating with CAD (SN) files. It also covers specialized items like stepped glass and muntin structures. The 'Price Calculation' section explains how to manage and adjust pricing, including item conditions, article prices, discounts, and surcharges, as well as how to check production costs. The 'Invoice' section provides step-by-step workflows for creating, booking, printing, and sending invoices, both manually and automatically, including handling credit notes and configuring electronic invoicing. The 'A+W Enterprise Purchasing' module is covered in-depth, with its own detailed table of contents. It explains the entire procurement lifecycle, from creating purchase order proposals in the PO Pool, managing supplier inquiries, and entering purchase orders, to handling goods receipts, and processing supplier invoices. The manual's 'Help Card' format, complete with goals, requirements, and step-by-step workflow instructions, makes it a practical, task-oriented resource for both new and experienced users of the A+W Enterprise system."
+description: "A+W Enterprise Sales and Purchasing User Manual"
 ---
+
 
 ---
 ## Order item

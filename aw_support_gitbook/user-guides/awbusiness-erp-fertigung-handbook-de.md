@@ -1,12 +1,7 @@
 ---
-title: "D-HB-AWBusiness_25"
-source: "D-HB-AWBusiness_25.pdf"
-tags: ["A+W Business", "ERP", "Fertigung", "Lieferwesen", "Produktionsplanung", "Kommissionierung", "Gestellverwaltung", "Software-Tutorial", "Softwarereferenz"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a tutorial and software reference for the A+W Business Fertigung (Manufacturing) module, covering delivery organization, vehicle and driver management, picking, goods issue, and production planning."
-long_description: "This document serves as a comprehensive guide for the 'Fertigung' (Manufacturing) module of the A+W Business software. It is divided into two main parts: a tutorial and a software reference. The tutorial section provides step-by-step instructions on various processes within the manufacturing and logistics workflow. Key topics include organizing deliveries, creating and managing vehicles and drivers, assembling vehicle loads (Kommissionierung), printing driver lists, and creating schedule and capacity overviews. It also details additional functions like handling production orders, calculating freight costs, and managing the goods issue of crates. The tutorial is supplemented with exercises and references to more detailed information. The second part of the document is a detailed software reference, offering an in-depth look at the dialogs, menus, and settings for functionalities like production handover, barcode scanning, production data management, delivery services, rack management, and customs administration. This reference section acts as a technical manual for users who need to understand the specifics of each function and its configuration options within the A+W Business system."
+description: "D-HB-AWBusiness_25"
 ---
+
 
 # Tutorial: Lieferwesen
 

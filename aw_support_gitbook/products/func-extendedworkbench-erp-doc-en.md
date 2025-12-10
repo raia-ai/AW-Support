@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_Extended_Workbench"
-source: "EN-FUNC-AW_Enterprise_Extended_Workbench.pdf"
-tags: ["A+W Enterprise", "Extended Workbench", "Software for Glass", "ERP", "Production Management", "Functional Description", "Order Processing", "Outsourcing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the 'A+W Enterprise – Extended Workbench' module. This document outlines the module's purpose, which is to manage the outsourcing of individual processing steps for glass production to external partners, integrating this process seamlessly within the A+W Enterprise and A+W Production systems. It covers requirements, functions, restrictions, and necessary master data configurations."
-long_description: "This document provides a detailed functional description for the 'Extended Workbench' module for A+W Enterprise and A+W Production software, specifically for version 6.3 and higher. The module is designed for companies in the glass industry that need to outsource specific processing steps to an external processor. It facilitates the entire workflow, from triggering a correctly scheduled purchase order for the external service, organizing the transport of goods to and from the processor, and managing the goods receipt upon return. The key advantage is maintaining a single production order, which simplifies tracking and scheduling. The document details the requirements for implementation, including specific software versions and master data setups. It outlines the list of functions, restrictions in both A+W Enterprise (order entry) and A+W Production (scheduling), and the necessary master data adjustments for successful operation. It also includes legal disclaimers regarding software use, copyrights, and liability."
+description: "EN-FUNC-AW_Enterprise_Extended_Workbench"
 ---
+
 
 # A+W Enterprise – Extended Workbench
 **A+W - Software for Glass**

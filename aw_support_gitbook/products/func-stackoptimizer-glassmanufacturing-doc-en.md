@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Stack_Optimizer"
-source: "EN-FUNC-AW_Stack_Optimizer.pdf"
-tags: ["A+W", "Stack Optimizer", "Glass Manufacturing", "Software", "Functional Description", "Discontinued Product", "Production Planning", "Cutting Optimization"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Stack Optimizer, a software module for A+W Production. The software calculates the optimal size of glass stacks and the number of physical A-racks required after cutting, aiming for the best possible yield. The document outlines its performance, data requirements, functions, and limitations. Note: This product has been discontinued."
-long_description: "This functional description details the A+W Stack Optimizer, a discontinued software module (Module number 220032) designed to integrate with A+W Production 5.5 and later. The primary function of the optimizer was to assist in detailed production planning by calculating the ideal size of glass stacks and the necessary number of physical A-racks post-cutting. It used iterative procedures to determine the best configuration, balancing glass yield against the number of racks used. The system presented multiple solutions for each glass type/thickness combination, allowing users to select the optimal outcome based on their priorities (e.g., best yield vs. fewest racks). The document specifies the requirements, such as the mandatory presence of A+W Production and the need for maintained master data for cutting racks. It also lists the product's functions, including how it determines production sequences and ensures the breakout sequence aligns with the plan. Key limitations are noted, such as its applicability to only one rack type per batch and a restriction on insulated glass lites. Copyright, trademark, and liability disclaimers are also included."
+description: "EN-FUNC-AW_Stack_Optimizer"
 ---
+
 
 # A+W Functional Description
 # A+W Stack Optimizer

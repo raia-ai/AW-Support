@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Overview_5.21"
-source: "EN_AWBusiness_Overview_5.21.pdf"
-tags: ["A+W Business", "ERP", "Flat Glass Industry", "Software Documentation", "Order Processing", "Production Planning", "Stock Management", "Capacity Planning", "A+W Software GmbH"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a comprehensive overview of A+W Business, a modern ERP system designed for the flat glass, windows, and doors industry. It details the software's features, modular structure, and core capabilities, including master data management, order processing, production planning, stock management, and capacity planning. The guide is intended for end-users to understand the system's architecture, functionality, and how it integrates with other A+W applications to streamline business processes from sales and purchasing to production and dispatch."
-long_description: "This is an in-depth overview of the A+W Business software, an Enterprise Resource Planning (ERP) system from A+W Software GmbH, specifically tailored for the flat glass, windows, and doors manufacturing sector. The document serves as a user guide and technical reference, starting with an introduction that covers revision history, copyright information, and contact details. It then moves into a detailed tutorial section explaining the system's features, architecture, and modular structure. Key topics include master data management (products, partners, BOMs), document handling (quotations, orders, purchasing), and production control. It describes how A+W Business supports automated processes like credit limit checks, form printing, and data transfer to production systems. The document also covers advanced modules and integrations, such as A+W Business Pro (Production Manager), A+W Business Capacity Planner, A+W Discovery for business intelligence, and route optimization for shipping. It provides guidance on working with the software, including navigation, standard functions, and hotkeys. The document is designed to help end-users leverage the full scope of A+W Business to manage complex commercial and administrative processes efficiently, from initial quotation to final invoicing and analysis."
+description: "EN_AWBusiness_Overview_5.21"
 ---
+
 
 # A+W Business Overview
 

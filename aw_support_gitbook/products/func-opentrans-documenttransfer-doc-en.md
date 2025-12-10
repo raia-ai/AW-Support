@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Enterprise_openTRANS_Export"
-source: "EN-FUNC-AW_Enterprise_openTRANS_Export.pdf"
-tags: ["A+W", "openTRANS", "Document Transfer", "EDI", "Software", "Functional Description", "A+W Enterprise", "Data Export", "Format 2.1"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a functional description for the A+W Enterprise module (200024) that enables the export of business documents in the openTRANS 2.1 format. It details the module's capability to transfer quotations, invoices, credit notes, and delivery notices, facilitating standardized electronic data exchange between trading partners."
-long_description: "This functional description by A+W, a software provider for the glass industry, outlines the 'Document Transfer in openTRANS Format 2.1' module for their A+W Enterprise software. The module, identified by number 200024, is designed to support electronic data interchange (EDI) for business transactions. It allows users to export key business documents, including order confirmations, delivery notices, and invoices/credit notes, into the standardized openTRANS 2.1 format. The document specifies that the module is available starting with A+W Enterprise v6 and requires a corresponding version of A+W Enterprise B2B Service, along with an expansion of the transaction SQL. It lists the core functions, highlights restrictions such as documents not being electronically signed and certain document types not being supported, and notes that data mapping is described in separate documentation. The purpose is to provide customers and partners with a clear understanding of the module's capabilities, requirements, and limitations."
+description: "EN-FUNC-AW_Enterprise_openTRANS_Export"
 ---
+
 
 # Document Transfer in openTRANS Format 2.1
 

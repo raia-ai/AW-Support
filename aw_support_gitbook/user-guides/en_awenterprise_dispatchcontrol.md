@@ -1,15 +1,7 @@
 ---
-title: "EN AWEnterprise DispatchControl"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWEnterprise_DispatchControl"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Dispatch Control              G                                   deutsch                        A+W Enterprise                                                                                                             Introduction                                             Introduction                                         This part of the documentation contains editorial notes.                                           Revision Overview                                         Section"
-source_file: "EN_AWEnterprise_DispatchControl.pdf"
+description: "EN AWEnterprise DispatchControl"
 ---
+
 
 
 # EN AWEnterprise DispatchControl

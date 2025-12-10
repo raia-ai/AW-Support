@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AW_SmartCompanion-AWB"
-source: "DE-HB-AW_SmartCompanion-AWB.pdf"
-tags: ["A+W Smart Companion", "Handbuch", "Software", "Glass Manufacturing", "Window Production", "Door Manufacturing", "Barcode Scanning", "BDE", "Betriebsdatenerfassung", "Lagerverwaltung"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the German user manual for the 'A+W Smart Companion,' a mobile software application for operational data collection in the glass, window, and door manufacturing industries. It details the functionalities of the Production and Warehouse modules, guiding users on how to perform tasks like barcode scanning, status updates, and inventory management using a smartphone or Zebra scanner."
-long_description: "The 'A+W Smart Companion Handbuch' is a comprehensive guide for end-users of the A+W Smart Companion application. This software serves as a modern, mobile replacement for traditional barcode scanners in production and warehouse environments, specifically tailored for the glass, windows, and doors sector. The manual is structured into three main parts: Overview, Production, and Warehouse. The 'Overview' section introduces the software's basic, production, and warehouse licenses, explains hardware compatibility (iOS/Android smartphones and Zebra scanners), and details general user interface conventions, such as notification types and filter functions. The 'Production' module section provides step-by-step tutorials on logging in, navigating the main interface, booking production steps, reporting breakages, checking machine and order statuses, and managing rack information. The 'Warehouse' module section focuses on inventory management tasks, including booking incoming goods, managing stock movements, performing inventory counts, handling order-related and non-order-related stock removals, and editing crate contents. The manual is designed to be a practical tool, helping users to efficiently perform digital, paperless data collection and operational bookings directly on the shop floor."
+description: "DE-HB-AW_SmartCompanion-AWB"
 ---
+
 
 # A+W Smart Companion Handbuch
 

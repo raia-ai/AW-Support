@@ -1,12 +1,7 @@
 ---
-title: "EN_AWBusiness_Sales_4_1-3"
-source: "EN_AWBusiness_Sales_4_1-3.pdf"
-tags: ["A+W Business Sales", "order entry", "document management", "tutorial", "ERP", "item management", "BOM", "CAD integration", "pattern entry", "feasibility checks"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial section from the A+W Business Sales manual covering comprehensive document entry. It details procedures for deleting orders, entering and formatting text, attaching documents, and managing order items, including bills of material, shapes, and patterns."
-long_description: "This document is a detailed tutorial from the A+W Business Sales software manual, focusing on the 'Comprehensive Document Entry up to the Invoicing Stage.' It provides step-by-step instructions for various document and order management tasks. The guide begins with searching for and deleting orders, outlining the conditions and user rights required. It then moves to text entry, explaining how to add standard or new text to order headers, format it, and complete it with hyperlinks, images, or tables. The document also covers attaching external files to orders. A significant portion is dedicated to 'Order Items,' detailing objectives, benefits, and procedures for item entry. This includes an overview of the item entry dialog, feasibility checks, and the use of icons and buttons for various functions like BOM management, price calculation, and CAD integration. The tutorial explains how to manage products within an order item, including bills of material (BOM), fixed articles, shapes, grill patterns, and applying visual patterns to sheets. It provides instructions on integrating with A+W CAD Designer for custom grill patterns and describes the dialog structure for pattern entry."
+description: "EN_AWBusiness_Sales_4_1-3"
 ---
+
 
 # Tutorial: Comprehensive Document Entry up to the Invoicing Stage
 

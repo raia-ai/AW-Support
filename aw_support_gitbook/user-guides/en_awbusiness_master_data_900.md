@@ -1,15 +1,7 @@
 ---
-title: "EN AWBusiness Master Data 9.00"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["EN_AWBusiness_Master_Data_9.00"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Master Data            B                             English                   A+W Business                                                                                                              Introduction                                            Introduction                                        This part of the documentation contains editorial notes.                                          Revision overview                                        Section        Description"
-source_file: "EN_AWBusiness_Master_Data_9.00.pdf"
+description: "EN AWBusiness Master Data 9.00"
 ---
+
 
 
 # EN AWBusiness Master Data 9.00

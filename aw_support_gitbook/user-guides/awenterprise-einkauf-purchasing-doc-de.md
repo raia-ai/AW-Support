@@ -1,12 +1,7 @@
 ---
-title: "DE_AWEnterprise_Einkauf"
-source: "DE_AWEnterprise_Einkauf.pdf"
-tags: ["A+W Enterprise", "Einkauf", "Purchasing", "Software Manual", "ERP", "Glass Industry", "Windows", "Doors", "Bestellungen", "Wareneingang"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is the official user manual for the 'Einkauf' (Purchasing) module of the A+W Enterprise software. It provides a comprehensive guide to managing procurement processes for glass, windows, and doors."
-long_description: "This is a detailed technical reference manual for the A+W Enterprise 'Einkauf' (Purchasing) module, version 5.00 from December 2022. The document is intended for end-users and covers all aspects of the purchasing workflow within the software. It begins with an editorial section detailing revision history, copyright information, and contact details. The core of the manual, the 'Softwarereferenz,' offers a thorough overview of the module's functionalities. It explains how to manage purchase orders, supplier inquiries, goods receipts, and invoices. Key sections include detailed descriptions of the user interface, menu structures, search functions, and the 'Bestellpool' (order pool) for consolidating order proposals. The manual provides step-by-step instructions for creating and managing transactions, including order entry ('Bestellerfassung'), handling order items ('Bestellpositionen'), and the order release process ('Bestellfreigabe'). It also covers related processes such as goods receipt ('Wareneingang'), invoice and credit note management ('Rechnungen und Gutschriften'), and generating overviews and reports. The document is highly structured, with clear explanations of each dialog, field, and function, including technical information and system configurations. It serves as a complete guide for users to effectively manage their purchasing activities using A+W Enterprise."
+description: "DE_AWEnterprise_Einkauf"
 ---
+
 
 # A+W Einkauf E
 

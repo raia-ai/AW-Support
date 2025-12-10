@@ -1,15 +1,7 @@
 ---
-title: "Zebra TC20   Englisch"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["Zebra TC20 ", " Englisch"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Running a small business is hard work.   Finding the tool to help you run it better is easy.   The TC20 Mobile Computer The Right Looks. The Right Business Features. The Right Price.  You’re running a small business. And that means there’s so much to do...and so little time. Now, there’s a new small business tool that will help you do more — in less time. • Take inventory painlessly, at record speed. • Keep the items your customers want on the shelves of your store — instead of the backroo"
-source_file: "Zebra TC20 - Englisch.pdf"
+description: "Zebra TC20   Englisch"
 ---
+
 
 
 # Zebra TC20   Englisch

@@ -1,12 +1,7 @@
 ---
-title: "EN_UM_AWProduction_4"
-source: "EN_UM_AWProduction_4.pdf"
-tags: ["A+W Production", "Detailed Scheduling", "ERP", "Glass Manufacturing", "Optimization Modes", "Rack Management", "Production Sequence", "Software Tutorial", "Software Reference"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial and software reference guide for the A+W Production Detailed Scheduling module. It covers the configuration of racks, different optimization modes for production, and setting up organizational structures to manage the production flow."
-long_description: "This document is a comprehensive guide for the A+W Production Detailed Scheduling software, focusing on the \"Racks and Stacking Modes,\" \"Optimization Modes,\" and \"Organizations\" modules. It serves as both a tutorial with step-by-step exercises and a detailed software reference. The tutorial section walks users through defining different types of racks (Harp, Fixed), understanding various optimization modes (e.g., Fixed Sequence, Keep Customers Together, Standard), and their impact on production yield, sequence, and flexibility. The reference section provides an in-depth look at the system's architecture, including master organizations, production sequences, grouping/sorting rules, and the specific settings for different rack types and production scenarios (e.g., A Racks AIR, Harp Racks). It includes detailed descriptions of dialog boxes, fields, and options within the A+W Production software, aimed at enabling users to configure and adapt the scheduling system to their specific manufacturing needs, particularly in the glass industry."
+description: "EN_UM_AWProduction_4"
 ---
+
 
 # Tutorial
 

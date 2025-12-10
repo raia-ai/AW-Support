@@ -1,12 +1,7 @@
 ---
-title: "EN-AWProduction_Capacity_Planning_HC"
-source: "EN-AWProduction_Capacity_Planning_HC.pdf"
-tags: ["A+W Production", "Capacity Planning", "Help Cards", "Software Guide", "ERP", "Shift Management", "Cost Calculation", "Production Scheduling", "Machinery Groups", "Glass Manufacturing"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document provides a set of 'Help Cards' for the A+W Production Capacity Planning software. It offers step-by-step instructions for various functions, including managing shifts, defining non-working days, creating shift plans, calculating costs, and setting up machinery groups."
-long_description: "The A+W Capacity Planning Help Cards serve as a practical user guide for the A+W Production 2015 software, which is designed for the glass, windows, and doors industry. This document details the procedures for effectively managing and planning production capacity. It is structured into logical sections covering key areas such as Shifts, Shift Plans, Shift Rules, Shift Groups, Transition Times, Default Times, Campaigns, Reservations, Cost Calculation, Machinery Groups, Load Distribution, and Scheduling. Each section contains one or more 'Help Cards' that provide a clear objective, prerequisites, additional information, and a detailed workflow with corresponding screenshots from the user interface. This guide is intended for system administrators and production planners who are responsible for configuring and using the A+W Capacity Planning module to optimize production schedules, manage resources, and ensure efficient operations."
+description: "EN-AWProduction_Capacity_Planning_HC"
 ---
+
 
 # A+W Capacity Planning Help Cards
 

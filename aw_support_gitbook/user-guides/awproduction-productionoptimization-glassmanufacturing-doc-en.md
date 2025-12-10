@@ -1,12 +1,7 @@
 ---
-title: "EN_AWProduction_DynOpt"
-source: "EN_AWProduction_DynOpt.pdf"
-tags: ["A+W DynOpt", "Production Optimization", "Glass Manufacturing", "Dynamic Optimization", "Cutting Planning", "Buffer Management", "Software Tutorial", "A+W Software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A tutorial for the A+W DynOpt software, a dynamic optimization module for flat glass production. It covers the core concepts, from batch planning and cutting optimization to buffer management and handling rush orders."
-long_description: "This document is a comprehensive tutorial and user guide for A+W DynOpt, a software module designed for the dynamic optimization of flat glass production. The guide is intended for users responsible for work preparation and production flow management within A+W Production. It begins with an introduction to the concept of dynamic optimization, contrasting it with standard methods and highlighting its benefits in handling smaller lot sizes, wide product variants, and rush orders. The tutorial explains the core components of the DynOpt system, including the cutting tables, intermediate buffer system, and the A+W Realtime Optimizer. Key topics covered include cut planning, managing lot size conflicts, maximizing real yield, and the functionality of the dynamic time line for batch sequencing. The guide also details how to work with the A+W DynOpt Editor to import batches, prioritize jobs, and respond to production events like breakages. It explains the role of the 'Panorama' component in machine control and communication. The document provides step-by-step instructions for tasks such as prioritizing rush lites and changing batch priorities, making it an essential resource for optimizing production efficiency and material usage."
+description: "EN_AWProduction_DynOpt"
 ---
+
 
 # A+W DynOpt - Software for Glass, Windows and Doors
 

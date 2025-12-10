@@ -1,15 +1,7 @@
 ---
-title: "DE CAD Designer Bars"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["CAD_Designer_Bars"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Handbuch                     deutsch     CAD Designer (Bars)                                                                                                          Vorspann                                            Vorspann                                        In diesem Teil der Dokumentation finden Sie die editorischen Notizen.                                          Revisionsübersicht                                        Produkt                  Handbuch"
-source_file: "DE-CAD_Designer_Bars.pdf"
+description: "DE CAD Designer Bars"
 ---
+
 
 
 # DE CAD Designer Bars

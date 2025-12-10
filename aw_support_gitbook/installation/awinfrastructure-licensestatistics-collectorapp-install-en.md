@@ -1,12 +1,7 @@
 ---
-title: "EN-INST-AW_Infrastructure_License_Statistics_Collector"
-source: "EN-INST-AW_Infrastructure_License_Statistics_Collector.pdf"
-tags: ["A+W Software", "License Statistics", "Installation Guide", "Collector App", "Software Configuration", "Windows Server", "Technical Documentation"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "An installation manual for the A+W Infrastructure License Statistics Collector, a tool that collects and transmits license usage data from A+W products to A+W headquarters. It covers new installations, updates, configuration, and uninstallation procedures."
-long_description: "This document provides detailed installation instructions for the A+W Infrastructure License Statistics Collector application (Collector app). It is intended for system planners and administrators responsible for deploying A+W software. The manual covers requirements for a new installation of version 6, including time estimates, system prerequisites (A+W Infrastructure Service v6 Update 4, A+W License Server v6 Update 4), user permissions, and network connectivity to A+W servers. It details the step-by-step procedure for installation using the A+W SetupLauncher, configuring the Collector app, creating a dedicated user, and enabling the initial secure password exchange via the A+W Statistics Collector Web Tool. The guide also explains the process for updating the application, which involves a full uninstallation and re-installation, and provides instructions for complete uninstallation. An appendix explains the purpose of the app, the nature of the data transmitted, security measures like SSL encryption and password management, and the app's mode of operation."
+description: "EN-INST-AW_Infrastructure_License_Statistics_Collector"
 ---
+
 
 # Installation Instructions: A+W Infrastructure License Statistics Collector
 

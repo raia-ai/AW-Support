@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWEnterprise_6"
-source: "DE-HB-AWEnterprise_6.pdf"
-tags: ["A+W Enterprise", "Software Reference", "Master Data", "Field Configuration", "Pricing", "Commissions", "Technical Manual", "German", "ERP"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "This document is a segment of the A+W Enterprise software reference manual, focusing on master data configuration. It covers field configuration, commissions, text management, cost master data, and an extensive tutorial on prices and conditions."
-long_description: "This document serves as a detailed technical reference and tutorial for the A+W Enterprise software, specifically for modules related to master data management and pricing. The first part is a software reference for 'Stammdaten' (Master Data), covering Feldkonfiguration (Field Configuration) for market partners, articles, and processes; Provisionen (Commissions) including commission keys and assignments; Textverwaltung (Text Management) for generating dynamic and static texts; and Kostenstamm (Cost Master Data) for defining cost types, cost centers, and cost objects. The second, more extensive part is a comprehensive tutorial on 'Preise und Konditionen' (Prices and Conditions). This tutorial details the fundamentals of price determination, the setup of various price definitions (keys, logic, components), and the management of master data for prices, including matrices for insulating glass, price vectors, surcharges, and global price changes. It provides step-by-step workflows, examples, and exercises to guide users in configuring and managing the complex pricing and conditions system within A+W Enterprise."
+description: "DE-HB-AWEnterprise_6"
 ---
+
 
 # A+W Enterprise Stammdaten
 

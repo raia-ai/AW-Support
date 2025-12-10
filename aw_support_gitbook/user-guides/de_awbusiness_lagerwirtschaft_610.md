@@ -1,15 +1,7 @@
 ---
-title: "DE AWBusiness Lagerwirtschaft 6.10"
-category: "user_manuals"
-product: "Unknown"
-doc_type: "Unknown"
-language: "EN"
-tags: ["DE_AWBusiness_Lagerwirtschaft_6.10"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Lagerwirtschaft            G                                deutsch                       A+W Business                                                                                                                 Vorspann                                               Vorspann                                           In diesem Teil der Dokumentation finden Sie editorische Notizen.                                             Revisionsübersicht                                           Part"
-source_file: "DE_AWBusiness_Lagerwirtschaft_6.10.pdf"
+description: "DE AWBusiness Lagerwirtschaft 6.10"
 ---
+
 
 
 # DE AWBusiness Lagerwirtschaft 6.10

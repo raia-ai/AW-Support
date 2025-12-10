@@ -1,12 +1,7 @@
 ---
-title: "DE_AWBusiness_Verkauf_4_4"
-source: "DE_AWBusiness_Verkauf_4_4.pdf"
-tags: ["A+W Business", "ERP", "Sales Management", "Order Processing", "Tutorial", "Technical Manual", "German", "Bestellung", "Angebot", "FiBu"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial for the A+W Business Verkauf software, covering order management, purchasing, and data transfer. This guide details processes from modifying ordered items and submitting orders to managing supplier data and handling financial accounting integration."
-long_description: "This document is a detailed technical tutorial for the A+W Business Verkauf (Sales) module, part of the A+W Business ERP system. It provides step-by-step instructions for various sales and purchasing-related tasks. The guide begins with instructions on how to modify an existing ordered position, explaining that after an order is transferred, relevant data fields are locked but can be manually unlocked for correction. It then covers the process of transferring an order to the purchasing department, using the 'Bestellpool' (order pool) to manage and review orders before they are finalized. The manual explains how to change delivery dates, select different suppliers, and compare supplier prices directly within the order pool. It also addresses how to change procurement types and suppliers for orders within a number manager. A significant portion is dedicated to the 'Bestellungen' (Orders) section, which differentiates between referenced orders (created from a customer order) and independent stock orders. It details how to view and manage these orders, including their document headers and item details. The tutorial also covers the creation and management of 'Angebote' (quotes), including how to create alternative positions and entire alternative quotes to offer customers different options. It explains the quote follow-up process using a 'Wiedervorlage' (reminder) system and how to analyze quote success rates through the 'Angebotsstatistik' (quote statistics) feature. Finally, the document details the 'Datenübergabe' (data transfer) process, including transferring invoice data to financial accounting (FiBu) systems, transferring data for statistical analysis, and archiving old documents to maintain system performance. It also touches on additional functions like importing customer orders via EDI and document monitoring."
+description: "DE_AWBusiness_Verkauf_4_4"
 ---
+
 
 # Tutorial: Bestellung
 

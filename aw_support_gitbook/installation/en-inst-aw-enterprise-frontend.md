@@ -1,15 +1,7 @@
 ---
-title: "EN INST A+W Enterprise Frontend"
-category: "installation"
-product: "A+W Enterprise Frontend"
-doc_type: "Installation"
-language: "EN"
-tags: ["INST", "A+W Enterprise Frontend"]
-version: "1.0"
-last_updated: "2025-12-10"
-description: "Installation Instructions            A+W Enterprise 6 Frontend    Change history:      Date           Edited by                Remarks                                    Version     16.04.18       MP                       Creation                                   1.0     16.05.31       MP                       SSH proxy                                  1.1     16.12.13       MP                       AutoUpdate                                 1.2     21.02.20       TSC"
-source_file: "EN-INST-A+W Enterprise Frontend.pdf"
+description: "EN INST A+W Enterprise Frontend"
 ---
+
 
 
 # EN INST A+W Enterprise Frontend

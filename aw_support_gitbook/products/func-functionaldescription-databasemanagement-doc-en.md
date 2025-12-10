@@ -1,12 +1,7 @@
 ---
-title: "EN-FUNC-AW_Customizing_Manager"
-source: "EN-FUNC-AW_Customizing_Manager.pdf"
-tags: ["A+W Customizing Manager", "software", "functional description", "database management", "version control", "Informix", "A+W Software", "glass industry software"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Customizing Manager, a tool for managing and distributing user-defined objects like reports, scripts, and saved procedures across various A+W software systems. It outlines the tool's purpose, requirements, functions, and restrictions."
-long_description: "This document provides a detailed functional description of the A+W Customizing Manager. The tool is designed to help users manage and distribute customized objects such as reports, scripts, and database procedures (views, functions) across multiple systems and locations. It facilitates version tracing and ensures consistency of customer-specific objects on all connected systems, including A+W Enterprise, A+W Business, and A+W Production. The description covers the product's data, a brief overview, and its availability. It details the technical requirements for installation and operation, such as the need for a Windows server, an Informix database, and specific drivers. The document lists the core functions, including version tracing, object assignment, and distribution capabilities. It also specifies the types of objects and environments supported. Finally, it outlines the operational restrictions, such as the requirement for a separate Informix database license and single-user access. Contact information for A+W Software GmbH is also provided."
+description: "EN-FUNC-AW_Customizing_Manager"
 ---
+
 
 # A+W Functional Description
 # A+W Customizing Manager

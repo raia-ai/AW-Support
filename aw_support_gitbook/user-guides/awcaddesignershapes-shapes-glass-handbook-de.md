@@ -1,12 +1,7 @@
 ---
-title: "DE-HB-AWCADDesignerShapes_4"
-source: "DE-HB-AWCADDesignerShapes_4.pdf"
-tags: ["A+W CAD Designer", "Shapes", "Software Manual", "Technical Documentation", "Glass", "Windows", "Doors", "CAD", "Germany", "Deutsch"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A detailed software reference guide for A+W CAD Designer (Shapes), a program for the glass, windows, and doors industry. It covers basic operation, file management, product design, and other core functionalities."
-long_description: "This document serves as a comprehensive software reference manual for the A+W CAD Designer (Shapes) application. Specifically tailored for the glass, windows, and doors industry, it provides users with a complete overview of the software's features and operations. The manual begins with an introduction to the user interface, defining key software terms like buttons, hotkeys, and dialog boxes. It then delves into core functionalities, including detailed instructions on file management (opening, saving, importing/exporting formats like DXF, IGES, etc.), using the clipboard, and designing a product from scratch. Subsequent sections cover technology-specific processing, controlling CNC machines, working with parts lists (Stücklisten), transforming contours, and managing different views. The guide is structured logically, with clear headings, tables of keyboard shortcuts, and illustrations to aid understanding, making it an essential resource for both new and experienced users of A+W CAD Designer."
+description: "DE-HB-AWCADDesignerShapes_4"
 ---
+
 
 # A+W CAD Designer (Shapes) Überblick
 

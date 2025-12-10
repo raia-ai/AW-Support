@@ -1,12 +1,7 @@
 ---
-title: "EN-UM-AWBusiness_2"
-source: "EN-UM-AWBusiness_2.pdf"
-tags: ["Customer Data", "Master Data", "A+W Business", "ERP", "Order Management", "Sales Invoice", "Finance", "Credit Limit", "Supplier Data", "Product Data"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A comprehensive tutorial on managing customer, supplier, and product master data within the A+W Business software. It covers address data, order settings, financial configurations, and production details."
-long_description: "This document serves as a detailed tutorial for the A+W Business software, focusing on the setup and maintenance of core master data. It is divided into several key areas. The 'Customer Data' section explains how to manage address information, customer groups, routes, and delivery terms. It then delves into 'Order and Sales Invoice' settings, covering order priorities, invoicing rules for collective, monthly, and partial invoices, and rounding. The 'Finances and Balance' section details payment terms, due date calculations, credit limits, and currency management, including how to handle different financial scenarios and check customer credit status. The tutorial also provides guidance on managing 'Employees and Subsidiaries' as alternative addresses or contacts. Further sections explain how to use 'Text' modules and 'Classifiers' for enhanced data management and analysis. The document then shifts to 'Supplier Data', outlining the specific fields and processes for managing suppliers, which largely mirror the customer data setup but with some key differences. Finally, the 'Product Data' section introduces product management, explaining how to define products, product types, groups, and structures (BOMs), which are essential for pricing, production, and purchasing. The tutorial includes step-by-step instructions, screenshots, and examples to guide the user through various configuration dialogs in the software."
+description: "EN-UM-AWBusiness_2"
 ---
+
 
 # Tutorial 1: Customer Data
 

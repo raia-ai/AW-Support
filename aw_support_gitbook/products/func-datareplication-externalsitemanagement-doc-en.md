@@ -1,12 +1,7 @@
 ---
-title: "A+W Business - External Site Capability and Replication"
-source: "EN-FUNC-AW_Business_Replication.pdf"
-tags: ["A+W Business", "Data Replication", "External Site Management", "Master Data Management", "ERP", "Software for Glass", "EDI", "Database Replication"]
-version: "1.0"
-last_updated: "2025-10-03"
-short_description: "A functional description of the A+W Business module for external site capability and master data replication. This document outlines how to manage multiple business units with separate databases while maintaining central control over master data like customers, items, and prices, which are replicated from a master database to slave databases."
-long_description: "This document provides a detailed functional description of the 'External Site Capability and Replication' feature for A+W Business and A+W Business Pro software. It is intended for users and administrators to understand the capabilities, requirements, and limitations of managing a multi-site corporate structure. The core functionality involves using separate databases for different operations or profit centers, with a central master database for managing key data (customers, items, prices, etc.). This master data is then synchronized to the individual site (slave) databases via a replication process. The document covers the technical requirements, including necessary modules for EDI communication and group statistics. It details the list of functions, such as the replication mechanism using database triggers and jobs, handling of local vs. central data, inter-site order processing via EDI, and the aggregation of statistics. Finally, it outlines important limitations, such as the inability to merge disparate data sets, the need for identical database schemas, and restrictions on data deletion through replication."
+description: "A+W Business - External Site Capability and Replication"
 ---
+
 
 # A+W Functional Description: A+W Business - External Site Capability and Replication
 
